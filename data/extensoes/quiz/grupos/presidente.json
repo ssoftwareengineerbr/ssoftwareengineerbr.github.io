@@ -1,0 +1,648 @@
+{
+ "cargo": "presidente",
+ "temas": {
+  "saude": [
+   {
+    "id": "g0",
+    "texto": "Fila única e digital, organizada pela gravidade do caso",
+    "simples": "Uma fila única no SUS, que dá para acompanhar pelo celular, em que os casos mais graves são atendidos primeiro",
+    "itens": [
+     "13.0",
+     "14.0",
+     "22.0",
+     "27.1",
+     "35.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Resolver mais casos nos postos, com telemedicina e IA",
+    "simples": "Resolver mais problemas no posto de saúde, com consultas por vídeo e o computador ajudando o médico",
+    "itens": [
+     "14.1",
+     "27.0",
+     "70.0",
+     "70.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Comprar vagas da rede privada e abrir espaço para planos",
+    "simples": "O governo pagar hospitais particulares para atender pacientes do SUS e facilitar planos de saúde mais simples",
+    "itens": [
+     "22.1",
+     "30.0",
+     "30.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Ampliar a oferta: remédios, hospitais, médicos e câncer",
+    "simples": "Mais remédios de graça, mais hospitais e médicos, e tratamento de câncer mais rápido",
+    "itens": [
+     "13.1",
+     "29.0",
+     "55.1",
+     "35.1"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Saúde 100% estatal, sem gestão ou planos privados",
+    "simples": "Toda a saúde administrada só pelo governo, sem empresas e sem planos de saúde",
+    "itens": [
+     "16.0",
+     "21.0",
+     "80.0"
+    ]
+   }
+  ],
+  "educacao": [
+   {
+    "id": "g0",
+    "texto": "Alfabetizar todas as crianças na idade certa, com metas",
+    "simples": "Garantir que toda criança aprenda a ler e escrever cedo, com metas para as escolas",
+    "itens": [
+     "13.0",
+     "14.0",
+     "22.0",
+     "27.0",
+     "30.0",
+     "35.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Mais tempo integral, ensino técnico e apoio ao aluno",
+    "simples": "Mais escolas em tempo integral, cursos técnicos e ajuda para o aluno não largar os estudos",
+    "itens": [
+     "13.1",
+     "70.0",
+     "70.1",
+     "35.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Mais exigência e mérito, com fim da aprovação automática",
+    "simples": "Escola mais exigente: o aluno só passa de ano se aprender",
+    "itens": [
+     "14.1",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Mais escolas cívico-militares, vouchers ou ensino em casa",
+    "simples": "Mais escolas com disciplina militar, ajuda para pagar escola particular ou estudar em casa",
+    "itens": [
+     "22.1",
+     "30.1"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Ensino 100% público, sem vestibular e sem militarização",
+    "simples": "Escola e faculdade só públicas, entrada na faculdade sem vestibular e sem escolas militares",
+    "itens": [
+     "16.0",
+     "21.0",
+     "21.1",
+     "29.0",
+     "80.0"
+    ]
+   }
+  ],
+  "seguranca": [
+   {
+    "id": "g0",
+    "texto": "Tratar facções como terrorismo, com penas duras e presídios de segurança máxima",
+    "simples": "Punir facções criminosas como terroristas, com penas mais duras e presídios mais rígidos",
+    "itens": [
+     "14.0",
+     "14.1",
+     "22.0",
+     "22.1",
+     "30.0",
+     "30.1",
+     "35.1",
+     "55.0",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Seguir o dinheiro das facções e isolar seus líderes",
+    "simples": "Investigar e bloquear o dinheiro do crime e cortar o contato dos chefes que estão presos",
+    "itens": [
+     "13.1",
+     "27.0",
+     "35.0",
+     "16.1",
+     "70.2"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Coordenar as polícias com um Ministério da Segurança e prevenção",
+    "simples": "Criar um ministério só para organizar as polícias do país e investir em prevenção",
+    "itens": [
+     "13.0",
+     "70.0",
+     "70.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Desmilitarizar as polícias e mudar a política de drogas",
+    "simples": "Tirar o jeito militar das polícias e mudar a forma como o país lida com as drogas",
+    "itens": [
+     "16.0",
+     "21.0",
+     "21.1",
+     "29.0",
+     "80.0"
+    ]
+   }
+  ],
+  "trabalho": [
+   {
+    "id": "g0",
+    "texto": "Reduzir a jornada, acabar com a escala 6x1 e aumentar o salário mínimo",
+    "simples": "Trabalhar menos horas por semana, acabar com a escala de 6 dias de trabalho para 1 de folga e aumentar o salário mínimo",
+    "itens": [
+     "13.0",
+     "13.1",
+     "16.0",
+     "21.0",
+     "29.0",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Flexibilizar a CLT e baratear a contratação",
+    "simples": "Mudar as leis trabalhistas para ficar mais fácil e mais barato contratar",
+    "itens": [
+     "14.0",
+     "22.0",
+     "22.1",
+     "30.0",
+     "30.1",
+     "35.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Qualificação profissional, crédito e empreendedorismo",
+    "simples": "Cursos para arrumar emprego, empréstimos e apoio para quem quer abrir o próprio negócio",
+    "itens": [
+     "27.0",
+     "55.1",
+     "70.0",
+     "35.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Revogar as reformas trabalhista e da Previdência",
+    "simples": "Desfazer as mudanças recentes nas leis do trabalho e nas regras de aposentadoria",
+    "itens": [
+     "21.1",
+     "16.1",
+     "80.1"
+    ]
+   }
+  ],
+  "renda": [
+   {
+    "id": "g0",
+    "texto": "Manter ou ampliar o Bolsa Família e os programas atuais",
+    "simples": "Manter ou aumentar o Bolsa Família e as outras ajudas do governo que já existem",
+    "itens": [
+     "13.0",
+     "13.1",
+     "22.0",
+     "55.0",
+     "70.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Ligar o benefício ao trabalho, com regras de saída",
+    "simples": "Ajuda do governo ligada a procurar emprego, com regras para a pessoa sair do programa",
+    "itens": [
+     "14.0",
+     "30.0",
+     "30.1",
+     "55.1",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Benefícios de ao menos um salário mínimo e mais apoio direto",
+    "simples": "Ajuda de pelo menos um salário mínimo e mais apoio direto, como comida barata e perdão de dívidas",
+    "itens": [
+     "16.0",
+     "21.0",
+     "21.1",
+     "29.0",
+     "29.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Mais controle: reajuste pela inflação e regras de uso do benefício",
+    "simples": "Mais controle sobre as ajudas: aumento só pela inflação e regras sobre como o dinheiro pode ser usado",
+    "itens": [
+     "14.1",
+     "22.1"
+    ]
+   }
+  ],
+  "impostos": [
+   {
+    "id": "g0",
+    "texto": "Cobrar mais dos mais ricos e isentar quem ganha menos",
+    "simples": "Os mais ricos pagarem mais imposto e quem ganha pouco deixar de pagar imposto de renda",
+    "itens": [
+     "13.0",
+     "16.0",
+     "16.1",
+     "21.0",
+     "29.0",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Reduzir impostos e a carga tributária",
+    "simples": "Diminuir os impostos que todo mundo paga",
+    "itens": [
+     "22.0",
+     "22.1",
+     "30.0",
+     "35.1",
+     "55.0",
+     "70.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Rever e cortar benefícios fiscais",
+    "simples": "Acabar com descontos de imposto dados a algumas empresas e setores",
+    "itens": [
+     "14.0",
+     "27.0",
+     "55.1",
+     "16.2"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Simplificar a cobrança de impostos",
+    "simples": "Deixar os impostos mais simples de entender e de pagar",
+    "itens": [
+     "13.1",
+     "30.1",
+     "35.0",
+     "70.2"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Mais recursos para regiões e municípios",
+    "simples": "Mais dinheiro e incentivos para as cidades e as regiões",
+    "itens": [
+     "14.1",
+     "70.1"
+    ]
+   }
+  ],
+  "estado": [
+   {
+    "id": "g0",
+    "texto": "Estado indutor da economia, sem privatizações",
+    "simples": "O governo investir para a economia crescer, sem vender empresas públicas",
+    "itens": [
+     "13.0",
+     "13.1",
+     "29.0",
+     "70.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Estatizar bancos e setores estratégicos",
+    "simples": "O governo passar a ser dono de bancos e de empresas de setores importantes",
+    "itens": [
+     "16.0",
+     "21.0",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Enxugar o Estado e privatizar estatais",
+    "simples": "Um governo menor, que gasta menos e vende empresas públicas",
+    "itens": [
+     "14.0",
+     "22.0",
+     "22.1",
+     "30.0",
+     "30.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Gestão por metas públicas e transparência",
+    "simples": "Governo com metas públicas e contas abertas para todo mundo acompanhar",
+    "itens": [
+     "27.0",
+     "35.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Mudar regras do sistema político",
+    "simples": "Mudar as regras da política, como acabar com a reeleição ou fazer uma nova Constituição",
+    "itens": [
+     "21.1",
+     "55.1",
+     "70.0"
+    ]
+   }
+  ],
+  "ambiente": [
+   {
+    "id": "g0",
+    "texto": "Combater o desmatamento com satélite e rastreamento",
+    "simples": "Vigiar as florestas por satélite e rastrear produtos para acabar com o desmatamento",
+    "itens": [
+     "13.0",
+     "22.0",
+     "30.1",
+     "35.0",
+     "55.1",
+     "70.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Licenciamento ambiental mais rápido e com prazos",
+    "simples": "Liberar mais rápido as autorizações ambientais para obras e empresas",
+    "itens": [
+     "14.0",
+     "22.1",
+     "30.0",
+     "55.0",
+     "35.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Metas climáticas e energia limpa",
+    "simples": "Metas contra o aquecimento global e mais energia limpa, como a solar e a do vento",
+    "itens": [
+     "13.1",
+     "70.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Mais restrições: contra novo petróleo, agrotóxicos e com Código Florestal mais rígido",
+    "simples": "Regras ambientais mais duras: sem novos poços de petróleo, menos agrotóxicos e mais proteção das florestas",
+    "itens": [
+     "16.0",
+     "21.0",
+     "80.0"
+    ]
+   }
+  ],
+  "externa": [
+   {
+    "id": "g0",
+    "texto": "Fortalecer o BRICS e a integração sul-americana",
+    "simples": "Aproximar o Brasil de países como China, Índia e África do Sul, e dos vizinhos da América do Sul",
+    "itens": [
+     "13.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Pragmatismo: comércio com todos, sem alinhamento automático",
+    "simples": "Fazer negócios com todos os países, sem escolher um lado",
+    "itens": [
+     "14.0",
+     "30.1",
+     "35.0",
+     "55.0",
+     "55.1",
+     "70.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Aproximar-se dos EUA e entrar na OCDE",
+    "simples": "Aproximar o Brasil dos Estados Unidos e entrar num clube de países ricos (a OCDE)",
+    "itens": [
+     "22.0",
+     "22.1",
+     "30.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Romper com potências e alianças tradicionais e defender governos de esquerda",
+    "simples": "Romper com as grandes potências e alianças atuais e apoiar governos de esquerda",
+    "itens": [
+     "16.0",
+     "21.0",
+     "29.0",
+     "80.0"
+    ]
+   }
+  ]
+ },
+ "opostos": {
+  "saude": [
+   [
+    "g2",
+    "g4"
+   ]
+  ],
+  "educacao": [
+   [
+    "g3",
+    "g4"
+   ]
+  ],
+  "seguranca": [
+   [
+    "g0",
+    "g3"
+   ]
+  ],
+  "trabalho": [
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g3",
+    "g1"
+   ]
+  ],
+  "estado": [
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "ambiente": [
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "externa": [
+   [
+    "g2",
+    "g3"
+   ]
+  ]
+ },
+ "dilemas": {
+  "saude": [
+   [
+    "g2",
+    "g4"
+   ],
+   [
+    "g0",
+    "g4"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "educacao": [
+   [
+    "g3",
+    "g4"
+   ],
+   [
+    "g0",
+    "g4"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "seguranca": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g2",
+    "g3"
+   ]
+  ],
+  "trabalho": [
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ],
+  "renda": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g0",
+    "g1"
+   ]
+  ],
+  "impostos": [
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g0",
+    "g4"
+   ]
+  ],
+  "estado": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "ambiente": [
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "externa": [
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ]
+ }
+}

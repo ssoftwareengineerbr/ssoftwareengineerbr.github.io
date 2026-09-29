@@ -1,0 +1,685 @@
+[
+ {
+  "numero": "10",
+  "nome": "Tarcísio",
+  "partido": "REPUBLICANOS",
+  "vice": "Felicio Ramuth (MDB)",
+  "idade": "51 anos",
+  "coligacao": "Coragem Para Seguir Avançando (Republicanos, PL, MDB, Democrata, Avante, PSD, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Governador de São Paulo desde 2023; tenta a reeleição",
+   "Ministro da Infraestrutura (2019–2022)",
+   "Engenheiro e ex-militar do Exército"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Engenharia (declarado ao TSE)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Oficial do Exército; engenheiro",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Diretor-geral do Dnit",
+     "ano": "2014–2015"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro da Infraestrutura do governo Bolsonaro",
+     "ano": "2019–2022",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de São Paulo",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2022 no 2º turno, na primeira eleição que disputou. A privatização da Sabesp foi a principal medida da gestão.",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     },
+     "metricas": [
+      {
+       "indicador": "Homicídios dolosos",
+       "antes": "3ª queda anual seguida",
+       "depois": "5,46 por 100 mil em 2025, menor taxa desde 2001",
+       "fonte": {
+        "titulo": "Folhapress (via Jornal de Brasília): homicídios caem e letalidade policial sobe em SP em 2025",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Roubos",
+       "valor": "em queda em 2025",
+       "fonte": {
+        "titulo": "Folhapress (via Jornal de Brasília): homicídios caem e letalidade policial sobe em SP em 2025",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Mortes causadas por policiais",
+       "antes": "813 em 2024",
+       "depois": "834 em 2025, 3º aumento anual seguido",
+       "fonte": {
+        "titulo": "Folhapress (via Jornal de Brasília): homicídios caem e letalidade policial sobe em SP em 2025",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Alfabetização na idade certa (rede pública)",
+       "valor": "61% das crianças em 2025",
+       "fonte": {
+        "titulo": "Gazeta do Povo: planos de Tarcísio e Haddad comparados",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/planos-governo-tarcisio-haddad-seguranca/"
+       },
+       "procedencia": "imp"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "5,46",
+     "rotulo": "Homicídios por 100 mil em 2025, menor desde 2001",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "834",
+     "rotulo": "Mortes causadas por policiais em 2025 (3º aumento seguido)",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   },
+   {
+    "titulo": "Gazeta do Povo: planos de Tarcísio e Haddad comparados",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/planos-governo-tarcisio-haddad-seguranca/"
+   },
+   {
+    "titulo": "Diário do Estado de SP: privatizações nos planos (com base no Metrópoles)",
+    "url": "https://diarioesp.com.br/sao-paulo/2026/09/24/candidatos-a-governador-de-sp-divergem-sobre-privatizacoes-em-planos-entregues-ao-tse.html"
+   },
+   {
+    "titulo": "Folhapress (via Jornal de Brasília): homicídios caem e letalidade policial sobe em SP em 2025",
+    "url": "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 51,
+   "patrimonio": 2696808.4,
+   "concorreu2022": true,
+   "patrimonio2022": 2342161.77,
+   "redes": [
+    "https://www.facebook.com/tarcisiogdf",
+    "https://www.instagram.com/tarcisiogdf",
+    "https://www.kwai.com/@tarcisiogdf.oficial",
+    "https://www.threads.com/@tarcisiogdf",
+    "https://www.tiktok.com/@tarcisiogdf",
+    "https://www.youtube.com/@tarcisiogdf"
+   ],
+   "financas": {
+    "fefc": 12290000.0,
+    "fundoPartidario": 1509000.0,
+    "pessoasFisicas": 10608415.29,
+    "arrecadado": 24407415.29,
+    "contratado": 24972089.2,
+    "pago": 18696647.7,
+    "limite": 26683209.24,
+    "doadoresPF": 148,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "68",
+   "propostas": "10 eixos",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Parcial",
+   "observacao": "Lista realizações da gestão e apresenta parte das propostas como continuidade de programas em curso."
+  },
+  "propostas": {
+   "seguranca": [
+    "Transformar o Centro de Comando e Controle em SP CIN, integrando forças de segurança, ocorrências e chamadas ao 190.",
+    "Ampliar em 30% o programa Muralha Paulista e criar um fundo para agilizar o congelamento de contas do crime organizado."
+   ],
+   "saude": [
+    "Aumentar em 40% os teleatendimentos pelo programa SP Inova Saúde."
+   ],
+   "educacao": [
+    "Programa Alfabetiza Juntos SP: chegar a 90% das crianças alfabetizadas até 2030 (61% em 2025)."
+   ],
+   "gestao": [
+    "Manter a desestatização da Sabesp e continuar as concessões.",
+    "Supercomputador Paulista para integrar dados do estado e hubs regionais de inovação."
+   ],
+   "infra": [
+    "Continuar as obras de rodovias e trilhos.",
+    "Eixo de sustentabilidade com investimentos em resiliência urbana."
+   ]
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Fernando Haddad",
+  "partido": "PT",
+  "vice": "Márcio França (PSB)",
+  "idade": "63 anos",
+  "coligacao": "Desperta São Paulo (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ministro da Fazenda (2023–2026)",
+   "Prefeito de São Paulo (2013–2016)",
+   "Ministro da Educação (2005–2012)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro da Educação",
+     "ano": "2005–2012",
+     "fonte": {
+      "titulo": "J.Press: trajetória e propostas de Fernando Haddad",
+      "url": "https://jornalismojunior.com.br/eleicoes-2026-conheca-as-propostas-de-fernando-haddad-candidato-a-governador-de-sao-paulo-pelo-pt/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de São Paulo",
+     "inicio": 2013,
+     "fim": 2016,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2012; não se reelegeu em 2016.",
+     "fonte": {
+      "titulo": "J.Press: trajetória e propostas de Fernando Haddad",
+      "url": "https://jornalismojunior.com.br/eleicoes-2026-conheca-as-propostas-de-fernando-haddad-candidato-a-governador-de-sao-paulo-pelo-pt/"
+     },
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a presidente: derrotado no 2º turno",
+     "ano": "2018"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador de SP: derrotado no 2º turno por Tarcísio",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro da Fazenda; deixou o cargo para concorrer",
+     "ano": "2023–2026",
+     "fonte": {
+      "titulo": "J.Press: trajetória e propostas de Fernando Haddad",
+      "url": "https://jornalismojunior.com.br/eleicoes-2026-conheca-as-propostas-de-fernando-haddad-candidato-a-governador-de-sao-paulo-pelo-pt/"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "2013–2016",
+     "rotulo": "Prefeito de São Paulo",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   },
+   {
+    "titulo": "Gazeta do Povo: planos de Tarcísio e Haddad comparados",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/planos-governo-tarcisio-haddad-seguranca/"
+   },
+   {
+    "titulo": "J.Press: trajetória e propostas de Fernando Haddad",
+    "url": "https://jornalismojunior.com.br/eleicoes-2026-conheca-as-propostas-de-fernando-haddad-candidato-a-governador-de-sao-paulo-pelo-pt/"
+   },
+   {
+    "titulo": "Metrópoles: propostas para mobilidade em SP",
+    "url": "https://www.metropoles.com/sao-paulo/veja-as-propostas-dos-candidatos-ao-governo-de-sao-paulo-para-a-mobilidade"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 63,
+   "patrimonio": 861217.25,
+   "redes": [
+    "https://web.facebook.com/fernandohaddad",
+    "https://www.instagram.com/fernandohaddadoficial",
+    "https://www.kwai.com/@haddadfernando",
+    "https://www.threads.com/@fernandohaddadoficial",
+    "https://www.tiktok.com/@haddadfernando",
+    "https://www.youtube.com/@fernandohaddadoficial"
+   ],
+   "financas": {
+    "fefc": 19058962.77,
+    "partido": 20000.0,
+    "pessoasFisicas": 134200.0,
+    "arrecadado": 19213162.77,
+    "contratado": 13963185.63,
+    "pago": 13638285.63,
+    "limite": 26683209.24,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "15",
+   "propostas": "6 eixos",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": "O documento registrado reúne diretrizes; a campanha divulga os planos de cada área em separado."
+  },
+  "propostas": {
+   "seguranca": [
+    "SP Protege com Impunidade Zero: separar presos por facção, cortar comunicações nas cadeias e ampliar as investigações da Polícia Civil.",
+    "Placar da Segurança com índices de esclarecimento de crimes divulgados a cada trimestre; câmeras corporais com gravação contínua.",
+    "Delegacias da Mulher 24 horas nas regiões de maior demanda."
+   ],
+   "saude": [
+    "Aplicativo Meu SUS Digital, com histórico clínico unificado, fila consultável pelo CPF e telessaúde."
+   ],
+   "educacao": [
+    "Valorizar os professores para elevar a alfabetização, que o plano aponta abaixo da média nacional."
+   ],
+   "gestao": [
+    "Sem novas privatizações; ampliar a fiscalização das concessionárias, com multas quando os serviços falharem."
+   ],
+   "infra": [
+    "Expandir o transporte sobre trilhos e integrar os modais.",
+    "Universalizar o saneamento."
+   ]
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Vera Lúcia",
+  "partido": "PSTU",
+  "vice": "Renata França (PSTU)",
+  "idade": "59 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Militante do PSTU; 11ª eleição que disputa, nunca eleita",
+   "Candidata a presidente em 2018 e 2022"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Disputou dez eleições antes desta, sem se eleger",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Sociólogo",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 8805.0,
+   "redes": [
+    "https://www.instagram.com/vera_pstu",
+    "https://www.youtube.com/@verapstu"
+   ],
+   "financas": {
+    "fefc": 370502.5,
+    "pessoasFisicas": 600.16,
+    "outrosCandidatos": 42000.0,
+    "arrecadado": 413102.66,
+    "contratado": 283722.3,
+    "pago": 138722.3,
+    "limite": 26683209.24,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "21",
+  "nome": "Carlos Machado",
+  "partido": "PCB",
+  "vice": "Felipe Queiroz (PCB)",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Historiador",
+   "Candidato a vice-prefeito de Franca em 2024"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a vice-prefeito de Franca, não eleito",
+     "ano": "2024",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   },
+   {
+    "titulo": "Diário do Estado de SP: privatizações nos planos (com base no Metrópoles)",
+    "url": "https://diarioesp.com.br/sao-paulo/2026/09/24/candidatos-a-governador-de-sp-divergem-sobre-privatizacoes-em-planos-entregues-ao-tse.html"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 41,
+   "patrimonio": 27000.0,
+   "redes": [
+    "https://www.facebook.com/camarada.carlos.machado",
+    "https://www.instagram.com/camarada_carlos_machado"
+   ],
+   "financas": {
+    "pessoasFisicas": 1625.0,
+    "coletivo": 2924.0,
+    "arrecadado": 4549.0,
+    "contratado": 11653.06,
+    "pago": 1753.06,
+    "limite": 26683209.24,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "gestao": [
+    "Reestatizar a Sabesp, sob gestão dos trabalhadores."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "29",
+  "nome": "Izadora Dias",
+  "partido": "PCO",
+  "vice": "Nivaldo Orlandi (PCO)",
+  "idade": "31 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Militante do PCO desde 2018; a mais jovem na disputa, com 27 anos",
+   "Já foi candidata a vereadora e a deputada federal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a vereadora e a deputada federal, não eleita",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   },
+   {
+    "titulo": "Metrópoles: propostas para mobilidade em SP",
+    "url": "https://www.metropoles.com/sao-paulo/veja-as-propostas-dos-candidatos-ao-governo-de-sao-paulo-para-a-mobilidade"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/izzadoradias",
+    "https://www.instagram.com/izadoradias.pco",
+    "https://www.tiktok.com/@izadoradias29",
+    "https://x.com/izadoradias29"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 26683209.24,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "infra": [
+    "Passe livre no transporte para desempregados e trabalhadores informais."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "36",
+  "nome": "Policial Edjane",
+  "partido": "AGIR",
+  "vice": "Renata Bolsonaro (AGIR)",
+  "idade": "49 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Policial militar",
+   "Já foi candidata a vereadora e a deputada federal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a vereadora e a deputada federal, não eleita",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   },
+   {
+    "titulo": "Metrópoles: propostas para mobilidade em SP",
+    "url": "https://www.metropoles.com/sao-paulo/veja-as-propostas-dos-candidatos-ao-governo-de-sao-paulo-para-a-mobilidade"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Policial militar",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 26683209.24,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Vivian Mendes",
+  "partido": "UP",
+  "vice": "Cris Damasio (UP)",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Militante da UP desde a fundação do partido",
+   "Candidata ao Senado em 2022"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata ao Senado por SP, não eleita",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a governador de SP",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/quem-sao-candidatos-governador-sao-paulo-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Relações-públicas",
+   "idade": 45,
+   "patrimonio": 80000.0,
+   "financas": {
+    "fefc": 42000.0,
+    "partido": 21746.41,
+    "pessoasFisicas": 60794.58,
+    "coletivo": 40403.0,
+    "arrecadado": 164943.99,
+    "contratado": 134479.4,
+    "pago": 114103.92,
+    "limite": 26683209.24,
+    "doadoresPF": 474,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

@@ -1,0 +1,386 @@
+[
+ {
+  "numero": "27",
+  "nome": "Du Pereira",
+  "partido": "DC",
+  "vice": "Silvino Vitor (DC)",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 38,
+   "patrimonio": 1267700.0,
+   "redes": [
+    "https://www.instagram.com/dupereira.oficial"
+   ],
+   "financas": {
+    "proprios": 500.0,
+    "arrecadado": 500.0,
+    "contratado": 60071.33,
+    "pago": 230.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "Ataides de Oliveira",
+  "partido": "NOVO",
+  "vice": "Rosileia Dias Carneiro (NOVO)",
+  "idade": "66 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 66,
+   "patrimonio": 57458902.0,
+   "redes": [
+    "https://k.kwai.com/u/@ataidesoliveir461/clxsy3ie",
+    "https://www.facebook.com/ataidesoliveiraoficial",
+    "https://www.instagram.com/ataides.oliveira",
+    "https://www.kwai.com/@ataidesoliveir461",
+    "https://www.threads.com/@ataides.oliveira",
+    "https://www.threads.com/login"
+   ],
+   "financas": {
+    "pessoasFisicas": 20000.01,
+    "proprios": 412500.0,
+    "arrecadado": 432500.01,
+    "contratado": 441405.0,
+    "pago": 386405.0,
+    "limite": 6226082.16,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Siqueira Campos Jr",
+  "partido": "DEMOCRATA",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 69,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/19t2gnz5x9"
+   ],
+   "financas": {
+    "pessoasFisicas": 101.0,
+    "arrecadado": 101.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Professora Dorinha",
+  "partido": "UNIÃO",
+  "vice": "Atos Gomes (REPUBLICANOS)",
+  "idade": "62 anos",
+  "coligacao": "União Pelo Tocantins (Republicanos, Podemos, Avante, PL, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 62,
+   "patrimonio": 2352740.28,
+   "redes": [
+    "https://www.facebook.com/profdorinha",
+    "https://www.instagram.com/profdorinha",
+    "https://www.threads.com/@profdorinha",
+    "https://www.tiktok.com/@profdorinha",
+    "https://www.youtube.com/@profdorinha",
+    "https://x.com/profdorinha"
+   ],
+   "financas": {
+    "fefc": 4456200.0,
+    "fundoPartidario": 2128333.33,
+    "partido": 50000.0,
+    "pessoasFisicas": 160000.0,
+    "proprios": 33333.33,
+    "outrosCandidatos": 13983.65,
+    "arrecadado": 6841850.31,
+    "contratado": 5699405.69,
+    "pago": 5302212.09,
+    "limite": 6226082.16,
+    "doadoresPF": 14,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Vicentinho Júnior",
+  "partido": "PSDB",
+  "vice": "Amélio Cayres (MDB)",
+  "idade": "41 anos",
+  "coligacao": "Pra Cima Tocantins (MDB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Deputado",
+   "idade": 41,
+   "patrimonio": 3983398.0,
+   "financas": {
+    "fefc": 4190000.0,
+    "fundoPartidario": 380550.0,
+    "partido": 63250.0,
+    "pessoasFisicas": 100000.0,
+    "proprios": 642608.0,
+    "arrecadado": 5376408.0,
+    "contratado": 3432866.65,
+    "pago": 2663866.65,
+    "limite": 6226082.16,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Prof Witer Naves",
+  "partido": "PSOL",
+  "vice": "Lúcia Viana (PSOL)",
+  "idade": "55 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/profwiternaves"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 71105.2,
+    "pago": 62105.2,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Laurez Moreira",
+  "partido": "PSD",
+  "vice": "Coronel Silva Neto (PSD)",
+  "idade": "69 anos",
+  "coligacao": "Pra Frente Tocantins (PDT, PSB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 69,
+   "patrimonio": 9935406.23,
+   "redes": [
+    "https://www.facebook.com/share/1ei21ae69w",
+    "https://www.instagram.com/laurezmoreira",
+    "https://www.tiktok.com/@laurez.moreira",
+    "https://x.com/laurez_moreira",
+    "https://youtube.com/@laurez_moreira"
+   ],
+   "financas": {
+    "fefc": 4500000.0,
+    "pessoasFisicas": 173000.0,
+    "proprios": 33000.0,
+    "arrecadado": 4706000.0,
+    "contratado": 4861608.6,
+    "pago": 3006016.42,
+    "limite": 6226082.16,
+    "doadoresPF": 17,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

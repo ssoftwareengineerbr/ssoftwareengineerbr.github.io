@@ -1,0 +1,171 @@
+{
+ "cargo": "governador",
+ "temas": {
+  "seguranca": [
+   {
+    "id": "g0",
+    "texto": "Integração tecnológica: central de comando, câmeras e bloqueio de contas do crime",
+    "itens": [
+     "10.0",
+     "10.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Separar presos por facção, cortar comunicação nas cadeias e investigar mais",
+    "itens": [
+     "13.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Transparência: índices de esclarecimento de crimes e câmeras corporais contínuas",
+    "itens": [
+     "13.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Delegacias da Mulher 24 horas",
+    "itens": [
+     "13.2"
+    ]
+   }
+  ],
+  "saude": [
+   {
+    "id": "g0",
+    "texto": "Mais teleatendimento",
+    "itens": [
+     "10.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "SUS digital: histórico clínico unificado e fila consultável pelo CPF",
+    "itens": [
+     "13.0"
+    ]
+   }
+  ],
+  "educacao": [
+   {
+    "id": "g0",
+    "texto": "Programa de alfabetização com meta de 90% até 2030",
+    "itens": [
+     "10.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Valorizar os professores para melhorar a alfabetização",
+    "itens": [
+     "13.0"
+    ]
+   }
+  ],
+  "gestao": [
+   {
+    "id": "g0",
+    "texto": "Manter a privatização da Sabesp e continuar as concessões",
+    "itens": [
+     "10.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Sem novas privatizações e mais fiscalização das concessionárias",
+    "itens": [
+     "13.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Reestatizar a Sabesp",
+    "itens": [
+     "21.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Integração de dados e inovação",
+    "itens": [
+     "10.1"
+    ]
+   }
+  ],
+  "infra": [
+   {
+    "id": "g0",
+    "texto": "Mais trilhos e integração do transporte",
+    "itens": [
+     "10.0",
+     "13.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Saneamento universal e resiliência urbana",
+    "itens": [
+     "10.1",
+     "13.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Passe livre para desempregados e informais",
+    "itens": [
+     "29.0"
+    ]
+   }
+  ]
+ },
+ "dilemas": {
+  "seguranca": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ],
+  "saude": [
+   [
+    "g0",
+    "g1"
+   ]
+  ],
+  "educacao": [
+   [
+    "g0",
+    "g1"
+   ]
+  ],
+  "gestao": [
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "infra": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ]
+ }
+}

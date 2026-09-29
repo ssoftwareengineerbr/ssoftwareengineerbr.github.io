@@ -1,0 +1,1850 @@
+[
+ {
+  "numero": "13",
+  "nome": "Lula",
+  "partido": "PT",
+  "vice": "Geraldo Alckmin (PSB)",
+  "idade": "80 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 4,78 milhões",
+   "nota": "Em 2022 declarou cerca de R$ 7,4 milhões."
+  },
+  "resumoTrajetoria": [
+   "Presidente da República em 2003–2010 e desde 2023",
+   "Deputado federal constituinte (1987–1991)",
+   "Sétima eleição presidencial; busca o quarto mandato"
+  ],
+  "propostas": {
+   "saude": [
+    "Fila única digital ordenada pela gravidade do caso e ampliação dos mutirões de especialistas.",
+    "Farmácia Popular gratuita, passando a incluir exames."
+   ],
+   "educacao": [
+    "Meta de subir de 66% para 80% as crianças alfabetizadas na idade certa.",
+    "Ampliar o Pé-de-Meia e o tempo integral; concluir 111 novos Institutos Federais."
+   ],
+   "seguranca": [
+    "Criar o Ministério da Segurança Pública e aprovar a PEC da Segurança.",
+    "Asfixia financeira das facções e câmeras corporais com padrão nacional."
+   ],
+   "trabalho": [
+    "Fim da escala 6x1, com jornada de 40 horas sem corte de salário.",
+    "Reajuste do salário mínimo acima da inflação."
+   ],
+   "renda": [
+    "Manter e ampliar o Bolsa Família, com adicionais para crianças e adolescentes.",
+    "Continuar Gás do Povo, Luz do Povo e renegociação de dívidas (Desenrola)."
+   ],
+   "impostos": [
+    "Manter a isenção do IR até R$ 5 mil e a taxação dos mais ricos.",
+    "Concluir a reforma do consumo com cesta básica isenta e cashback."
+   ],
+   "estado": [
+    "Estado como indutor do crescimento: política industrial e Novo PAC.",
+    "Nenhuma privatização prevista."
+   ],
+   "ambiente": [
+    "Desmatamento líquido zero até 2030.",
+    "Cumprir a meta climática de 2035 e regulamentar o mercado de carbono."
+   ],
+   "externa": [
+    "Fortalecer BRICS, Mercosul e a integração sul-americana."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Ensino fundamental incompleto; técnico em torneiro mecânico pelo Senai",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Opção: formação dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"
+   },
+   "eventos": [
+    {
+     "tipo": "formacao",
+     "titulo": "Curso técnico de torneiro mecânico no Senai",
+     "ano": "Anos 1960"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente do Sindicato dos Metalúrgicos de São Bernardo e Diadema",
+     "ano": "1975"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Participa da fundação do PT",
+     "ano": "1980"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por São Paulo",
+     "inicio": 1987,
+     "fim": 1991,
+     "mandatos": 1,
+     "detalhe": "Eleito em 1986 como o deputado mais votado do país; participou da Assembleia Constituinte.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Derrotado em três eleições presidenciais (1989, 1994 e 1998)",
+     "ano": "1989–1998"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Presidente da República (1º e 2º mandatos)",
+     "inicio": 2003,
+     "fim": 2010,
+     "mandatos": 2,
+     "detalhe": "Eleito com 61,3% dos votos válidos no 2º turno de 2002 e reeleito com 60,8% em 2006.",
+     "metricas": [
+      {
+       "indicador": "Crescimento médio do PIB",
+       "valor": "cerca de 4% ao ano no período",
+       "fonte": {
+        "titulo": "IBGE: séries históricas",
+        "url": "https://www.ibge.gov.br/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Desemprego nas regiões metropolitanas (PME)",
+       "antes": "12,3% em 2003",
+       "depois": "6,7% em 2010",
+       "fonte": {
+        "titulo": "IBGE: séries históricas",
+        "url": "https://www.ibge.gov.br/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Inflação (IPCA)",
+       "antes": "9,3% em 2003",
+       "depois": "5,9% em 2010",
+       "fonte": {
+        "titulo": "IBGE: séries históricas",
+        "url": "https://www.ibge.gov.br/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Dívida líquida do setor público",
+       "antes": "cerca de 60% do PIB em 2002",
+       "depois": "cerca de 39% em 2010",
+       "fonte": {
+        "titulo": "Banco Central: estatísticas fiscais",
+        "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
+       },
+       "procedencia": "of"
+      }
+     ]
+    },
+    {
+     "tipo": "justica",
+     "titulo": "Condenado na Lava Jato; ficou preso de abril de 2018 a novembro de 2019",
+     "ano": "2017",
+     "detalhe": "Em 2021 o STF anulou as condenações por entender que a Justiça Federal de Curitiba não era competente para o caso, e declarou a suspeição do ex-juiz Sergio Moro. Lula recuperou os direitos políticos."
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Presidente da República (3º mandato)",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito com 50,9% dos votos válidos no 2º turno de 2022.",
+     "metricas": [
+      {
+       "indicador": "Crescimento do PIB",
+       "valor": "3,4% em 2024 e 2,3% em 2025",
+       "fonte": {
+        "titulo": "Ministério da Fazenda: balanço macrofiscal 2025",
+        "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/janeiro/recordes-em-indicadores-comprovam-sucesso-da-politica-de-desenvolvimento-sustentavel-aponta-spe"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Desemprego (PNAD Contínua, média anual)",
+       "antes": "7,8% em 2023",
+       "depois": "5,6% em 2025, menor da série",
+       "fonte": {
+        "titulo": "Série de desemprego da PNAD Contínua 2023–2025",
+        "url": "https://fernandonogueiracosta.wordpress.com/2026/09/19/resultados-macroeconomicos-do-governo-lula-iii/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Inflação (IPCA)",
+       "valor": "4,6% em 2023 e 4,8% em 2024, acima do teto da meta em 2024",
+       "fonte": {
+        "titulo": "IBGE: séries históricas",
+        "url": "https://www.ibge.gov.br/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Dívida bruta do governo geral",
+       "antes": "71,7% do PIB em 2022",
+       "depois": "76,1% em 2024",
+       "fonte": {
+        "titulo": "Banco Central: estatísticas fiscais",
+        "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
+       },
+       "procedencia": "of"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "12,3% → 6,7%",
+     "rotulo": "Desemprego metropolitano, 2003 → 2010",
+     "procedencia": "of"
+    },
+    {
+     "valor": "7,8% → 5,6%",
+     "rotulo": "Desemprego, 2023 → 2025",
+     "procedencia": "of"
+    },
+    {
+     "valor": "71,7% → 76,1%",
+     "rotulo": "Dívida bruta sobre o PIB, 2022 → 2024",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+   },
+   {
+    "titulo": "Jornal Opção: declaração de bens dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Torneiro mecânico",
+   "idade": 80,
+   "patrimonio": 4775650.64,
+   "concorreu2022": true,
+   "patrimonio2022": 7423725.78,
+   "redes": [
+    "https://facebook.com/obrasilcomlula",
+    "https://instagram.com/brasilcomlula",
+    "https://instagram.com/brasilquermais",
+    "https://k.kwai.com/u/@lulaoficial/xgxcok66",
+    "https://www.facebook.com/evangelicoscomlula",
+    "https://www.facebook.com/geracaolula"
+   ],
+   "financas": {
+    "fefc": 65000000.0,
+    "fundoPartidario": 150000.0,
+    "pessoasFisicas": 1618120.69,
+    "coletivo": 282718.35,
+    "arrecadado": 67050839.04,
+    "contratado": 65682712.27,
+    "pago": 35753024.01,
+    "limite": 88944030.8,
+    "doadoresPF": 455,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Renan Santos",
+  "partido": "Missão",
+  "vice": "Aroldo Medina (Missão)",
+  "idade": "42 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Cofundador do MBL e do partido Missão",
+   "Primeira eleição que disputa"
+  ],
+  "notaPlano": "O PDF registrado no TSE é um resumo; o partido remete o detalhamento a um plano integral publicado à parte.",
+  "propostas": {
+   "saude": [
+    "Fila do SUS ordenada por gravidade e risco.",
+    "Meta de resolver 80% dos casos nos postos, com telemedicina e diagnóstico por IA."
+   ],
+   "educacao": [
+    "Alfabetização pelo método fônico e adoção do modelo do Ceará.",
+    "Fim da aprovação automática e das cotas, substituídas por bolsas de mérito."
+   ],
+   "seguranca": [
+    "Aplicar o “Direito Penal do Inimigo”: banimento judicial de facções e restrição de direitos de membros.",
+    "Estado de Defesa em áreas dominadas pelo crime e superpresídios em regiões remotas."
+   ],
+   "trabalho": [
+    "Flexibilizar as leis trabalhistas; não trata da escala 6x1."
+   ],
+   "renda": [
+    "Substituir o Bolsa Família por frentes de trabalho remuneradas.",
+    "Corrigir aposentadorias e benefícios só pela inflação."
+   ],
+   "impostos": [
+    "Reduzir isenções fiscais por meio de uma PEC negociada antes da posse.",
+    "Zonas econômicas especiais com impostos menores no Nordeste."
+   ],
+   "estado": [
+    "Cita necessidade de ajuste fiscal de cerca de R$ 250 bilhões por ano.",
+    "Não lista estatais para privatizar."
+   ],
+   "ambiente": [
+    "Sem capítulo próprio: licenças mais rápidas e monitoramento por satélite."
+   ],
+   "externa": [
+    "Pragmatismo no BRICS e pacto das Américas contra as facções."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Cofundador do Movimento Brasil Livre (MBL)",
+     "ano": "2014"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Funda o partido Missão, registrado no TSE em novembro de 2025",
+     "ano": "2025",
+     "fonte": {
+      "titulo": "O Povo: quem são os candidatos à Presidência",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira eleição que disputa",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 42,
+   "patrimonio": 795089.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/renansantosmbl",
+    "https://www.instagram.com/blackjaguarsquad",
+    "https://www.instagram.com/jaguatiricahub",
+    "https://www.instagram.com/multiversoamarelo",
+    "https://www.instagram.com/nextfragments",
+    "https://www.instagram.com/oncaviral"
+   ],
+   "financas": {
+    "partido": 20000.0,
+    "pessoasFisicas": 272208.88,
+    "coletivo": 2223373.55,
+    "arrecadado": 2515582.43,
+    "contratado": 1284828.56,
+    "pago": 1284828.56,
+    "limite": 88944030.8,
+    "doadoresPF": 1464,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Hertz Dias",
+  "partido": "PSTU",
+  "vice": "Vanessa Portugal (PSTU)",
+  "idade": "55 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Candidato a vice-presidente em 2018",
+   "Primeira vez como cabeça de chapa"
+  ],
+  "propostas": {
+   "saude": [
+    "SUS 100% estatal, sem gestão por OSs e PPPs."
+   ],
+   "educacao": [
+    "Revogar a BNCC e o Novo Ensino Médio; contra a militarização de escolas."
+   ],
+   "seguranca": [
+    "Desmilitarizar a PM e unificar as polícias; descriminalizar o uso de drogas.",
+    "Combater o crime organizado com investigação e asfixia financeira, em vez de operações militares (p. 19)."
+   ],
+   "trabalho": [
+    "Fim da escala 6x1 e jornada de 36 horas; dobrar o salário mínimo.",
+    "Revogar a reforma trabalhista (p. 8)."
+   ],
+   "renda": [
+    "Bolsa de um salário mínimo para desempregados."
+   ],
+   "impostos": [
+    "Isentar do IR quem ganha até 10 salários mínimos.",
+    "Imposto sobre patrimônios acima de R$ 1 bilhão.",
+    "Cobrar a dívida ativa dos grandes grupos e acabar com seus benefícios fiscais (p. 27)."
+   ],
+   "estado": [
+    "Estatizar mineração, petróleo, energia e o sistema financeiro."
+   ],
+   "ambiente": [
+    "Contra petróleo na Margem Equatorial; fim de subsídios ao grande agronegócio."
+   ],
+   "externa": [
+    "Suspender pagamentos da dívida a grandes investidores durante uma auditoria; contra o acordo Mercosul–UE."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Professor de História na rede pública de São Luís (MA)",
+   "escolaridadeFonte": {
+    "titulo": "O Povo: quem são os candidatos à Presidência",
+    "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professor de História e ativista do movimento negro",
+     "ano": "—",
+     "fonte": {
+      "titulo": "O Povo: quem são os candidatos à Presidência",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a vice-presidente, não eleito",
+     "ano": "2018"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador do Maranhão, não eleito",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "O Povo: quem são os candidatos à Presidência",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 55,
+   "patrimonio": 170000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.instagram.com/hertzdiaspstu",
+    "https://www.youtube.com/@canaldohertz"
+   ],
+   "financas": {
+    "fefc": 1074389.0,
+    "pessoasFisicas": 5000.16,
+    "outrosCandidatos": 3210.0,
+    "coletivo": 4985.0,
+    "arrecadado": 1087584.16,
+    "contratado": 1050232.71,
+    "pago": 655232.71,
+    "limite": 88944030.8,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "21",
+  "nome": "Edmilson Costa",
+  "partido": "PCB",
+  "vice": "Cleusa Santos (PCB)",
+  "idade": "Sem dado neste snapshot",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Militante do PCB desde a década de 1970",
+   "Já foi candidato a prefeito de São Paulo e a vice-presidente",
+   "Primeira vez como candidato a presidente"
+  ],
+  "propostas": {
+   "saude": [
+    "Estatizar todo o sistema de saúde e investir 10% do PIB na área."
+   ],
+   "educacao": [
+    "Ensino 100% público, com estatização da rede privada.",
+    "Fim do vestibular nas federais e ampliação das cotas."
+   ],
+   "seguranca": [
+    "Desmilitarizar e unificar as polícias.",
+    "Legalizar a maconha e descriminalizar o uso de drogas."
+   ],
+   "trabalho": [
+    "Jornada de 30 horas e fim da escala 6x1.",
+    "Revogar as reformas trabalhista e da Previdência."
+   ],
+   "renda": [
+    "Salário mínimo chegando ao valor calculado pelo Dieese em quatro anos.",
+    "Rede de restaurantes e mercados populares."
+   ],
+   "impostos": [
+    "Taxar lucros, dividendos, grandes fortunas e heranças."
+   ],
+   "estado": [
+    "Estatizar o sistema financeiro.",
+    "Constituinte com metade dos membros escolhida por organizações populares."
+   ],
+   "ambiente": [
+    "Rever o Código Florestal para ampliar a proteção; taxar emissões."
+   ],
+   "externa": [
+    "Romper relações com Israel e defender o fim da OTAN."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Doutorado em Economia (Unicamp), com pós-doutorado",
+   "escolaridadeFonte": {
+    "titulo": "O Povo: quem são os candidatos à Presidência",
+    "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Militante do PCB",
+     "ano": "Anos 1970"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de São Paulo e a vice-presidente, não eleito",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira candidatura a presidente",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 76,
+   "patrimonio": 454485.68,
+   "redes": [
+    "https://linktr.ee/jornalopoderpopular",
+    "https://www.facebook.com/edpcb21",
+    "https://www.facebook.com/jornalopoderpopular",
+    "https://www.facebook.com/partidocomunistabrasileiropcb",
+    "https://www.instagram.com/edpcb",
+    "https://www.instagram.com/jornalopoderpopular"
+   ],
+   "financas": {
+    "pessoasFisicas": 12800.0,
+    "coletivo": 13171.0,
+    "arrecadado": 25971.0,
+    "contratado": 22531.22,
+    "pago": 19531.22,
+    "limite": 88944030.8,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Flávio Bolsonaro",
+  "partido": "PL",
+  "vice": "Alfredo Gaspar (PL)",
+  "idade": "45 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 8,19 milhões",
+   "nota": "Em 2018, ao disputar o Senado, declarou R$ 1,7 milhão."
+  },
+  "resumoTrajetoria": [
+   "Senador pelo Rio de Janeiro (mandato atual, desde 2019)",
+   "Quatro mandatos como deputado estadual no RJ"
+  ],
+  "propostas": {
+   "saude": [
+    "Prontuário eletrônico único ligado ao CPF, integrando redes pública e privada.",
+    "IA para marcar consultas na primeira vaga livre e compra de horários ociosos da rede privada; remédios entregues em casa a idosos e doentes crônicos."
+   ],
+   "educacao": [
+    "Alfabetização pelo método fônico, com verbas atreladas a metas.",
+    "Mais escolas cívico-militares e vouchers de creche e escola privada onde faltar vaga."
+   ],
+   "seguranca": [
+    "Classificar PCC, CV e milícias como organizações narcoterroristas.",
+    "Cinco presídios de segurança máxima inspirados em El Salvador e 500 mil novas vagas; maioridade penal aos 16."
+   ],
+   "trabalho": [
+    "Acordos entre empresa e trabalhador prevalecendo sobre a lei geral.",
+    "Contratação mais barata para jovens de 18 a 24 anos e desempregados acima de 50."
+   ],
+   "renda": [
+    "Manter os programas atuais com combate a fraudes.",
+    "Proibir o uso de dinheiro de programas sociais em apostas online."
+   ],
+   "impostos": [
+    "Revisar a reforma tributária para reduzir o IVA.",
+    "Cortar impostos sobre energia e combustíveis."
+   ],
+   "estado": [
+    "Cortar pelo menos 10 ministérios e acabar com supersalários.",
+    "Retomar privatizações avaliadas caso a caso."
+   ],
+   "ambiente": [
+    "Zerar o desmatamento ilegal até 2029 com satélite e IA.",
+    "Licença ambiental concedida automaticamente se o órgão perder o prazo."
+   ],
+   "externa": [
+    "Retomar a adesão à OCDE.",
+    "Reaproximação com EUA, Argentina e Israel."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Direito (Universidade Cândido Mendes), com especializações em Ciência Política, Políticas Públicas e Empreendedorismo",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Opção: formação dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"
+   },
+   "eventos": [
+    {
+     "tipo": "formacao",
+     "titulo": "Curso técnico em eletrônica e graduação em Direito",
+     "ano": "—"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no Rio de Janeiro",
+     "inicio": 2003,
+     "fim": 2019,
+     "mandatos": 4,
+     "detalhe": "Quatro mandatos consecutivos na Alerj.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito do Rio de Janeiro, não eleito",
+     "ano": "2016"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador pelo Rio de Janeiro",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2018.",
+     "metricas": [
+      {
+       "indicador": "Votos em 2018",
+       "valor": "4.380.418 (31,4% dos válidos)",
+       "fonte": {
+        "titulo": "Diário do Comércio: trajetória dos presidenciáveis",
+        "url": "https://diariodocomercio.com.br/politica/pre-candidatos-presidencia-2026/"
+       },
+       "procedencia": "of"
+      }
+     ],
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4,38 milhões",
+     "rotulo": "Votos para o Senado em 2018",
+     "procedencia": "of"
+    },
+    {
+     "valor": "R$ 1,7 mi → R$ 8,19 mi",
+     "rotulo": "Patrimônio declarado, 2018 → 2026",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+   },
+   {
+    "titulo": "Jornal Opção: declaração de bens dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"
+   },
+   {
+    "titulo": "BP Money: patrimônio dos candidatos à Presidência",
+    "url": "https://bpmoney.com.br/?p=417237"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 45,
+   "patrimonio": 8186555.83,
+   "redes": [
+    "https://www.facebook.com/canaltvcelular",
+    "https://www.facebook.com/flaviobolsonaro",
+    "https://www.instagram.com/flaviobolsonaro",
+    "https://www.instagram.com/tvcelular.com.br",
+    "https://www.kwai.com/@flaviobolsonaro",
+    "https://www.threads.com/@flaviobolsonaro"
+   ],
+   "financas": {
+    "fefc": 47013280.07,
+    "fundoPartidario": 2352000.0,
+    "partido": 4550000.0,
+    "pessoasFisicas": 5430041.65,
+    "coletivo": 106698.72,
+    "naoIdentificada": 1.0,
+    "arrecadado": 59452021.44,
+    "contratado": 57203065.32,
+    "pago": 38999287.96,
+    "limite": 88944030.8,
+    "doadoresPF": 101,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Clariana Barão",
+  "partido": "DC",
+  "vice": "Fabiana Torquato (DC)",
+  "idade": "39 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Primeira candidatura a cargo público"
+  ],
+  "propostas": {
+   "saude": [
+    "Atenção primária com equipes completas e prontuário interoperável.",
+    "Telemedicina e regulação inteligente de filas."
+   ],
+   "educacao": [
+    "Alfabetização na idade certa e recomposição da aprendizagem perdida."
+   ],
+   "seguranca": [
+    "Inteligência financeira contra facções e monitoramento de fronteiras."
+   ],
+   "trabalho": [
+    "Qualificação e crédito para mulheres; não trata de CLT ou jornada."
+   ],
+   "renda": [],
+   "impostos": [
+    "Revisar subsídios e dar transparência aos benefícios fiscais."
+   ],
+   "estado": [
+    "Gestão por metas com painéis públicos e compras rastreáveis."
+   ],
+   "ambiente": [],
+   "externa": []
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira candidatura a cargo público",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/clariana-barao/"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 39,
+   "patrimonio": 1820760.17,
+   "financas": {
+    "fefc": 1500000.0,
+    "pessoasFisicas": 8500.0,
+    "proprios": 5000.0,
+    "arrecadado": 1513500.0,
+    "contratado": 998569.68,
+    "pago": 301297.18,
+    "limite": 88944030.8,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "28",
+  "nome": "Leonardo Avalanche",
+  "partido": "PRTB",
+  "vice": "Silvia Hellen da Silva Pereira (PRTB)",
+  "idade": "37 anos",
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Aguardando julgamento (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Presidente nacional do PRTB",
+   "Primeira candidatura a cargo político",
+   "Assumiu a vaga de Pablo Marçal, cuja candidatura foi indeferida pelo TSE"
+  ],
+  "notaPlano": "A chapa foi substituída após o indeferimento de Pablo Marçal. Este snapshot ainda não tem o resumo do plano da nova chapa: consulte o documento no TSE.",
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Ganha projeção na campanha de Pablo Marçal à Prefeitura de São Paulo",
+     "ano": "2024"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente nacional do PRTB",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Assume a candidatura após o TSE indeferir a de Pablo Marçal",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "TSE: Cury aprovado e Marçal indeferido",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 48,
+   "patrimonio": 495030000.0,
+   "redes": [
+    "https://www.instagram.com/leonardoavalanche",
+    "https://www.instagram.com/prtbbrasileiro28"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 88944030.8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Aguardando julgamento",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Rui Costa Pimenta",
+  "partido": "PCO",
+  "vice": "Antônio Carlos Silva (PCO)",
+  "idade": "69 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Quarta candidatura à Presidência, sempre pelo PCO"
+  ],
+  "propostas": {
+   "saude": [
+    "Plano emergencial de construção de hospitais e retomada do Mais Médicos."
+   ],
+   "educacao": [
+    "Fim dos vestibulares e piso de R$ 8,5 mil para professores."
+   ],
+   "seguranca": [
+    "Dissolver a Polícia Militar e criar comitês de autodefesa."
+   ],
+   "trabalho": [
+    "Salário mínimo de pelo menos R$ 7.500 e jornada de 35 horas."
+   ],
+   "renda": [
+    "Bolsa Família de no mínimo um salário mínimo.",
+    "Anular as dívidas de trabalhadores com o sistema financeiro."
+   ],
+   "impostos": [
+    "Fim dos impostos sobre consumo e salários; taxar só ganhos do capital e fortunas."
+   ],
+   "estado": [
+    "Cancelar as privatizações e tornar a Petrobras 100% estatal."
+   ],
+   "ambiente": [],
+   "externa": [
+    "Defesa de Cuba, Nicarágua e Venezuela; contra a OEA."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Participa da fundação do PT e é diretor da CUT na Grande São Paulo",
+     "ano": "1980",
+     "fonte": {
+      "titulo": "O Povo: quem são os candidatos à Presidência",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente do PCO",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Quarta candidatura à Presidência",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 69,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://web.facebook.com/ruicpimenta29",
+    "https://www.instagram.com/ruicpimenta",
+    "https://www.youtube.com/@rcp29",
+    "https://x.com/ruicpimenta29"
+   ],
+   "financas": {
+    "coletivo": 6271.0,
+    "arrecadado": 6271.0,
+    "contratado": 137.3,
+    "pago": 137.3,
+    "limite": 88944030.8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "Zema",
+  "partido": "Novo",
+  "vice": "Eduardo Girão (Novo)",
+  "idade": "61 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 178,7 milhões",
+   "nota": "Em 2022 declarou R$ 129,7 milhões: alta de cerca de 38%, contra inflação de 19% no período."
+  },
+  "resumoTrajetoria": [
+   "Governador de Minas Gerais por dois mandatos (2019–2026), renunciou em março para concorrer",
+   "Empresário antes da carreira política"
+  ],
+  "propostas": {
+   "saude": [
+    "Contratar capacidade ociosa de hospitais privados para zerar filas, com metas públicas.",
+    "Flexibilizar regras da ANS para planos com cobertura parcial."
+   ],
+   "educacao": [
+    "Alfabetização na idade certa e revisão da BNCC.",
+    "Regulamentar o ensino domiciliar e ampliar escolas cívico-militares."
+   ],
+   "seguranca": [
+    "Tratar como terroristas criminosos que usam armas de guerra para dominar território.",
+    "Maioridade penal aos 16 para crimes graves."
+   ],
+   "trabalho": [
+    "Regime alternativo à CLT com jornada e férias negociadas, até 44 horas.",
+    "Fim do sindicato único por categoria."
+   ],
+   "renda": [
+    "Bolsa Família com exigência de busca de emprego para adultos aptos.",
+    "Prêmio de R$ 5 mil a quem sair do programa por renda maior; R$ 1.000 investidos para cada recém-nascido."
+   ],
+   "impostos": [
+    "Metas obrigatórias de redução de impostos.",
+    "Cálculo automático de impostos pela nota fiscal eletrônica."
+   ],
+   "estado": [
+    "Privatizar todas as estatais e dividir a Petrobras.",
+    "Fim da estabilidade ampla nos novos concursos."
+   ],
+   "ambiente": [
+    "Aplicar a nova lei de licenciamento com prazos.",
+    "Combate por satélite ao desmate ilegal, sem novas restrições ao Código Florestal."
+   ],
+   "externa": [
+    "Sair do BRICS e entrar na OCDE.",
+    "Transformar o Mercosul em zona de livre comércio."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Administração de Empresas (FGV)",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Opção: formação dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente do Conselho de Administração do Grupo Zema",
+     "ano": "1990–2016"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de Minas Gerais",
+     "inicio": 2019,
+     "fim": 2026,
+     "mandatos": 2,
+     "detalhe": "Eleito com 71,8% no 2º turno de 2018, primeira eleição que disputou, e reeleito com 56,2% no 1º turno de 2022. Renunciou em março de 2026.",
+     "metricas": [
+      {
+       "indicador": "Salários do funcionalismo",
+       "antes": "parcelados em 2019",
+       "depois": "pagos em dia",
+       "fonte": {
+        "titulo": "Estado de Minas: o que Minas entrega em 2026",
+        "url": "https://www.em.com.br/colunistas/ana-mendonca/2026/01/7324953-zema-prometeu-arrumar-a-casa-o-que-minas-entrega-em-2026.html"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Empregos com carteira criados",
+       "valor": "626 mil entre 2019 e 2022",
+       "fonte": {
+        "titulo": "Agência Minas: balanço de 2019–2022",
+        "url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-apresenta-balanco-de-acoes-e-resultados-dos-quatro-anos-de-gestao"
+       },
+       "procedencia": "gov"
+      },
+      {
+       "indicador": "Dívida do estado",
+       "valor": "acima de R$ 200 bilhões e em alta durante a gestão; R$ 179,3 bi com a União na adesão ao Propag",
+       "fonte": {
+        "titulo": "O Tempo: déficit de R$ 11,3 bi no último ano",
+        "url": "https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Caixa de recursos livres",
+       "valor": "déficit de R$ 11,3 bilhões em 2025",
+       "fonte": {
+        "titulo": "O Tempo: déficit de R$ 11,3 bi no último ano",
+        "url": "https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Homicídios",
+       "valor": "alta de 4,6% entre 2023 e 2024, enquanto o país teve queda",
+       "fonte": {
+        "titulo": "CUT-MG: crítica à gestão Zema",
+        "url": "https://mg.cut.org.br/noticias/governo-diferente-estado-quebrado-zema-nao-deixa-legado-positivo-em-mg-723d"
+       },
+       "procedencia": "crit"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "Em dia",
+     "rotulo": "Salários do funcionalismo, antes parcelados",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "R$ 11,3 bi",
+     "rotulo": "Déficit em recursos livres em 2025",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "+38%",
+     "rotulo": "Patrimônio declarado, 2022 → 2026",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+   },
+   {
+    "titulo": "Jornal Opção: declaração de bens dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"
+   },
+   {
+    "titulo": "BP Money: patrimônio dos candidatos à Presidência",
+    "url": "https://bpmoney.com.br/?p=417237"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 61,
+   "patrimonio": 178707610.09,
+   "concorreu2022": true,
+   "patrimonio2022": 129795313.7,
+   "redes": [
+    "https://www.facebook.com/romeuzemaoficial",
+    "https://www.instagram.com/romeuzemaoficial",
+    "https://www.kwai.com/@romeuzemaoficial",
+    "https://www.linkedin.com/in/romeuzema",
+    "https://www.tiktok.com/@romeuzemaoficial",
+    "https://www.x.com/romeuzema"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "fundoPartidario": 4300000.0,
+    "partido": 196558.11,
+    "pessoasFisicas": 300010.5,
+    "arrecadado": 5296568.61,
+    "contratado": 4325102.8,
+    "pago": 3433952.36,
+    "limite": 88944030.8,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Veterinário Wilson Grassi",
+  "partido": "Democrata",
+  "vice": "Suêd Haidar (Democrata)",
+  "idade": "55 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Tentou se eleger vereador e deputado federal, sem sucesso",
+   "Conhecido pela defesa da causa animal"
+  ],
+  "propostas": {
+   "saude": [
+    "Fila nacional única e pública por procedimento, com primeira versão em 100 dias.",
+    "Integrar saúde humana, animal e ambiental."
+   ],
+   "educacao": [
+    "Apoio federal condicionado a resultados de alfabetização publicados por escola.",
+    "Ampliar a rede federal de ensino técnico conforme a demanda de emprego de cada região (p. 36)."
+   ],
+   "seguranca": [
+    "Isolar líderes de facção com bloqueio real de celular.",
+    "Plebiscito sobre presídio no modelo de El Salvador."
+   ],
+   "trabalho": [
+    "Zerar a contribuição patronal sobre a folha de pagamento.",
+    "Cursos profissionalizantes abertos conforme a demanda de contratação da região (p. 20)."
+   ],
+   "renda": [
+    "Sem programa de transferência de renda; propõe isenção de IR até 5 salários mínimos."
+   ],
+   "impostos": [
+    "Trocar nove tributos federais por cobrança sobre movimentações bancárias.",
+    "IR das empresas de 34% para 25%."
+   ],
+   "estado": [
+    "Aprovação automática quando o governo perde prazo; metas públicas com responsável nomeado."
+   ],
+   "ambiente": [
+    "Rastrear as cadeias da madeira e da carne contra o desmate ilegal.",
+    "Prazo e responsável nomeado para cada licença ambiental (p. 47)."
+   ],
+   "externa": [
+    "Pragmatismo e reciprocidade comercial, sem alinhamento fixo."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Veterinário (profissão que usa no nome de urna)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a vereador e a deputado federal, não eleito",
+     "ano": "—"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Atuação na causa animal",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a presidente",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Veterinário",
+   "idade": 56,
+   "patrimonio": 50000000.0,
+   "redes": [
+    "https://www.facebook.com/people/juntos-pelos-animais-brasil/61593832842222",
+    "https://www.facebook.com/wilsongrassioficial",
+    "https://www.instagram.com/cachorreirosdesaopaulo",
+    "https://www.instagram.com/gateirosdabahia",
+    "https://www.instagram.com/gateirosdesaopaulo",
+    "https://www.instagram.com/veterinariowilsongrassioficial"
+   ],
+   "financas": {
+    "pessoasFisicas": 150.0,
+    "proprios": 850000.0,
+    "arrecadado": 850150.0,
+    "contratado": 890399.66,
+    "pago": 836399.66,
+    "limite": 88944030.8,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Ronaldo Caiado",
+  "partido": "PSD",
+  "vice": "Gilberto Kassab (PSD)",
+  "idade": "76 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 52,56 milhões",
+   "nota": "A maior parte em propriedades rurais e rebanho."
+  },
+  "resumoTrajetoria": [
+   "Governador de Goiás (2019–2026)",
+   "Foi deputado federal e senador",
+   "Candidato a presidente em 1989"
+  ],
+  "propostas": {
+   "saude": [
+    "Fila ordenada por gravidade, com meta de cortar pela metade o tempo de espera até 2030 nas regiões mais afetadas.",
+    "Via rápida do câncer para cumprir os prazos legais de diagnóstico e tratamento."
+   ],
+   "educacao": [
+    "Toda criança lendo, escrevendo e com base de matemática até o fim do 2º ano.",
+    "Licenciaturas mais exigentes e bolsas para quem escolher dar aula."
+   ],
+   "seguranca": [
+    "Enquadrar facções e milícias como terrorismo doméstico, com pena mínima de 45 anos para integrantes.",
+    "Rede de presídios de segurança máxima e regime especial para líderes de facção."
+   ],
+   "trabalho": [
+    "Não trata da escala 6x1; propõe reduzir custos que empurram para a informalidade.",
+    "Programa nacional de requalificação profissional."
+   ],
+   "renda": [
+    "Preservar a transferência de renda e atualizar cadastros.",
+    "Saída gradual do benefício para quem consegue emprego formal."
+   ],
+   "impostos": [
+    "Ajuste fiscal sem aumento permanente da carga tributária.",
+    "Todo benefício fiscal com prazo, custo e avaliação independente."
+   ],
+   "estado": [
+    "Centro de Governo na Presidência, com metas públicas por ministro.",
+    "PEC proibindo a reeleição do presidente eleito em 2026."
+   ],
+   "ambiente": [
+    "Lei nacional de licenciamento proporcional ao impacto.",
+    "Combater desmatamento e garimpo ilegal pela inteligência financeira."
+   ],
+   "externa": [
+    "Relações com todos os polos, sem alinhamento automático.",
+    "Consolidar o acordo Mercosul–União Europeia."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Medicina (UNIRIO), especialização em cirurgia da coluna (Paris) e mestrado em Ortopedia (UFRJ)",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Opção: formação dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Primeiro presidente da UDR (União Democrática Ruralista)",
+     "ano": "Anos 1980",
+     "fonte": {
+      "titulo": "IHU/Unisinos: entrevista sobre a segurança em Goiás",
+      "url": "https://ihu.unisinos.br/647910-policia-violenta-e-principal-bandeira-de-caiado-entrevista-com-cileide-alves"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a presidente, não eleito",
+     "ano": "1989"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Goiás",
+     "inicio": 1991,
+     "fim": 1995,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Goiás",
+     "inicio": 1999,
+     "fim": 2015,
+     "mandatos": 4,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por Goiás",
+     "inicio": 2015,
+     "fim": 2019,
+     "mandatos": 1,
+     "detalhe": "Deixou o Senado para assumir o governo.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de Goiás",
+     "inicio": 2019,
+     "fim": 2026,
+     "mandatos": 2,
+     "detalhe": "Eleito com 59,7% no 1º turno de 2018 e reeleito com 51,8% no 1º turno de 2022.",
+     "metricas": [
+      {
+       "indicador": "Homicídios por ano",
+       "antes": "2.272 em 2017 (recorde)",
+       "depois": "960 em 2024",
+       "fonte": {
+        "titulo": "Governo de Goiás: série de homicídios",
+        "url": "https://goias.gov.br/?p=626551"
+       },
+       "procedencia": "gov"
+      },
+      {
+       "indicador": "Ideb do ensino médio",
+       "valor": "4,8 em 2019 (1º do país); 5,0 em 2025 (2º, atrás do Paraná)",
+       "fonte": {
+        "titulo": "Jornal Opção: Ideb 2025 e rede de saúde em Goiás",
+        "url": "https://www.jornalopcao.com.br/educacao/goias-vira-referencia-no-debate-eleitoral-do-distrito-federal-866250/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Leitos de UTI na rede estadual",
+       "antes": "274 em 2018",
+       "depois": "720 em 2026",
+       "fonte": {
+        "titulo": "Jornal Opção: Ideb 2025 e rede de saúde em Goiás",
+        "url": "https://www.jornalopcao.com.br/educacao/goias-vira-referencia-no-debate-eleitoral-do-distrito-federal-866250/"
+       },
+       "procedencia": "gov"
+      },
+      {
+       "indicador": "Mortes causadas por policiais",
+       "valor": "analistas apontam forte alta no período",
+       "fonte": {
+        "titulo": "IHU/Unisinos: entrevista sobre a segurança em Goiás",
+        "url": "https://ihu.unisinos.br/647910-policia-violenta-e-principal-bandeira-de-caiado-entrevista-com-cileide-alves"
+       },
+       "procedencia": "imp"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "2.272 → 960",
+     "rotulo": "Homicídios por ano em Goiás, 2017 → 2024",
+     "procedencia": "gov"
+    },
+    {
+     "valor": "5,0",
+     "rotulo": "Ideb do ensino médio em 2025, 2º do país",
+     "procedencia": "of"
+    },
+    {
+     "valor": "5",
+     "rotulo": "Mandatos como deputado federal",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+   },
+   {
+    "titulo": "Poder360: bens declarados por Caiado",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-declara-mais-de-r-52-milhoes-ao-tse/"
+   },
+   {
+    "titulo": "BP Money: patrimônio dos candidatos à Presidência",
+    "url": "https://bpmoney.com.br/?p=417237"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 77,
+   "patrimonio": 52557930.98,
+   "redes": [
+    "https://br.linkedin.com/in/ronaldocaiado",
+    "https://bsky.app/profile/ronaldocaiado.bsky.social",
+    "https://linktr.ee/ronaldocaiado",
+    "https://www.facebook.com/ronaldocaiado",
+    "https://www.instagram.com/ronaldocaiado",
+    "https://www.kwai.com/@ronaldocaiado"
+   ],
+   "financas": {
+    "fundoPartidario": 1495000.0,
+    "partido": 5836000.0,
+    "pessoasFisicas": 2525000.0,
+    "arrecadado": 9856000.0,
+    "contratado": 24541783.48,
+    "pago": 9529783.48,
+    "limite": 88944030.8,
+    "doadoresPF": 11,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "70",
+  "nome": "Escritor Augusto Cury",
+  "partido": "Avante",
+  "vice": "Júlio Delgado (Avante)",
+  "idade": "67 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 242,28 milhões",
+   "nota": "Maior patrimônio entre os presidenciáveis, concentrado em empresas e créditos."
+  },
+  "resumoTrajetoria": [
+   "Escritor e psiquiatra, com livros publicados em mais de 70 países",
+   "Primeira eleição que disputa"
+  ],
+  "propostas": {
+   "saude": [
+    "Telemedicina para resolver cerca de 80% das consultas básicas.",
+    "Triagem por IA e rede nacional de prevenção do câncer."
+   ],
+   "educacao": [
+    "Tempo integral com educação emocional, financeira e empreendedorismo.",
+    "Política nacional para alunos neurodivergentes."
+   ],
+   "seguranca": [
+    "Recriar o Ministério da Segurança Pública e integrar a inteligência policial.",
+    "Força municipal de prevenção (FOCO).",
+    "Asfixiar o dinheiro do crime com Receita Federal, COAF e Justiça e cortar o comando das facções nos presídios (p. 45)."
+   ],
+   "trabalho": [
+    "Formar 10 milhões de microempreendedores; crédito de até R$ 20 mil a 5%–6% ao ano.",
+    "Sem proposta sobre jornada."
+   ],
+   "renda": [
+    "Manter o Bolsa Família sem corte imediato para quem conseguir emprego ou abrir empresa."
+   ],
+   "impostos": [
+    "Concluir a reforma com carga menor ao fim da transição.",
+    "Dar mais receita aos municípios.",
+    "Simplificar tributos e ajustar a reforma se houver prejuízo às micro e pequenas empresas (p. 37)."
+   ],
+   "estado": [
+    "Adotar o semipresidencialismo.",
+    "Metas anuais públicas por ministério; sem privatizações."
+   ],
+   "ambiente": [
+    "90% de matriz energética limpa até 2040.",
+    "Combate a incêndios com satélite e drones."
+   ],
+   "externa": [
+    "Embaixadas com metas de negócios e mais foco em Índia, China e Oriente Médio."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Medicina (Famerp), pós-graduação em Psiquiatria e doutorado em Psicologia Multifocal",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Opção: formação dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"
+   },
+   "eventos": [
+    {
+     "tipo": "formacao",
+     "titulo": "Formação em Medicina e Psiquiatria",
+     "ano": "—"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Escritor com livros publicados em mais de 70 países",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira eleição que disputa",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+   },
+   {
+    "titulo": "Jornal Opção: declaração de bens dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"
+   },
+   {
+    "titulo": "TSE: Cury aprovado e Marçal indeferido",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Escritor e crítico",
+   "idade": 68,
+   "patrimonio": 242593012.43,
+   "redes": [
+    "https://instagram.com/augustocury",
+    "https://kwai.com/@augustocuryoficial",
+    "https://www.facebook.com/augustocury.autor",
+    "https://www.linkedin.com/in/augustocury",
+    "https://www.threads.com/@augustocury",
+    "https://www.tiktok.com/@augustocuryoficial"
+   ],
+   "financas": {
+    "fefc": 1030953.08,
+    "fundoPartidario": 1323232.77,
+    "partido": 5000.0,
+    "pessoasFisicas": 212062.0,
+    "proprios": 550000.0,
+    "arrecadado": 3121247.85,
+    "contratado": 440166.67,
+    "pago": 422166.67,
+    "limite": 88944030.8,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Samara",
+  "partido": "UP",
+  "vice": "Raquel Bricio (UP)",
+  "idade": "38 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": {
+   "valor": "R$ 33 mil",
+   "nota": "Menor patrimônio entre os presidenciáveis."
+  },
+  "resumoTrajetoria": [
+   "Candidata a vice-presidente em 2022",
+   "Primeira vez como cabeça de chapa"
+  ],
+  "propostas": {
+   "saude": [
+    "SUS 100% estatal e fim dos planos de saúde privados."
+   ],
+   "educacao": [
+    "10% do PIB para educação; abolir vestibular e ENEM."
+   ],
+   "seguranca": [
+    "Desmilitarizar as polícias; foco no combate ao feminicídio."
+   ],
+   "trabalho": [
+    "Fim da escala 6x1 com 36 horas; dobrar o salário mínimo.",
+    "Revogar as reformas trabalhista e da Previdência (p. 8 e 12)."
+   ],
+   "renda": [
+    "Sem programa claro de transferência; aposta em salário mínimo e frentes de trabalho."
+   ],
+   "impostos": [
+    "Isentar quem vive de salário; taxar fortunas, lucros e heranças."
+   ],
+   "estado": [
+    "Nacionalizar bancos e reestatizar empresas privatizadas."
+   ],
+   "ambiente": [
+    "Proibir agrotóxicos já banidos no exterior."
+   ],
+   "externa": [
+    "Encerrar a submissão a EUA e China; proteger as terras raras."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Odontologia; dentista do SUS",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: trajetória dos presidenciáveis",
+    "url": "https://diariodocomercio.com.br/politica/pre-candidatos-presidencia-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Dentista do SUS e ativista de movimentos sociais",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Diário do Comércio: trajetória dos presidenciáveis",
+      "url": "https://diariodocomercio.com.br/politica/pre-candidatos-presidencia-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a vice-presidente: a chapa teve 0,05% dos votos",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "O Povo: quem são os candidatos à Presidência",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira vez como cabeça de chapa",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"
+   },
+   {
+    "titulo": "Resumo do plano por tema, com páginas do PDF",
+    "url": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+   },
+   {
+    "titulo": "Jornal Opção: declaração de bens dos presidenciáveis",
+    "url": "https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"
+   },
+   {
+    "titulo": "TSE: registros validados à Presidência",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Odontólogo",
+   "idade": 39,
+   "patrimonio": 33000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 3364.55,
+   "redes": [
+    "https://www.instagram.com/samaramartinsup",
+    "https://www.tiktok.com/@samara.martinsup"
+   ],
+   "financas": {
+    "fefc": 361701.94,
+    "coletivo": 82220.0,
+    "arrecadado": 443921.94,
+    "contratado": 642953.76,
+    "pago": 233176.42,
+    "limite": 88944030.8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

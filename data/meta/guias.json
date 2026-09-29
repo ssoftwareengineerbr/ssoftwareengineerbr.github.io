@@ -1,0 +1,91 @@
+{
+  "presidente": {
+    "faz": [
+      "Chefia o governo federal e escolhe os ministros.",
+      "Envia o Orçamento ao Congresso e define a política econômica.",
+      "Sanciona ou veta leis, comanda as Forças Armadas e a política externa.",
+      "Indica ministros do STF, que precisam ser aprovados pelo Senado."
+    ],
+    "naofaz": [
+      "Não aprova leis sozinho: mudanças grandes dependem do Congresso (uma PEC exige 3/5 dos votos na Câmara e no Senado).",
+      "Não comanda a PM nem a Polícia Civil, que são dos estados."
+    ],
+    "observar": [
+      "A proposta tem meta com número e prazo, ou só intenção?",
+      "Diz quanto custa e de onde sai o dinheiro?",
+      "Depende do Congresso? Se sim, o candidato tem base para aprovar?",
+      "Combina com o que ele já fez quando teve cargo?",
+      "Quem é o vice: ele assume se o titular sair.",
+      "Como o patrimônio declarado evoluiu entre eleições."
+    ]
+  },
+  "governador": {
+    "faz": [
+      "Comanda a Polícia Militar, a Polícia Civil, a Polícia Científica e os presídios estaduais.",
+      "Cuida da rede estadual de ensino (principalmente o ensino médio) e de hospitais estaduais.",
+      "Administra rodovias estaduais e as empresas estaduais.",
+      "Envia o orçamento estadual à Assembleia Legislativa."
+    ],
+    "naofaz": [
+      "Não controla BRs, Polícia Federal nem juros: isso é da União.",
+      "Posto de saúde e escola de ensino fundamental costumam ser das prefeituras."
+    ],
+    "observar": [
+      "Metas medíveis com prazo: quantos leitos, quantos dias de fila, qual cobertura de esgoto.",
+      "Proposta com valor em reais e fonte do recurso.",
+      "Se já governou algo, o que os dados mostram do período (não só o que a campanha diz).",
+      "O plano fala do estado real ou é genérico?",
+      "Quem é o vice e qual coligação sustenta a chapa."
+    ]
+  },
+  "senado": {
+    "faz": [
+      "Vota leis e emendas à Constituição junto com a Câmara.",
+      "Aprova ministros do STF, o procurador-geral, diretores do Banco Central e embaixadores.",
+      "Julga o presidente em caso de impeachment.",
+      "Autoriza empréstimos de estados e municípios."
+    ],
+    "naofaz": [
+      "Não executa obras nem manda verba diretamente: pode indicar emendas ao Orçamento.",
+      "Não precisa registrar plano de governo no TSE."
+    ],
+    "observar": [
+      "Mandato de 8 anos: pese a trajetória mais que a promessa.",
+      "Se já foi parlamentar: presença, projetos e como votou nos temas que importam para você.",
+      "Cada senador tem dois suplentes, que assumem se ele sair. Confira quem são no TSE.",
+      "Este ano são dois votos: escolha duas pessoas diferentes. Repetir o número anula o segundo voto.",
+      "Não existe voto de legenda para senador."
+    ]
+  },
+  "depfed": {
+    "faz": [
+      "Propõe e vota leis federais e o Orçamento da União.",
+      "Fiscaliza o governo federal e pode abrir CPIs.",
+      "Indica emendas parlamentares, que levam verba federal a cidades e entidades."
+    ],
+    "naofaz": [
+      "Não governa nem executa obras."
+    ],
+    "observar": [
+      "O voto é proporcional: primeiro conta para o partido ou federação, depois para o candidato. Seu voto pode ajudar a eleger outra pessoa do mesmo partido.",
+      "Você pode votar só no partido (voto de legenda) digitando os 2 primeiros dígitos.",
+      "Se já teve mandato: presença, projetos aprovados, gastos da cota parlamentar e destino das emendas.",
+      "Troca frequente de partido pode indicar pouca fidelidade programática."
+    ]
+  },
+  "depest": {
+    "faz": [
+      "Propõe e vota leis estaduais e o orçamento do estado na Assembleia Legislativa.",
+      "Fiscaliza o governador, com apoio do Tribunal de Contas do Estado.",
+      "Indica emendas ao orçamento estadual."
+    ],
+    "naofaz": [
+      "Não governa nem executa obras."
+    ],
+    "observar": [
+      "Mesmo sistema proporcional do deputado federal: o voto conta primeiro para o partido.",
+      "Voto de legenda também é permitido.",
+      "Veja se o candidato conhece os problemas da sua região e o que fez em mandatos anteriores."
+    ]
+  }
+}

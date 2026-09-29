@@ -1,0 +1,601 @@
+[
+ {
+  "numero": "11",
+  "nome": "Joel Rodrigues",
+  "partido": "PP",
+  "vice": "Jeová Alencar (UNIÃO)",
+  "idade": "56 anos",
+  "coligacao": "Juntos Pelo Piauí (Podemos, federação PRD e Solidariedade, federação União e PP, PL)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: técnico contabilidade, estatística, economia doméstica e administração"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Técnico contabilidade, estatística, economia doméstica e administração",
+   "idade": 56,
+   "patrimonio": 1688256.2,
+   "concorreu2022": true,
+   "patrimonio2022": 1189872.57,
+   "redes": [
+    "https://k.kwai.com/u/@joelrodriguespi/cgqqszbm",
+    "https://linktr.ee/joelrodrigues11",
+    "https://www.facebook.com/joelrodriguespi",
+    "https://www.instagram.com/euecascadebalapi",
+    "https://www.instagram.com/hablapiaui",
+    "https://www.instagram.com/joelcompovo"
+   ],
+   "financas": {
+    "fefc": 3884870.0,
+    "fundoPartidario": 3198000.0,
+    "pessoasFisicas": 43690.0,
+    "proprios": 15000.0,
+    "outrosCandidatos": 13120.6,
+    "arrecadado": 7154680.6,
+    "contratado": 2108677.51,
+    "pago": 1434266.41,
+    "limite": 7115522.46,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Rafael Fonteles",
+  "partido": "PT",
+  "vice": "Washington Bandeira (PT)",
+  "idade": "41 anos",
+  "coligacao": "A Força do Povo (Republicanos, PDT, MDB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 41,
+   "patrimonio": 1799948.6,
+   "concorreu2022": true,
+   "patrimonio2022": 1649200.0,
+   "redes": [
+    "https://k.kwai.com/u/@rafaelfonteleles/wwcqexhu",
+    "https://www.facebook.com/rafaelfontelespi",
+    "https://www.instagram.com/rafael.fonteles",
+    "https://www.threads.com/@rafael.fonteles",
+    "https://www.tiktok.com/@rafaelfontelespi",
+    "https://www.youtube.com/@rafaelfonteles"
+   ],
+   "financas": {
+    "fefc": 711552.25,
+    "pessoasFisicas": 3580387.34,
+    "proprios": 129133.0,
+    "outrosCandidatos": 680000.0,
+    "arrecadado": 5101072.59,
+    "contratado": 5647077.03,
+    "pago": 1289813.18,
+    "limite": 7115522.46,
+    "doadoresPF": 304,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Geraldo Carvalho",
+  "partido": "PSTU",
+  "vice": "Gervásio Santos (PSTU)",
+  "idade": "68 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 68,
+   "patrimonio": 200590.0,
+   "concorreu2022": true,
+   "patrimonio2022": 200590.0,
+   "redes": [
+    "https://www.instagram.com/geraldo_pstu"
+   ],
+   "financas": {
+    "fefc": 27002.0,
+    "arrecadado": 27002.0,
+    "contratado": 21000.0,
+    "pago": 2500.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Professor Jurity",
+  "partido": "DC",
+  "vice": "Pedro Pereira (DC)",
+  "idade": "71 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 71,
+   "patrimonio": 998500.0,
+   "redes": [
+    "https://www.instagram.com/francisco.jurity"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Lourdes Melo",
+  "partido": "PCO",
+  "vice": "Zeferino da Silva Brasil (PCO)",
+  "idade": "73 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 73,
+   "patrimonio": 450000.0,
+   "redes": [
+    "https://www.instagram.com/lourdes_melo29",
+    "https://www.threads.com/@lourdes_melo29"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "Elizeu Aguiar",
+  "partido": "NOVO",
+  "vice": "Ismar Marques (NOVO)",
+  "idade": "60 anos",
+  "coligacao": "A Força da Fé (Novo, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 60,
+   "patrimonio": 1592808.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/elizeuaguiarr"
+   ],
+   "financas": {
+    "fefc": 35000.0,
+    "fundoPartidario": 4500.0,
+    "pessoasFisicas": 4874.15,
+    "proprios": 1800.0,
+    "coletivo": 1360.0,
+    "arrecadado": 47534.15,
+    "contratado": 36912.71,
+    "pago": 21385.66,
+    "limite": 7115522.46,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Ravenna da Inclusão",
+  "partido": "DEMOCRATA",
+  "vice": "João Ricardo (DEMOCRATA)",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 40,
+   "patrimonio": 91600.52,
+   "redes": [
+    "https://facebook.com/draravennacastro",
+    "https://instagram.com/ravenna_da_inclusao",
+    "https://instagram.com/ravennacastropi"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Dra. Lúcia Santos",
+  "partido": "PSDB",
+  "vice": "Dr. Paulo Eudes (PSDB)",
+  "idade": "61 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 61,
+   "patrimonio": 799134.68,
+   "redes": [
+    "https://www.instagram.com/draluciasantos",
+    "https://www.youtube.com/@dra.luciasantos"
+   ],
+   "financas": {
+    "fefc": 70000.0,
+    "proprios": 17500.0,
+    "arrecadado": 87500.0,
+    "contratado": 57302.0,
+    "pago": 6171.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Professor Gisvaldo",
+  "partido": "PSOL",
+  "vice": "Edilene Pinho (PSOL)",
+  "idade": "48 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 48,
+   "patrimonio": 100000.0,
+   "redes": [
+    "https://www.facebook.com/gisvaldooliveira.dasilva",
+    "https://www.instagram.com/gisvaldooliveira",
+    "https://www.threads.com/@gisvaldooliveira",
+    "https://x.com/gisvaldopsol"
+   ],
+   "financas": {
+    "fefc": 94000.0,
+    "coletivo": 3610.0,
+    "arrecadado": 97610.0,
+    "contratado": 72654.8,
+    "pago": 72654.8,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "70",
+  "nome": "Gustavo Pelo Piauí Ou Gustavo",
+  "partido": "AVANTE",
+  "vice": "Lucas Veras de Moraes (AVANTE)",
+  "idade": "52 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 52,
+   "patrimonio": 148000.0,
+   "redes": [
+    "https://www.facebook.com/gustavohenriquepelopiaui",
+    "https://www.instagram.com/gustavo_henrique_povo"
+   ],
+   "financas": {
+    "proprios": 3000.0,
+    "arrecadado": 3000.0,
+    "contratado": 2500.0,
+    "pago": 2500.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Santiago Belizário",
+  "partido": "UP",
+  "vice": "Thays Dias (UP)",
+  "idade": "33 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 33,
+   "patrimonio": 967.43,
+   "redes": [
+    "https://www.instagram.com/santiagobelizario"
+   ],
+   "financas": {
+    "fefc": 5711.5,
+    "arrecadado": 5711.5,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

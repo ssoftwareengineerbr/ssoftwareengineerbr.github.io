@@ -1,0 +1,289 @@
+[
+ {
+  "numero": "10",
+  "nome": "Lorenzo Pazolini",
+  "partido": "REPUBLICANOS",
+  "vice": "Eliane Leal (PL)",
+  "idade": "44 anos",
+  "coligacao": "Paz Pra Viver Um Novo Tempo (Republicanos, PL, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 44,
+   "patrimonio": 1002342.77,
+   "redes": [
+    "https://www.facebook.com/lorenzopazolinioficial",
+    "https://www.instagram.com/lorenzopazolini",
+    "https://www.threads.com/@lorenzopazolini",
+    "https://www.tiktok.com/@lorenzo.pazolini",
+    "https://www.youtube.com/@pazolini10"
+   ],
+   "financas": {
+    "fefc": 3257876.51,
+    "fundoPartidario": 2150000.0,
+    "pessoasFisicas": 116192.74,
+    "outrosCandidatos": 29250.0,
+    "arrecadado": 5553319.25,
+    "contratado": 4105688.5,
+    "pago": 2941637.45,
+    "limite": 7115522.46,
+    "doadoresPF": 41,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Helder Salomão",
+  "partido": "PT",
+  "vice": "Professora Valdirene (PT)",
+  "idade": "62 anos",
+  "coligacao": "Federação PT, PCdoB e PV",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 62,
+   "patrimonio": 1206682.23,
+   "redes": [
+    "https://tiktok.com/@heldersalomao13",
+    "https://www.facebook.com/heldersalomao.espiritosanto",
+    "https://www.instagram.com/heldersalomao",
+    "https://www.linkedin.com/in/helder-salom%c3%a3o-49a832103",
+    "https://www.linkedin.com/in/helder-salom%c3%a3o-aa082b248",
+    "https://www.threads.com/@heldersalomao"
+   ],
+   "financas": {
+    "fefc": 5269313.48,
+    "pessoasFisicas": 43000.0,
+    "outrosCandidatos": 57500.0,
+    "arrecadado": 5369813.48,
+    "contratado": 3126303.99,
+    "pago": 1790367.21,
+    "limite": 7115522.46,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Breno Barcelos",
+  "partido": "MISSÃO",
+  "vice": "Victor Oliveira (MISSÃO)",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 41,
+   "patrimonio": 252501.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/brenobarcelos14",
+    "https://tiktok.com/@brenobarcelos.14",
+    "https://x.com/brenobarcelos_",
+    "https://youtube.com/@brenobarcelos14"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "coletivo": 5704.28,
+    "arrecadado": 105704.28,
+    "contratado": 61662.0,
+    "pago": 61662.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Ricardo Ferraço",
+  "partido": "MDB",
+  "vice": "Camillo Neves (PP)",
+  "idade": "63 anos",
+  "coligacao": "Agora É O Futuro (Podemos, MDB, Agir, PSB, PDT, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Governador",
+   "idade": 63,
+   "patrimonio": 27668789.55,
+   "redes": [
+    "https://tiktok.com/@ricardo.ferraco",
+    "https://www.facebook.com/ricardorferraco",
+    "https://www.instagram.com/ricardoferraco",
+    "https://www.threads.com/@ricardoferraco",
+    "https://www.youtube.com/@ricardoferra%c3%a7ooficial",
+    "https://www.youtube.com/@ricardoferracooficial"
+   ],
+   "financas": {
+    "fefc": 4000000.0,
+    "fundoPartidario": 100000.0,
+    "pessoasFisicas": 531950.0,
+    "proprios": 5000.0,
+    "outrosCandidatos": 38500.0,
+    "arrecadado": 4675450.0,
+    "contratado": 3396052.25,
+    "pago": 616620.36,
+    "limite": 7115522.46,
+    "doadoresPF": 84,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Rafael Demuner",
+  "partido": "UP",
+  "vice": "Dionary Sarmento (UP)",
+  "idade": "35 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 35,
+   "patrimonio": 50550.0,
+   "redes": [
+    "https://www.instagram.com/rafael.demuner_up",
+    "https://www.instagram.com/unidadepopular.es"
+   ],
+   "financas": {
+    "fefc": 1000.0,
+    "arrecadado": 1000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

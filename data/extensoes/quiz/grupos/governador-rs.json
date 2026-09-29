@@ -1,0 +1,256 @@
+{
+ "cargo": "governador",
+ "temas": {
+  "seguranca": [
+   {
+    "id": "g0",
+    "texto": "Inteligência e combate ao crime organizado",
+    "itens": [
+     "12.0",
+     "22.0",
+     "45.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Manter o modelo RS Seguro, integrando polícias e tecnologia",
+    "itens": [
+     "15.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Combate à violência contra a mulher",
+    "itens": [
+     "12.1",
+     "15.1",
+     "45.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Apoio policial imediato às reintegrações de posse no campo",
+    "itens": [
+     "22.1"
+    ]
+   }
+  ],
+  "saude": [
+   {
+    "id": "g0",
+    "texto": "Zerar as filas de cirurgias e exames",
+    "itens": [
+     "12.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Atendimento mais perto de casa: regionalizar e apoiar hospitais do interior",
+    "itens": [
+     "15.0",
+     "22.0",
+     "45.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Aplicar os 12% da receita na saúde",
+    "itens": [
+     "12.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Programas para grupos específicos e gestão do IPE Saúde",
+    "itens": [
+     "15.1",
+     "22.1"
+    ]
+   }
+  ],
+  "educacao": [
+   {
+    "id": "g0",
+    "texto": "Alfabetização na idade certa, com metas",
+    "itens": [
+     "22.0",
+     "45.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Tempo integral e ensino técnico",
+    "itens": [
+     "12.0",
+     "15.0",
+     "15.1",
+     "45.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Valorizar professores: piso e jornada",
+    "itens": [
+     "12.1",
+     "29.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Mais escolas cívico-militares",
+    "itens": [
+     "22.1"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Contra militarização e parcerias privadas; ensino 100% público",
+    "itens": [
+     "16.0",
+     "29.0",
+     "80.0"
+    ]
+   }
+  ],
+  "gestao": [
+   {
+    "id": "g0",
+    "texto": "Manter bancos estaduais públicos e crédito para pequenos negócios",
+    "itens": [
+     "12.0",
+     "12.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Renegociar a dívida com a União pelo Propag e aliviar impostos",
+    "itens": [
+     "15.0",
+     "15.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Não aumentar impostos, cortar cargos e priorizar PPPs e concessões",
+    "itens": [
+     "22.0",
+     "22.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Metas públicas, monitoramento e transparência",
+    "itens": [
+     "45.0",
+     "45.1"
+    ]
+   }
+  ],
+  "infra": [
+   {
+    "id": "g0",
+    "texto": "Alertas e Defesa Civil mais preparados para eventos extremos",
+    "itens": [
+     "12.0",
+     "12.1",
+     "15.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Obras contra enchentes e fundos para resiliência",
+    "itens": [
+     "15.1",
+     "45.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Irrigação, seguro rural e fundo regional para o Sul",
+    "itens": [
+     "22.0",
+     "22.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Desenvolvimento da Zona Sul",
+    "itens": [
+     "45.1"
+    ]
+   }
+  ]
+ },
+ "dilemas": {
+  "seguranca": [
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "saude": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g2",
+    "g3"
+   ]
+  ],
+  "educacao": [
+   [
+    "g1",
+    "g4"
+   ],
+   [
+    "g0",
+    "g4"
+   ],
+   [
+    "g1",
+    "g3"
+   ]
+  ],
+  "gestao": [
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "infra": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,521 @@
+[
+ {
+  "numero": "100",
+  "nome": "Alexandre Curi",
+  "partido": "REPUBLICANOS",
+  "idade": "47 anos",
+  "coligacao": "Coligação A Mudança Continua (Republicanos, MDB, Democrata, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 47,
+   "patrimonio": 1088725.03,
+   "redes": [
+    "https://www.facebook.com/alexandrecuri",
+    "https://www.facebook.com/alexandrecurioficial",
+    "https://www.instagram.com/alexandre.curi",
+    "https://www.threads.com/@alexandre.curi",
+    "https://www.tiktok.com/@alexandrecuri",
+    "https://www.youtube.com/@alexandrecurioficial"
+   ],
+   "financas": {
+    "fefc": 1116878.14,
+    "fundoPartidario": 750000.0,
+    "partido": 1500000.0,
+    "pessoasFisicas": 751500.0,
+    "outrosCandidatos": 1312.75,
+    "arrecadado": 4119690.89,
+    "contratado": 3569479.67,
+    "pago": 2903550.67,
+    "limite": 4447201.54,
+    "doadoresPF": 27,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dudu Potencial (REPUBLICANOS) e Nelson Padovani (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "131",
+  "nome": "Gleisi",
+  "partido": "PT",
+  "idade": "61 anos",
+  "coligacao": "Paraná Para Todos (PDT, federação PT, PCdoB e PV, federação PSOL e Rede, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 61,
+   "patrimonio": 1949457.16,
+   "redes": [
+    "https://www.facebook.com/gleisi.hoffmann",
+    "https://www.instagram.com/gleisihoffmann",
+    "https://www.kwai.com/@gleisihoffmann131",
+    "https://www.tiktok.com/@gleisihoffmannreal",
+    "https://www.youtube.com/gleisihoffmannpt",
+    "https://x.com/gleisi"
+   ],
+   "financas": {
+    "fefc": 4002481.38,
+    "pessoasFisicas": 403292.0,
+    "proprios": 50000.0,
+    "arrecadado": 4455773.38,
+    "contratado": 3169800.56,
+    "pago": 1294408.56,
+    "limite": 4447201.54,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Assis Gurgacz Neto (PDT) e Prof Aldair Rizzi (REDE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "132",
+  "nome": "Dr Rosinha",
+  "partido": "PT",
+  "idade": "75 anos",
+  "coligacao": "Paraná Para Todos (PDT, federação PT, PCdoB e PV, federação PSOL e Rede, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 75,
+   "patrimonio": 570724.21,
+   "redes": [
+    "https://facebook.com/drrosinha",
+    "https://instagram.com/drrosinha",
+    "https://linktr.ee/drrosinha",
+    "https://www.facebook.com/drrosinha",
+    "https://www.instagram.com/drrosinha",
+    "https://www.instagram.com/rosinhasenador"
+   ],
+   "financas": {
+    "fefc": 1091000.0,
+    "pessoasFisicas": 24035.25,
+    "proprios": 500.0,
+    "outrosCandidatos": 59000.0,
+    "arrecadado": 1174535.25,
+    "contratado": 864059.9,
+    "pago": 531007.89,
+    "limite": 4447201.54,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cris Wainer e Tia Celina (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "144",
+  "nome": "Karen Guerreiro",
+  "partido": "MISSÃO",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: gerente"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Gerente",
+   "idade": 45,
+   "patrimonio": 160500.0,
+   "redes": [
+    "https://www.facebook.com/people/karenguerreiro7/61572968800566",
+    "https://www.instagram.com/karen.guerreiro7",
+    "https://www.tiktok.com/@karen.guerreiro38"
+   ],
+   "financas": {
+    "fefc": 25000.0,
+    "arrecadado": 25000.0,
+    "contratado": 12127.95,
+    "pago": 12127.95,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sonni Rezini e Renato Scarante (MISSÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Filipe Barros",
+  "partido": "PL",
+  "idade": "35 anos",
+  "coligacao": "Fortaleza do Paraná (Podemos, PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 35,
+   "patrimonio": 1107434.39,
+   "redes": [
+    "https://www.facebook.com/filipebarrosoficial",
+    "https://www.instagram.com/filipebarrosoficial",
+    "https://www.tiktok.com/@depfilipebarros",
+    "https://www.youtube.com/@filipebarrosoficial",
+    "https://x.com/filipebarrost"
+   ],
+   "financas": {
+    "fefc": 3800000.0,
+    "pessoasFisicas": 54895.0,
+    "outrosCandidatos": 65.0,
+    "arrecadado": 3854960.0,
+    "contratado": 1473687.61,
+    "pago": 1081715.63,
+    "limite": 4447201.54,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paulo Base e Sergio Domingues (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Marcelo Marcelino",
+  "partido": "PCO",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: pedagogo"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Pedagogo",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "João Paulo e Alexandre Radde Kranen (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Deltan Dallagnol",
+  "partido": "NOVO",
+  "idade": "46 anos",
+  "coligacao": "Fortaleza do Paraná (Podemos, PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 46,
+   "patrimonio": 2756904.77,
+   "redes": [
+    "https://web.facebook.com/deltandallagnol",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/deltan.dalanhudo",
+    "https://www.instagram.com/deltandallagnol",
+    "https://www.instagram.com/deltansenador26",
+    "https://www.linkedin.com/in/deltan-dallagnol-65119456"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "fundoPartidario": 2107420.0,
+    "partido": 500000.0,
+    "pessoasFisicas": 553892.0,
+    "proprios": 430000.0,
+    "coletivo": 166790.0,
+    "arrecadado": 4058102.0,
+    "contratado": 3795383.87,
+    "pago": 1550730.54,
+    "limite": 4447201.54,
+    "doadoresPF": 21,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Professor Picler (PL) e Markenson Marques dos Santos (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Cristina Graeml",
+  "partido": "PSD",
+  "idade": "56 anos",
+  "coligacao": "Coligação A Mudança Continua (Republicanos, MDB, Democrata, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 56,
+   "patrimonio": 662697.63,
+   "redes": [
+    "https://linktr.ee/cristinagraeml",
+    "https://www.facebook.com/cristinagraeml",
+    "https://www.instagram.com/cristinagraeml",
+    "https://www.linkedin.com/in/cristinagraeml",
+    "https://www.threads.com/@cristinagraem",
+    "https://www.tiktok.com/@cristinagraeml"
+   ],
+   "financas": {
+    "fefc": 3500000.0,
+    "partido": 19209.08,
+    "pessoasFisicas": 20000.0,
+    "proprios": 10000.0,
+    "arrecadado": 3549209.08,
+    "contratado": 2782803.69,
+    "pago": 2162069.24,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcos Baumgart e Jackson André e Marcos Baumgart e Jackson André dos Santos (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Joaquim do MLB",
+  "partido": "UP",
+  "idade": "78 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: mecânico de manutenção"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Mecânico de manutenção",
+   "idade": 78,
+   "patrimonio": 8000.0,
+   "redes": [
+    "https://www.instagram.com/reel/dcjicskrzsw"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paty Cota e Fernando Dornellas (UP)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,782 @@
+[
+ {
+  "numero": "123",
+  "nome": "Rafael Motta",
+  "partido": "PDT",
+  "idade": "40 anos",
+  "coligacao": "Time Que Cuida (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 40,
+   "patrimonio": 1781561.08,
+   "concorreu2022": true,
+   "patrimonio2022": 1233892.0,
+   "redes": [
+    "https://www.facebook.com/share/1d1p1mzw5n",
+    "https://www.instagram.com/rafaelmottarn",
+    "https://www.tiktok.com/@rafaelmottarn",
+    "https://x.com/rafaelmottarn",
+    "https://youtube.com/@rafaelmottarn"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "fundoPartidario": 700000.0,
+    "proprios": 25600.0,
+    "arrecadado": 3725600.0,
+    "contratado": 2760207.49,
+    "pago": 1721901.77,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jean Paul Prates (PDT) e João Batista (PV)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "131",
+  "nome": "Samanda de Lula",
+  "partido": "PT",
+  "idade": "46 anos",
+  "coligacao": "Time Que Cuida (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: vereador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 46,
+   "patrimonio": 476720.98,
+   "concorreu2022": true,
+   "patrimonio2022": 377000.0,
+   "redes": [
+    "https://facebook.com/samandaalves",
+    "https://instagram.com/samanda",
+    "https://youtube.com/@samandaalves"
+   ],
+   "financas": {
+    "fefc": 3430698.33,
+    "fundoPartidario": 17499.99,
+    "proprios": 51533.17,
+    "arrecadado": 3499731.49,
+    "contratado": 3277784.17,
+    "pago": 1990775.97,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pluvia Oliveira (PT) e Oswaldo Negrao (PCDOB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Luciana Mandu",
+  "partido": "PSTU",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 56,
+   "patrimonio": 410000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1bsc274fsz",
+    "https://www.instagram.com/lucianamandu16",
+    "https://www.instagram.com/pstu_rn"
+   ],
+   "financas": {
+    "fefc": 14752.0,
+    "arrecadado": 14752.0,
+    "contratado": 13500.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Kelly Jane e Márcio Roberto (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "166",
+  "nome": "Rosália Fernandes",
+  "partido": "PSTU",
+  "idade": "59 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: assistente social"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Assistente social",
+   "idade": 59,
+   "patrimonio": 665000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 210000.0,
+   "redes": [
+    "https://www.facebook.com/share/19nbehwhap",
+    "https://www.instagram.com/pstu_rn",
+    "https://www.instagram.com/rosaliapstu16"
+   ],
+   "financas": {
+    "fefc": 14752.0,
+    "arrecadado": 14752.0,
+    "contratado": 13500.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Nazareno Godeiro e Josimar Henrique (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "200",
+  "nome": "Styvenson Valentim",
+  "partido": "PODE",
+  "idade": "49 anos",
+  "coligacao": "Endireita Rn (Podemos, PL, Novo, federação PSDB e Cidadania, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 49,
+   "patrimonio": 2754814.75,
+   "concorreu2022": true,
+   "patrimonio2022": 137912.72,
+   "redes": [
+    "https://www.facebook.com/capitaostyvensonsenadorrn",
+    "https://www.facebook.com/senadorstyvensonvalentim",
+    "https://www.facebook.com/share/1f1nmpqcft",
+    "https://www.facebook.com/styvensonvalentim",
+    "https://www.instagram.com/capitaostyvensonsenador",
+    "https://www.instagram.com/senadorstyvensonvalentim"
+   ],
+   "financas": {
+    "fefc": 3811887.03,
+    "pessoasFisicas": 20400.0,
+    "arrecadado": 3832287.03,
+    "contratado": 2370175.6,
+    "pago": 2370175.6,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Kelly Valentim (PODE) e Milena Galvão (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Coronel Hélio",
+  "partido": "PL",
+  "idade": "62 anos",
+  "coligacao": "Endireita Rn (Podemos, PL, Novo, federação PSDB e Cidadania, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: membro das forças armadas"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 62,
+   "patrimonio": 880627.5,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 1500000.0,
+    "fundoPartidario": 155000.0,
+    "pessoasFisicas": 11000.0,
+    "proprios": 10000.0,
+    "arrecadado": 1676000.0,
+    "contratado": 1108835.0,
+    "pago": 922791.0,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Valério Marinho (PSDB) e Gabriela Fagundes (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Linhares Jiboia",
+  "partido": "DC",
+  "idade": "49 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 49,
+   "patrimonio": 130000.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 21000.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Wilka Nóbrega e Allain Agente Judiciário (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "360",
+  "nome": "Gari Wendell Batista",
+  "partido": "AGIR",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 48,
+   "patrimonio": 36309.0,
+   "redes": [
+    "https://www.instagram.com/wendellbatist"
+   ],
+   "financas": {
+    "proprios": 300.0,
+    "arrecadado": 300.0,
+    "contratado": 8521.0,
+    "pago": 300.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "José Neto e Erivaldo Costa (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "369",
+  "nome": "Clóvis Costa do Coletivo Nós",
+  "partido": "AGIR",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: policial militar"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Policial militar",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "financas": {
+    "pessoasFisicas": 85.0,
+    "proprios": 733.4,
+    "arrecadado": 818.4,
+    "contratado": 7240.63,
+    "pago": 756.63,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Gari Aldair e Charllys Padilha e Priscila Dutra (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Tércio Tinôco",
+  "partido": "UNIÃO",
+  "idade": "39 anos",
+  "coligacao": "Esperança e Trabalho (Republicanos, MDB, PSD, federação PRD e Solidariedade, federação União e PP, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: vereador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 39,
+   "patrimonio": 515066.11,
+   "concorreu2022": true,
+   "patrimonio2022": 142048.87,
+   "redes": [
+    "https://www.facebook.com/terciotinoco",
+    "https://www.instagram.com/terciotinoco",
+    "https://www.youtube.com/@terciotinoco",
+    "https://x.com/terciotinoco"
+   ],
+   "financas": {
+    "fefc": 776344.0,
+    "fundoPartidario": 30000.0,
+    "pessoasFisicas": 7000.0,
+    "proprios": 41511.2,
+    "outrosCandidatos": 180000.0,
+    "arrecadado": 1034855.2,
+    "contratado": 679481.15,
+    "pago": 47985.15,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcos Solano (UNIÃO) e Dadaia Ribeiro (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Sandro Pimentel",
+  "partido": "PSOL",
+  "idade": "60 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 60,
+   "patrimonio": 590558.29,
+   "redes": [
+    "https://www.facebook.com/share/1dtzrcxn4a",
+    "https://www.instagram.com/sandropimentelpsol",
+    "https://www.youtube.com/@sandropimentel",
+    "https://www.youtube.com/@sandropimentel4016"
+   ],
+   "financas": {
+    "fefc": 45000.0,
+    "pessoasFisicas": 350.0,
+    "proprios": 6500.0,
+    "arrecadado": 51850.0,
+    "contratado": 23600.5,
+    "pago": 7500.5,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Danniel Morais e Wesley e Danilo (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "501",
+  "nome": "Sonia Godeiro",
+  "partido": "PSOL",
+  "idade": "72 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 72,
+   "patrimonio": 193000.0,
+   "redes": [
+    "https://www.facebook.com/share/18z1xmkc7o",
+    "https://www.instagram.com/soniagodeiro"
+   ],
+   "financas": {
+    "fefc": 45000.0,
+    "arrecadado": 45000.0,
+    "contratado": 44955.5,
+    "pago": 44955.5,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Rodrigo e Modesto Neto e Santino Arruda (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Zenaide Maia",
+  "partido": "PSD",
+  "idade": "71 anos",
+  "coligacao": "Esperança e Trabalho (Republicanos, MDB, PSD, federação PRD e Solidariedade, federação União e PP, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 71,
+   "patrimonio": 1494980.52,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/drazenaide",
+    "https://www.facebook.com/zenaidemaiarn",
+    "https://www.instagram.com/drazenaide",
+    "https://www.tiktok.com/@drazenaide",
+    "https://www.youtube.com/@zenaidern",
+    "https://x.com/zenaidern"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "partido": 3500.0,
+    "pessoasFisicas": 77840.0,
+    "proprios": 21000.0,
+    "arrecadado": 3102340.0,
+    "contratado": 3206539.43,
+    "pago": 1507018.74,
+    "limite": 3811887.03,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Netinho Lins (REPUBLICANOS) e Odete Lopes (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Professor Guilherme",
+  "partido": "UP",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 38,
+   "patrimonio": 15404.0,
+   "financas": {
+    "fefc": 24010.0,
+    "arrecadado": 24010.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Eleide dos Santos e Lucicleide Ferreira (UP)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "numero": "13",
+  "nome": "Elmano de Freitas",
+  "partido": "PT",
+  "vice": "Gabriella Aguiar (PSD)",
+  "idade": "56 anos",
+  "coligacao": "Ceará Forte do Lado Certo (PSB, PDT, Podemos, Mobiliza, federação PT, PCdoB e PV, Republicanos, PSD, MDB, federação PRD e Solidariedade, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 56,
+   "patrimonio": 366457.71,
+   "redes": [
+    "https://linktr.ee/elmanogovernador",
+    "https://www.facebook.com/elmanodefreitas",
+    "https://www.instagram.com/channel/abbtcbyjlouma9lx",
+    "https://www.instagram.com/elmanofreitas",
+    "https://www.kwai.com/@elmanodefreitas",
+    "https://www.threads.com/@elmanofreitas"
+   ],
+   "financas": {
+    "fefc": 1156272.4,
+    "partido": 514236.81,
+    "pessoasFisicas": 6974313.28,
+    "arrecadado": 8644822.49,
+    "contratado": 6436945.58,
+    "pago": 2768391.85,
+    "limite": 11562724.0,
+    "doadoresPF": 19,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Delegado Huggo",
+  "partido": "MISSÃO",
+  "vice": "Felipe Moreira (MISSÃO)",
+  "idade": "37 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 37,
+   "patrimonio": 256000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/1deuyqpjjp",
+    "https://instagram.com/partidomissao",
+    "https://tiktok.com/@delegadohuggoce",
+    "https://www.instagram.com/delegadohuggoce",
+    "https://www.instagram.com/missaoceara",
+    "https://www.k.kwai.com/u/@delegadohuggoce/ocinxmyh"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "coletivo": 7210.0,
+    "arrecadado": 107210.0,
+    "contratado": 64966.11,
+    "pago": 64966.11,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Zé Batista",
+  "partido": "PSTU",
+  "vice": "Ivonete (PSTU)",
+  "idade": "52 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: trabalhador de construção civil"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Trabalhador de construção civil",
+   "idade": 52,
+   "patrimonio": 157000.0,
+   "redes": [
+    "https://www.facebook.com/jose.batistaneto.98",
+    "https://www.instagram.com/zebatista_oficial"
+   ],
+   "financas": {
+    "fefc": 27502.0,
+    "arrecadado": 27502.0,
+    "contratado": 10000.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Ieri Braga",
+  "partido": "PCO",
+  "vice": "Laerte Silva (PCO)",
+  "idade": "37 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: químico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Químico",
+   "idade": 37,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/bragajunior29"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "Vera Lúcia",
+  "partido": "NOVO",
+  "vice": "Vera Lúcia (NOVO)",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 58,
+   "patrimonio": 660300.0,
+   "redes": [
+    "https://www.instagram.com/verinhanovo"
+   ],
+   "financas": {
+    "fefc": 422511.01,
+    "fundoPartidario": 299.0,
+    "pessoasFisicas": 66000.0,
+    "arrecadado": 488810.01,
+    "contratado": 230126.9,
+    "pago": 191626.9,
+    "limite": 11562724.0,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Danilo Soares",
+  "partido": "DEMOCRATA",
+  "vice": "Eryck Veloso (DEMOCRATA)",
+  "idade": "31 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/danilosoares.35",
+    "https://www.instagram.com/danilosoares.advogado",
+    "https://www.instagram.com/danilosoaresceara",
+    "https://www.instagram.com/democrata.ce",
+    "https://www.tiktok.com/@danilosoaresceara"
+   ],
+   "financas": {
+    "pessoasFisicas": 3500.0,
+    "arrecadado": 3500.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Ciro Gomes",
+  "partido": "PSDB",
+  "vice": "Roberto Claudio (UNIÃO)",
+  "idade": "68 anos",
+  "coligacao": "Unir Para Mudar (PL, federação PSDB e Cidadania, federação União e PP, DC, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 68,
+   "patrimonio": 1756648.94,
+   "concorreu2022": true,
+   "patrimonio2022": 3039761.97,
+   "redes": [
+    "https://br.linkedin.com/in/cirogomesoficial",
+    "https://facebook.com/cirogomesoficial",
+    "https://instagram.com/cirogomes",
+    "https://k.kwai.com/u/@cirogomesoficial/upcfwyta",
+    "https://kwai.com/@cirogomesoficial",
+    "https://linkedin.com/in/cirogomesoficial"
+   ],
+   "financas": {
+    "fefc": 7300000.0,
+    "pessoasFisicas": 2650000.0,
+    "arrecadado": 9950000.0,
+    "contratado": 7500372.73,
+    "pago": 7188360.74,
+    "limite": 11562724.0,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Serley Leal",
+  "partido": "UP",
+  "vice": "Catherine Teles (UP)",
+  "idade": "44 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: bancário e economiário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Bancário e economiário",
+   "idade": 44,
+   "patrimonio": 88094.69,
+   "concorreu2022": true,
+   "patrimonio2022": 177915.5,
+   "redes": [
+    "https://www.facebook.com/people/serley-leal/pfbid0d6qnn62dnoafdpb6vqcnb7mqm1zsnpkhw6vguvzmq4xzg121sy",
+    "https://www.instagram.com/serleylealup",
+    "https://www.instagram.com/unidadepopularce"
+   ],
+   "financas": {
+    "fefc": 6000.0,
+    "pessoasFisicas": 4180.0,
+    "proprios": 3000.0,
+    "coletivo": 5565.0,
+    "arrecadado": 18745.0,
+    "contratado": 15862.28,
+    "pago": 14362.28,
+    "limite": 11562724.0,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

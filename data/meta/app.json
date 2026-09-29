@@ -1,0 +1,19 @@
+{
+  "snapshot": "2026-09-26",
+  "snapshotTexto": "29/09/2026",
+  "tse": "https://divulgacandcontas.tse.jus.br/divulga/",
+  "eleicao": {
+    "primeiroTurno": "2026-10-04",
+    "segundoTurno": "2026-10-25"
+  },
+  "recursos": {
+    "nota": false,
+    "quiz": true
+  },
+  "datas": {
+    "tse": "29/09/2026",
+    "lista": "29/09/2026",
+    "contas": "29/09/2026",
+    "situacao": "29/09/2026"
+  }
+}

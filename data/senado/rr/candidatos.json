@@ -1,0 +1,710 @@
+[
+ {
+  "numero": "155",
+  "nome": "Teresa Surita",
+  "partido": "MDB",
+  "idade": "70 anos",
+  "coligacao": "Roraima Em Primeiro Lugar (PDT, MDB)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: publicitário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Publicitário",
+   "idade": 70,
+   "patrimonio": 8481615.57,
+   "redes": [
+    "https://facebook.com/teresasurita",
+    "https://www.instagram.com/teresasurita",
+    "https://www.tiktok.com/@teresasurita",
+    "https://www.youtube.com/@teresa_surita"
+   ],
+   "financas": {
+    "fefc": 2460357.13,
+    "pessoasFisicas": 18000.0,
+    "arrecadado": 2478357.13,
+    "contratado": 1373540.74,
+    "pago": 305407.7,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Flávio Zacher e Professora Ilma Xaud (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Helio Fernando Barbosa Lopes",
+  "partido": "PL",
+  "idade": "57 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: membro das forças armadas"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 57,
+   "patrimonio": 36000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 36000.0,
+   "redes": [
+    "https://k.kwai.com/u/@helio_lopes/63ptyjcj",
+    "https://www.facebook.com/share/1f3gpyvn4x",
+    "https://www.instagram.com/depheliolopes",
+    "https://www.threads.com/@depheliolopes",
+    "https://www.tiktok.com/@depheliolopes",
+    "https://x.com/depheliolopes"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 4000.0,
+    "arrecadado": 504000.0,
+    "contratado": 218999.5,
+    "pago": 138349.5,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Raimundo Silva e Dr. Alexandre Salomão e Humberto Brandão e Edjane Cardoso (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "227",
+  "nome": "Nicoletti",
+  "partido": "PL",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: membro das forças armadas"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 45,
+   "patrimonio": 2100000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 1270655.92,
+   "redes": [
+    "https://www.instagram.com/deputadonicoletti"
+   ],
+   "financas": {
+    "fefc": 3100000.0,
+    "proprios": 15500.0,
+    "arrecadado": 3115500.0,
+    "contratado": 2825494.3,
+    "pago": 1745884.3,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Subtenente Vélton e Michele Gutierrez (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Rogério Miranda",
+  "partido": "DC",
+  "idade": "77 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 77,
+   "patrimonio": 7470000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 7247350.38,
+   "redes": [
+    "https://www.facebook.com/rogerio.miranda.ii.2025",
+    "https://www.instagram.com/rogeriomirandarr",
+    "https://www.youtube.com/@rogeriomirandarr1829"
+   ],
+   "financas": {
+    "fundoPartidario": 2000.0,
+    "arrecadado": 2000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Gilmar Popular e Alfredo Bezerra (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Regina Tio Ivo",
+  "partido": "NOVO",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: comerciante"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Comerciante",
+   "idade": 56,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 60000.0,
+    "arrecadado": 60000.0,
+    "contratado": 210240.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dunga Silva e Marcos Silva e Zago (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Chico Rodrigues",
+  "partido": "PSB",
+  "idade": "75 anos",
+  "coligacao": "Roraima Mais Forte (PSB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 75,
+   "patrimonio": 4554226.65,
+   "redes": [
+    "https://www.facebook.com/share/1dduysleqk",
+    "https://www.instagram.com/chicorodriguesrr"
+   ],
+   "financas": {
+    "fefc": 1108252.0,
+    "proprios": 32000.0,
+    "arrecadado": 1140252.0,
+    "contratado": 1284794.52,
+    "pago": 466703.2,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pedro Arthur Rodrigues e Coronel Carla (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "433",
+  "nome": "Hiperion de Oliveira",
+  "partido": "PV",
+  "idade": "61 anos",
+  "coligacao": "Federação PT, PCdoB e PV",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 61,
+   "patrimonio": 40000.0,
+   "redes": [
+    "https://www.instagram.com/hiperion_oliveira",
+    "https://www.tiktok.com/@hiperion.oliveira"
+   ],
+   "financas": {
+    "outrosCandidatos": 5000.0,
+    "arrecadado": 5000.0,
+    "contratado": 3930.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Erislan Filhão (PV) e Edson Costa (PV) e Gleidson Marcelo (PCDOB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Pastor Isamar",
+  "partido": "UNIÃO",
+  "idade": "63 anos",
+  "coligacao": "Roraima Segue Em Frente (Republicanos, PSD, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 63,
+   "patrimonio": 1132126.82,
+   "redes": [
+    "https://www.facebook.com/share/1bapuax8nq",
+    "https://www.instagram.com/pastorisamar"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 48000.0,
+    "arrecadado": 1048000.0,
+    "contratado": 1438291.5,
+    "pago": 715581.5,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Isamar Júnior (UNIÃO) e Ronaldo Damasceno (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Márcio Junqueira",
+  "partido": "PSDB",
+  "idade": "58 anos",
+  "coligacao": "Roraima Mais Forte (PSB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/marciojunqueirarr"
+   ],
+   "financas": {
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 30000.0,
+    "pago": 10000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Leônidas Silva (CIDADANIA) e Edinaldo Barreira (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Bartô Macuxi",
+  "partido": "PSOL",
+  "idade": "57 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: desenhista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Desenhista",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/barto_macuxi"
+   ],
+   "financas": {
+    "fefc": 106056.64,
+    "arrecadado": 106056.64,
+    "contratado": 17283.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Lincoln Freire e Eliete Quadros (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "505",
+  "nome": "Mario Rocha",
+  "partido": "PSOL",
+  "idade": "67 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público civil aposentado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 67,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/mariorocharoraima"
+   ],
+   "financas": {
+    "proprios": 2500.0,
+    "arrecadado": 2500.0,
+    "contratado": 8810.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Diogo Montel e Giselda Macuxi e Isaac Montel (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Helena da Asatur",
+  "partido": "PSD",
+  "idade": "50 anos",
+  "coligacao": "Roraima Segue Em Frente (Republicanos, PSD, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 50,
+   "patrimonio": 10601281.01,
+   "redes": [
+    "https://www.facebook.com/helenadaasatur",
+    "https://www.instagram.com/helenadaasatur",
+    "https://www.youtube.com/@helenadaasatur",
+    "https://x.com/helenadaasatur"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 39500.0,
+    "arrecadado": 3039500.0,
+    "contratado": 2386841.32,
+    "pago": 1709523.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tânia Soares (UNIÃO) e Simone Queiroz (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Hilton Xavier",
+  "partido": "AVANTE",
+  "idade": "40 anos",
+  "coligacao": "Endireita Roraima (Avante, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agricultor",
+   "idade": 40,
+   "patrimonio": 17826300.0,
+   "redes": [
+    "https://www.facebook.com/share/1abfubxsvg",
+    "https://www.instagram.com/hiltonxavier"
+   ],
+   "financas": {
+    "pessoasFisicas": 4000.0,
+    "arrecadado": 4000.0,
+    "contratado": 31958.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Fernanda Macedo e Cairon Marques (AVANTE)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,523 @@
+[
+ {
+  "numero": "155",
+  "nome": "Eduardo Braga",
+  "partido": "MDB",
+  "idade": "65 anos",
+  "coligacao": "Força Amazonas (Republicanos, MDB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 65,
+   "patrimonio": 60278559.1,
+   "concorreu2022": true,
+   "patrimonio2022": 35789885.79,
+   "redes": [
+    "https://music.youtube.com/playlist",
+    "https://www.facebook.com/eduardobraga15",
+    "https://www.instagram.com/eduardobraga_am",
+    "https://www.kwai.com/@eduardobraga_am",
+    "https://www.threads.com/@eduardobraga_am",
+    "https://www.tiktok.com/@eduardobraga_am"
+   ],
+   "financas": {
+    "fefc": 3600000.0,
+    "partido": 181984.7,
+    "proprios": 20000.0,
+    "arrecadado": 3801984.7,
+    "contratado": 3190319.2,
+    "pago": 488157.4,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sandra Braga e Miguel Biango (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Evandro de Oliveira",
+  "partido": "PSTU",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: técnico de mecânica"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Técnico de mecânica",
+   "idade": 47,
+   "patrimonio": 7000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1exsasrz5z",
+    "https://www.instagram.com/evandropstu"
+   ],
+   "financas": {
+    "fefc": 14502.0,
+    "arrecadado": 14502.0,
+    "contratado": 12500.0,
+    "pago": 2000.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Antonio Neto e João Rebouças (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "181",
+  "nome": "Ismael Munduruku",
+  "partido": "REDE",
+  "idade": "44 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 44,
+   "patrimonio": 300000.0,
+   "redes": [
+    "https://www.facebook.com/ismael.goncalves.944",
+    "https://www.instagram.com/cacique_ismael_munduruku"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Laynara Prestes e Daila Prestes e André Monteiro (REDE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Capitão Alberto Neto",
+  "partido": "PL",
+  "idade": "44 anos",
+  "coligacao": "Mudar É Urgente (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 44,
+   "patrimonio": 655440.85,
+   "concorreu2022": true,
+   "patrimonio2022": 312000.0,
+   "redes": [
+    "https://linktr.ee/capitaoalbertoneto222",
+    "https://www.facebook.com/share/1dn2dvxbuh",
+    "https://www.instagram.com/capitaoalbertoneto",
+    "https://www.tiktok.com/@capitaoalbertoneto",
+    "https://x.com/capalbertoneto",
+    "https://youtube.com/@capalbertoneto"
+   ],
+   "financas": {
+    "fefc": 3800000.0,
+    "pessoasFisicas": 45000.0,
+    "proprios": 25000.0,
+    "arrecadado": 3870000.0,
+    "contratado": 2067761.87,
+    "pago": 1498825.55,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alessandro Toniza e Mário Bastos (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Dailson Corrêa",
+  "partido": "DC",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: comerciante"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Lê e escreve",
+   "ocupacao": "Comerciante",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/dailsoncorrea2026",
+    "https://www.instagram.com/dailsonqueirozcorrea",
+    "https://www.instagram.com/umnovoolharparaoamazonasdc",
+    "https://www.tiktok.com/@dailsoncorrea18"
+   ],
+   "financas": {
+    "pessoasFisicas": 1825.0,
+    "arrecadado": 1825.0,
+    "contratado": 4000.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Isaías Amazonas e Capelão Roberto da Silva (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "333",
+  "nome": "Xuxa do Amazonas",
+  "partido": "MOBILIZA",
+  "idade": "62 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: militar reformado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Militar reformado",
+   "idade": 62,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/milton.moreirapinto",
+    "https://www.instagram.com/oxuxaoficial"
+   ],
+   "financas": {
+    "fefc": 80000.0,
+    "arrecadado": 80000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Neida Farias e Angelo Reis (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Wilson Lima",
+  "partido": "UNIÃO",
+  "idade": "50 anos",
+  "coligacao": "União Pelo Amazonas (PSB, federação União e PP, Podemos)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 50,
+   "patrimonio": 597210.85,
+   "concorreu2022": true,
+   "patrimonio2022": 296832.59,
+   "redes": [
+    "https://linktr.ee/wilsonlima444",
+    "https://linktr.ee/wilsonlimaam",
+    "https://www.facebook.com/wilsonlimaam",
+    "https://www.instagram.com/atitude444wl",
+    "https://www.instagram.com/wilsonlimaam",
+    "https://www.threads.com/@wilsonlimaam"
+   ],
+   "financas": {
+    "fefc": 1855640.0,
+    "fundoPartidario": 615000.0,
+    "pessoasFisicas": 78078.72,
+    "outrosCandidatos": 14000.0,
+    "arrecadado": 2562718.72,
+    "contratado": 1638209.8,
+    "pago": 615009.8,
+    "limite": 3811887.03,
+    "doadoresPF": 260,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luís Mário Bonates (UNIÃO) e Babá Tupinambá (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "455",
+  "nome": "Plinio Valério",
+  "partido": "PSDB",
+  "idade": "71 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 71,
+   "patrimonio": 3527132.51,
+   "concorreu2022": false,
+   "redes": [
+    "https://linktr.ee/pliniovalerio455",
+    "https://twitter.com/pliniovalerio45",
+    "https://www.facebook.com/pliniovalerioam",
+    "https://www.instagram.com/federacaopsdbcidadaniaam",
+    "https://www.instagram.com/plinio.valerio",
+    "https://www.kwai.com/@pliniovalerio444"
+   ],
+   "financas": {
+    "fefc": 2400000.0,
+    "pessoasFisicas": 55000.0,
+    "proprios": 138640.0,
+    "arrecadado": 2593640.0,
+    "contratado": 626000.0,
+    "pago": 110000.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Kelly Barbosa e Professora Judite (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Professora Evany",
+  "partido": "PSOL",
+  "idade": "52 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 52,
+   "patrimonio": 52448.3,
+   "redes": [
+    "https://www.facebook.com/evany.nascimento",
+    "https://www.facebook.com/share/17yrhdrcma",
+    "https://www.instagram.com/nasci.eva",
+    "https://www.instagram.com/prof.evany",
+    "https://www.tiktok.com/@evany.nascimento",
+    "https://www.youtube.com/@evanynascimento"
+   ],
+   "financas": {
+    "fefc": 45000.0,
+    "proprios": 5000.0,
+    "arrecadado": 50000.0,
+    "contratado": 21402.0,
+    "pago": 21402.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Renan Rotondano e Jander Muniz (PSOL)",
+  "suplentesFonte": "tse"
+ }
+]

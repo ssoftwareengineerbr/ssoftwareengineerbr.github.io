@@ -1,0 +1,487 @@
+[
+ {
+  "numero": "13",
+  "nome": "Cadu de Lula",
+  "partido": "PT",
+  "vice": "Larissa (PSB)",
+  "idade": "48 anos",
+  "coligacao": "Time Que Cuida (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 48,
+   "patrimonio": 100000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@caduxavierrn/x4cmcphe",
+    "https://web.facebook.com/profile.php",
+    "https://www.instagram.com/caduxavier",
+    "https://www.threads.com/@caduxavier",
+    "https://www.tiktok.com/@caduxavierrn",
+    "https://x.com/caduxavier"
+   ],
+   "financas": {
+    "fefc": 921552.25,
+    "fundoPartidario": 34206.5,
+    "pessoasFisicas": 100217.0,
+    "outrosCandidatos": 184710.0,
+    "coletivo": 50263.0,
+    "arrecadado": 1290948.75,
+    "contratado": 2944081.53,
+    "pago": 1152316.93,
+    "limite": 7115522.46,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Dário Barbosa",
+  "partido": "PSTU",
+  "vice": "Fernanda Soares (PSTU)",
+  "idade": "73 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 73,
+   "patrimonio": 170000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 170000.0,
+   "redes": [
+    "https://www.instagram.com/dariobarbosapstu",
+    "https://www.instagram.com/pstu_rn"
+   ],
+   "financas": {
+    "fefc": 28002.0,
+    "arrecadado": 28002.0,
+    "contratado": 23500.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Álvaro Dias",
+  "partido": "PL",
+  "vice": "Babá (PL)",
+  "idade": "67 anos",
+  "coligacao": "Endireita Rn (Podemos, PL, Novo, federação PSDB e Cidadania, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 67,
+   "patrimonio": 2917179.51,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/alavarodiasrn",
+    "https://www.instagram.com/alvarodiasrn"
+   ],
+   "financas": {
+    "fefc": 5000000.0,
+    "pessoasFisicas": 3460.0,
+    "proprios": 15000.0,
+    "arrecadado": 5018460.0,
+    "contratado": 5770039.87,
+    "pago": 2028237.65,
+    "limite": 7115522.46,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Godeiro Linharess",
+  "partido": "DC",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 49,
+   "patrimonio": 130000.0,
+   "redes": [
+    "https://www.facebook.com/share/1hrzvogih3",
+    "https://www.instagram.com/godeirolinharess27"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Henrique Lyra",
+  "partido": "PCO",
+  "vice": "Andre Gustavo (PCO)",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 41,
+   "patrimonio": 228000.0,
+   "redes": [
+    "https://www.facebook.com/hoclyra"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "36",
+  "nome": "Rodrigo de Bolsonaro",
+  "partido": "AGIR",
+  "vice": "Socorro Batista (AGIR)",
+  "idade": "46 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 46,
+   "patrimonio": 420000.0,
+   "redes": [
+    "https://www.instagram.com/rodrigobolsonarorn2026"
+   ],
+   "financas": {
+    "pessoasFisicas": 222.4,
+    "arrecadado": 222.4,
+    "contratado": 26222.4,
+    "pago": 222.4,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Allyson",
+  "partido": "UNIÃO",
+  "vice": "Hermano Morais (MDB)",
+  "idade": "34 anos",
+  "coligacao": "Esperança e Trabalho (Republicanos, MDB, PSD, Avante, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 34,
+   "patrimonio": 748869.84,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/167razoesrn",
+    "https://instagram.com/natalqueacredita",
+    "https://www.facebook.com/allysonbezerra.rn",
+    "https://www.instagram.com/allysonbezerra.rn",
+    "https://www.tiktok.com/@allysonbezerrarn",
+    "https://www.youtube.com/@allysonbezerra"
+   ],
+   "financas": {
+    "fefc": 4055595.0,
+    "partido": 549993.2,
+    "proprios": 48000.0,
+    "arrecadado": 4653588.2,
+    "contratado": 6673076.87,
+    "pago": 2355906.46,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Professor Roberio Paulino",
+  "partido": "PSOL",
+  "vice": "Lenny Grilo (PSOL)",
+  "idade": "69 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 69,
+   "patrimonio": 2194367.82,
+   "redes": [
+    "https://www.facebook.com/share/1awkwhzqxe",
+    "https://www.instagram.com/profroberiopaulino50"
+   ],
+   "financas": {
+    "fefc": 90000.0,
+    "pessoasFisicas": 200.0,
+    "proprios": 11000.0,
+    "arrecadado": 101200.0,
+    "contratado": 44926.5,
+    "pago": 24311.5,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Arinalda do MLB",
+  "partido": "UP",
+  "vice": "Francisco Dias (UP)",
+  "idade": "46 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empregado doméstico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Empregado doméstico",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 35530.0,
+    "arrecadado": 35530.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

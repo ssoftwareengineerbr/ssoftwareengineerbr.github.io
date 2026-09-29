@@ -1,0 +1,331 @@
+[
+ {
+  "numero": "13",
+  "nome": "Jerônimo Rodrigues",
+  "partido": "PT",
+  "vice": "Geraldo Júnior (MDB)",
+  "idade": "61 anos",
+  "coligacao": "Mais Bahia, Mais Brasil (PDT, MDB, PSB, PSD, Avante, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 61,
+   "patrimonio": 886548.53,
+   "concorreu2022": true,
+   "patrimonio2022": 515216.13,
+   "redes": [
+    "https://www.facebook.com/@jeronimorodriguesba",
+    "https://www.instagram.com/jeronimorodriguesba",
+    "https://www.threads.com/@jeronimorodriguesba",
+    "https://www.tiktok.com/@jeronimorodriguesba",
+    "https://x.com/jeronimoba13",
+    "https://youtube.com/@jeronimorodrigues"
+   ],
+   "financas": {
+    "fefc": 6878880.62,
+    "fundoPartidario": 50000.0,
+    "pessoasFisicas": 213630.17,
+    "arrecadado": 7142510.79,
+    "contratado": 6645210.66,
+    "pago": 1005052.0,
+    "limite": 17788806.16,
+    "doadoresPF": 16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Estêvão",
+  "partido": "DC",
+  "vice": "Neuzimar Camacam (DC)",
+  "idade": "68 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 68,
+   "patrimonio": 600000.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Maria Bona",
+  "partido": "PCO",
+  "vice": "Zé Ricardo (PCO)",
+  "idade": "73 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 73,
+   "patrimonio": 200000.0,
+   "redes": [
+    "https://www.instagram.com/bona50522"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Acm Neto",
+  "partido": "UNIÃO",
+  "vice": "Zé Cocá (PP)",
+  "idade": "47 anos",
+  "coligacao": "Unidos Para Mudar A Bahia (Republicanos, Podemos, PL, federação PSDB e Cidadania, federação PRD e Solidariedade, federação União e PP, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 47,
+   "patrimonio": 84888809.63,
+   "concorreu2022": true,
+   "patrimonio2022": 41718572.69,
+   "redes": [
+    "https://www.facebook.com/acmnetooficial",
+    "https://www.instagram.com/acmneto",
+    "https://www.kwai.com/@acmneto_",
+    "https://www.tiktok.com/@acmnetoba",
+    "https://www.youtube.com/acmnetooficial",
+    "https://x.com/acmneto_"
+   ],
+   "financas": {
+    "fefc": 16008194.03,
+    "fundoPartidario": 181000.0,
+    "partido": 300000.0,
+    "pessoasFisicas": 905000.0,
+    "arrecadado": 17394194.03,
+    "contratado": 13521739.26,
+    "pago": 10436165.5,
+    "limite": 17788806.16,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Ronaldo Mansur",
+  "partido": "PSOL",
+  "vice": "Prof. Meire Reis (PSOL)",
+  "idade": "47 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 47,
+   "patrimonio": 91397.22,
+   "concorreu2022": true,
+   "patrimonio2022": 1737.55,
+   "redes": [
+    "https://www.facebook.com/share/1cbsum9rgx",
+    "https://www.instagram.com/ronaldomansur.psol",
+    "https://www.tiktok.com/@ronaldomansur",
+    "https://x.com/ronaldomansur_"
+   ],
+   "financas": {
+    "fefc": 505253.2,
+    "arrecadado": 505253.2,
+    "contratado": 142286.3,
+    "pago": 129286.3,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Aroldo Felix",
+  "partido": "UP",
+  "vice": "Marilia do MLB (UP)",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 43,
+   "patrimonio": 857485.32,
+   "redes": [
+    "https://www.instagram.com/prof.aroldofelix_up"
+   ],
+   "financas": {
+    "fefc": 17690.0,
+    "coletivo": 2823.0,
+    "arrecadado": 20513.0,
+    "contratado": 459.8,
+    "pago": 459.8,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

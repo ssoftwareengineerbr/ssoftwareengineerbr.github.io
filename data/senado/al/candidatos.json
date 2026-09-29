@@ -1,0 +1,390 @@
+[
+ {
+  "numero": "100",
+  "nome": "Davi Davino Filho",
+  "partido": "REPUBLICANOS",
+  "idade": "39 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 39,
+   "patrimonio": 1412868.88,
+   "financas": {
+    "fefc": 1836781.12,
+    "pessoasFisicas": 67500.0,
+    "proprios": 10000.0,
+    "arrecadado": 1914281.12,
+    "contratado": 1096024.33,
+    "pago": 840074.33,
+    "limite": 3811887.03,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Arthur Albuquerque e Dra. Kamila (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "111",
+  "nome": "Arthur Lira",
+  "partido": "PP",
+  "idade": "57 anos",
+  "coligacao": "Alagoas Gigante II (PDT, Podemos, PL, federação PSDB e Cidadania, federação PRD e Solidariedade, federação União e PP, DC, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 57,
+   "patrimonio": 25961089.42,
+   "redes": [
+    "https://web.facebook.com/oficialarthurlira",
+    "https://www.instagram.com/oficialarthurlira",
+    "https://www.kwai.com/@arthurliraal",
+    "https://www.threads.com/@oficialarthurlira",
+    "https://www.tiktok.com/@arthurliraoficial",
+    "https://www.youtube.com/@oficialarthurlira"
+   ],
+   "financas": {
+    "fefc": 3811887.02,
+    "pessoasFisicas": 10720.0,
+    "proprios": 10600.0,
+    "arrecadado": 3833207.02,
+    "contratado": 1659328.89,
+    "pago": 1005628.89,
+    "limite": 3811887.03,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luiz Romero (PL) e Gustavo Feijó (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "Renan",
+  "partido": "MDB",
+  "idade": "71 anos",
+  "coligacao": "Pra Alagoas Fazer História de Novo (MDB, Podemos, Agir, PSB, PSD, Avante, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 71,
+   "patrimonio": 3548379.77,
+   "redes": [
+    "https://www.facebook.com/renansenador",
+    "https://www.instagram.com/renancalheiros",
+    "https://www.threads.com/@renancalheiros",
+    "https://www.tiktok.com/@renancalheiros15",
+    "https://www.youtube.com/@renancalheirosoficial",
+    "https://x.com/renancalheiros"
+   ],
+   "financas": {
+    "fefc": 3600000.0,
+    "fundoPartidario": 211000.0,
+    "arrecadado": 3811000.0,
+    "contratado": 2106830.08,
+    "pago": 679630.08,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paulo (MDB) e Gustavo Henrique (PSD) e Sabino (MDB) e Christiane Bulhões (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "156",
+  "nome": "Dr. Wanderley",
+  "partido": "MDB",
+  "idade": "77 anos",
+  "coligacao": "Pra Alagoas Fazer História de Novo (MDB, Podemos, Agir, PSB, PSD, Avante, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 77,
+   "patrimonio": 3532799.4,
+   "redes": [
+    "https://www.facebook.com/drjosewanderley",
+    "https://www.instagram.com/dr_wanderley",
+    "https://www.threads.com/@dr_wanderley"
+   ],
+   "financas": {
+    "fefc": 2000000.0,
+    "fundoPartidario": 54100.0,
+    "arrecadado": 2054100.0,
+    "contratado": 1709372.0,
+    "pago": 1201160.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Andrea Alfama (PCDOB) e Robertson (MDB) e Marivone Loureiro (PCDOB) e Rafael Tenório (MDB) e Cel. Camila Paiva (MDB) e Ademir (MDB) e Thiago Souza (PCDOB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "355",
+  "nome": "Mariedson",
+  "partido": "DEMOCRATA",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: vigilante"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Vigilante",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Adriana Nunes e Jeferson Gonçalves (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Marina Jhc",
+  "partido": "PSDB",
+  "idade": "35 anos",
+  "coligacao": "Alagoas Gigante II (PDT, Podemos, PL, DC, Avante, federação PSDB e Cidadania, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 35,
+   "patrimonio": 47041164.18,
+   "redes": [
+    "https://k.kwai.com/u/@marinajhc/yq3bc0ab",
+    "https://www.facebook.com/marina.candia.16",
+    "https://www.instagram.com/marina.candia",
+    "https://www.tiktok.com/@marinacandiaf",
+    "https://youtube.com/@marina.candia"
+   ],
+   "financas": {
+    "fefc": 1500000.0,
+    "partido": 15000.0,
+    "pessoasFisicas": 362000.0,
+    "arrecadado": 1877000.0,
+    "contratado": 1431611.7,
+    "pago": 561297.7,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dra. Eudocia (PSDB) e Ronaldo Lessa (PDT) e Jurandir Boia (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Alexandre Fleming",
+  "partido": "UP",
+  "idade": "49 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/alexandrefleming_"
+   ],
+   "financas": {
+    "fefc": 3200.0,
+    "partido": 1710.0,
+    "proprios": 3666.67,
+    "coletivo": 5301.0,
+    "arrecadado": 13877.67,
+    "contratado": 8874.98,
+    "pago": 8174.98,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Liliane Pereira e Professor Nivaldo Mota (UP)",
+  "suplentesFonte": "tse"
+ }
+]

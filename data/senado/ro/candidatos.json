@@ -1,0 +1,582 @@
+[
+ {
+  "numero": "100",
+  "nome": "Mariana Carvalho",
+  "partido": "REPUBLICANOS",
+  "idade": "39 anos",
+  "coligacao": "Rondonia Com A Força do Trabalho e da União (Republicanos, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 39,
+   "patrimonio": 3663447.56,
+   "redes": [
+    "https://www.facebook.com/marianacarvalho.ro",
+    "https://www.facebook.com/share/18jzwtj1aa",
+    "https://www.instagram.com/marianacarvalho.ro",
+    "https://www.instagram.com/monicameloro",
+    "https://www.tiktok.com/@marianacarvalho.ro",
+    "https://www.youtube.com/@marianacarvalhoro"
+   ],
+   "financas": {
+    "fefc": 2003016.0,
+    "fundoPartidario": 892998.3,
+    "pessoasFisicas": 20000.0,
+    "arrecadado": 2916014.3,
+    "contratado": 1840325.29,
+    "pago": 811980.95,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Francisco Raposo Jr (PP) e Ricardo Lira Maia (REPUBLICANOS) e Pastor Marcelo Rodrigues (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "111",
+  "nome": "Sílvia Cristina",
+  "partido": "PP",
+  "idade": "52 anos",
+  "coligacao": "Rondonia Com A Força do Trabalho e da União (Republicanos, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 52,
+   "patrimonio": 1372191.69,
+   "redes": [
+    "https://k.kwai.com/u/@silviacristina.ro/rfbcdfb8",
+    "https://www.facebook.com/share/19ku4s43yz",
+    "https://www.instagram.com/silviacristina.ro",
+    "https://www.tiktok.com/@silviacristina.roo",
+    "https://youtube.com/@silviacristinaro"
+   ],
+   "financas": {
+    "fefc": 3176572.53,
+    "fundoPartidario": 353750.0,
+    "pessoasFisicas": 54080.0,
+    "proprios": 10000.0,
+    "arrecadado": 3594402.53,
+    "contratado": 2626448.56,
+    "pago": 2150607.45,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcelo Lucas e Rodrigo Marinho (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "123",
+  "nome": "Acir Gurgacz",
+  "partido": "PDT",
+  "idade": "64 anos",
+  "coligacao": "Experiência, Fé e Autoridade: Rondônia Forte de Verdade (PDT, MDB)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 64,
+   "patrimonio": 14979953.33,
+   "concorreu2022": true,
+   "patrimonio2022": 12835874.87,
+   "financas": {
+    "fefc": 3000000.0,
+    "fundoPartidario": 70653.1,
+    "proprios": 10000.0,
+    "arrecadado": 3080653.1,
+    "contratado": 1015634.62,
+    "pago": 506999.17,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paulo Andrade (MDB) e Professor Mário Jorge (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "133",
+  "nome": "Luciana Oliveira",
+  "partido": "PT",
+  "idade": "53 anos",
+  "coligacao": "Federação PT, PCdoB e PV",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 53,
+   "patrimonio": 80000.0,
+   "redes": [
+    "https://www.facebook.com/share/1lwbqwmeda",
+    "https://www.instagram.com/lucianaoliveiradepvh",
+    "https://www.tiktok.com/@lucianadepvh"
+   ],
+   "financas": {
+    "fefc": 1588286.27,
+    "pessoasFisicas": 26573.9,
+    "outrosCandidatos": 3235.0,
+    "arrecadado": 1618095.17,
+    "contratado": 1424220.58,
+    "pago": 671586.08,
+    "limite": 3176572.53,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Toninho Masioli e Dr. Paulo Nunes (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "144",
+  "nome": "Engenheiro Thulio",
+  "partido": "MISSÃO",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 42,
+   "patrimonio": 40000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/engenheirothulio.ro",
+    "https://tiktok.com/@engenheirothulio.ro",
+    "https://x.com/castrothulio",
+    "https://youtube.com/@engenheirothulio",
+    "https://youtube.com/@omagodopaisagismo"
+   ],
+   "financas": {
+    "fefc": 25000.0,
+    "coletivo": 1870.0,
+    "arrecadado": 26870.0,
+    "contratado": 23741.2,
+    "pago": 23741.2,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cleidson Moura da Silva e Miguel Constance Martins (MISSÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "221",
+  "nome": "Dr. Fernando Máximo",
+  "partido": "PL",
+  "idade": "47 anos",
+  "coligacao": "Juntos Por Rondonia (Podemos, PL, DC, Novo, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 47,
+   "patrimonio": 2900071.44,
+   "concorreu2022": true,
+   "patrimonio2022": 2462633.04,
+   "redes": [
+    "https://k.kwai.com/u/@drfernandomaximo",
+    "https://k.kwai.com/u/@drfernandomaximo007",
+    "https://www.facebook.com/drfernandomaximo007",
+    "https://www.instagram.com/drfernandomaximo007",
+    "https://www.threads.com/@drfernandomaximo007",
+    "https://www.tiktok.com/@drfernandomaximo"
+   ],
+   "financas": {
+    "fefc": 1676000.0,
+    "partido": 900000.0,
+    "proprios": 20000.0,
+    "arrecadado": 2596000.0,
+    "contratado": 1746581.0,
+    "pago": 200400.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sandra Moraes (PODE) e Caico (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Bruno Scheid",
+  "partido": "PL",
+  "idade": "43 anos",
+  "coligacao": "Juntos Por Rondonia (Podemos, PL, DC, Novo, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Administrador",
+   "idade": 43,
+   "patrimonio": 1125641.24,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/brunobolsonaro222",
+    "https://www.instagram.com/brunoparatodos222",
+    "https://www.instagram.com/brunoscheid222",
+    "https://www.instagram.com/brunoscheidreserva222",
+    "https://www.instagram.com/channel/abyvo3unuxgafryw",
+    "https://www.instagram.com/reservabrunoscheid222"
+   ],
+   "financas": {
+    "pessoasFisicas": 1746460.0,
+    "proprios": 121725.0,
+    "arrecadado": 1868185.0,
+    "contratado": 2541365.42,
+    "pago": 1118413.5,
+    "limite": 3176572.53,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Guilherme Teodoro e Dilceu Fernandes (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Neidinha",
+  "partido": "PSB",
+  "idade": "67 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: historiador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Aguardando julgamento (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Historiador",
+   "idade": 67,
+   "patrimonio": 571000.0,
+   "redes": [
+    "https://www.facebook.com/ivaneide.bandeiracardozo",
+    "https://www.facebook.com/neidinha.surui",
+    "https://www.facebook.com/share/18kdpaxanu",
+    "https://www.facebook.com/share/1bdrclwuy4",
+    "https://www.instagram.com/neidinha_surui_",
+    "https://www.instagram.com/neidinhasurui"
+   ],
+   "financas": {
+    "pessoasFisicas": 346600.0,
+    "arrecadado": 346600.0,
+    "contratado": 167605.89,
+    "pago": 167391.02,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Aguardando julgamento",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Julio Olivar e Renê Hoyos e Berenice (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "432",
+  "nome": "Aires Mota",
+  "partido": "PV",
+  "idade": "52 anos",
+  "coligacao": "Federação PT, PCdoB e PV",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 52,
+   "patrimonio": 60000.0,
+   "redes": [
+    "https://www.instagram.com/airesmota",
+    "https://www.threads.com/@airesmota"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "outrosCandidatos": 1617.5,
+    "arrecadado": 301617.5,
+    "contratado": 72081.0,
+    "pago": 72081.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Toco do Sticcero (PT) e Lazaro da Saúde (PV)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Luis Fernando",
+  "partido": "PSD",
+  "idade": "58 anos",
+  "coligacao": "Gente Que Gosta de Gente (PSD, Avante, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 58,
+   "patrimonio": 2483577.36,
+   "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@luis.fernando00/ablch0s",
+    "https://www.instagram.com/luis.fernando.ro",
+    "https://www.tiktok.com/luis.fernando.ro0",
+    "https://youtube.com/luisfernando_00"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 59592.36,
+    "proprios": 8000.0,
+    "arrecadado": 1067592.36,
+    "contratado": 685622.5,
+    "pago": 12995.0,
+    "limite": 3176572.53,
+    "doadoresPF": 49,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Anderson Brito e Jonatas Sales (PSD)",
+  "suplentesFonte": "tse"
+ }
+]

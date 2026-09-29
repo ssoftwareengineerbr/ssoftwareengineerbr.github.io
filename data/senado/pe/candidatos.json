@@ -1,0 +1,669 @@
+[
+ {
+  "numero": "111",
+  "nome": "Eduardo da Fonte",
+  "partido": "PP",
+  "idade": "53 anos",
+  "coligacao": "Pernambuco de Coração (Podemos, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Deputado",
+   "idade": 53,
+   "patrimonio": 842200.0,
+   "redes": [
+    "https://k.kwai.com/u/@eduardodafontepe/5dlxygc8",
+    "https://www.facebook.com/eduardodafonte",
+    "https://www.instagram.com/eduardodafonte",
+    "https://www.threads.com/@eduardodafonte",
+    "https://www.tiktok.com/@eduardodafonte"
+   ],
+   "financas": {
+    "fefc": 3430000.0,
+    "fundoPartidario": 650000.0,
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 4083000.0,
+    "contratado": 3535482.75,
+    "pago": 2513986.5,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carlos Andrade de Lima (UNIÃO) e Jane Santos (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "123",
+  "nome": "Marília Arraes",
+  "partido": "PDT",
+  "idade": "42 anos",
+  "coligacao": "Frente Popular de Pernambuco (Republicanos, PDT, MDB, DC, PSB, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 42,
+   "patrimonio": 2606626.55,
+   "redes": [
+    "https://k.kwai.com/u/@mariliaarraess/qktxcmv1",
+    "https://www.facebook.com/arraes",
+    "https://www.instagram.com/mariliaarraes",
+    "https://www.threads.com/@mariliaarraes",
+    "https://www.tiktok.com/@mariliaarraesoficial",
+    "https://www.youtube.com/@mariliaarraessenado"
+   ],
+   "financas": {
+    "fefc": 4000000.0,
+    "fundoPartidario": 392000.0,
+    "pessoasFisicas": 5000.0,
+    "proprios": 40000.0,
+    "arrecadado": 4437000.0,
+    "contratado": 2652367.0,
+    "pago": 1877033.66,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Abel Neto e Edjane Figueiredo (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "130",
+  "nome": "Humberto Costa",
+  "partido": "PT",
+  "idade": "69 anos",
+  "coligacao": "Frente Popular de Pernambuco (Republicanos, PDT, MDB, DC, PSB, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 69,
+   "patrimonio": 960956.06,
+   "redes": [
+    "https://facebook.com/senadorhumberto",
+    "https://instagram.com/senadorhumberto",
+    "https://kwai.com/humberto130",
+    "https://threads.net/@senadorhumberto",
+    "https://tiktok.com/@senadorhumberto",
+    "https://x.com/senadorhumberto"
+   ],
+   "financas": {
+    "fefc": 3223600.77,
+    "fundoPartidario": 2166.7,
+    "partido": 360000.0,
+    "pessoasFisicas": 136120.0,
+    "arrecadado": 3721887.47,
+    "contratado": 3602535.35,
+    "pago": 3359280.71,
+    "limite": 4447201.54,
+    "doadoresPF": 19,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luciano Bivar (MDB) e Professor Manoel Moraes (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Mariano Macedo",
+  "partido": "PSTU",
+  "idade": "61 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 61,
+   "patrimonio": 60000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 40000.0,
+   "financas": {
+    "fefc": 15702.0,
+    "arrecadado": 15702.0,
+    "contratado": 12900.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jonas Ferreira e Marcelo (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "180",
+  "nome": "Paulo Rubem Santiago",
+  "partido": "REDE",
+  "idade": "71 anos",
+  "coligacao": "Frente Pernambuco de Luta (PCB, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 71,
+   "patrimonio": 319551.7,
+   "redes": [
+    "https://www.facebook.com/share/1hzpe89j2x",
+    "https://www.instagram.com/paulorubemsantiagoferreira"
+   ],
+   "financas": {
+    "pessoasFisicas": 9530.0,
+    "proprios": 16041.0,
+    "coletivo": 900.0,
+    "arrecadado": 26471.0,
+    "contratado": 22423.99,
+    "pago": 12423.99,
+    "limite": 4447201.54,
+    "doadoresPF": 21,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cristiano Romão (PCB) e Rafaela Ramos (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Mendonça Filho",
+  "partido": "PL",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 60,
+   "patrimonio": 2207323.92,
+   "concorreu2022": true,
+   "patrimonio2022": 2523193.14,
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 3649002.72,
+    "arrecadado": 4649002.72,
+    "contratado": 4364875.74,
+    "pago": 3944372.41,
+    "limite": 4447201.54,
+    "doadoresPF": 67,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Adriana Ferreira e Alcides Cardoso (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Mailson da Silva Neto",
+  "partido": "PCO",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/mailson.silvaneto",
+    "https://www.instagram.com/mailson.neto"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Estelita Medeiros e Gilberto Silva (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Carlos Sant Anna",
+  "partido": "NOVO",
+  "idade": "50 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 50,
+   "patrimonio": 889100.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://twitter.com/santanna_cs",
+    "https://www.facebook.com/carlossantanna",
+    "https://www.instagram.com/carlossantannape",
+    "https://www.tiktok.com/@carlossantannape"
+   ],
+   "financas": {
+    "fefc": 780000.0,
+    "fundoPartidario": 580000.0,
+    "proprios": 23000.0,
+    "arrecadado": 1383000.0,
+    "contratado": 1238402.7,
+    "pago": 1111862.14,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carla Pinheiro e Hermes Alves (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "355",
+  "nome": "Pastor Gilvan Costa",
+  "partido": "DEMOCRATA",
+  "idade": "64 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 64,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "financas": {
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 3000.0,
+    "contratado": 1400.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Laelson Costa e Pastora Simea Carvalho (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Túlio Gadêlha",
+  "partido": "PSD",
+  "idade": "38 anos",
+  "coligacao": "Pernambuco de Coração (Podemos, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 38,
+   "patrimonio": 1312352.16,
+   "redes": [
+    "https://www.facebook.com/tuliogadelhaoficial",
+    "https://www.instagram.com/tulio.gadelha",
+    "https://www.tiktok.com/@tulio.gadelha"
+   ],
+   "financas": {
+    "fefc": 3977996.6,
+    "pessoasFisicas": 15600.0,
+    "proprios": 40000.0,
+    "arrecadado": 4033596.6,
+    "contratado": 3659295.08,
+    "pago": 2678703.18,
+    "limite": 4447201.54,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dulci Amorim (PSD) e Marcelo Pankararu (AVANTE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Samuel Timoteo",
+  "partido": "UP",
+  "idade": "51 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: trabalhador de construção civil"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador de construção civil",
+   "idade": 51,
+   "patrimonio": 100000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/samueldaup"
+   ],
+   "financas": {
+    "fefc": 4800.0,
+    "arrecadado": 4800.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dra Gau e Professor Bruno (UP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "801",
+  "nome": "Gorett Bitu",
+  "partido": "UP",
+  "idade": "69 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 69,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/mariagorettbitu"
+   ],
+   "financas": {
+    "fefc": 2800.0,
+    "outrosCandidatos": 1340.0,
+    "arrecadado": 4140.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Professor Natanael Sarmento e Sandra Ramos (UP)",
+  "suplentesFonte": "tse"
+ }
+]

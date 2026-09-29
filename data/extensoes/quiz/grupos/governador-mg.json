@@ -1,0 +1,194 @@
+{
+ "cargo": "governador",
+ "temas": {
+  "seguranca": [
+   {
+    "id": "g0",
+    "texto": "Delegacias da Mulher no interior",
+    "itens": [
+     "13.0",
+     "15.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Monitorar agressores de mulheres por tornozeleira",
+    "itens": [
+     "10.0"
+    ]
+   }
+  ],
+  "saude": [
+   {
+    "id": "g0",
+    "texto": "Pôr para funcionar hospitais regionais e obras paradas",
+    "itens": [
+     "10.0",
+     "10.1",
+     "12.1",
+     "14.0",
+     "21.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Câncer: diagnóstico e tratamento mais rápidos",
+    "itens": [
+     "12.0",
+     "13.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Filas e atendimento regional, com mais transparência",
+    "itens": [
+     "12.2",
+     "15.0",
+     "15.1",
+     "22.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Saúde da mãe e do bebê e saúde mental",
+    "itens": [
+     "13.1",
+     "22.0"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Atenção primária com prefeituras e diagnóstico remoto",
+    "itens": [
+     "55.0",
+     "55.1"
+    ]
+   }
+  ],
+  "educacao": [
+   {
+    "id": "g0",
+    "texto": "Manter ou ampliar escolas cívico-militares",
+    "itens": [
+     "10.0",
+     "14.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Acabar com a militarização das escolas",
+    "itens": [
+     "13.0",
+     "16.0",
+     "21.0",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Expandir o ensino em tempo integral",
+    "itens": [
+     "12.0",
+     "55.0"
+    ]
+   }
+  ],
+  "gestao": [
+   {
+    "id": "g0",
+    "texto": "Renegociar a dívida pelo Propag, com equilíbrio fiscal",
+    "itens": [
+     "10.0",
+     "15.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Romper com o Propag e fazer auditoria da dívida",
+    "itens": [
+     "16.1",
+     "21.1",
+     "80.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Reestatizar Copasa e Cemig",
+    "itens": [
+     "13.0",
+     "16.0",
+     "21.0",
+     "29.0",
+     "80.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "PPPs e cobrança de sonegação e royalties, sem aumentar impostos",
+    "itens": [
+     "14.0",
+     "22.0",
+     "22.1"
+    ]
+   },
+   {
+    "id": "g4",
+    "texto": "Descentralizar com prefeituras e consórcios",
+    "itens": [
+     "12.0"
+    ]
+   }
+  ]
+ },
+ "dilemas": {
+  "seguranca": [
+   [
+    "g0",
+    "g1"
+   ]
+  ],
+  "saude": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g0",
+    "g4"
+   ],
+   [
+    "g2",
+    "g4"
+   ]
+  ],
+  "educacao": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g1"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ],
+  "gestao": [
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g2",
+    "g3"
+   ],
+   [
+    "g0",
+    "g1"
+   ]
+  ]
+ }
+}

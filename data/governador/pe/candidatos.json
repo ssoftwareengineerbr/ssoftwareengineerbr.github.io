@@ -1,0 +1,440 @@
+[
+ {
+  "numero": "14",
+  "nome": "Renan",
+  "partido": "MISSÃO",
+  "vice": "Lucas Xavier (MISSÃO)",
+  "idade": "36 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: contador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Contador",
+   "idade": 36,
+   "patrimonio": 345182.87,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/renanhallaispe"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "pessoasFisicas": 500.0,
+    "coletivo": 3962.14,
+    "arrecadado": 104462.14,
+    "contratado": 97627.7,
+    "pago": 97627.7,
+    "limite": 11562724.0,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Guilherme Fonseca",
+  "partido": "PSTU",
+  "vice": "Valéria Félix (PSTU)",
+  "idade": "69 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: técnico de eletricidade, eletrônica e telecomunicações"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Técnico de eletricidade, eletrônica e telecomunicações",
+   "idade": 69,
+   "patrimonio": 300000.0,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 25502.0,
+    "arrecadado": 25502.0,
+    "contratado": 20000.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Victor Assis",
+  "partido": "PCO",
+  "vice": "Roberta Rita (PCO)",
+  "idade": "31 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/victorassisrecife",
+    "https://www.instagram.com/victorassisrecife",
+    "https://www.tiktok.com/@victorassisrecife",
+    "https://x.com/victorassis_rec"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "arrecadado": 50000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Professor Jeremias do Banco",
+  "partido": "DEMOCRATA",
+  "vice": "Carlos Alberto (DEMOCRATA)",
+  "idade": "46 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "40",
+  "nome": "João Campos",
+  "partido": "PSB",
+  "vice": "Carlos Costa (REPUBLICANOS)",
+  "idade": "32 anos",
+  "coligacao": "Frente Popular de Pernambuco (Republicanos, PDT, MDB, PSB, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 32,
+   "patrimonio": 2892723.46,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/joaocampospsb",
+    "https://www.instagram.com/joaocampos",
+    "https://www.kwai.com/@joaocamposoficial",
+    "https://www.linkedin.com/in/jo%c3%a3o-campos-2477802a4",
+    "https://www.linkedin.com/in/joaohcampos",
+    "https://www.threads.com/@joaocampos"
+   ],
+   "financas": {
+    "fefc": 5261475.6,
+    "fundoPartidario": 1640000.0,
+    "arrecadado": 6901475.6,
+    "contratado": 6948245.3,
+    "pago": 5672672.8,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Ivan Moraes",
+  "partido": "PSOL",
+  "vice": "Alice Gabino (REDE)",
+  "idade": "50 anos",
+  "coligacao": "Frente Pernambuco de Luta (PCB, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 50,
+   "patrimonio": 81452.0,
+   "concorreu2022": true,
+   "patrimonio2022": 80000.0,
+   "redes": [
+    "https://www.facebook.com/ivanmoraesoficial",
+    "https://www.instagram.com/ivanmoraespe",
+    "https://www.tiktok.com/@ivanmoraespe",
+    "https://www.youtube.com/ivanmoraesfilho"
+   ],
+   "financas": {
+    "fefc": 658935.25,
+    "pessoasFisicas": 11805.0,
+    "coletivo": 454.0,
+    "arrecadado": 671194.25,
+    "contratado": 476864.59,
+    "pago": 189844.59,
+    "limite": 11562724.0,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Raquel Lyra",
+  "partido": "PSD",
+  "vice": "Priscila Krause (PSD)",
+  "idade": "47 anos",
+  "coligacao": "Pernambuco de Coração (Podemos, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 47,
+   "patrimonio": 359498.33,
+   "concorreu2022": true,
+   "patrimonio2022": 340576.99,
+   "redes": [
+    "https://facebook.com/raquellyraoficial",
+    "https://instagram.com/raquellyraoficial",
+    "https://kwai.com/@raquellyraoficial",
+    "https://threads.com/@raquellyraoficial",
+    "https://tiktok.com/@raquellyraoficial",
+    "https://x.com/raquellyra"
+   ],
+   "financas": {
+    "fefc": 11657000.0,
+    "fundoPartidario": 190029.7,
+    "pessoasFisicas": 180000.0,
+    "arrecadado": 12027029.7,
+    "contratado": 7631639.12,
+    "pago": 3685959.9,
+    "limite": 11562724.0,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Professora Camila",
+  "partido": "UP",
+  "vice": "Marcelo Pessoa (UP)",
+  "idade": "37 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: historiador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Historiador",
+   "idade": 37,
+   "patrimonio": 85000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/camilafalcao.up"
+   ],
+   "financas": {
+    "fefc": 5600.0,
+    "pessoasFisicas": 1380.0,
+    "arrecadado": 6980.0,
+    "contratado": 9100.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

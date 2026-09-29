@@ -1,0 +1,456 @@
+[
+ {
+  "numero": "12",
+  "nome": "Requião Filho",
+  "partido": "PDT",
+  "vice": "Michele Caputo (SOLIDARIEDADE)",
+  "idade": "46 anos",
+  "coligacao": "Paraná Para Todos (PDT, federação PT, PCdoB e PV, federação PSOL e Rede, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 46,
+   "patrimonio": 1876342.14,
+   "redes": [
+    "https://linktr.ee/requiaofilho",
+    "https://www.facebook.com/requiaofilho",
+    "https://www.instagram.com/requiaofilho",
+    "https://www.threads.com/@requiaofilho",
+    "https://www.tiktok.com/@requiaofilho",
+    "https://www.youtube.com/mrequiaofilho"
+   ],
+   "financas": {
+    "fefc": 6000000.0,
+    "fundoPartidario": 5000000.0,
+    "pessoasFisicas": 22812.0,
+    "outrosCandidatos": 24365.0,
+    "arrecadado": 11047177.0,
+    "contratado": 2943925.57,
+    "pago": 2940637.89,
+    "limite": 11562724.0,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Luiz França",
+  "partido": "MISSÃO",
+  "vice": "João Adolfo (MISSÃO)",
+  "idade": "32 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 32,
+   "patrimonio": 144999.99,
+   "redes": [
+    "https://www.facebook.com/14luizfranca",
+    "https://www.instagram.com/14luizfranca",
+    "https://www.instagram.com/luizfranca_reserva",
+    "https://www.tiktok.com/@14luizfranca",
+    "https://www.youtube.com/@14luizfranca",
+    "https://x.com/14luizfranca"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 50000.0,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 155000.0,
+    "contratado": 117170.1,
+    "pago": 117170.1,
+    "limite": 11562724.0,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Samuel de Mattos",
+  "partido": "PSTU",
+  "vice": "Helena Figueiredo (PSTU)",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 38,
+   "patrimonio": 1035000.0,
+   "redes": [
+    "https://www.instagram.com/samuel.demattos"
+   ],
+   "financas": {
+    "fefc": 24002.0,
+    "arrecadado": 24002.0,
+    "contratado": 23143.7,
+    "pago": 7501.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Sergio Moro",
+  "partido": "PL",
+  "vice": "Edson Vasconcelos (PL)",
+  "idade": "54 anos",
+  "coligacao": "Fortaleza Paraná (Podemos, PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 54,
+   "patrimonio": 1036642.25,
+   "concorreu2022": true,
+   "patrimonio2022": 1589369.94,
+   "redes": [
+    "https://www.facebook.com/sf.moro",
+    "https://www.instagram.com/sf_moro",
+    "https://www.threads.com/@sf_moro",
+    "https://www.tiktok.com/@sergiomoro_",
+    "https://www.youtube.com/sf_moro",
+    "https://x.com/sf_moro"
+   ],
+   "financas": {
+    "fefc": 10800000.0,
+    "partido": 500000.0,
+    "pessoasFisicas": 1086110.0,
+    "arrecadado": 12386110.0,
+    "contratado": 7893971.92,
+    "pago": 4264023.07,
+    "limite": 11562724.0,
+    "doadoresPF": 37,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Adriano Funileiro",
+  "partido": "PCO",
+  "vice": "Zé Carlos (PCO)",
+  "idade": "39 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: mecânico de manutenção"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Mecânico de manutenção",
+   "idade": 39,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/adriano.teixeira.33",
+    "https://www.instagram.com/adrianoteixeira.pco29",
+    "https://x.com/adriahistoria"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "33",
+  "nome": "Doutor Alexandre Salomão",
+  "partido": "MOBILIZA",
+  "vice": "Daiana Criminacio (MOBILIZA)",
+  "idade": "55 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 55,
+   "patrimonio": 27695000.0,
+   "redes": [
+    "https://www.facebook.com/alexandresalomao.adv",
+    "https://www.facebook.com/alexandresalomao.advocacia",
+    "https://www.instagram.com/alexandre.salomao.712",
+    "https://www.instagram.com/alexandresalomao.adv",
+    "https://www.instagram.com/alexandresalomao.advocacia",
+    "https://www.instagram.com/dralexandresalomao.adv"
+   ],
+   "financas": {
+    "pessoasFisicas": 34000.0,
+    "arrecadado": 34000.0,
+    "contratado": 33980.5,
+    "pago": 33980.5,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Sandro Alex",
+  "partido": "PSD",
+  "vice": "Rafael Greca (MDB)",
+  "idade": "53 anos",
+  "coligacao": "Coligação A Mudança Continua (Republicanos, MDB, Democrata, PSD, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 53,
+   "patrimonio": 1667125.53,
+   "redes": [
+    "https://linktr.ee/sandro.alex",
+    "https://www.facebook.com/depsandroalex",
+    "https://www.instagram.com/sandroalex",
+    "https://www.linkedin.com/in/sandro-alex-032017414",
+    "https://www.threads.com/@sandroalex",
+    "https://www.tiktok.com/@sandroalexpr"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "fundoPartidario": 4500000.0,
+    "partido": 450000.0,
+    "pessoasFisicas": 145800.0,
+    "arrecadado": 8095800.0,
+    "contratado": 7259251.11,
+    "pago": 4768615.81,
+    "limite": 11562724.0,
+    "doadoresPF": 16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Tayná Miessa",
+  "partido": "UP",
+  "vice": "Willian Araki (UP)",
+  "idade": "31 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: produtor de espetáculos públicos"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Produtor de espetáculos públicos",
+   "idade": 31,
+   "patrimonio": 250000.0,
+   "redes": [
+    "https://instagram.com/taynamiess"
+   ],
+   "financas": {
+    "fefc": 18200.01,
+    "pessoasFisicas": 11800.0,
+    "coletivo": 2515.0,
+    "arrecadado": 32515.01,
+    "contratado": 18413.62,
+    "pago": 10883.62,
+    "limite": 11562724.0,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

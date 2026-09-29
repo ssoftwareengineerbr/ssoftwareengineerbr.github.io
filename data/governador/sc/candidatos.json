@@ -1,0 +1,1027 @@
+[
+ {
+  "numero": "14",
+  "nome": "Marcelo Brigadeiro",
+  "partido": "Missão",
+  "vice": "Coronel Rodrigues (Missão)",
+  "idade": "44 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "R$ 1,83 milhão",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Empresário e ex-lutador de MMA",
+   "Em 2018 foi candidato a 1º suplente de senador pelo PSL, sem se eleger"
+  ],
+  "qualidadePlano": {
+   "paginas": "Sem dado",
+   "propostas": "111 propostas em 18 áreas",
+   "valoresEmReais": "Parcial (metas de corte de gastos)",
+   "prazos": "Sim, em alguns itens",
+   "observacao": "O plano mais detalhado dos oito em número de propostas."
+  },
+  "propostas": {
+   "seguranca": [
+    "Presídio de segurança máxima no Meio-Oeste para líderes de facção.",
+    "Reconhecimento facial em todo o estado e assistência jurídica do Estado a policiais processados."
+   ],
+   "saude": [
+    "Cirurgia indicada pelo SUS feita em até 60 dias, inclusive comprando horários ociosos da rede privada.",
+    "Retomar a PPP do Complexo Hospitalar com o BID."
+   ],
+   "educacao": [
+    "Tempo integral em todas as escolas estaduais até 2030.",
+    "Programa de meritocracia com premiação para escolas."
+   ],
+   "gestao": [
+    "Privatizar Celesc e Casan; extinguir Cohab, Santur e Codesc.",
+    "Cortar 25% dos cargos comissionados e 10% das despesas administrativas."
+   ],
+   "infra": [
+    "Saneamento universal até 2033.",
+    "Cobrar da União a duplicação das BRs 153, 280, 282 e 470."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Ensino superior completo",
+   "escolaridadeFonte": {
+    "titulo": "Jornal Razão: análise do plano de Marcelo Brigadeiro",
+    "url": "https://jornalrazao.com/politica/marcelo-brigadeiro-plano-governo-inferno-catarina-quem-perdoa-e-deus/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Lutador de MMA e empresário",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a 1º suplente de senador pelo PSL, não eleito",
+     "ano": "2018",
+     "fonte": {
+      "titulo": "Jornal Razão: análise do plano de Marcelo Brigadeiro",
+      "url": "https://jornalrazao.com/politica/marcelo-brigadeiro-plano-governo-inferno-catarina-quem-perdoa-e-deus/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira candidatura a governador",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de Marcelo Brigadeiro",
+    "url": "https://jornalrazao.com/politica/marcelo-brigadeiro-plano-governo-inferno-catarina-quem-perdoa-e-deus/"
+   },
+   {
+    "titulo": "Plano de governo original (PDF no TSE)",
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017031822"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 44,
+   "patrimonio": 1831261.11,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/marcelobrigadeiro",
+    "https://www.youtube.com/channel/ucktqvrhzksu5gfbkximytkq",
+    "https://x.com/brigadeiromma"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Professor Marcus Sodré",
+  "partido": "PSTU",
+  "vice": "Tatiane Pasdiora (PSTU)",
+  "idade": "54 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Já foi candidato a prefeito de Itajaí e a deputado estadual",
+   "Primeira vez candidato a governador"
+  ],
+  "qualidadePlano": {
+   "paginas": "50",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": "Segundo plano mais longo entre os oito."
+  },
+  "notaPlano": "Resumo por tema ainda não incluído neste snapshot.",
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (professor)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professor",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de Itajaí e a deputado estadual, não eleito",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira candidatura a governador",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de Gelson Merísio",
+    "url": "https://jornalrazao.com/politica/gelson-merisio-plano-de-governo-14-missoes-governo-de-sc/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 54,
+   "patrimonio": 117000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1c1mytfagu",
+    "https://www.instagram.com/marcuspstu"
+   ],
+   "financas": {
+    "fefc": 30002.0,
+    "arrecadado": 30002.0,
+    "contratado": 16545.0,
+    "pago": 8545.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Jorginho Mello",
+  "partido": "PL",
+  "vice": "Adriano Silva (Novo)",
+  "idade": "70 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Fé no Trabalho e Pé na Tábua (PL, Avante, Agir, DC, PSDB/Cidadania, Novo, Republicanos, Pode)",
+  "patrimonio": {
+   "valor": "R$ 2,82 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Governador de Santa Catarina desde 2023; tenta a reeleição",
+   "Foi deputado estadual, deputado federal e senador",
+   "Nunca perdeu uma eleição: oito disputas desde 1994"
+  ],
+  "qualidadePlano": {
+   "paginas": "22",
+   "propostas": "36 compromissos (34 de continuidade)",
+   "valoresEmReais": "Não",
+   "prazos": "Não",
+   "observacao": "Quase metade do documento lista realizações da gestão atual. Única meta numérica: Casa Catarina nos 295 municípios. Não cita saneamento, creche, Celesc ou Casan."
+  },
+  "propostas": {
+   "seguranca": [
+    "Expandir o videomonitoramento com reconhecimento facial nas maiores cidades.",
+    "Continuar os concursos das forças de segurança."
+   ],
+   "saude": [
+    "Fortalecer a Tabela Catarinense de Cirurgias (Fila Zero).",
+    "Manter o custeio dos leitos de UTI já abertos."
+   ],
+   "educacao": [
+    "Ampliar o tempo integral e o número de professores efetivos.",
+    "Manter o Universidade Gratuita."
+   ],
+   "gestao": [
+    "Ampliar o Pronampe SC e o crédito sem juros do Financia Agro SC.",
+    "Levar o Casa Catarina aos 295 municípios."
+   ],
+   "infra": [
+    "Continuar o Estrada Boa e acelerar a Viamar, paralela à BR-101.",
+    "Concluir a dragagem da Baía da Babitonga e investir nos portos de Imbituba e São Francisco do Sul."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em Santa Catarina",
+     "inicio": 1995,
+     "fim": 2011,
+     "mandatos": 4,
+     "detalhe": "Eleito em 1994, 1998, 2002 e 2006.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Santa Catarina",
+     "inicio": 2011,
+     "fim": 2019,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2010 e 2014.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por Santa Catarina",
+     "inicio": 2019,
+     "fim": 2022,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2018; deixou o Senado para assumir o governo.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de Santa Catarina",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito com 70,69% dos votos válidos no 2º turno de 2022.",
+     "fonte": {
+      "titulo": "TRE-SC: resultado do 2º turno de 2022",
+      "url": "https://www.tre-sc.jus.br/comunicacao/noticias/2022/Outubro/eleicao-em-sc-jorginho-mello-e-eleito-com-70-69-dos-votos-no-segundo-turno"
+     },
+     "metricas": [
+      {
+       "indicador": "Homicídios por 100 mil habitantes",
+       "antes": "9,1 em 2022 (Atlas da Violência)",
+       "depois": "5,2 em 2025 (SSP-SC)",
+       "fonte": {
+        "titulo": "Correio da Manhã: balanço 2025 da SSP-SC",
+        "url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2026/01/15/0733cd/pdf/1501df_cmanha31.pdf"
+       },
+       "procedencia": "gov"
+      },
+      {
+       "indicador": "Homicídios registrados",
+       "valor": "429 em 2025, 16,4% a menos que em 2024",
+       "fonte": {
+        "titulo": "Correio da Manhã: balanço 2025 da SSP-SC",
+        "url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2026/01/15/0733cd/pdf/1501df_cmanha31.pdf"
+       },
+       "procedencia": "gov"
+      },
+      {
+       "indicador": "Homicídios de mulheres",
+       "valor": "pioraram em SC entre 2018 e 2023, enquanto caíam no país",
+       "fonte": {
+        "titulo": "Le Monde Diplomatique Brasil: homicídios de mulheres em SC",
+        "url": "https://diplomatique.org.br/o-que-se-esconde-por-tras-dos-recordes-de-santa-catarina/"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Entregas citadas no plano",
+       "valor": "71 mil vagas no Universidade Gratuita, 300 leitos de UTI e R$ 5 bi no Estrada Boa",
+       "fonte": {
+        "titulo": "Jornal Razão: análise do plano de Jorginho Mello",
+        "url": "https://jornalrazao.com/politica/jorginho-mello-adriano-silva-plano-de-governo-sc-2027-2030"
+       },
+       "procedencia": "camp"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "8 de 8",
+     "rotulo": "Eleições vencidas desde 1994",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "9,1 → 5,2",
+     "rotulo": "Homicídios por 100 mil em SC, 2022 → 2025",
+     "procedencia": "gov"
+    },
+    {
+     "valor": "10",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de Jorginho Mello",
+    "url": "https://jornalrazao.com/politica/jorginho-mello-adriano-silva-plano-de-governo-sc-2027-2030"
+   },
+   {
+    "titulo": "Plano de governo original (PDF no TSE)",
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240016881802"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 70,
+   "patrimonio": 2818036.89,
+   "concorreu2022": true,
+   "patrimonio2022": 2414260.41,
+   "redes": [
+    "https://www.facebook.com/jorginhomello.sc",
+    "https://www.instagram.com/jorginhomello",
+    "https://www.instagram.com/mulherescomjorginho",
+    "https://www.threads.com/@jorginhomello",
+    "https://www.tiktok.com/@jorginhomello.sc",
+    "https://x.com/jorginhomello"
+   ],
+   "financas": {
+    "fefc": 5700000.0,
+    "fundoPartidario": 10000.0,
+    "pessoasFisicas": 906086.46,
+    "proprios": 30000.0,
+    "arrecadado": 6646086.46,
+    "contratado": 6230588.02,
+    "pago": 3737014.64,
+    "limite": 11562724.0,
+    "doadoresPF": 46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "25",
+  "nome": "Ralf Zimmer",
+  "partido": "PRD",
+  "vice": "Carlos Alberto Souza Bordin (Solidariedade)",
+  "idade": "47 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Federação Renovação Solidária (PRD/Solidariedade)",
+  "patrimonio": {
+   "valor": "R$ 1,4 milhão",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Advogado e defensor público",
+   "Candidato a governador em 2022 pelo PROS: 3.828 votos"
+  ],
+  "qualidadePlano": {
+   "paginas": "Sem dado",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": "Plano intitulado Santa Catarina em Primeiro Lugar."
+  },
+  "notaPlano": "Resumo por tema ainda não incluído neste snapshot.",
+  "historico": {
+   "escolaridade": "Superior completo: Direito (advogado)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Advogado e defensor público",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador pelo PROS: 3.828 votos",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "Gazeta do Povo: candidatos a governador de SC",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Segunda candidatura a governador",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "ND Mais: candidatos a governador de SC",
+    "url": "https://ndmais.com.br/politica/politica-candidatos-a-governador-de-sc-2026/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 47,
+   "patrimonio": 1426599.97,
+   "redes": [
+    "https://www.facebook.com/share/1e7t3hy8xa",
+    "https://www.instagram.com/ralf.zimmer.25"
+   ],
+   "financas": {
+    "proprios": 428.49,
+    "arrecadado": 428.49,
+    "contratado": 131940.99,
+    "pago": 428.49,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Bruno Pedreiro do PCO",
+  "partido": "PCO",
+  "vice": "Jair Fernandes (PCO)",
+  "idade": "40 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Trabalhador da construção civil",
+   "Candidato a prefeito de Florianópolis em 2024: 95 votos"
+  ],
+  "qualidadePlano": {
+   "paginas": "7",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": "Não cita Santa Catarina; é o mesmo arquivo protocolado pelo partido em outros seis estados."
+  },
+  "notaPlano": "Resumo por tema ainda não incluído neste snapshot.",
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Trabalhador da construção civil",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de Florianópolis: 95 votos",
+     "ano": "2024",
+     "fonte": {
+      "titulo": "Gazeta do Povo: candidatos a governador de SC",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano do PCO",
+    "url": "https://jornalrazao.com/politica/bruno-pedreiro-pco-armas-indios-salario-minimo-fim-do-stf/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Trabalhador de construção civil",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/brunodiaslindodaporra",
+    "https://www.instagram.com/bruno_pco29",
+    "https://www.threads.com/@bruno_pco29",
+    "https://x.com/brunodi24592488"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "40",
+  "nome": "Gelson Merísio",
+  "partido": "PSB",
+  "vice": "Angela Albino (PDT)",
+  "idade": "60 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Coragem para Mudar (PSB, PDT, PSOL/Rede, PT/PCdoB/PV)",
+  "patrimonio": {
+   "valor": "R$ 652,9 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Deputado estadual por três mandatos e ex-presidente da Alesc",
+   "Candidato a governador em 2018: mais votado no 1º turno, perdeu no 2º",
+   "Partidos ao longo da carreira: PFL, DEM, PSD, Solidariedade e PSB"
+  ],
+  "qualidadePlano": {
+   "paginas": "74",
+   "propostas": "14 missões e 100 programas",
+   "valoresEmReais": "Não",
+   "prazos": "Quase nenhum",
+   "observacao": "O mais longo dos oito. Enviado como imagem digitalizada, sem texto pesquisável."
+  },
+  "propostas": {
+   "seguranca": [
+    "Programas de prevenção, polícia cidadã, inteligência e valorização profissional.",
+    "Uma missão inteira dedicada ao combate à violência contra a mulher."
+   ],
+   "saude": [
+    "Programa de cannabis medicinal e atenção a transtornos do neurodesenvolvimento e TEA.",
+    "Santa Catarina Livre da Sífilis."
+   ],
+   "educacao": [],
+   "gestao": [
+    "Fim da contribuição de 14% cobrada de servidores aposentados.",
+    "Criar o Instituto Catarinense de Indicadores e a estratégia SC 2040."
+   ],
+   "infra": [
+    "Plano Estadual de Infraestrutura e Logística.",
+    "Missão de justiça climática: prevenção de desastres e segurança hídrica."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (ocupação declarada: administrador)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em Santa Catarina",
+     "inicio": 2007,
+     "fim": 2019,
+     "mandatos": 3,
+     "detalhe": "Eleito pelo PFL em 2006, pelo DEM em 2010 e pelo PSD em 2014. Presidiu a Alesc.",
+     "fonte": {
+      "titulo": "Jornal Razão: análise do plano de Gelson Merísio",
+      "url": "https://jornalrazao.com/politica/gelson-merisio-plano-de-governo-14-missoes-governo-de-sc/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: 1º lugar no 1º turno, derrotado no 2º por Carlos Moisés",
+     "ano": "2018"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Candidato pelo PSB, quinto partido da carreira (PFL, DEM, PSD, Solidariedade e PSB)",
+     "ano": "2026",
+     "fonte": {
+      "titulo": "Jornal Razão: análise do plano de Gelson Merísio",
+      "url": "https://jornalrazao.com/politica/gelson-merisio-plano-de-governo-14-missoes-governo-de-sc/"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "3",
+     "rotulo": "Mandatos de deputado estadual",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "5",
+     "rotulo": "Partidos ao longo da carreira",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de Gelson Merísio",
+    "url": "https://jornalrazao.com/politica/gelson-merisio-plano-de-governo-14-missoes-governo-de-sc/"
+   },
+   {
+    "titulo": "Plano de governo original (PDF no TSE)",
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017074241"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 60,
+   "patrimonio": 652953.78,
+   "redes": [
+    "https://www.facebook.com/gelson.merisio.9",
+    "https://www.facebook.com/gelsonmerisio",
+    "https://www.instagram.com/gelsonmerisio",
+    "https://www.tiktok.com/@gelsonmerisio",
+    "https://x.com/merisio"
+   ],
+   "financas": {
+    "proprios": 1150000.0,
+    "arrecadado": 1150000.0,
+    "contratado": 1581563.42,
+    "pago": 1149510.77,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "João Rodrigues",
+  "partido": "PSD",
+  "vice": "Carlos Chiodini (MDB)",
+  "idade": "59 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Santa Catarina Acima de Tudo (PSD, MDB, União/PP)",
+  "patrimonio": {
+   "valor": "R$ 2,12 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Prefeito de Chapecó por quatro mandatos (eleito em 2004, 2008, 2020 e 2024); deixou o cargo para concorrer",
+   "Ex-prefeito de Pinhalzinho e ex-deputado estadual",
+   "Deputado federal eleito em 2010 e 2014; não se elegeu em 2018"
+  ],
+  "qualidadePlano": {
+   "paginas": "25",
+   "propostas": "104 ações",
+   "valoresEmReais": "Sim (projeção de investimento)",
+   "prazos": "Parcial",
+   "observacao": "Único plano com projeção de receita ano a ano. O capítulo de infraestrutura não nomeia nenhuma obra."
+  },
+  "propostas": {
+   "seguranca": [
+    "Muralha Digital: câmeras com reconhecimento facial e leitura de placas.",
+    "Barreiras nas divisas e convocação voluntária de policiais da reserva."
+   ],
+   "saude": [
+    "Força-tarefa médica para zerar as filas de cirurgia.",
+    "Leitos de UTI no padrão recomendado pela OMS e novos hospitais regionais."
+   ],
+   "educacao": [
+    "Aperfeiçoar e ajustar o Universidade Gratuita e fortalecer a UDESC.",
+    "Tempo integral com reforço de Matemática, Português e Inglês."
+   ],
+   "gestao": [
+    "Ao menos 15% da receita corrente líquida em investimentos: R$ 40,5 bilhões de 2027 a 2030.",
+    "Controle rigoroso das despesas de custeio."
+   ],
+   "infra": [
+    "Duplicações e terceiras faixas, sem citar rodovias específicas.",
+    "Saneamento tratado sem meta de cobertura ou prazo."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Ensino médio completo",
+   "escolaridadeFonte": {
+    "titulo": "O Tempo: ficha de João Rodrigues",
+    "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/santa-catarina/governador/joao-rodrigues-55"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Radialista em Pinhalzinho, onde começa na política",
+     "ano": "—",
+     "fonte": {
+      "titulo": "NSC Total: trajetória de João Rodrigues",
+      "url": "https://www.nsctotal.com.br/?p=7995246"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Pinhalzinho",
+     "inicio": 1997,
+     "fim": 2000,
+     "mandatos": 1,
+     "detalhe": "Eleito em 1996."
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Pinhalzinho",
+     "inicio": 2001,
+     "fim": 2002,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2000; deixou o cargo para disputar a Assembleia."
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em Santa Catarina",
+     "inicio": 2003,
+     "fim": 2004,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2002; saiu para assumir a Prefeitura de Chapecó.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Chapecó",
+     "inicio": 2005,
+     "fim": 2010,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2004 e reeleito em 2008.",
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Santa Catarina",
+     "inicio": 2011,
+     "fim": 2019,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2010 e 2014.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "justica",
+     "titulo": "Preso pela Polícia Federal após condenação por crimes fiscais e de licitação quando era prefeito de Pinhalzinho",
+     "ano": "2018",
+     "detalhe": "Pena de 5 anos e 3 meses em regime semiaberto, por fatos de 1999. Em recursos ao STF, recuperou os direitos políticos.",
+     "fonte": {
+      "titulo": "NSC Total: prisão em 2018 e recuperação dos direitos",
+      "url": "https://www.nsctotal.com.br/?p=2607412"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Tenta a reeleição para a Câmara, não eleito",
+     "ano": "2018"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Chapecó",
+     "inicio": 2021,
+     "fim": 2026,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2020 e reeleito em 2024; deixou o cargo em março de 2026 para concorrer ao governo.",
+     "metricas": [
+      {
+       "indicador": "Votação na reeleição de 2024",
+       "valor": "83% dos votos válidos",
+       "fonte": {
+        "titulo": "NSC Total: reeleição com 83% em 2024",
+        "url": "https://www.nsctotal.com.br/?p=7312438"
+       },
+       "procedencia": "imp"
+      },
+      {
+       "indicador": "Obras em andamento no fim de 2024",
+       "valor": "R$ 1,1 bilhão, segundo o prefeito",
+       "fonte": {
+        "titulo": "NSC Total: reeleição com 83% em 2024",
+        "url": "https://www.nsctotal.com.br/?p=7312438"
+       },
+       "procedencia": "gov"
+      }
+     ]
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4",
+     "rotulo": "Mandatos como prefeito de Chapecó",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "83%",
+     "rotulo": "Votos válidos na reeleição de 2024",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "9",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de João Rodrigues",
+    "url": "https://jornalrazao.com/politica/joao-rodrigues-plano-de-governo-40-bilhoes-investimento-sc/"
+   },
+   {
+    "titulo": "Plano de governo original (PDF no TSE)",
+    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017099514"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 59,
+   "patrimonio": 2122223.43,
+   "redes": [
+    "https://www.facebook.com/imprensajoaorodrigues",
+    "https://www.facebook.com/joaorodrigues.cco",
+    "https://www.instagram.com/joaorodriguessc",
+    "https://www.threads.com/@joaorodriguessc",
+    "https://www.tiktok.com/@joaorodriguessc",
+    "https://www.youtube.com/@joaorodrigues6700"
+   ],
+   "financas": {
+    "fefc": 5500000.0,
+    "pessoasFisicas": 35745.0,
+    "proprios": 15745.0,
+    "arrecadado": 5551490.0,
+    "contratado": 3511702.57,
+    "pago": 3073991.18,
+    "limite": 11562724.0,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Laís Chaud",
+  "partido": "UP",
+  "vice": "Nathália Melo (UP)",
+  "idade": "35 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Psicóloga e coordenadora do Movimento de Luta nos Bairros, Vilas e Favelas (MLB)",
+   "Primeira candidatura ao governo"
+  ],
+  "qualidadePlano": {
+   "paginas": "Sem dado",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": null
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot.",
+  "propostas": {
+   "educacao": [
+    "Suspender o programa Universidade Gratuita."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Psicologia",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Psicóloga e coordenadora do Movimento de Luta nos Bairros, Vilas e Favelas (MLB)",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira candidatura a governador",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Gazeta do Povo: candidatos a governador de SC",
+    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"
+   },
+   {
+    "titulo": "Jornal Razão: análise do plano de João Rodrigues",
+    "url": "https://jornalrazao.com/politica/joao-rodrigues-plano-de-governo-40-bilhoes-investimento-sc/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Psicólogo",
+   "idade": 31,
+   "patrimonio": 518.45,
+   "redes": [
+    "https://www.instagram.com/laischaud.up"
+   ],
+   "financas": {
+    "fefc": 3200.0,
+    "arrecadado": 3200.0,
+    "contratado": 3200.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

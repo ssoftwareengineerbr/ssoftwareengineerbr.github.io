@@ -1,0 +1,267 @@
+[
+ {
+  "numero": "10",
+  "nome": "Soldado Sampaio",
+  "partido": "REPUBLICANOS",
+  "vice": "Shéridan (PODE)",
+  "idade": "50 anos",
+  "coligacao": "Roraima Segue Em Frente (Republicanos, Podemos, Agir, PSD, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 50,
+   "patrimonio": 1930000.0,
+   "redes": [
+    "https://www.facebook.com/soldadosampaiodeputado",
+    "https://www.instagram.com/soldadosampaiorr",
+    "https://www.tiktok.com/@soldadosampaio",
+    "https://x.com/soldado_sampaio"
+   ],
+   "financas": {
+    "fefc": 871219.72,
+    "fundoPartidario": 50000.0,
+    "pessoasFisicas": 55000.0,
+    "proprios": 350000.0,
+    "arrecadado": 1326219.72,
+    "contratado": 1272315.6,
+    "pago": 726327.6,
+    "limite": 3557761.23,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Arthur Henrique",
+  "partido": "PL",
+  "vice": "Haroldo Cathedral (NOVO)",
+  "idade": "45 anos",
+  "coligacao": "Unidos Por Roraima (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 45,
+   "patrimonio": 578525.64,
+   "redes": [
+    "https://www.facebook.com/arthurhenriquebv",
+    "https://www.instagram.com/arthurhenriquerr",
+    "https://www.tiktok.com/@arthurhenriquerr_",
+    "https://www.youtube.com/@arthurhenriquerr",
+    "https://x.com/arthurboavista"
+   ],
+   "financas": {
+    "fefc": 2500000.0,
+    "arrecadado": 2500000.0,
+    "contratado": 2462075.59,
+    "pago": 2163575.59,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Clébio Genuíno",
+  "partido": "PCO",
+  "vice": "Gregório Pereira (PCO)",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Rosi Aires",
+  "partido": "PSOL",
+  "vice": "Lúcia Patamona (PSOL)",
+  "idade": "51 anos",
+  "coligacao": "Roraima da Esperança (federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: artesão"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Artesão",
+   "idade": 51,
+   "patrimonio": 15000.0,
+   "redes": [
+    "https://vm.tiktok.com/zs9k6tt4cyacq-jz3pt",
+    "https://www.facebook.com/share/1ewnvqxutc",
+    "https://www.instagram.com/rosi______aires"
+   ],
+   "financas": {
+    "fefc": 180000.0,
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 183000.0,
+    "contratado": 132643.9,
+    "pago": 60002.9,
+    "limite": 3557761.23,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "77",
+  "nome": "Farah Mesquita",
+  "partido": "SOLIDARIEDADE",
+  "vice": "Natália Wakiri (SOLIDARIEDADE)",
+  "idade": "51 anos",
+  "coligacao": "Federação PRD e Solidariedade",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 51,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/farah_governador"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

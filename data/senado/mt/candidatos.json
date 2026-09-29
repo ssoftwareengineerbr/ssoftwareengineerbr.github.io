@@ -1,0 +1,566 @@
+[
+ {
+  "numero": "111",
+  "nome": "Margareth Buzetti",
+  "partido": "PP",
+  "idade": "66 anos",
+  "coligacao": "Mato Grosso Nao Pode Parar I (Republicanos, Podemos, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 66,
+   "patrimonio": 1138239.92,
+   "redes": [
+    "https://www.facebook.com/margarethbuzetti",
+    "https://www.instagram.com/margarethbuzetti",
+    "https://www.tiktok.com/@margarethbuzetti",
+    "https://x.com/margabuzetti"
+   ],
+   "financas": {
+    "fefc": 2983665.87,
+    "pessoasFisicas": 281500.0,
+    "proprios": 17000.0,
+    "outrosCandidatos": 18246.36,
+    "arrecadado": 3300412.23,
+    "contratado": 2607457.76,
+    "pago": 1757364.76,
+    "limite": 3811887.03,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jucélia Ferro (PSDB) e Coronel Grasi (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "150",
+  "nome": "Janaina Riva",
+  "partido": "MDB",
+  "idade": "37 anos",
+  "coligacao": "Coração da Gente (MDB, PL, Novo, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 37,
+   "patrimonio": 1228623.87,
+   "redes": [
+    "https://www.facebook.com/janainarivamt",
+    "https://www.instagram.com/janainariva",
+    "https://www.threads.com/@janainariva",
+    "https://www.tiktok.com/@janainarivamt",
+    "https://www.youtube.com/@janainarivamt"
+   ],
+   "financas": {
+    "fefc": 3500000.0,
+    "partido": 37800.0,
+    "pessoasFisicas": 66000.0,
+    "outrosCandidatos": 127782.87,
+    "arrecadado": 3731582.87,
+    "contratado": 1756756.17,
+    "pago": 259965.17,
+    "limite": 3811887.03,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Aluizo Lima e Danilo Trento e Ibrahim Zaher e Rafael Torres (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Zé Medeiros",
+  "partido": "PL",
+  "idade": "56 anos",
+  "coligacao": "Coração da Gente (MDB, PL, Novo, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público civil aposentado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 56,
+   "patrimonio": 356000.0,
+   "redes": [
+    "https://www.facebook.com/share/1cs47krplq",
+    "https://www.instagram.com/senadorzemedeiros222",
+    "https://www.threads.com/@josemedeirosmt",
+    "https://www.tiktok.com/@josemedeirosmt",
+    "https://www.youtube.com/@josemedeiros222",
+    "https://x.com/josemedeirosmt"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "partido": 370500.0,
+    "pessoasFisicas": 1296273.18,
+    "proprios": 100000.0,
+    "outrosCandidatos": 104963.94,
+    "arrecadado": 2871737.12,
+    "contratado": 4148856.94,
+    "pago": 1994241.16,
+    "limite": 3811887.03,
+    "doadoresPF": 20,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Odilio Balbinotti e Xuxu Dal Molin (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "351",
+  "nome": "Coronel Darwin",
+  "partido": "DEMOCRATA",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: policial militar"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 48,
+   "patrimonio": 2660000.0,
+   "redes": [
+    "https://www.instagram.com/coronel_darwin_oficial"
+   ],
+   "financas": {
+    "pessoasFisicas": 50000.0,
+    "arrecadado": 50000.0,
+    "contratado": 35238.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tenente Célio e Sargento Leopoldo (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "360",
+  "nome": "Professor Nelson Ferreira",
+  "partido": "AGIR",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/nelson.ferreirajunior.7758",
+    "https://www.instagram.com/nelsonferreiraju",
+    "https://www.tiktok.com/@nelsonferreiraju"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 1000.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Maria Guedes e Itioma Barros (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "365",
+  "nome": "Beny Godoy",
+  "partido": "AGIR",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: comerciante"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Comerciante",
+   "idade": 53,
+   "patrimonio": 20244907.44,
+   "redes": [
+    "https://vm.tiktok.com/zs9kdtjbwyekh-agxmt",
+    "https://www.facebook.com/share/1ebebcxnie",
+    "https://www.instagram.com/benygodoysenador",
+    "https://youtube.com/@benygodoysenador"
+   ],
+   "financas": {
+    "proprios": 26521.51,
+    "arrecadado": 26521.51,
+    "contratado": 40521.51,
+    "pago": 23521.51,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Geraldo e Joaci Campos e Jackson Pereira e Natanael Almeida (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Pedro Taques",
+  "partido": "PSB",
+  "idade": "58 anos",
+  "coligacao": "Mato Grosso Para Todos (PDT, PSB, PSD, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 58,
+   "patrimonio": 360000.0,
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 104979.56,
+    "proprios": 150000.0,
+    "arrecadado": 754979.56,
+    "contratado": 2233150.84,
+    "pago": 644015.2,
+    "limite": 3811887.03,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carlos Ernesto Teti (PSB) e Guelda Andrade (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Mauro Mendes",
+  "partido": "UNIÃO",
+  "idade": "62 anos",
+  "coligacao": "Mato Grosso Nao Pode Parar I (Republicanos, Podemos, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 62,
+   "patrimonio": 67180206.27,
+   "redes": [
+    "https://www.facebook.com/share/1lpm9apcjz",
+    "https://www.instagram.com/mauromendesoficial",
+    "https://www.tiktok.com/@mauromendesoficial"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "partido": 25000.0,
+    "pessoasFisicas": 60000.0,
+    "outrosCandidatos": 8457.0,
+    "arrecadado": 1093457.0,
+    "contratado": 1590241.76,
+    "pago": 704481.77,
+    "limite": 3811887.03,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cidinho Santos (PP) e Elson Ramos (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Fávaro",
+  "partido": "PSD",
+  "idade": "56 anos",
+  "coligacao": "Mato Grosso Para Todos (PDT, PSB, PSD, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 56,
+   "patrimonio": 2044103.44,
+   "financas": {
+    "fundoPartidario": 25000.0,
+    "partido": 1082800.0,
+    "pessoasFisicas": 95720.0,
+    "proprios": 175000.0,
+    "arrecadado": 1378520.0,
+    "contratado": 1714834.71,
+    "pago": 325371.62,
+    "limite": 3811887.03,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alexandre Schenkel (PSD) e Carmen Machado (PV)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Galvan",
+  "partido": "AVANTE",
+  "idade": "68 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 68,
+   "patrimonio": 46302824.91,
+   "concorreu2022": true,
+   "patrimonio2022": 14092849.91,
+   "redes": [
+    "https://www.facebook.com/antoniogalvan.mt",
+    "https://www.facebook.com/mt.antoniogalvan",
+    "https://www.facebook.com/share/1dmuc5s1bx",
+    "https://www.instagram.com/antoniogalvan.mt",
+    "https://www.tiktok.com/@antonio.galvan.mt"
+   ],
+   "financas": {
+    "pessoasFisicas": 877701.63,
+    "arrecadado": 877701.63,
+    "contratado": 904205.88,
+    "pago": 629255.88,
+    "limite": 3811887.03,
+    "doadoresPF": 52,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pastora Aline e Saulo Patriota (AVANTE)",
+  "suplentesFonte": "tse"
+ }
+]

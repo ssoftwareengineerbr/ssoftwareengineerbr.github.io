@@ -1,0 +1,314 @@
+[
+ {
+  "numero": "11",
+  "nome": "Lucas Ribeiro",
+  "partido": "PP",
+  "vice": "Ligia Feliciano (UNIÃO)",
+  "idade": "37 anos",
+  "coligacao": "Daqui Pra Melhor (Podemos, Mobiliza, federação PT, PCdoB e PV, Agir, federação PRD e Solidariedade, federação União e PP, Republicanos, PSB)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 37,
+   "patrimonio": 741354.91,
+   "redes": [
+    "https://www.instagram.com/paraibadeverdade_"
+   ],
+   "financas": {
+    "fefc": 7581173.0,
+    "pessoasFisicas": 30000.0,
+    "arrecadado": 7611173.0,
+    "contratado": 4526282.19,
+    "pago": 2253032.05,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Cícero Lucena",
+  "partido": "MDB",
+  "vice": "Diogo Cunha Lima (PSD)",
+  "idade": "69 anos",
+  "coligacao": "Juntos Para A Paraíba Dar O Próximo Passo (MDB, Democrata, PSD, federação PSDB e Cidadania, PDT)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 69,
+   "patrimonio": 2517809.94,
+   "financas": {
+    "fefc": 5000000.0,
+    "partido": 550000.0,
+    "pessoasFisicas": 58000.0,
+    "arrecadado": 5608000.0,
+    "contratado": 5753867.81,
+    "pago": 4738062.64,
+    "limite": 7115522.46,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Efraim Filho",
+  "partido": "PL",
+  "vice": "Nayana Pontes (PL)",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 47,
+   "patrimonio": 1682784.38,
+   "concorreu2022": true,
+   "patrimonio2022": 785349.66,
+   "redes": [
+    "https://www.facebook.com/efraimfilho",
+    "https://www.instagram.com/efraimfilhopb",
+    "https://www.tiktok.com/@efraimfilhopb"
+   ],
+   "financas": {
+    "fefc": 6870000.0,
+    "pessoasFisicas": 800.0,
+    "proprios": 24000.0,
+    "arrecadado": 6894800.0,
+    "contratado": 5708214.47,
+    "pago": 4092799.52,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Pedro Coutinho",
+  "partido": "DC",
+  "vice": "Lenilda Pereira (DC)",
+  "idade": "50 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 50,
+   "patrimonio": 502200.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Camilo Duarte",
+  "partido": "PCO",
+  "vice": "Marcos Lima (PCO)",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/camilosdf",
+    "https://www.instagram.com/camilosdf"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Yuri Ezequiel",
+  "partido": "UP",
+  "vice": "Carminha Lourenço (UP)",
+  "idade": "32 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 32,
+   "patrimonio": 353.89,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/yuriezequiel_up"
+   ],
+   "financas": {
+    "fefc": 20628.0,
+    "arrecadado": 20628.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

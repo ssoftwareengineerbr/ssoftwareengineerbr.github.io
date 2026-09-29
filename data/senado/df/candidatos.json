@@ -1,0 +1,709 @@
+[
+ {
+  "numero": "123",
+  "nome": "Leila do Vôlei",
+  "partido": "PDT",
+  "idade": "55 anos",
+  "coligacao": "Df do Povo (PDT, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 55,
+   "patrimonio": 170900.43,
+   "redes": [
+    "https://www.facebook.com/leiladovolei",
+    "https://www.instagram.com/leiladovolei",
+    "https://www.tiktok.com/@leiladovolei8",
+    "https://x.com/leiladovolei"
+   ],
+   "financas": {
+    "fefc": 3800000.0,
+    "pessoasFisicas": 240000.0,
+    "arrecadado": 4040000.0,
+    "contratado": 2096833.61,
+    "pago": 1522358.61,
+    "limite": 3811887.03,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Raphael Sodre (REDE) e Tetê Monteiro (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "131",
+  "nome": "Erika Kokay",
+  "partido": "PT",
+  "idade": "69 anos",
+  "coligacao": "Df do Povo (PDT, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 69,
+   "patrimonio": 483951.22,
+   "redes": [
+    "https://www.facebook.com/erikakokay",
+    "https://www.instagram.com/erikakokay",
+    "https://www.kwai.com/@erikakokayoficial",
+    "https://www.tiktok.com/@erikakokay13",
+    "https://x.com/erikakokay"
+   ],
+   "financas": {
+    "fefc": 3480698.33,
+    "pessoasFisicas": 66262.47,
+    "arrecadado": 3546960.8,
+    "contratado": 2284415.91,
+    "pago": 2013402.39,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Giulia Tadini (PSOL) e Samuel Domingues (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Zanata",
+  "partido": "PSTU",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 41,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "financas": {
+    "fefc": 14702.0,
+    "arrecadado": 14702.0,
+    "contratado": 9000.0,
+    "pago": 3000.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Edson da Silva e Renato (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Michelle Bolsonaro",
+  "partido": "PL",
+  "idade": "44 anos",
+  "coligacao": "Propósito e Ação (Republicanos, MDB, Podemos, PL, federação PRD e Solidariedade, federação União e PP, DC, Mobiliza, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 44,
+   "patrimonio": 4486170.75,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/michellebolsonaro"
+   ],
+   "financas": {
+    "fefc": 3448000.0,
+    "pessoasFisicas": 100000.0,
+    "arrecadado": 3548000.0,
+    "contratado": 2219193.0,
+    "pago": 1262558.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Diego Torres (PL) e Cristian Viana (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "223",
+  "nome": "Bia Kicis",
+  "partido": "PL",
+  "idade": "65 anos",
+  "coligacao": "Propósito e Ação (Republicanos, MDB, Podemos, PL, federação PRD e Solidariedade, federação União e PP, DC, Mobiliza, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 65,
+   "patrimonio": 1330688.17,
+   "redes": [
+    "https://k.kwai.com/u/@biakicisreal/a3whck1c",
+    "https://linktr.ee/biakicis.df",
+    "https://www.facebook.com/biakicisoficial",
+    "https://www.instagram.com/biakicis",
+    "https://www.tiktok.com/@biakicis.df",
+    "https://www.youtube.com/biakicis"
+   ],
+   "financas": {
+    "fefc": 3048000.0,
+    "pessoasFisicas": 195500.0,
+    "arrecadado": 3243500.0,
+    "contratado": 1010417.6,
+    "pago": 475217.6,
+    "limite": 3811887.03,
+    "doadoresPF": 36,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Samuel Kicis e Renato Figueiredo (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "David Horn",
+  "partido": "PCO",
+  "idade": "63 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público civil aposentado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 63,
+   "patrimonio": 353000.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Mauro Sousa e Ricardo Machado (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Sebastião Coelho",
+  "partido": "NOVO",
+  "idade": "71 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: magistrado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Magistrado",
+   "idade": 71,
+   "patrimonio": 390000.0,
+   "redes": [
+    "https://www.instagram.com/desembargadorsebastiaocoelho",
+    "https://www.threads.net/@desembargadorsebastiaocoelho",
+    "https://www.youtube.com/@sebastiaocoelhodesembargador",
+    "https://x.com/sebasticoelho"
+   ],
+   "financas": {
+    "fefc": 150000.0,
+    "pessoasFisicas": 145165.58,
+    "proprios": 10000.0,
+    "coletivo": 16717.0,
+    "arrecadado": 321882.58,
+    "contratado": 104045.09,
+    "pago": 95045.09,
+    "limite": 3811887.03,
+    "doadoresPF": 119,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Ibi Batista e Coronel Leonardo (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "355",
+  "nome": "Avenir Rosa",
+  "partido": "DEMOCRATA",
+  "idade": "74 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 74,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marco Aurélio e Sebastião Geronimo (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "360",
+  "nome": "Tiago",
+  "partido": "AGIR",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agricultor",
+   "idade": 40,
+   "patrimonio": 856146.02,
+   "redes": [
+    "https://www.facebook.com/tiago360senador",
+    "https://www.instagram.com/meu.nutri",
+    "https://www.instagram.com/thiagosmelo",
+    "https://www.instagram.com/tiago360_senador_df",
+    "https://www.instagram.com/tiagotarsisa",
+    "https://www.kwai.com/@tiagosenador360"
+   ],
+   "financas": {
+    "pessoasFisicas": 3500.0,
+    "proprios": 6461.5,
+    "arrecadado": 9961.5,
+    "contratado": 6362.5,
+    "pago": 6362.5,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sgt Thiago Melo e Maria da Paz de Santa Maria e 1°sgt Alexandre - Meu Nutri (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Guto Felício dos Santos",
+  "partido": "PSDB",
+  "idade": "66 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: economista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Economista",
+   "idade": 66,
+   "patrimonio": 441601.49,
+   "redes": [
+    "https://www.facebook.com/guto.feliciodossantos",
+    "https://www.instagram.com/gutofeliciodossantos"
+   ],
+   "financas": {
+    "fefc": 75000.0,
+    "arrecadado": 75000.0,
+    "contratado": 47527.0,
+    "pago": 26627.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luciana Loureiro e Professor Tatá (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Ronaldo Fonseca",
+  "partido": "PSD",
+  "idade": "67 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 67,
+   "patrimonio": 1245536.53,
+   "redes": [
+    "https://www.facebook.com/share/1del1twl4y",
+    "https://www.instagram.com/ronaldofonseca.oficial",
+    "https://www.tiktok.com/@ronaldofonsecaoficial"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 2000.0,
+    "proprios": 3000.0,
+    "arrecadado": 3005000.0,
+    "contratado": 2514299.0,
+    "pago": 2310146.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Professora Eunice Santos e Dr. Antonio (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Marley",
+  "partido": "AVANTE",
+  "idade": "66 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 66,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/marleymendonca"
+   ],
+   "financas": {
+    "fefc": 230250.0,
+    "arrecadado": 230250.0,
+    "contratado": 113214.97,
+    "pago": 67714.97,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Diego e Coronel Leite e Reginaldo (AVANTE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Professor Guilherme Amorim",
+  "partido": "UP",
+  "idade": "36 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 36,
+   "patrimonio": 358409.5,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/prof.guilhermeamorim"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tadeu Toniatti e Ivone Mineiro (UP)",
+  "suplentesFonte": "tse"
+ }
+]

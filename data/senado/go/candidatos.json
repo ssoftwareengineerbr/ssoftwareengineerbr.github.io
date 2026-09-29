@@ -1,0 +1,642 @@
+[
+ {
+  "numero": "155",
+  "nome": "Dr. Zacharias Calil",
+  "partido": "MDB",
+  "idade": "72 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 72,
+   "patrimonio": 9560823.22,
+   "redes": [
+    "https://www.facebook.com/drzachariascalil",
+    "https://www.instagram.com/drzachariascalil",
+    "https://www.tiktok.com/@depdrzachariascalil"
+   ],
+   "financas": {
+    "fefc": 2850000.0,
+    "pessoasFisicas": 135800.0,
+    "proprios": 10000.0,
+    "arrecadado": 2995800.0,
+    "contratado": 2442252.2,
+    "pago": 1349145.2,
+    "limite": 4447201.54,
+    "doadoresPF": 19,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Thales Jayme e Leonardo Reis e Conceição do Entorno (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Gustavo Gayer",
+  "partido": "PL",
+  "idade": "45 anos",
+  "coligacao": "Goias Que Cresce (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 45,
+   "patrimonio": 908561.0,
+   "concorreu2022": true,
+   "patrimonio2022": 43000.0,
+   "redes": [
+    "https://www.facebook.com/gustavogayerdeputadofederal",
+    "https://www.facebook.com/share/1nofunotj9",
+    "https://www.instagram.com/gusgayer",
+    "https://www.instagram.com/gustavo.gayer",
+    "https://www.instagram.com/gustavogayerdep",
+    "https://www.kwai.com/@gustavogayer"
+   ],
+   "financas": {
+    "pessoasFisicas": 1477636.86,
+    "proprios": 240800.0,
+    "coletivo": 98102.3,
+    "arrecadado": 1816539.16,
+    "contratado": 1488747.06,
+    "pago": 1436247.06,
+    "limite": 4447201.54,
+    "doadoresPF": 584,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Leonardo Rizzo e Emerson Lima (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "227",
+  "nome": "Oséias Varão",
+  "partido": "PL",
+  "idade": "49 anos",
+  "coligacao": "Goias Que Cresce (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 49,
+   "patrimonio": 1000593.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://kwai.com/@oseiasvarao",
+    "https://www.facebook.com/oseiasvarao",
+    "https://www.instagram.com/oseiasvarao",
+    "https://www.tiktok.com/@oseiasvarao",
+    "https://www.youtube.com/@oseiasvarao",
+    "https://x.com/oseiasvarao"
+   ],
+   "financas": {
+    "fefc": 550000.0,
+    "pessoasFisicas": 4250.0,
+    "outrosCandidatos": 40000.0,
+    "arrecadado": 594250.0,
+    "contratado": 434302.25,
+    "pago": 424302.25,
+    "limite": 4447201.54,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Telemaco Brandão (NOVO) e Téo Gomes (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "234",
+  "nome": "Iure Castro",
+  "partido": "CIDADANIA",
+  "idade": "42 anos",
+  "coligacao": "Mais Goiás (DC, PRTB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 42,
+   "patrimonio": 3221295.24,
+   "redes": [
+    "https://facebook.com/iurecastro234",
+    "https://instagram.com/iurecastro234",
+    "https://linkedin.com/in/iure-castro-5b9a21168",
+    "https://www.kwai.com/@iurecastro234",
+    "https://www.threads.com/@iurecastro234",
+    "https://www.tiktok.com/@iurecastro234"
+   ],
+   "financas": {
+    "pessoasFisicas": 35000.0,
+    "arrecadado": 35000.0,
+    "contratado": 38362.0,
+    "pago": 7501.5,
+    "limite": 4447201.54,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Darlene Azevedo e Luiz Otavio (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "251",
+  "nome": "Gustavo Mendanha",
+  "partido": "PRD",
+  "idade": "43 anos",
+  "coligacao": "Federação PRD e Solidariedade",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 43,
+   "patrimonio": 2367992.58,
+   "concorreu2022": true,
+   "patrimonio2022": 946133.99,
+   "redes": [
+    "https://twitter.com/mendanhagustavo",
+    "https://www.facebook.com/gustavomendanha",
+    "https://www.instagram.com/gustavommendanha",
+    "https://www.tiktok.com/@gustavommendanha",
+    "https://www.youtube.com/gustavomendanhago"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 20000.0,
+    "proprios": 20000.0,
+    "arrecadado": 3040000.0,
+    "contratado": 2377509.5,
+    "pago": 1451409.5,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carlos Filho (PRD) e Coronel Cardoso (SOLIDARIEDADE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Isaura Lemos",
+  "partido": "PSB",
+  "idade": "72 anos",
+  "coligacao": "Goiás Pode Mais (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 72,
+   "patrimonio": 3750000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 3750000.0,
+   "financas": {
+    "fundoPartidario": 12000.0,
+    "pessoasFisicas": 16000.0,
+    "proprios": 10000.0,
+    "outrosCandidatos": 47500.0,
+    "coletivo": 20.0,
+    "arrecadado": 85520.0,
+    "contratado": 27233.4,
+    "pago": 17003.4,
+    "limite": 4447201.54,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Victor Dutra (PV) e Patrick de Noronha (REDE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Gracinha Caiado",
+  "partido": "UNIÃO",
+  "idade": "67 anos",
+  "coligacao": "Federação União e PP",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 67,
+   "patrimonio": 3943021.29,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/gracinhacarvalhocaiado",
+    "https://www.instagram.com/gracinhacaiado",
+    "https://www.tiktok.com/@gracinhacaiado"
+   ],
+   "financas": {
+    "fefc": 3851966.94,
+    "pessoasFisicas": 440000.0,
+    "arrecadado": 4291966.94,
+    "contratado": 3031797.48,
+    "pago": 2478151.95,
+    "limite": 4447201.54,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alexandre Baldy (PP) e Fião (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Ernesto Roller",
+  "partido": "PSDB",
+  "idade": "56 anos",
+  "coligacao": "Mais Goiás (DC, PRTB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 56,
+   "patrimonio": 398878.2,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/ernesto_roller"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 19000.0,
+    "proprios": 11100.0,
+    "arrecadado": 530100.0,
+    "contratado": 30000.0,
+    "pago": 29000.0,
+    "limite": 4447201.54,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Milton Mercez e Hermes Traldi (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Cintia Dias",
+  "partido": "PSOL",
+  "idade": "49 anos",
+  "coligacao": "Goiás Pode Mais (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 49,
+   "patrimonio": 679000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 561000.0,
+   "redes": [
+    "https://www.facebook.com/cintia.dias.33",
+    "https://www.facebook.com/cintiadiaspsolgo",
+    "https://www.instagram.com/cintiadiaspsol",
+    "https://www.threads.com/@cintiadiaspsol",
+    "https://www.tiktok.com/@cintiadiaspsol",
+    "https://www.youtube.com/@cintiadiaspsol"
+   ],
+   "financas": {
+    "fefc": 160000.0,
+    "proprios": 5000.0,
+    "coletivo": 6780.0,
+    "arrecadado": 171780.0,
+    "contratado": 109965.4,
+    "pago": 50364.4,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Fernando Isaac (PDT) e Paulo Rochifild (PV)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Vanderlan Cardoso",
+  "partido": "PSD",
+  "idade": "63 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 63,
+   "patrimonio": 66862038.3,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/vanderlancardosooficial",
+    "https://www.instagram.com/vanderlancardosooficial",
+    "https://www.tiktok.com/@vanderlancardosooficial",
+    "https://www.youtube.com/@vanderlancardosooficial",
+    "https://x.com/vanderlan_vc"
+   ],
+   "financas": {
+    "fefc": 1500000.0,
+    "pessoasFisicas": 300000.0,
+    "proprios": 133572.25,
+    "arrecadado": 1933572.25,
+    "contratado": 1599592.27,
+    "pago": 1039076.87,
+    "limite": 4447201.54,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pedro Chaves e Samir Hajjar (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Guilherme Darques",
+  "partido": "UP",
+  "idade": "36 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: estudante, bolsista, estagiário e assemelhados"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 36,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/guilhermedarques"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Augusto Cardoso e Victor Barbo (UP)",
+  "suplentesFonte": "tse"
+ }
+]

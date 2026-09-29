@@ -1,0 +1,1034 @@
+[
+ {
+  "numero": "111",
+  "nome": "Ciro Nogueira",
+  "partido": "PP",
+  "idade": "57 anos",
+  "coligacao": "Juntos Pelo Piauí (Podemos, PL, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 57,
+   "patrimonio": 34610258.62,
+   "concorreu2022": false,
+   "redes": [
+    "https://linktr.ee/cironogueira111",
+    "https://www.facebook.com/cironogueira",
+    "https://www.facebook.com/cironogueirapiaui",
+    "https://www.instagram.com/amigosdociropi",
+    "https://www.instagram.com/cironogueira",
+    "https://www.instagram.com/cironogueirapiaui"
+   ],
+   "financas": {
+    "fefc": 2036540.0,
+    "fundoPartidario": 1750932.2,
+    "pessoasFisicas": 30000.0,
+    "outrosCandidatos": 808.33,
+    "arrecadado": 3818280.53,
+    "contratado": 1464650.97,
+    "pago": 1132833.56,
+    "limite": 3811887.03,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Raimundo Neto e Pastor Ricardo Braz (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "Marcelo Castro",
+  "partido": "MDB",
+  "idade": "76 anos",
+  "coligacao": "A Força do Povo (Republicanos, PDT, MDB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 76,
+   "patrimonio": 16046199.1,
+   "concorreu2022": false,
+   "redes": [
+    "https://bsky.app/profile/marcelocastropi.bsky.social",
+    "https://www.facebook.com/marcelocastropiauii",
+    "https://www.instagram.com/marcelocastropi",
+    "https://www.threads.com/@marcelocastropi",
+    "https://www.tiktok.com/@marcelocastropi",
+    "https://www.youtube.com/playlist"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 53478.75,
+    "proprios": 45000.8,
+    "outrosCandidatos": 57028.5,
+    "arrecadado": 3155508.05,
+    "contratado": 2253438.5,
+    "pago": 1501849.16,
+    "limite": 3811887.03,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dr. Felipe Sampaio e Dário Castro (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "166",
+  "nome": "Danniel Rocha",
+  "partido": "PSTU",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/pstupiaui"
+   ],
+   "financas": {
+    "fefc": 18502.0,
+    "pessoasFisicas": 1000.0,
+    "arrecadado": 19502.0,
+    "contratado": 16000.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Júnior Soares e Rosa Meireles (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Tiago Junqueira",
+  "partido": "PL",
+  "idade": "50 anos",
+  "coligacao": "Juntos Pelo Piauí (Podemos, PL, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 50,
+   "patrimonio": 18280134.26,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/tiago_junqueira_pi_",
+    "https://www.tiktok.com/@tiago.junqueira22",
+    "https://x.com/tiagopiaui22"
+   ],
+   "financas": {
+    "fefc": 3800000.0,
+    "pessoasFisicas": 6500.0,
+    "proprios": 30000.0,
+    "arrecadado": 3836500.0,
+    "contratado": 303001.5,
+    "pago": 104001.5,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jhamya Junqueira e Kauã Lacerda e Carlos Augusto (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Dionisio Carvalho",
+  "partido": "DC",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/dionisiocarvalhopiaui",
+    "https://www.instagram.com/dionisiodopiaui"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dilcon Afonso e Francisco das Chagas (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "278",
+  "nome": "Irmão Evandro Marques",
+  "partido": "DC",
+  "idade": "50 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agente administrativo"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agente administrativo",
+   "idade": 50,
+   "patrimonio": 212500.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Afonso Vieira e Mikahil Mendes (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "291",
+  "nome": "Cloves José",
+  "partido": "PCO",
+  "idade": "59 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Georgia Karynne e Marbri Venceslau e Grazielle Alves (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Antônio Barros",
+  "partido": "NOVO",
+  "idade": "55 anos",
+  "coligacao": "A Força da Fé (Novo, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 55,
+   "patrimonio": 1896000.0,
+   "redes": [
+    "https://www.facebook.com/antoniobarros",
+    "https://www.instagram.com/antoniobarrosaf",
+    "https://www.tiktok.com/@antoniobarrosaf"
+   ],
+   "financas": {
+    "fefc": 25000.0,
+    "proprios": 22188.0,
+    "coletivo": 1625.0,
+    "arrecadado": 48813.0,
+    "contratado": 19532.31,
+    "pago": 16032.31,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marília Mendes e Betim (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "333",
+  "nome": "Major Paulo Roberto",
+  "partido": "MOBILIZA",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: membro das forças armadas"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 58,
+   "patrimonio": 844.06,
+   "redes": [
+    "https://instagram.com/majorpauloroberto"
+   ],
+   "financas": {
+    "pessoasFisicas": 6000.0,
+    "proprios": 7000.0,
+    "arrecadado": 13000.0,
+    "contratado": 17501.5,
+    "pago": 5001.5,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carlos Alberto e Dyego Soares (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "338",
+  "nome": "Toinho Dufrango",
+  "partido": "MOBILIZA",
+  "idade": "63 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: comerciante"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comerciante",
+   "idade": 63,
+   "patrimonio": 28222.99,
+   "redes": [
+    "https://facebook.com/toimdufrangooficial",
+    "https://instagram.com/toinhodufrango"
+   ],
+   "financas": {
+    "proprios": 1785.0,
+    "arrecadado": 1785.0,
+    "contratado": 5782.0,
+    "pago": 1782.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Gersilda Teixeira e Angélica Veríssimo (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "350",
+  "nome": "Missionário Evandro Craveiro",
+  "partido": "DEMOCRATA",
+  "idade": "50 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 50,
+   "patrimonio": 100000.0,
+   "redes": [
+    "https://instagram.com/evandrovozesdopiaui",
+    "https://instagram.com/miss.evandrocraveiro"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tiana Rocha e Alex Pinto (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "355",
+  "nome": "Jardenya Bezerra",
+  "partido": "DEMOCRATA",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 48,
+   "patrimonio": 334000.0,
+   "redes": [
+    "https://facebook.com/jardenya.bezerra.9",
+    "https://instagram.com/jardenyabezerra"
+   ],
+   "financas": {
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 3000.0,
+    "contratado": 3000.0,
+    "pago": 3000.0,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Geovanni Nascimento e Antonio José dos Metalúrgicos (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Jorge Lopes",
+  "partido": "PSDB",
+  "idade": "64 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 64,
+   "patrimonio": 918290.0,
+   "redes": [
+    "https://www.instagram.com/jorgelopespiaui"
+   ],
+   "financas": {
+    "fefc": 65000.0,
+    "pessoasFisicas": 2000.0,
+    "proprios": 13500.0,
+    "arrecadado": 80500.0,
+    "contratado": 57393.83,
+    "pago": 32393.83,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Diego Mendes e Miltinho (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Francinaldo Leão",
+  "partido": "PSOL",
+  "idade": "51 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 51,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/francinaldopsol"
+   ],
+   "financas": {
+    "fefc": 45500.0,
+    "arrecadado": 45500.0,
+    "contratado": 44625.5,
+    "pago": 40725.5,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Laudeci Silva Souza e Jucileide Leão (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "505",
+  "nome": "Maria Madalena Nunes",
+  "partido": "PSOL",
+  "idade": "63 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 63,
+   "patrimonio": 440000.0,
+   "redes": [
+    "https://www.facebook.com/mmadalenanunes",
+    "https://www.instagram.com/bancadafeminista.pi",
+    "https://www.instagram.com/madalena.psol"
+   ],
+   "financas": {
+    "fefc": 47250.0,
+    "arrecadado": 47250.0,
+    "contratado": 24215.0,
+    "pago": 23765.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tina Ribeiro e Maria Aires (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Júlio César O Julim do Lula",
+  "partido": "PSD",
+  "idade": "78 anos",
+  "coligacao": "A Força do Povo (Republicanos, PDT, MDB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 78,
+   "patrimonio": 3057528.3,
+   "concorreu2022": true,
+   "patrimonio2022": 2183176.83,
+   "redes": [
+    "https://www.facebook.com/juliocesarlimadopiaui",
+    "https://www.facebook.com/share/1ex1lfjr4f",
+    "https://www.instagram.com/juliocesardopiaui",
+    "https://www.tiktok.com/@juliocesardopiauii",
+    "https://x.com/julio_cesar_pi"
+   ],
+   "financas": {
+    "fefc": 1850000.0,
+    "pessoasFisicas": 361632.4,
+    "proprios": 284050.0,
+    "outrosCandidatos": 62158.5,
+    "arrecadado": 2557840.9,
+    "contratado": 3427800.68,
+    "pago": 1895638.58,
+    "limite": 3811887.03,
+    "doadoresPF": 13,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Rosario Bezerra e Pedro Rocha (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Alexandre Mariano",
+  "partido": "AVANTE",
+  "idade": "61 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Servidor público municipal",
+   "idade": 61,
+   "patrimonio": 306000.0,
+   "redes": [
+    "https://www.instagram.com/alexandremariano67_"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paulo Limeira e Guilherme Rocha e Michel Saldanha e J C do Dirceu e Ana Câmpelo (AVANTE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "707",
+  "nome": "Pastor Sena",
+  "partido": "AVANTE",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Stanley Meireles e Ivanildo Lopes (AVANTE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Pedro Laurentino",
+  "partido": "UP",
+  "idade": "70 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Servidor público federal",
+   "idade": 70,
+   "patrimonio": 293000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/pedrolaurentinorp"
+   ],
+   "financas": {
+    "fefc": 5033.5,
+    "pessoasFisicas": 2000.0,
+    "proprios": 1040.0,
+    "arrecadado": 8073.5,
+    "contratado": 3000.5,
+    "pago": 3000.5,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Raimunda Belizário e Samuel Lima (UP)",
+  "suplentesFonte": "tse"
+ }
+]

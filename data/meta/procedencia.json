@@ -1,0 +1,31 @@
+{
+  "procedencia": {
+    "of": {
+      "nome": "Fonte oficial",
+      "descricao": "Dado de órgão oficial, estatístico ou da Justiça Eleitoral"
+    },
+    "gov": {
+      "nome": "Governo do candidato",
+      "descricao": "Divulgado pelo governo que o próprio candidato comandava"
+    },
+    "imp": {
+      "nome": "Imprensa",
+      "descricao": "Apurado ou publicado por veículo de imprensa"
+    },
+    "crit": {
+      "nome": "Crítico",
+      "descricao": "Divulgado por entidade que faz oposição ao candidato"
+    },
+    "camp": {
+      "nome": "Campanha",
+      "descricao": "Afirmado no material de campanha, sem verificação independente"
+    }
+  },
+  "tiposDeEvento": {
+    "mandato": "Mandato",
+    "eleicao": "Eleição",
+    "carreira": "Carreira",
+    "formacao": "Formação",
+    "justica": "Justiça"
+  }
+}

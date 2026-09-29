@@ -1,0 +1,235 @@
+{
+ "cargo": "governador",
+ "temas": {
+  "seguranca": [
+   {
+    "id": "g0",
+    "texto": "Câmeras com reconhecimento facial e leitura de placas",
+    "itens": [
+     "14.1",
+     "22.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Presídio de segurança máxima e barreiras nas divisas",
+    "itens": [
+     "14.0",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Mais policiais: concursos e convocação da reserva",
+    "itens": [
+     "22.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Prevenção, inteligência e combate à violência contra a mulher",
+    "itens": [
+     "40.0",
+     "40.1"
+    ]
+   }
+  ],
+  "saude": [
+   {
+    "id": "g0",
+    "texto": "Zerar a fila de cirurgias, inclusive comprando vagas da rede privada",
+    "itens": [
+     "14.0",
+     "22.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Mais leitos de UTI e hospitais regionais",
+    "itens": [
+     "14.1",
+     "22.1",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Programas para doenças e grupos específicos (sífilis, TEA, cannabis medicinal)",
+    "itens": [
+     "40.0",
+     "40.1"
+    ]
+   }
+  ],
+  "educacao": [
+   {
+    "id": "g0",
+    "texto": "Tempo integral em mais escolas estaduais",
+    "itens": [
+     "14.0",
+     "22.0",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Manter ou ajustar o Universidade Gratuita",
+    "itens": [
+     "22.1",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Suspender o Universidade Gratuita",
+    "itens": [
+     "80.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Premiar escolas por desempenho",
+    "itens": [
+     "14.1"
+    ]
+   }
+  ],
+  "gestao": [
+   {
+    "id": "g0",
+    "texto": "Privatizar estatais e cortar cargos e despesas",
+    "itens": [
+     "14.0",
+     "14.1",
+     "55.1"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Mais investimento público, com meta de percentual da receita",
+    "itens": [
+     "55.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Crédito e habitação: Pronampe SC, Financia Agro e Casa Catarina",
+    "itens": [
+     "22.0",
+     "22.1"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Servidores e planejamento: fim da contribuição de aposentados e indicadores públicos",
+    "itens": [
+     "40.0",
+     "40.1"
+    ]
+   }
+  ],
+  "infra": [
+   {
+    "id": "g0",
+    "texto": "Rodovias: duplicações e obras estaduais e federais",
+    "itens": [
+     "14.1",
+     "22.0",
+     "55.0"
+    ]
+   },
+   {
+    "id": "g1",
+    "texto": "Portos e logística",
+    "itens": [
+     "22.1",
+     "40.0"
+    ]
+   },
+   {
+    "id": "g2",
+    "texto": "Saneamento universal",
+    "itens": [
+     "14.0"
+    ]
+   },
+   {
+    "id": "g3",
+    "texto": "Prevenção de desastres e segurança hídrica",
+    "itens": [
+     "40.1"
+    ]
+   }
+  ]
+ },
+ "dilemas": {
+  "seguranca": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "saude": [
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g0",
+    "g2"
+   ]
+  ],
+  "educacao": [
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g1",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ]
+  ],
+  "gestao": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g0",
+    "g2"
+   ],
+   [
+    "g2",
+    "g3"
+   ]
+  ],
+  "infra": [
+   [
+    "g0",
+    "g3"
+   ],
+   [
+    "g1",
+    "g2"
+   ],
+   [
+    "g2",
+    "g3"
+   ]
+  ]
+ }
+}

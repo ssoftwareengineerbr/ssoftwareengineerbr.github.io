@@ -1,0 +1,616 @@
+[
+ {
+  "numero": "111",
+  "nome": "Fufuca",
+  "partido": "PP",
+  "idade": "37 anos",
+  "coligacao": "Maranhão de Cara Nova (federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 37,
+   "patrimonio": 1829911.74,
+   "concorreu2022": true,
+   "patrimonio2022": 1241308.77,
+   "redes": [
+    "https://web.facebook.com/andrefufuca",
+    "https://www.instagram.com/andre_fufuca",
+    "https://www.tiktok.com/@fufuca111",
+    "https://x.com/andre_fufuca"
+   ],
+   "financas": {
+    "fefc": 3750000.0,
+    "partido": 350000.0,
+    "pessoasFisicas": 246600.0,
+    "proprios": 22500.0,
+    "outrosCandidatos": 7125.0,
+    "arrecadado": 4376225.0,
+    "contratado": 2286850.16,
+    "pago": 1985213.3,
+    "limite": 4447201.54,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Fernando Fialho (PSDB) e Sargento Barbosa (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "123",
+  "nome": "Weverton Rocha",
+  "partido": "PDT",
+  "idade": "46 anos",
+  "coligacao": "Por Todo Maranhão (Republicanos, PDT, MDB, Podemos, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 46,
+   "patrimonio": 2301756.49,
+   "concorreu2022": true,
+   "patrimonio2022": 4247977.0,
+   "redes": [
+    "https://www.facebook.com/share/1jndxcccsv",
+    "https://www.instagram.com/wevertonrochasenador",
+    "https://www.tiktok.com/@weverton_rocha",
+    "https://x.com/wevertonrocha",
+    "https://youtube.com/@wevertonsenador"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "proprios": 30000.0,
+    "arrecadado": 3030000.0,
+    "contratado": 3197895.44,
+    "pago": 1869595.44,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alderico Campos (PDT) e Renan Waynne (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "133",
+  "nome": "Eliziane Gama",
+  "partido": "PT",
+  "idade": "49 anos",
+  "coligacao": "Brasil Justo, Maranhão Grande (PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 49,
+   "patrimonio": 1220826.6,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/elizianegama"
+   ],
+   "financas": {
+    "fefc": 4447201.54,
+    "proprios": 15000.0,
+    "outrosCandidatos": 14830.0,
+    "arrecadado": 4477031.54,
+    "contratado": 2466350.11,
+    "pago": 2399530.11,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Lene Rodrigues (PCDOB) e Patrícia Carlos (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "Roseana Sarney",
+  "partido": "MDB",
+  "idade": "73 anos",
+  "coligacao": "Por Todo Maranhão (Republicanos, PDT, MDB, Podemos, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 73,
+   "patrimonio": 22210212.13,
+   "redes": [
+    "https://www.facebook.com/roseanasarneyma",
+    "https://www.instagram.com/roseanasarney",
+    "https://www.tiktok.com/@roseanasarneyma",
+    "https://x.com/roseanasarneym"
+   ],
+   "financas": {
+    "fefc": 3500000.0,
+    "pessoasFisicas": 74000.0,
+    "proprios": 36450.0,
+    "arrecadado": 3610450.0,
+    "contratado": 3608674.29,
+    "pago": 2127946.15,
+    "limite": 4447201.54,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Valberlene Lopes e Carol Pereira (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "160",
+  "nome": "Wilson Leite",
+  "partido": "PSTU",
+  "idade": "49 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: técnico em informática"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Técnico em informática",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 17402.0,
+    "pessoasFisicas": 200.0,
+    "outrosCandidatos": 322.0,
+    "arrecadado": 17924.0,
+    "contratado": 17394.2,
+    "pago": 13394.2,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Beto Belo e Osmar Filho (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "212",
+  "nome": "Raimundo Moreira",
+  "partido": "PCB",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: pescador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Pescador",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "José Jk e Hivina Brito (PCB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Cidônio Gonçalves",
+  "partido": "PL",
+  "idade": "65 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: produtor agropecuário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 65,
+   "patrimonio": 1020079.93,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/people/cidonio-gon%c3%a7alves/pfbid02l5uar69x134h2blzewqukvs3jvmvtkvlsdcqw6",
+    "https://www.instagram.com/cidoniogoncalves"
+   ],
+   "financas": {
+    "pessoasFisicas": 155000.0,
+    "proprios": 10000.0,
+    "arrecadado": 165000.0,
+    "contratado": 246400.0,
+    "pago": 30000.0,
+    "limite": 4447201.54,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Coronel Daladier e Zé Gabriel (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Simplício Araújo",
+  "partido": "DC",
+  "idade": "57 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: analista de sistemas"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Analista de sistemas",
+   "idade": 57,
+   "patrimonio": 400000000.0,
+   "redes": [
+    "https://www.instagram.com/simplicioaraujo"
+   ],
+   "financas": {
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 6000.0,
+    "contratado": 6000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Fernando Ipiranga e Célio Rei do Cavalo (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Lahesio Bonfim",
+  "partido": "NOVO",
+  "idade": "48 anos",
+  "coligacao": "Pra Transformar O Maranhão (Novo, PSD)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 48,
+   "patrimonio": 3677655.55,
+   "redes": [
+    "https://www.facebook.com/share/1fqcpjffez",
+    "https://www.instagram.com/lahesiobonfimoficial",
+    "https://youtube.com/@lahesiobonfim"
+   ],
+   "financas": {
+    "fefc": 205000.0,
+    "fundoPartidario": 195000.0,
+    "pessoasFisicas": 164870.0,
+    "proprios": 160000.0,
+    "arrecadado": 724870.0,
+    "contratado": 577614.8,
+    "pago": 406565.8,
+    "limite": 4447201.54,
+    "doadoresPF": 18,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Maurício Rizzi (NOVO) e Franciscano Soares (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "333",
+  "nome": "Dr.hilton Gonçalo",
+  "partido": "MOBILIZA",
+  "idade": "60 anos",
+  "coligacao": "Tempo de Renovação (Mobiliza, Agir, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 60,
+   "patrimonio": 5785647.85,
+   "redes": [
+    "https://www.facebook.com/prefeitohiltongoncalo",
+    "https://www.instagram.com/drhiltongoncalo_",
+    "https://www.instagram.com/hiltongoncalo_",
+    "https://www.tiktok.com/@drhiltongoncalo33"
+   ],
+   "financas": {
+    "pessoasFisicas": 717894.0,
+    "proprios": 4500.0,
+    "outrosCandidatos": 2455.0,
+    "arrecadado": 724849.0,
+    "contratado": 209845.0,
+    "pago": 109845.0,
+    "limite": 4447201.54,
+    "doadoresPF": 78,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pastor Porto (AVANTE) e Ester Alves (AGIR) e Fernanda Goncalo (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Enilton Rodrigues",
+  "partido": "PSOL",
+  "idade": "46 anos",
+  "coligacao": "Brasil Justo, Maranhão Grande (PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 46,
+   "patrimonio": 84000.0,
+   "redes": [
+    "https://www.facebook.com/eniltonsrodrigues",
+    "https://www.instagram.com/enilton_rodrigues",
+    "https://www.tiktok.com/@eniltonrodrigue50"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 4000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Valdeny Barros e Kelly Santos e Elizabeth Sousa (PSOL)",
+  "suplentesFonte": "tse"
+ }
+]

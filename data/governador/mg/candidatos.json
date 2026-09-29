@@ -1,0 +1,1229 @@
+[
+ {
+  "numero": "10",
+  "nome": "Cleitinho Azevedo",
+  "partido": "REPUBLICANOS",
+  "vice": "Falcão (REPUBLICANOS)",
+  "idade": "44 anos",
+  "coligacao": "Minas É do Povo (Republicanos, Podemos)",
+  "resumoTrajetoria": [
+   "Senador desde 2023, eleito com mais de 4 milhões de votos",
+   "Ex-deputado estadual e ex-vereador de Divinópolis"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Divinópolis",
+     "inicio": 2017,
+     "fim": 2019,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em MG",
+     "inicio": 2019,
+     "fim": 2023,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por MG",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2022 em 1º lugar, com mais de 4 milhões de votos; o mandato vai até 2031.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4 milhões",
+     "rotulo": "Votos para o Senado em 2022",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Senador",
+   "idade": 44,
+   "patrimonio": 956564.03,
+   "redes": [
+    "https://web.facebook.com/cleitinhosenador",
+    "https://www.instagram.com/cleitinhoazevedo",
+    "https://www.instagram.com/cleitinhosenadormg",
+    "https://www.tiktok.com/@cleitinho.oficial",
+    "https://www.youtube.com/@cleitinhoazevedooficial",
+    "https://x.com/cleitinhotmj"
+   ],
+   "financas": {
+    "pessoasFisicas": 916250.0,
+    "arrecadado": 916250.0,
+    "contratado": 788974.96,
+    "pago": 545199.53,
+    "limite": 17788806.16,
+    "doadoresPF": 56,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "16",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": null
+  },
+  "propostas": {
+   "saude": [
+    "Garantir o funcionamento pleno de 5 hospitais regionais: Teófilo Otoni, Governador Valadares, Divinópolis, Sete Lagoas e Conselheiro Lafaiete.",
+    "Programa Reativar Minas para recuperar leitos, maternidades, UTIs e centros cirúrgicos subutilizados; consulta on-line ao estoque das farmácias públicas."
+   ],
+   "educacao": [
+    "Manter e expandir as escolas cívico-militares e os colégios Tiradentes."
+   ],
+   "seguranca": [
+    "Ampliar o monitoramento de agressores de mulheres por tornozeleira."
+   ],
+   "gestao": [
+    "Renegociar a dívida com a União e rever incentivos fiscais, mantendo só os que geram empregos."
+   ]
+  }
+ },
+ {
+  "numero": "12",
+  "nome": "Alexandre Kalil",
+  "partido": "PDT",
+  "vice": "Carlos Mosconi (PSDB)",
+  "idade": "67 anos",
+  "coligacao": "Cuidar de Minas (PDT, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Prefeito de Belo Horizonte (2017–2022)",
+   "Presidente do Atlético Mineiro (2008–2014)",
+   "Candidato a governador em 2022: 2º lugar"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente do Atlético Mineiro",
+     "ano": "2008–2014",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Belo Horizonte",
+     "inicio": 2017,
+     "fim": 2022,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2016 e reeleito no 1º turno em 2020; saiu em março de 2022 para disputar o governo.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: 2º lugar, com 35,08% dos votos válidos",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "35,08%",
+     "rotulo": "Votos válidos para governador em 2022",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 67,
+   "patrimonio": 5941176.84,
+   "concorreu2022": true,
+   "patrimonio2022": 3652820.88,
+   "redes": [
+    "https://k.kwai.com/u/@alexandre.kalil/pt5ma8cv",
+    "https://linktr.ee/alexandre.kalil",
+    "https://www.facebook.com/alexandrekaliloficial",
+    "https://www.instagram.com/alexandrekaliloficial",
+    "https://www.threads.com/@alexandrekaliloficial",
+    "https://www.tiktok.com/@alexandrekaliloficial"
+   ],
+   "financas": {
+    "fefc": 7100000.0,
+    "fundoPartidario": 7000000.0,
+    "pessoasFisicas": 6300.0,
+    "outrosCandidatos": 262.5,
+    "arrecadado": 14106562.5,
+    "contratado": 13543286.38,
+    "pago": 12870738.38,
+    "limite": 17788806.16,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "saude": [
+    "Encurtar o tempo entre a suspeita e o tratamento do câncer, com centros regionais de confirmação diagnóstica.",
+    "Avaliar cada obra de saúde inacabada para equipá-la e pô-la em funcionamento; recuperar os hospitais da Fhemig.",
+    "Fortalecer o Tratamento Fora de Domicílio e o transporte sanitário nos municípios pequenos."
+   ],
+   "educacao": [
+    "Expandir o ensino em tempo integral e criar uma política de saúde nas escolas."
+   ],
+   "gestao": [
+    "Descentralizar decisões e cooperar com prefeituras e consórcios municipais."
+   ]
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Patrus Ananias",
+  "partido": "PT",
+  "vice": "Jarbas Soares (PSB)",
+  "idade": "74 anos",
+  "coligacao": "Pra Minas Gerais Voltar A Sonhar (PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Deputado federal",
+   "Ministro do Desenvolvimento Social (2004–2010) e do Desenvolvimento Agrário",
+   "Prefeito de Belo Horizonte (1993–1996)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: Direito (UFMG), com mestrado em Direito Processual (PUC Minas)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Belo Horizonte",
+     "inicio": 1989,
+     "fim": 1992,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Belo Horizonte",
+     "inicio": 1993,
+     "fim": 1996,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro do Desenvolvimento Social e Combate à Fome, que administrava o Bolsa Família",
+     "ano": "2004–2010",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro do Desenvolvimento Agrário",
+     "ano": "2015–2016"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por MG",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 2,
+     "ano": "—",
+     "detalhe": "Mandatos na Câmara dos Deputados, incluindo o atual.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "1993–1996",
+     "rotulo": "Prefeito de Belo Horizonte",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 74,
+   "patrimonio": 1247212.54,
+   "redes": [
+    "https://linktr.ee/patrus_ananias",
+    "https://www.facebook.com/patrusananias13",
+    "https://www.instagram.com/patrus_ananias",
+    "https://www.instagram.com/timepatrus",
+    "https://www.threads.net/@patrus_ananias",
+    "https://www.tiktok.com/@patrus_ananias"
+   ],
+   "financas": {
+    "fefc": 13336978.36,
+    "partido": 80000.0,
+    "pessoasFisicas": 79200.0,
+    "arrecadado": 13496178.36,
+    "contratado": 8050371.68,
+    "pago": 6184075.25,
+    "limite": 17788806.16,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "saude": [
+    "Início do tratamento do câncer em até 60 dias após o diagnóstico.",
+    "Implantar a Rede Alyne contra a mortalidade materna e infantil; casas de parto e rede de saúde mental para jovens de 15 a 29 anos."
+   ],
+   "educacao": [
+    "Fim da militarização das escolas."
+   ],
+   "seguranca": [
+    "Levar delegacias especializadas no atendimento à mulher para o interior."
+   ],
+   "gestao": [
+    "Reestatizar Copasa e Cemig."
+   ],
+   "infra": [
+    "Programa Caminhos da Saúde para o transporte de pacientes do interior."
+   ]
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Ben Mendes",
+  "partido": "MISSÃO",
+  "vice": "Cabo David Souza (MISSÃO)",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Advogado e criador do projeto Ronda do Consumidor",
+   "Primeira eleição que disputa"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Direito (PUC Minas)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Criador do projeto Ronda do Consumidor, sobre direitos do consumidor",
+     "ano": "—",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 38,
+   "patrimonio": 80000.0,
+   "redes": [
+    "https://instagram.com/drbenonimendes",
+    "https://www.facebook.com/drbenmendes",
+    "https://www.tiktok.com/@adv.benonimendes"
+   ],
+   "financas": {
+    "fefc": 120000.0,
+    "coletivo": 2507.0,
+    "arrecadado": 122507.0,
+    "contratado": 72381.76,
+    "pago": 72381.76,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "saude": [
+    "Concluir e pôr em funcionamento os hospitais regionais."
+   ],
+   "educacao": [
+    "Manter ou expandir as escolas cívico-militares."
+   ],
+   "gestao": [
+    "PPPs em infraestrutura e no sistema prisional."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "15",
+  "nome": "Gabriel",
+  "partido": "MDB",
+  "vice": "Maria Helena (MDB)",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Vereador de Belo Horizonte por dois mandatos; presidiu a Câmara (2023–2024)",
+   "Candidato a prefeito de BH em 2024",
+   "Advogado, jornalista e professor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: Direito, com mestrado; cursos na LSE e em Georgetown",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Belo Horizonte",
+     "inicio": 2017,
+     "fim": 2024,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2016 e 2020; presidiu a Câmara Municipal de 2023 a 2024.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de BH: 133.728 votos, sem ir ao 2º turno",
+     "ano": "2024",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "133.728",
+     "rotulo": "Votos para prefeito de BH em 2024",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 40,
+   "patrimonio": 1702153.88,
+   "redes": [
+    "https://bsky.app/profile/gabrielazevedo.bsky.social",
+    "https://linktr.ee/gabrielazevedo",
+    "https://www.facebook.com/gabrielazevedo",
+    "https://www.instagram.com/gabrielazevedo",
+    "https://www.threads.com/@gabrielazevedo",
+    "https://www.tiktok.com/@gabrielazevedo1986"
+   ],
+   "financas": {
+    "fefc": 3150000.0,
+    "pessoasFisicas": 485085.0,
+    "arrecadado": 3635085.0,
+    "contratado": 1936768.96,
+    "pago": 1570268.96,
+    "limite": 17788806.16,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "39",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": null
+  },
+  "propostas": {
+   "saude": [
+    "Forças-tarefa regionais por especialidade para as filas, com critérios clínicos e prioridades transparentes.",
+    "Organizar redes regionais por consórcios antes de novas obras; carretas de saúde da mulher com telemedicina; linha de cuidado para famílias atípicas."
+   ],
+   "seguranca": [
+    "Levar delegacias especializadas no atendimento à mulher para o interior."
+   ],
+   "gestao": [
+    "Equilíbrio fiscal e renegociação da dívida pelo Propag; descentralização com prefeituras e consórcios."
+   ]
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Rafael Duda",
+  "partido": "PSTU",
+  "vice": "Prof. Diana de Cássia (PSTU)",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Técnico de mineração, metalurgia e geologia",
+   "Candidato a prefeito de Congonhas em 2020 e 2024"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de Congonhas, não eleito",
+     "ano": "2020 e 2024",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a deputado federal, não eleito",
+     "ano": "2022"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Técnico de mineração, metalurgia e geologia",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/rafael_duda_pstu"
+   ],
+   "financas": {
+    "fefc": 153502.5,
+    "arrecadado": 153502.5,
+    "contratado": 89505.0,
+    "pago": 54505.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "educacao": [
+    "Fim da militarização das escolas."
+   ],
+   "gestao": [
+    "Reestatizar Copasa e Cemig.",
+    "Romper com o Propag e fazer auditoria da dívida."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "21",
+  "nome": "Professor Túlio Lopes",
+  "partido": "PCB",
+  "vice": "Warlen Nunes (PCB)",
+  "idade": "44 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Historiador e professor da UEMG",
+   "Candidato ao governo em 2014 e ao Senado em 2018"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: pouco mais de 26 mil votos",
+     "ano": "2014",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato ao Senado: mais de 92 mil votos",
+     "ano": "2018",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/tulio.lopes.52",
+    "https://www.instagram.com/tuliolopesmg",
+    "https://www.threads.com/@tuliolopesmg",
+    "https://www.tiktok.com/@tuliolopesgovmg",
+    "https://www.youtube.com/@jornaldopovomg",
+    "https://www.youtube.com/@professort%c3%9aliolopes"
+   ],
+   "financas": {
+    "coletivo": 12423.08,
+    "arrecadado": 12423.08,
+    "contratado": 9495.19,
+    "pago": 9495.19,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "propostas": {
+   "saude": [
+    "Concluir e pôr em funcionamento os hospitais regionais."
+   ],
+   "educacao": [
+    "Fim da militarização das escolas."
+   ],
+   "gestao": [
+    "Reestatizar Copasa e Cemig.",
+    "Romper com o Propag e fazer auditoria da dívida."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "22",
+  "nome": "Flávio Roscoe",
+  "partido": "PL",
+  "vice": "Ellen Miziara (PL)",
+  "idade": "54 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Presidente da Fiemg (2018–2026)",
+   "Empresário",
+   "Primeira eleição que disputa"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente da Federação das Indústrias de MG (Fiemg), com Sesi e Senai",
+     "ano": "2018–2026",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 54,
+   "patrimonio": 13350362.21,
+   "redes": [
+    "https://br.linkedin.com/in/flávio-roscoe-377998300",
+    "https://www.facebook.com/flavioroscoenogueira",
+    "https://www.instagram.com/channel/abazqg7dbgxxwdhz",
+    "https://www.instagram.com/roscoe.flavio"
+   ],
+   "financas": {
+    "fefc": 1600000.0,
+    "partido": 2675833.45,
+    "pessoasFisicas": 7073010.1,
+    "arrecadado": 11348843.55,
+    "contratado": 6488885.79,
+    "pago": 2670075.39,
+    "limite": 17788806.16,
+    "doadoresPF": 84,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "20",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sim (fonte de recursos para a saúde)",
+   "prazos": "Sim, em alguns itens",
+   "observacao": "Único dos seis principais a dizer de onde viria o dinheiro extra para a saúde."
+  },
+  "propostas": {
+   "saude": [
+    "Reduzir a mortalidade materna para menos de 25 por 100 mil nascidos vivos até o fim do mandato (32,9 em 2025).",
+    "Painel público com o tempo de espera na saúde."
+   ],
+   "gestao": [
+    "Financiar a saúde com combate à sonegação e cobrança de royalties minerais em atraso, sem aumentar impostos.",
+    "PPPs em infraestrutura e no sistema prisional; renegociação da dívida pelo Propag."
+   ]
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Henrique Áreas",
+  "partido": "PCO",
+  "vice": "Estevão Gomes (PCO)",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Jornalista, formado em Ciências Sociais (Unicamp)",
+   "Da direção nacional do PCO"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Ciências Sociais (Unicamp)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de São Paulo, não eleito",
+     "ano": "2016",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a deputado federal por SP, não eleito",
+     "ano": "2018"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 41,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/henrique.areasdearaujo",
+    "https://www.instagram.com/henriqueareasaraujo",
+    "https://x.com/henrique29areas"
+   ],
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "7",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": null
+  },
+  "propostas": {
+   "gestao": [
+    "Reestatizar Copasa e Cemig."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ },
+ {
+  "numero": "55",
+  "nome": "Mateus Simões",
+  "partido": "PSD",
+  "vice": "Danilo de Castro (UNIÃO)",
+  "idade": "45 anos",
+  "coligacao": "Minas No Caminho Certo (PSD, federação União e PP, Novo, Avante, federação PRD e Solidariedade, Mobiliza, DC, Agir)",
+  "resumoTrajetoria": [
+   "Governador de Minas desde março de 2026, após a renúncia de Zema",
+   "Vice-governador (2023–2026) e secretário-geral do estado",
+   "Ex-vereador de Belo Horizonte; advogado e professor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: Direito, com mestrado em Direito Empresarial (Faculdade Milton Campos)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Belo Horizonte",
+     "inicio": 2017,
+     "fim": 2019,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2016 pelo Novo; deixou o mandato para integrar o governo Zema.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário-geral do governo de Minas",
+     "ano": "2020–2022"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-governador de MG",
+     "inicio": 2023,
+     "fim": 2026,
+     "mandatos": 1,
+     "detalhe": "Eleito na chapa de Zema em 2022, no 1º turno.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de MG",
+     "inicio": 2026,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Assumiu em 22 de março de 2026. Trocou o Novo pelo PSD em 2025.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     },
+     "lacuna": "executivo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "Desde mar/2026",
+     "rotulo": "Governador de Minas",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Estado de Minas: propostas de saúde dos seis principais candidatos",
+    "url": "https://www.em.com.br/politica/2026/09/7494576-o-que-separa-os-candidatos-ao-governo-de-mg-nas-propostas-para-a-saude.html"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 45,
+   "patrimonio": 2904492.23,
+   "concorreu2022": true,
+   "patrimonio2022": 2985259.12,
+   "redes": [
+    "https://www.facebook.com/mateussimoesmg",
+    "https://www.instagram.com/mateus.simoesmg",
+    "https://www.linkedin.com/in/mateusalmeida",
+    "https://www.tiktok.com/@mateus.simoesmg",
+    "https://www.youtube.com/@mateussimoes",
+    "https://x.com/mateus_simoesmg"
+   ],
+   "financas": {
+    "fefc": 7014500.0,
+    "fundoPartidario": 214319.15,
+    "partido": 3910103.63,
+    "pessoasFisicas": 3031600.0,
+    "arrecadado": 14170522.78,
+    "contratado": 8532828.88,
+    "pago": 5868877.33,
+    "limite": 17788806.16,
+    "doadoresPF": 63,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "5",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Não",
+   "prazos": "Sem dado",
+   "observacao": "O mais curto entre os principais candidatos."
+  },
+  "propostas": {
+   "saude": [
+    "Ampliar o acesso com diagnósticos remotos e integração de sistemas.",
+    "Organizar a atenção primária em parceria direta com as prefeituras."
+   ],
+   "educacao": [
+    "Expandir o ensino em tempo integral."
+   ],
+   "gestao": [
+    "Manter o equilíbrio fiscal e renegociar a dívida pelo Propag."
+   ]
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Indira Xavier",
+  "partido": "UP",
+  "vice": "Renato Campos (UP)",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Militante de movimentos por moradia popular",
+   "Candidata ao governo em 2022 e à Prefeitura de BH em 2024"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Ensino médio completo",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a governadora de MG, não eleita",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a prefeita de BH, não eleita",
+     "ano": "2024"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador de MG",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Portal MPA: o que pensam os candidatos ao governo de MG",
+    "url": "https://www.sistemampa.com.br/noticias/politica/candidatos-governo-minas-gerais-2026/"
+   },
+   {
+    "titulo": "Blog Kika Castro: planos de governo de MG, com links e número de páginas",
+    "url": "https://kikacastro.com.br/2026/08/18/planos-governo-candidatos-mg-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Auxiliar de escritório e assemelhados",
+   "idade": 42,
+   "patrimonio": 479.89,
+   "redes": [
+    "https://www.instagram.com/indiraxavier.up"
+   ],
+   "financas": {
+    "fefc": 10000.0,
+    "pessoasFisicas": 4520.23,
+    "proprios": 40.0,
+    "coletivo": 14304.0,
+    "naoIdentificada": 81.0,
+    "arrecadado": 28945.23,
+    "contratado": 9144.47,
+    "pago": 524.47,
+    "limite": 17788806.16,
+    "doadoresPF": 62,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "qualidadePlano": {
+   "paginas": "16",
+   "propostas": "Sem dado",
+   "valoresEmReais": "Sem dado",
+   "prazos": "Sem dado",
+   "observacao": null
+  },
+  "propostas": {
+   "educacao": [
+    "Fim da militarização das escolas."
+   ],
+   "gestao": [
+    "Reestatizar Copasa e Cemig.",
+    "Romper com o Propag e fazer auditoria da dívida."
+   ]
+  },
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot."
+ }
+]

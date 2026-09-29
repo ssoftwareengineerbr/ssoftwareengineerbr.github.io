@@ -1,0 +1,405 @@
+[
+ {
+  "numero": "16",
+  "nome": "Gilberto Vasconcelos",
+  "partido": "PSTU",
+  "vice": "Juliana Frota (PSTU)",
+  "idade": "59 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1e35owtkca",
+    "https://www.instagram.com/gilberto_pstu",
+    "https://www.tiktok.com/@pstuamazonas",
+    "https://youtube.com/@pstuamazonas"
+   ],
+   "financas": {
+    "fefc": 26002.0,
+    "pessoasFisicas": 2000.0,
+    "proprios": 3000.0,
+    "arrecadado": 31002.0,
+    "contratado": 12500.0,
+    "pago": 3500.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "18",
+  "nome": "Isael Munduruku",
+  "partido": "REDE",
+  "vice": "Leo Balbi (PSOL)",
+  "idade": "48 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 48,
+   "patrimonio": 1657000.0,
+   "redes": [
+    "https://www.facebook.com/isael.munduruku",
+    "https://www.instagram.com/isael.munduruku"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Professora Maria do Carmo",
+  "partido": "PL",
+  "vice": "Coronel Anibal (PL)",
+  "idade": "66 anos",
+  "coligacao": "Mudar É Urgente (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 66,
+   "patrimonio": 118473769.48,
+   "concorreu2022": true,
+   "patrimonio2022": 14775247.76,
+   "redes": [
+    "https://k.kwai.com/u/@profmariadocarmo/noci2z5",
+    "https://linktr.ee/profmariadocarmo",
+    "https://www.facebook.com/share/18fvyrt1qm",
+    "https://www.instagram.com/mariadocarmoseffair",
+    "https://www.instagram.com/professoramaria.22",
+    "https://www.linkedin.com/in/maria-do-carmo-s-lalbuquerqueb618b120"
+   ],
+   "financas": {
+    "fefc": 4500000.0,
+    "proprios": 30000.0,
+    "arrecadado": 4530000.0,
+    "contratado": 5972161.74,
+    "pago": 3756145.08,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "33",
+  "nome": "Cabo Daciolo",
+  "partido": "MOBILIZA",
+  "vice": "Igor Oliveira (MOBILIZA)",
+  "idade": "50 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: militar reformado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Militar reformado",
+   "idade": 50,
+   "patrimonio": 190750.0,
+   "redes": [
+    "https://www.facebook.com/cabodaciolo33",
+    "https://www.facebook.com/depudadocabodaciolo",
+    "https://www.facebook.com/people/cabo-daciolo-33/61593729686674",
+    "https://www.instagram.com/cabodaciolo",
+    "https://www.instagram.com/cabodaciolo33",
+    "https://www.threads.com/@cabodaciolo33"
+   ],
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Roberto Cidade",
+  "partido": "UNIÃO",
+  "vice": "Serafim (PSB)",
+  "idade": "40 anos",
+  "coligacao": "União Pelo Amazonas (PSB, federação União e PP, Podemos)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 40,
+   "patrimonio": 4285400.8,
+   "concorreu2022": true,
+   "patrimonio2022": 2945151.29,
+   "redes": [
+    "https://linktr.ee/robertocidadeam",
+    "https://www.facebook.com/groups/boramudarmanaus",
+    "https://www.facebook.com/robertocidadeam",
+    "https://www.instagram.com/boracomcidade",
+    "https://www.instagram.com/mulherescomcidade",
+    "https://www.instagram.com/robertinhoprefeitao44"
+   ],
+   "financas": {
+    "fefc": 3855573.38,
+    "fundoPartidario": 1151000.0,
+    "pessoasFisicas": 92803.32,
+    "proprios": 20000.0,
+    "arrecadado": 5119376.7,
+    "contratado": 4925780.0,
+    "pago": 672500.0,
+    "limite": 7115522.46,
+    "doadoresPF": 425,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Omar Aziz",
+  "partido": "PSD",
+  "vice": "Alessandra Campelo (PSD)",
+  "idade": "68 anos",
+  "coligacao": "Força Amazonas (Republicanos, MDB, PSD, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 68,
+   "patrimonio": 2070608.0,
+   "concorreu2022": true,
+   "patrimonio2022": 990133.39,
+   "redes": [
+    "https://br.linkedin.com/in/omar-aziz-7a999a415",
+    "https://linktr.ee/omaraziz.am",
+    "https://linktr.ee/omargovernador",
+    "https://www.facebook.com/omarazizamazonas",
+    "https://www.instagram.com/channel/abz9ua5qxbexeuuk",
+    "https://www.instagram.com/omaraziz.am"
+   ],
+   "financas": {
+    "fefc": 6000000.0,
+    "pessoasFisicas": 120000.0,
+    "arrecadado": 6120000.0,
+    "contratado": 5780356.67,
+    "pago": 1985934.75,
+    "limite": 7115522.46,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "70",
+  "nome": "David Almeida",
+  "partido": "AVANTE",
+  "vice": "Dra. Shádia (AVANTE)",
+  "idade": "57 anos",
+  "coligacao": "Pra Cima Amazonas (PDT, DC, Agir, Avante, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 57,
+   "patrimonio": 1432848.4,
+   "concorreu2022": false,
+   "redes": [
+    "https://linktr.ee/davidalmeidaam",
+    "https://www.facebook.com/davidalmeidaam",
+    "https://www.facebook.com/share/1dfkwcn2wl",
+    "https://www.instagram.com/davidalmeidaam",
+    "https://www.instagram.com/pracimaamazonas",
+    "https://www.instagram.com/pracimajuventude70"
+   ],
+   "financas": {
+    "fefc": 4250000.0,
+    "fundoPartidario": 50000.0,
+    "arrecadado": 4300000.0,
+    "contratado": 4553257.59,
+    "pago": 1123902.79,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

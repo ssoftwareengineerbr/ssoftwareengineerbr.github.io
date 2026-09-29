@@ -1,0 +1,449 @@
+[
+ {
+  "numero": "13",
+  "nome": "Felipe Camarão",
+  "partido": "PT",
+  "vice": "Ricardo Rodrigues (PT)",
+  "idade": "44 anos",
+  "coligacao": "Brasil Justo, Maranhão Grande (federação PT, PCdoB e PV, PSB, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 44,
+   "patrimonio": 5208193.72,
+   "concorreu2022": true,
+   "patrimonio2022": 2908456.07,
+   "redes": [
+    "https://linktr.ee/felipecamarao",
+    "https://www.facebook.com/felipecostacamarao",
+    "https://www.instagram.com/felipecostacamarao",
+    "https://www.kwai.com/@felipeccamarao",
+    "https://www.threads.com/@felipecostacamarao",
+    "https://www.tiktok.com/@felipecostacamarao"
+   ],
+   "financas": {
+    "fefc": 3468817.2,
+    "pessoasFisicas": 35000.0,
+    "proprios": 20000.0,
+    "arrecadado": 3523817.2,
+    "contratado": 2699375.85,
+    "pago": 1444882.85,
+    "limite": 11562724.0,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "André Luis",
+  "partido": "MISSÃO",
+  "vice": "Prof. Cadu (MISSÃO)",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/andreluismbl"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "coletivo": 3820.0,
+    "arrecadado": 103820.0,
+    "contratado": 70601.6,
+    "pago": 70601.6,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Orleans Brandão",
+  "partido": "MDB",
+  "vice": "Edivaldo Holanda Junior (REPUBLICANOS)",
+  "idade": "31 anos",
+  "coligacao": "Por Todo Maranhão (MDB, PDT, Republicanos, Podemos, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 31,
+   "patrimonio": 2515192.39,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/orleansbrandaoma",
+    "https://www.instagram.com/orleansbrandaoma",
+    "https://www.kwai.com/@orleansbrandaoma",
+    "https://www.threads.com/@orleansbrandaoma",
+    "https://www.tiktok.com/@orleansbrandaoma",
+    "https://www.youtube.com/@orleansbrandaoma"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 657100.0,
+    "arrecadado": 3657100.0,
+    "contratado": 4677497.79,
+    "pago": 600433.1,
+    "limite": 11562724.0,
+    "doadoresPF": 16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Saulo Arcangeli",
+  "partido": "PSTU",
+  "vice": "Preta Lu (PSTU)",
+  "idade": "54 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 54,
+   "patrimonio": 656409.64,
+   "concorreu2022": true,
+   "patrimonio2022": 385000.0,
+   "redes": [
+    "https://www.facebook.com/arcangelicosta",
+    "https://www.instagram.com/sauloarcangeli"
+   ],
+   "financas": {
+    "fefc": 25102.0,
+    "pessoasFisicas": 1000.0,
+    "outrosCandidatos": 1950.0,
+    "arrecadado": 28052.0,
+    "contratado": 25291.5,
+    "pago": 11781.5,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "21",
+  "nome": "Reginaldo Lima",
+  "partido": "PCB",
+  "vice": "Bartolomeu (PCB)",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: locutor e comentarista de rádio e televisão e radialista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Locutor e comentarista de rádio e televisão e radialista",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/reginaldo.lima.372",
+    "https://www.instagram.com/reginaldobrauno"
+   ],
+   "financas": {
+    "pessoasFisicas": 5500.0,
+    "arrecadado": 5500.0,
+    "contratado": 5754.83,
+    "pago": 4054.83,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "28",
+  "nome": "Roberto Rocha",
+  "partido": "PRTB",
+  "vice": "Pastor Josias (PRTB)",
+  "idade": "61 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 61,
+   "patrimonio": 3557270.39,
+   "redes": [
+    "https://pl-pl.facebook.com/robertorocha.ma",
+    "https://www.instagram.com/robertorocha_ma",
+    "https://www.threads.com/@robertorocha_ma",
+    "https://www.youtube.com/@robertorocha_ma",
+    "https://x.com/robertorocha_ma"
+   ],
+   "financas": {
+    "fefc": 523523.98,
+    "pessoasFisicas": 365000.0,
+    "proprios": 100000.0,
+    "arrecadado": 988523.98,
+    "contratado": 727725.5,
+    "pago": 511002.6,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Dimas Cassimiro",
+  "partido": "PCO",
+  "vice": "Charlieth Viana (PCO)",
+  "idade": "66 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 66,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Eduardo Braide",
+  "partido": "PSD",
+  "vice": "Elaine Carneiro (PSD)",
+  "idade": "50 anos",
+  "coligacao": "Pra Transformar O Maranhão (Novo, PSD)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 50,
+   "patrimonio": 1048910.76,
+   "redes": [
+    "https://www.facebook.com/share/1ges2rn78c",
+    "https://www.instagram.com/eduardobraide",
+    "https://www.kwai.com/@eduardobraide_",
+    "https://www.tiktok.com/@eduardo.braide",
+    "https://x.com/eduardobraide",
+    "https://youtube.com/@eduardo.braide"
+   ],
+   "financas": {
+    "fefc": 7500000.0,
+    "pessoasFisicas": 36900.0,
+    "outrosCandidatos": 202946.98,
+    "arrecadado": 7739846.98,
+    "contratado": 4146826.0,
+    "pago": 1504426.0,
+    "limite": 11562724.0,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

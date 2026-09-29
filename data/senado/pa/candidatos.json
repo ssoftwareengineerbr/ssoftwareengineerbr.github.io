@@ -1,0 +1,674 @@
+[
+ {
+  "numero": "123",
+  "nome": "Celso Sabino",
+  "partido": "PDT",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 48,
+   "patrimonio": 7356806.89,
+   "concorreu2022": true,
+   "patrimonio2022": 4417074.97,
+   "redes": [
+    "https://www.facebook.com/share/183jlaglsu",
+    "https://www.instagram.com/celsosabinooficial",
+    "https://www.tiktok.com/@celsosabinooficial",
+    "https://www.twitter.com/depcelsosabino"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 511121.0,
+    "proprios": 30000.0,
+    "arrecadado": 3541121.0,
+    "contratado": 1935622.1,
+    "pago": 1930122.1,
+    "limite": 4447201.54,
+    "doadoresPF": 15,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Italo Mácola e Nei Teixeira (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "Helder",
+  "partido": "MDB",
+  "idade": "47 anos",
+  "coligacao": "O Pará Tá Junto (PSD, federação União e PP, PSB, Republicanos, federação PT, PCdoB e PV, federação PSDB e Cidadania, MDB, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 47,
+   "patrimonio": 15490795.67,
+   "redes": [
+    "https://k.kwai.com/u/@helderbarbalho124/c5a8jhzi",
+    "https://www.facebook.com/helderbarbalho",
+    "https://www.instagram.com/helderbarbalho",
+    "https://www.threads.com/@helderbarbalho",
+    "https://www.tiktok.com/@helderbarbalhooficial",
+    "https://www.youtube.com/channel/ucmte1rozl5bi4x2n2f5rr6a"
+   ],
+   "financas": {
+    "fefc": 4000000.0,
+    "fundoPartidario": 50000.0,
+    "outrosCandidatos": 2006.0,
+    "arrecadado": 4052006.0,
+    "contratado": 395117.16,
+    "pago": 395117.16,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jader Barbalho (MDB) e Samuel Camara (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "200",
+  "nome": "Zequinha Marinho",
+  "partido": "PODE",
+  "idade": "67 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 67,
+   "patrimonio": 2975287.51,
+   "concorreu2022": true,
+   "patrimonio2022": 2261665.2,
+   "redes": [
+    "https://m.youtube.com/@zequinhamarinhosenador",
+    "https://www.facebook.com/zequinhamarinhooficial",
+    "https://www.instagram.com/timezequinhamarinho",
+    "https://www.instagram.com/zequinhamarinhooficial",
+    "https://x.com/zequinhamarinho"
+   ],
+   "financas": {
+    "fefc": 3010000.0,
+    "pessoasFisicas": 1000.0,
+    "arrecadado": 3011000.0,
+    "contratado": 1867566.45,
+    "pago": 1751966.45,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Burin e Pr. Fenelon e Francy Pará (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Delegado Éder Mauro",
+  "partido": "PL",
+  "idade": "65 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 65,
+   "patrimonio": 2681931.07,
+   "redes": [
+    "https://k.kwai.com/u/@edermauropa/ct3fczkh",
+    "https://web.facebook.com/edermauropara",
+    "https://www.facebook.com/edermaurooficial",
+    "https://www.facebook.com/edermauropa",
+    "https://www.facebook.com/edermauropara",
+    "https://www.instagram.com/edermauropa"
+   ],
+   "financas": {
+    "fefc": 4300000.0,
+    "proprios": 47000.0,
+    "arrecadado": 4347000.0,
+    "contratado": 1436494.19,
+    "pago": 1140995.69,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alex Lima e Alessandra Sá (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Coronel Jonildo",
+  "partido": "DC",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 50,
+   "patrimonio": 147000.0,
+   "redes": [
+    "https://www.facebook.com/share/1etjtmf9h2",
+    "https://www.instagram.com/coroneljonildo",
+    "https://www.tiktok.com/@coroneljonildo",
+    "https://x.com/coroneljonildo"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sandro Oliveira e Marcilio Ferreira (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "333",
+  "nome": "Breno Guimarães",
+  "partido": "MOBILIZA",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 45,
+   "patrimonio": 561000.0,
+   "redes": [
+    "https://instagram.com/brenoguimaraes.pa"
+   ],
+   "financas": {
+    "proprios": 6261.0,
+    "arrecadado": 6261.0,
+    "contratado": 7075.74,
+    "pago": 6254.74,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dr Telmo Marinho e Roseli Malcher (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "355",
+  "nome": "Edlaine Rodrigues",
+  "partido": "DEMOCRATA",
+  "idade": "44 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: contador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Contador",
+   "idade": 44,
+   "patrimonio": 867152.21,
+   "redes": [
+    "https://www.facebook.com/edlainegrodrigues",
+    "https://www.instagram.com/edlaine_g.rodrigues"
+   ],
+   "financas": {
+    "pessoasFisicas": 180.0,
+    "proprios": 8393.0,
+    "arrecadado": 8573.0,
+    "contratado": 8273.5,
+    "pago": 8273.5,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Olinto Cei e Ruth Reis e Nelson Margalho (DEMOCRATA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Chicão",
+  "partido": "UNIÃO",
+  "idade": "65 anos",
+  "coligacao": "O Pará Tá Junto (PSD, federação União e PP, PSB, Republicanos, federação PT, PCdoB e PV, federação PSDB e Cidadania, MDB, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 65,
+   "patrimonio": 6475103.95,
+   "redes": [
+    "https://www.facebook.com/chicaodopara",
+    "https://www.instagram.com/chicaodopara",
+    "https://www.threads.com/@chicaodopara",
+    "https://www.youtube.com/@chicaodopara",
+    "https://x.com/depchicao"
+   ],
+   "financas": {
+    "fefc": 2303783.52,
+    "pessoasFisicas": 113000.0,
+    "outrosCandidatos": 1256.0,
+    "arrecadado": 2418039.52,
+    "contratado": 1024482.86,
+    "pago": 623066.19,
+    "limite": 4447201.54,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Joel Lobato (MDB) e Pastor Ibanês (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Conti",
+  "partido": "PSOL",
+  "idade": "62 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 62,
+   "patrimonio": 416583.98,
+   "redes": [
+    "https://www.facebook.com/marcelino.conti",
+    "https://www.instagram.com/contimarcelino"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 47879.12,
+    "pago": 45258.12,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Maria Luisa Farias e Joana da Economia Solidária (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "505",
+  "nome": "Gizelle Freitas",
+  "partido": "PSOL",
+  "idade": "44 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: assistente social"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Assistente social",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://vt.tiktok.com/zsx1u1reo",
+    "https://www.facebook.com/share/1dqiyaydwb",
+    "https://www.instagram.com/gizellefreitaspsol",
+    "https://www.threads.com/@gizellefreitaspsol",
+    "https://x.com/gifreitas1982"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "fundoPartidario": 4000.0,
+    "coletivo": 1040.0,
+    "arrecadado": 105040.0,
+    "contratado": 60094.16,
+    "pago": 60094.16,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Naide Cordeiro Pacheco e Edna Gouvêa (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "777",
+  "nome": "Livia Noronha",
+  "partido": "SOLIDARIEDADE",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Aguardando julgamento (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 36,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/eulivianoronha",
+    "https://www.instagram.com/eulivianoronha",
+    "https://www.instagram.com/eulivianoronhareserva",
+    "https://www.threads.com/@eulivianoronha",
+    "https://x.com/eulivianoronha",
+    "https://x.com/livianoronha_pa"
+   ],
+   "financas": {
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Aguardando julgamento",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Ian Blois Pinheiro e Kinzinho e Marcelo Pinheiro (SOLIDARIEDADE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Fernanda Lopes",
+  "partido": "UP",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Socorro Bayma e Lucilene Oliveira (UP)",
+  "suplentesFonte": "tse"
+ }
+]

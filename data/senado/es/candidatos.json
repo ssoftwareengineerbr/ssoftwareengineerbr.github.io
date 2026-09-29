@@ -1,0 +1,641 @@
+[
+ {
+  "numero": "100",
+  "nome": "Evair de Melo",
+  "partido": "REPUBLICANOS",
+  "idade": "54 anos",
+  "coligacao": "Paz Pra Viver Um Novo Tempo (Republicanos, PL, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 54,
+   "patrimonio": 142777.32,
+   "redes": [
+    "https://www.facebook.com/evair.vieirademelo",
+    "https://www.instagram.com/evair_de_melo",
+    "https://www.threads.com/@evair_de_melo",
+    "https://www.tiktok.com/@evairdemelo",
+    "https://www.youtube.com/channel/uct5evlanh6iicl01fzpsobq",
+    "https://x.com/evairdemelo"
+   ],
+   "financas": {
+    "fefc": 2500000.0,
+    "pessoasFisicas": 383730.0,
+    "arrecadado": 2883730.0,
+    "contratado": 2085951.38,
+    "pago": 883031.69,
+    "limite": 3811887.03,
+    "doadoresPF": 46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dant Nicchio (PL) e Luiz Emanuel (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "133",
+  "nome": "Fabiano Contarato",
+  "partido": "PT",
+  "idade": "60 anos",
+  "coligacao": "Federação PT, PCdoB e PV",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 60,
+   "patrimonio": 1497217.78,
+   "redes": [
+    "https://br.linkedin.com/in/fabianocontarato",
+    "https://k.kwai.com/u/@fabianocontarato/azczldyr",
+    "https://kwai.com/@fabianocontarato",
+    "https://www.facebook.com/fabianocontarato",
+    "https://www.instagram.com/fabianocontarato",
+    "https://www.threads.com/@fabianocontarato"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 23000.0,
+    "outrosCandidatos": 1315000.0,
+    "arrecadado": 2338000.0,
+    "contratado": 1390348.07,
+    "pago": 968836.02,
+    "limite": 3811887.03,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Evani Gari (PT) e Neio Lúcio (PCDOB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "156",
+  "nome": "Rose de Freitas",
+  "partido": "MDB",
+  "idade": "77 anos",
+  "coligacao": "Agora É O Futuro (PDT, MDB, Podemos, Agir, PSB, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: produtor agropecuário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 77,
+   "patrimonio": 1110945.72,
+   "redes": [
+    "https://www.facebook.com/senadorarosedefreitas",
+    "https://www.instagram.com/senadorarosedefreitas"
+   ],
+   "financas": {
+    "fefc": 3850000.0,
+    "pessoasFisicas": 100000.0,
+    "arrecadado": 3950000.0,
+    "contratado": 1787711.16,
+    "pago": 735237.5,
+    "limite": 3811887.03,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcus Vicente (PP) e Erico (MDB) e Nubia (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Maguinha Malta",
+  "partido": "PL",
+  "idade": "43 anos",
+  "coligacao": "Paz Pra Viver Um Novo Tempo (Republicanos, PL, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: publicitário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Publicitário",
+   "idade": 43,
+   "patrimonio": 116534.48,
+   "redes": [
+    "https://k.kwai.com/u/@maguinhamalta/xwe0cac2",
+    "https://www.facebook.com/share/14kwryv7t2f",
+    "https://www.facebook.com/share/1hr6sfjjvn",
+    "https://www.instagram.com/maguinhamalta222",
+    "https://www.threads.com/@maguinhamalta",
+    "https://www.tiktok.com/@maguinhamalta"
+   ],
+   "financas": {
+    "fefc": 3800000.0,
+    "pessoasFisicas": 15000.0,
+    "arrecadado": 3815000.0,
+    "contratado": 4074590.2,
+    "pago": 2342655.41,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cabo Cassotto e Nerleo Caus (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Callegari",
+  "partido": "DC",
+  "idade": "44 anos",
+  "coligacao": "Senado Forte (DC, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público estadual"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 44,
+   "patrimonio": 850000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 650000.0,
+   "redes": [
+    "https://www.facebook.com/wellingtoncallegaries",
+    "https://www.instagram.com/callegari_es"
+   ],
+   "financas": {
+    "pessoasFisicas": 38300.0,
+    "proprios": 64000.0,
+    "coletivo": 6409.0,
+    "arrecadado": 108709.0,
+    "contratado": 111501.98,
+    "pago": 47958.49,
+    "limite": 3811887.03,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Bruno Lourenço (PRD) e Priscila Ramos (SOLIDARIEDADE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "280",
+  "nome": "Rodney Miranda",
+  "partido": "PRTB",
+  "idade": "62 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 62,
+   "patrimonio": 4594177.63,
+   "redes": [
+    "https://www.instagram.com/rodneyrmiranda",
+    "https://www.linkedin.com/in/rodneyrmiranda"
+   ],
+   "financas": {
+    "fefc": 515000.0,
+    "arrecadado": 515000.0,
+    "contratado": 68412.0,
+    "pago": 68412.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Patricia Neitzl e Rodrigo Rodrigues (PRTB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Leonardo Monjardim",
+  "partido": "NOVO",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: vereador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 53,
+   "patrimonio": 222000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/leonardomonjardim",
+    "https://www.facebook.com/leonardomonjardim2",
+    "https://www.instagram.com/leonardomonjardim"
+   ],
+   "financas": {
+    "proprios": 150000.0,
+    "arrecadado": 150000.0,
+    "contratado": 47120.0,
+    "pago": 45370.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Kítia Perciano e Dr. Vinícius Fregonazzi (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Renato Casagrande",
+  "partido": "PSB",
+  "idade": "65 anos",
+  "coligacao": "Agora É O Futuro (PDT, MDB, Podemos, Agir, PSB, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 65,
+   "patrimonio": 3068203.91,
+   "redes": [
+    "https://www.facebook.com/renatocasagrande",
+    "https://www.instagram.com/renatocasagrande",
+    "https://www.tiktok.com/@casagrande_es",
+    "https://www.youtube.com/@renatocasagrande_es",
+    "https://x.com/casagrande_es"
+   ],
+   "financas": {
+    "fefc": 2401489.0,
+    "partido": 100000.0,
+    "pessoasFisicas": 291108.34,
+    "outrosCandidatos": 42034.5,
+    "arrecadado": 2834631.84,
+    "contratado": 2736765.53,
+    "pago": 1779647.87,
+    "limite": 3811887.03,
+    "doadoresPF": 25,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcelo Coelho (PP) e Pastor Marcelo (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Professor Fabian",
+  "partido": "PSOL",
+  "idade": "49 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 49,
+   "patrimonio": 264795.32,
+   "redes": [
+    "https://www.facebook.com/share/18fqvswzw6",
+    "https://www.instagram.com/professorfabian_oficia",
+    "https://www.tiktok.com/@professor.fabian",
+    "https://x.com/profcfabian",
+    "https://youtube.com/@professorfabian"
+   ],
+   "financas": {
+    "fefc": 80000.0,
+    "pessoasFisicas": 1250.0,
+    "proprios": 1000.0,
+    "coletivo": 2551.0,
+    "arrecadado": 84801.0,
+    "contratado": 33045.3,
+    "pago": 19795.3,
+    "limite": 3811887.03,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Toni Cabano e Wilson Jr (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "556",
+  "nome": "Sergio Meneguelli",
+  "partido": "PSD",
+  "idade": "70 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 70,
+   "patrimonio": 1288865.04,
+   "redes": [
+    "https://www.facebook.com/groups/3886892794865069",
+    "https://www.facebook.com/groups/515651411792403",
+    "https://www.facebook.com/groups/516460495034407",
+    "https://www.facebook.com/sergiomeneguellioficial",
+    "https://www.instagram.com/sergiomeneguelli",
+    "https://www.linkedin.com/in/s%c3%a9rgiomeneguelli-14b62360"
+   ],
+   "financas": {
+    "pessoasFisicas": 59314.96,
+    "proprios": 5000.0,
+    "arrecadado": 64314.96,
+    "contratado": 136304.96,
+    "pago": 42490.0,
+    "limite": 3811887.03,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dr Pagotto e Dr Rogerio Resende (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Marcos do Val",
+  "partido": "AVANTE",
+  "idade": "55 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Senador",
+   "idade": 55,
+   "patrimonio": 584138.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/marcosdoval",
+    "https://www.facebook.com/marcosdoval2",
+    "https://www.instagram.com/marcosdoval",
+    "https://www.threads.com/@marcosdoval",
+    "https://www.tiktok.com/@marcosdovalapoio",
+    "https://www.tiktok.com/@marcosdovalsenador"
+   ],
+   "financas": {
+    "pessoasFisicas": 48966.25,
+    "proprios": 10.0,
+    "outrosCandidatos": 30000.0,
+    "arrecadado": 78976.25,
+    "contratado": 179462.53,
+    "pago": 21132.53,
+    "limite": 3811887.03,
+    "doadoresPF": 105,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Silvia Suassuna e Sargento Goes (AVANTE)",
+  "suplentesFonte": "tse"
+ }
+]

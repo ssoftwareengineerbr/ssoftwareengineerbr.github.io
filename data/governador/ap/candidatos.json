@@ -1,0 +1,275 @@
+[
+ {
+  "numero": "16",
+  "nome": "Carlos Cley",
+  "partido": "PSTU",
+  "vice": "Ana Paula Pinheiro (PSTU)",
+  "idade": "54 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: motorista particular"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Motorista particular",
+   "idade": 54,
+   "patrimonio": 49166.0,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 20002.0,
+    "arrecadado": 20002.0,
+    "contratado": 17000.5,
+    "pago": 2000.5,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Delegado Marcos",
+  "partido": "DC",
+  "vice": "Cristina Araújo (DC)",
+  "idade": "65 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 65,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share",
+    "https://www.facebook.com/share/1dw97pefl5",
+    "https://www.instagram.com/marcosreateguidesouza",
+    "https://www.tiktok.com/@marcosreategui2",
+    "https://x.com/marcos_reategui"
+   ],
+   "financas": {
+    "partido": 8000.0,
+    "arrecadado": 8000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Jairo Palheta",
+  "partido": "PCO",
+  "vice": "Iraciely (PCO)",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/29jairo29"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Clécio",
+  "partido": "UNIÃO",
+  "vice": "Teles Jr. (PDT)",
+  "idade": "54 anos",
+  "coligacao": "Juntos Por Todo O Amapá (Republicanos, PDT, Agir, federação União e PP, federação PSDB e Cidadania, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 54,
+   "patrimonio": 497990.0,
+   "concorreu2022": true,
+   "patrimonio2022": 88520.23,
+   "redes": [
+    "https://k.kwai.com/u/@timedoclecio/gc5ciax3",
+    "https://www.facebook.com/curtaclecioluis",
+    "https://www.instagram.com/clecio.ia",
+    "https://www.instagram.com/clecioluis_",
+    "https://www.instagram.com/cortapraclecio",
+    "https://www.instagram.com/juntascomclecio_"
+   ],
+   "financas": {
+    "fefc": 2899461.69,
+    "pessoasFisicas": 37500.0,
+    "arrecadado": 2936961.69,
+    "contratado": 1922532.77,
+    "pago": 1496312.77,
+    "limite": 3557761.23,
+    "doadoresPF": 15,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Dr. Furlan",
+  "partido": "PSD",
+  "vice": "Luciana Gurgel (PL)",
+  "idade": "53 anos",
+  "coligacao": "Trabalhar Para Transformar O Amapá (Novo, PSD, Podemos, PL)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 53,
+   "patrimonio": 1168464.77,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/channel/abbdierc-xlx257r",
+    "https://www.instagram.com/dr.furlan",
+    "https://www.tiktok.com/@dr.furlan",
+    "https://x.com/dr_furlan"
+   ],
+   "financas": {
+    "fefc": 2300000.0,
+    "pessoasFisicas": 19750.0,
+    "proprios": 20500.0,
+    "outrosCandidatos": 8888.89,
+    "arrecadado": 2349138.89,
+    "contratado": 2409192.36,
+    "pago": 1193641.49,
+    "limite": 3557761.23,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

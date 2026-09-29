@@ -1,0 +1,530 @@
+[
+ {
+  "numero": "100",
+  "nome": "Nabor",
+  "partido": "REPUBLICANOS",
+  "idade": "61 anos",
+  "coligacao": "Coligação Daqui Pra Melhor (Republicanos, Podemos, Mobiliza, Agir, PSB, federação PT, PCdoB e PV, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 61,
+   "patrimonio": 1190319.03,
+   "redes": [
+    "https://www.facebook.com/naborwanderley",
+    "https://www.instagram.com/naborwanderley",
+    "https://www.tiktok.com/wanderleynabor",
+    "https://www.x.com/realnabor",
+    "https://www.youtube.com/wanderleynabor"
+   ],
+   "financas": {
+    "fefc": 2680000.0,
+    "fundoPartidario": 820000.0,
+    "pessoasFisicas": 266000.0,
+    "arrecadado": 3766000.0,
+    "contratado": 2103342.3,
+    "pago": 1611822.3,
+    "limite": 3811887.03,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Daniella Ribeiro (PP) e Renato Feliciano (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "André Gadelha",
+  "partido": "MDB",
+  "idade": "51 anos",
+  "coligacao": "Juntos Para A Paraíba Dar O Próximo Passo (MDB, Democrata, PSD, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 51,
+   "patrimonio": 1202109.46,
+   "financas": {
+    "fefc": 1000000.0,
+    "proprios": 5000.0,
+    "arrecadado": 1005000.0,
+    "contratado": 1106820.5,
+    "pago": 974370.5,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Ivonete Ludgério (PSD) e Assis Freire (MDB) e Junior Lira (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "155",
+  "nome": "Veneziano",
+  "partido": "MDB",
+  "idade": "56 anos",
+  "coligacao": "Juntos Para A Paraíba Dar O Próximo Passo (MDB, Democrata, PSD, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 56,
+   "patrimonio": 1054843.13,
+   "financas": {
+    "fefc": 2805000.0,
+    "pessoasFisicas": 87000.0,
+    "arrecadado": 2892000.0,
+    "contratado": 3015304.07,
+    "pago": 2551278.83,
+    "limite": 3811887.03,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Janine Lucena (PSD) e Matheus Lucena (PDT) e Paulo Rebello (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Dr. Marcelo Queiroga",
+  "partido": "PL",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 60,
+   "patrimonio": 477662.47,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 3810000.0,
+    "proprios": 3000.0,
+    "arrecadado": 3813000.0,
+    "contratado": 3043490.51,
+    "pago": 1575013.51,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Flavio Amaral e Carol Morais e Emir Candeia e Carol Morais (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "272",
+  "nome": "Rinaldo Júnior",
+  "partido": "DC",
+  "idade": "37 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 37,
+   "patrimonio": 380000.0,
+   "financas": {
+    "pessoasFisicas": 41500.0,
+    "arrecadado": 41500.0,
+    "contratado": 13959.42,
+    "pago": 6155.0,
+    "limite": 3811887.03,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Eliu Nicácio e Jamaika Suênia (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Adriano Trajano",
+  "partido": "PCO",
+  "idade": "52 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 52,
+   "patrimonio": 900.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Antônio Carlos Pereira e Nara Souza (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Major Fábio",
+  "partido": "NOVO",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: militar reformado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Militar reformado",
+   "idade": 56,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/fabio.major.77",
+    "https://www.facebook.com/majorfabiopb",
+    "https://www.instagram.com/major_fabio"
+   ],
+   "financas": {
+    "fefc": 83000.0,
+    "partido": 2500.0,
+    "arrecadado": 85500.0,
+    "contratado": 62371.17,
+    "pago": 57371.17,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "José Carneiro e Pastor Jader Medeiros (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Joao Azevêdo",
+  "partido": "PSB",
+  "idade": "73 anos",
+  "coligacao": "Coligação Daqui Pra Melhor (Republicanos, Podemos, Mobiliza, Agir, PSB, federação PT, PCdoB e PV, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 73,
+   "patrimonio": 1929603.6,
+   "redes": [
+    "https://www.facebook.com/joaoazevedolins",
+    "https://www.instagram.com/joaoazevedodoc",
+    "https://www.instagram.com/joaoazevedolins",
+    "https://www.instagram.com/joaoversopb",
+    "https://www.instagram.com/prafrentecomjoao",
+    "https://www.threads.com/@joaoazevedolins"
+   ],
+   "financas": {
+    "fefc": 2600000.0,
+    "pessoasFisicas": 85500.0,
+    "proprios": 350000.0,
+    "arrecadado": 3035500.0,
+    "contratado": 2063949.75,
+    "pago": 1349283.25,
+    "limite": 3811887.03,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Chico Mendes e Roberto Franca (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Rosilene Santana",
+  "partido": "UP",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: pedagogo"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Pedagogo",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/rosilene_up"
+   ],
+   "financas": {
+    "fefc": 9208.0,
+    "arrecadado": 9208.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Conceição Brito e Laylla Michele (UP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "801",
+  "nome": "João Batista",
+  "partido": "UP",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: gari ou lixeiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Gari ou lixeiro",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/joaobatista.up"
+   ],
+   "financas": {
+    "fefc": 9208.0,
+    "arrecadado": 9208.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3811887.03,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Josiane Soares e Bruno Souto e Jipinho (UP)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,434 @@
+[
+ {
+  "numero": "100",
+  "nome": "Mara Rocha",
+  "partido": "REPUBLICANOS",
+  "idade": "53 anos",
+  "coligacao": "Trabalho da Esperança (Republicanos, PSD, Avante, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 183527.53,
+   "redes": [
+    "https://www.facebook.com/soumararocha",
+    "https://www.instagram.com/mararochaacre"
+   ],
+   "financas": {
+    "fefc": 2591996.8,
+    "pessoasFisicas": 22500.0,
+    "arrecadado": 2614496.8,
+    "contratado": 730480.46,
+    "pago": 404580.46,
+    "limite": 3176572.53,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Pr Moreira e Moreira (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "111",
+  "nome": "Gladson Camelí",
+  "partido": "PP",
+  "idade": "48 anos",
+  "coligacao": "Avança Acre (PDT, MDB, PL, Democrata, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 48,
+   "patrimonio": 5997277.46,
+   "redes": [
+    "https://www.instagram.com/gladsoncameli"
+   ],
+   "financas": {
+    "fefc": 3030000.0,
+    "pessoasFisicas": 300010.0,
+    "arrecadado": 3330010.0,
+    "contratado": 2081531.92,
+    "pago": 1785791.92,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Beatriz Cameli e Debora Nunes (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "131",
+  "nome": "Jorge Viana",
+  "partido": "PT",
+  "idade": "67 anos",
+  "coligacao": "Frente Ampla Pelo Acre (Podemos, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 67,
+   "patrimonio": 5575791.88,
+   "concorreu2022": true,
+   "patrimonio2022": 3663896.66,
+   "redes": [
+    "https://www.facebook.com/jorgevianaacre",
+    "https://www.instagram.com/jorgevianaacre",
+    "https://www.tiktok.com/@jorge.vianaacre",
+    "https://www.youtube.com/@jorgevianaacre",
+    "https://x.com/jorgeviana"
+   ],
+   "financas": {
+    "fefc": 1788286.27,
+    "pessoasFisicas": 25000.0,
+    "arrecadado": 1813286.27,
+    "contratado": 1381032.27,
+    "pago": 1311832.27,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Binho Marques (PT) e Bira Vasconcelos (PT) e Delegada Carla Britto (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Marcio Bittar",
+  "partido": "PL",
+  "idade": "63 anos",
+  "coligacao": "Avança Acre (PDT, MDB, PL, Democrata, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 63,
+   "patrimonio": 9514015.35,
+   "redes": [
+    "https://www.instagram.com/marciobittar_"
+   ],
+   "financas": {
+    "fefc": 3020000.0,
+    "proprios": 20000.0,
+    "arrecadado": 3040000.0,
+    "contratado": 505532.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jebert Nascimento (PL) e Livio Veras (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Dr. Junior Feitosa",
+  "partido": "DC",
+  "idade": "44 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 44,
+   "patrimonio": 1352418.21,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/dr.junior_feitosa"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Walter Damasceno e Raimundo Moreira (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Professor Inacio Moreira",
+  "partido": "PSOL",
+  "idade": "56 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 56,
+   "patrimonio": 200000.0,
+   "financas": {
+    "fefc": 44000.0,
+    "proprios": 1698.0,
+    "coletivo": 75.0,
+    "arrecadado": 45773.0,
+    "contratado": 36985.97,
+    "pago": 32585.97,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Soleane Manchineri e Janaina Queiroz (REDE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Petecão",
+  "partido": "PSD",
+  "idade": "66 anos",
+  "coligacao": "Trabalho da Esperança (Republicanos, PSD, Avante, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 66,
+   "patrimonio": 3861594.86,
+   "concorreu2022": true,
+   "patrimonio2022": 3744024.59,
+   "redes": [
+    "https://www.facebook.com/senadorpetecao",
+    "https://www.instagram.com/senadorpetecao"
+   ],
+   "financas": {
+    "fefc": 2800000.0,
+    "arrecadado": 2800000.0,
+    "contratado": 1042358.5,
+    "pago": 576007.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marfisa Galvão e Solino Matos (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "777",
+  "nome": "Eduardo Velloso",
+  "partido": "SOLIDARIEDADE",
+  "idade": "50 anos",
+  "coligacao": "Produzir Para Empregar (federação PSDB e Cidadania, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 50,
+   "patrimonio": 9821531.66,
+   "financas": {
+    "pessoasFisicas": 141500.0,
+    "arrecadado": 141500.0,
+    "contratado": 6200.0,
+    "pago": 1200.0,
+    "limite": 3176572.53,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Rejane Velloso e Marcos Vitorino e Fábio Barbosa e Vando Torquato (SOLIDARIEDADE)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,62 @@
+{
+  "presidente": [
+    {
+      "id": "saude",
+      "nome": "Saúde"
+    },
+    {
+      "id": "educacao",
+      "nome": "Educação"
+    },
+    {
+      "id": "seguranca",
+      "nome": "Segurança"
+    },
+    {
+      "id": "trabalho",
+      "nome": "Trabalho"
+    },
+    {
+      "id": "renda",
+      "nome": "Programas sociais"
+    },
+    {
+      "id": "impostos",
+      "nome": "Impostos"
+    },
+    {
+      "id": "estado",
+      "nome": "Papel do Estado"
+    },
+    {
+      "id": "ambiente",
+      "nome": "Meio ambiente"
+    },
+    {
+      "id": "externa",
+      "nome": "Política externa"
+    }
+  ],
+  "governador": [
+    {
+      "id": "seguranca",
+      "nome": "Segurança"
+    },
+    {
+      "id": "saude",
+      "nome": "Saúde"
+    },
+    {
+      "id": "educacao",
+      "nome": "Educação"
+    },
+    {
+      "id": "gestao",
+      "nome": "Economia e gestão"
+    },
+    {
+      "id": "infra",
+      "nome": "Infraestrutura e clima"
+    }
+  ]
+}

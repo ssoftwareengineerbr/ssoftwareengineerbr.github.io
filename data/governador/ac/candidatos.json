@@ -1,0 +1,323 @@
+[
+ {
+  "numero": "10",
+  "nome": "Alan Rick",
+  "partido": "REPUBLICANOS",
+  "vice": "Ricardo Leite (REPUBLICANOS)",
+  "idade": "49 anos",
+  "coligacao": "Trabalho da Esperança (Republicanos, Novo, PSD, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 49,
+   "patrimonio": 5244567.72,
+   "concorreu2022": true,
+   "patrimonio2022": 2121474.3,
+   "redes": [
+    "https://www.facebook.com/alanrickoficial",
+    "https://www.instagram.com/alanrickm",
+    "https://www.youtube.com/@alanrick3"
+   ],
+   "financas": {
+    "fefc": 3500000.0,
+    "pessoasFisicas": 22000.0,
+    "proprios": 50000.0,
+    "arrecadado": 3572000.0,
+    "contratado": 1846707.32,
+    "pago": 251561.6,
+    "limite": 3557761.23,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "11",
+  "nome": "Mailza Assis",
+  "partido": "PP",
+  "vice": "Jessica Sales (MDB)",
+  "idade": "49 anos",
+  "coligacao": "Avança Acre (PDT, MDB, PL, Democrata, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 49,
+   "patrimonio": 167482.91,
+   "redes": [
+    "https://www.facebook.com/mailzassis",
+    "https://www.instagram.com/mailza.acre",
+    "https://www.youtube.com/@mailzaacre11"
+   ],
+   "financas": {
+    "fefc": 3557000.0,
+    "arrecadado": 3557000.0,
+    "contratado": 1684722.7,
+    "pago": 1653972.7,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "21",
+  "nome": "Eudo Raffael",
+  "partido": "PCB",
+  "vice": "Poeta Cesinha (PCB)",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: bancário e economiário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Bancário e economiário",
+   "idade": 41,
+   "patrimonio": 165000.0,
+   "redes": [
+    "https://www.instagram.com/eudoraffael"
+   ],
+   "financas": {
+    "proprios": 5000.0,
+    "coletivo": 4220.0,
+    "arrecadado": 9220.0,
+    "contratado": 8151.95,
+    "pago": 8151.95,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "36",
+  "nome": "Dr.luisinho",
+  "partido": "AGIR",
+  "vice": "Daniela Paiva (AGIR)",
+  "idade": "51 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 51,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/profile.php"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3557761.23,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "40",
+  "nome": "Thor Dantas",
+  "partido": "PSB",
+  "vice": "Socorro Rodrigues (PODE)",
+  "idade": "52 anos",
+  "coligacao": "Frente Ampla Pelo Acre (Podemos, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 52,
+   "patrimonio": 761462.79,
+   "redes": [
+    "https://www.facebook.com/thor.dantas",
+    "https://www.instagram.com/drthordantas",
+    "https://www.tiktok.com/@drthordantas",
+    "https://www.youtube.com/@thormdac/videos"
+   ],
+   "financas": {
+    "pessoasFisicas": 3400.0,
+    "proprios": 7700.0,
+    "outrosCandidatos": 217220.0,
+    "arrecadado": 228320.0,
+    "contratado": 200988.87,
+    "pago": 190988.87,
+    "limite": 3557761.23,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Tião Bocalom",
+  "partido": "PSDB",
+  "vice": "Sargento Adonis (PSDB)",
+  "idade": "73 anos",
+  "coligacao": "Produzir Para Empregar (federação PRD e Solidariedade, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agricultor",
+   "idade": 73,
+   "patrimonio": 1216500.0,
+   "financas": {
+    "fefc": 1102500.0,
+    "pessoasFisicas": 7000.0,
+    "arrecadado": 1109500.0,
+    "contratado": 168292.52,
+    "pago": 156542.52,
+    "limite": 3557761.23,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "numero": "13",
+  "nome": "Luis Cesar Bueno",
+  "partido": "PT",
+  "vice": "Carlos Mundim (PDT)",
+  "idade": "66 anos",
+  "coligacao": "Goiás Pode Mais (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 66,
+   "patrimonio": 884607.32,
+   "redes": [
+    "https://www.facebook.com/luiscesarbueno",
+    "https://www.facebook.com/luiscesarbuenoefreitas"
+   ],
+   "financas": {
+    "fefc": 3493817.2,
+    "fundoPartidario": 10000.0,
+    "proprios": 2000.0,
+    "arrecadado": 3505817.2,
+    "contratado": 2549338.62,
+    "pago": 1479778.21,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Daniel Vilela",
+  "partido": "MDB",
+  "vice": "Luiz do Carmo (PSD)",
+  "idade": "42 anos",
+  "coligacao": "Pra Goiás Seguir Em Frente (Republicanos, MDB, Podemos, Mobiliza, Democrata, Agir, PSD, Avante, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 42,
+   "patrimonio": 5627385.99,
+   "concorreu2022": true,
+   "patrimonio2022": 4696100.5,
+   "redes": [
+    "https://br.linkedin.com/in/danielvilela15",
+    "https://www.facebook.com/danielvilela15oficial",
+    "https://www.instagram.com/danielvilela15",
+    "https://www.tiktok.com/@danielvilela.15",
+    "https://www.youtube.com/@danielvilela15",
+    "https://x.com/danielvilela15"
+   ],
+   "financas": {
+    "fefc": 7067500.0,
+    "fundoPartidario": 30000.0,
+    "partido": 650000.0,
+    "pessoasFisicas": 882000.0,
+    "arrecadado": 8629500.0,
+    "contratado": 6140664.81,
+    "pago": 4835667.19,
+    "limite": 11562724.0,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Wilder Morais",
+  "partido": "PL",
+  "vice": "Ana Paula Rezende (PL)",
+  "idade": "58 anos",
+  "coligacao": "Goiás Que Cresce (PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 58,
+   "patrimonio": 65160903.35,
+   "redes": [
+    "https://k.kwai.com/u/@wildermorais_",
+    "https://www.facebook.com/wildermorais",
+    "https://www.instagram.com/wildermorais",
+    "https://www.linkedin.com/in/wildermorais",
+    "https://www.threads.com/@wildermorais",
+    "https://www.tiktok.com/@wilder.morais"
+   ],
+   "financas": {
+    "fefc": 11000000.0,
+    "fundoPartidario": 50000.0,
+    "pessoasFisicas": 200000.0,
+    "arrecadado": 11250000.0,
+    "contratado": 7642785.57,
+    "pago": 5914615.37,
+    "limite": 11562724.0,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Danilo da Silva",
+  "partido": "PCO",
+  "vice": "Maria Joana (PCO)",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: técnico de eletricidade, eletrônica e telecomunicações"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Técnico de eletricidade, eletrônica e telecomunicações",
+   "idade": 43,
+   "patrimonio": 215000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/danilopinheiroevangelista"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Marconi Perillo",
+  "partido": "PSDB",
+  "vice": "Jacqueline Zaiden (PSDB)",
+  "idade": "63 anos",
+  "coligacao": "Goiás Pode Muito Mais (DC, PRTB, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 63,
+   "patrimonio": 11876815.71,
+   "concorreu2022": true,
+   "patrimonio2022": 7352616.86,
+   "redes": [
+    "https://www.facebook.com/marconiperillo",
+    "https://www.facebook.com/share/1hyvsvwpml",
+    "https://www.instagram.com/marconiperillo",
+    "https://www.kwai.com/@marconiperillo45",
+    "https://www.tiktok.com/@marconiperillo",
+    "https://www.youtube.com/@marconiperillogo"
+   ],
+   "financas": {
+    "fefc": 10000000.0,
+    "pessoasFisicas": 135000.0,
+    "coletivo": 90.38,
+    "arrecadado": 10135090.38,
+    "contratado": 10428541.9,
+    "pago": 6568665.48,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Luciana Amorim",
+  "partido": "UP",
+  "vice": "Caymmi Henrique (UP)",
+  "idade": "54 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 54,
+   "patrimonio": 1867106.94,
+   "redes": [
+    "https://instagram.com/luciana.up"
+   ],
+   "financas": {
+    "fefc": 13500.0,
+    "arrecadado": 13500.0,
+    "contratado": 3600.0,
+    "pago": 3600.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

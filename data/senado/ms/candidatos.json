@@ -1,0 +1,573 @@
+[
+ {
+  "numero": "133",
+  "nome": "Vander Loubet",
+  "partido": "PT",
+  "idade": "62 anos",
+  "coligacao": "Por Um Ms do Povo (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: bancário e economiário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Bancário e economiário",
+   "idade": 62,
+   "patrimonio": 4122759.55,
+   "redes": [
+    "https://instagram.com/vanderloubet",
+    "https://www.facebook.com/vanderloubet",
+    "https://www.tiktok.com/@vanderloubet",
+    "https://www.youtube.com/vanderloubet",
+    "https://x.com/vanderloubet"
+   ],
+   "financas": {
+    "fefc": 1588286.27,
+    "pessoasFisicas": 78500.0,
+    "proprios": 85000.0,
+    "outrosCandidatos": 962.5,
+    "coletivo": 11125.0,
+    "arrecadado": 1763873.77,
+    "contratado": 1918749.11,
+    "pago": 1405618.16,
+    "limite": 3176572.53,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Professora Maria Diogo e Professora Maju (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "221",
+  "nome": "Capitão Contar",
+  "partido": "PL",
+  "idade": "42 anos",
+  "coligacao": "Fazendo O Futuro Acontecer (PL, federação União e PP, Republicanos, federação PSDB e Cidadania, PSD, MDB, Podemos, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: membro das forças armadas"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 42,
+   "patrimonio": 1660693.63,
+   "concorreu2022": true,
+   "patrimonio2022": 583048.98,
+   "redes": [
+    "https://www.facebook.com/capitaocontar",
+    "https://www.instagram.com/capitaocontar",
+    "https://www.threads.com/@capitaocontar",
+    "https://www.tiktok.com/@capitaocontar",
+    "https://www.youtube.com/channel/uc6_yyubflm2a99b5nz_kkza",
+    "https://x.com/capitaocontar"
+   ],
+   "financas": {
+    "fefc": 2481818.18,
+    "fundoPartidario": 7125.0,
+    "pessoasFisicas": 42300.0,
+    "arrecadado": 2531243.18,
+    "contratado": 2147905.29,
+    "pago": 910576.41,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Claudio Mendonça e Luciano Barbosa Rodrigues (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Reinaldo Azambuja",
+  "partido": "PL",
+  "idade": "63 anos",
+  "coligacao": "Fazendo O Futuro Acontecer (PL, federação União e PP, Republicanos, federação PSDB e Cidadania, PSD, MDB, Podemos, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: produtor agropecuário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 63,
+   "patrimonio": 55976398.48,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/reinaldoazambuja",
+    "https://www.instagram.com/reinaldoazambuja",
+    "https://www.threads.com/@reinaldoazambuja",
+    "https://www.tiktok.com/@reinaldoazambujams",
+    "https://www.youtube.com/@reinaldoazambujams",
+    "https://x.com/azambujareinald"
+   ],
+   "financas": {
+    "fefc": 800000.0,
+    "fundoPartidario": 611286.47,
+    "pessoasFisicas": 455000.0,
+    "proprios": 317000.0,
+    "arrecadado": 2183286.47,
+    "contratado": 3432606.59,
+    "pago": 1294451.09,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Nelsinho Trad (PSD) e Felipe Mattos (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "258",
+  "nome": "Valter da Comagran",
+  "partido": "PRD",
+  "idade": "57 anos",
+  "coligacao": "Federação PRD e Solidariedade",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 57,
+   "patrimonio": 16350000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/valter_j._o",
+    "https://www.instagram.com/valterdacomagran258",
+    "https://www.tiktok.com/@valterdacomagran",
+    "https://www.youtube.com/@valterdacomagran258"
+   ],
+   "financas": {
+    "partido": 3275.0,
+    "pessoasFisicas": 10000.0,
+    "proprios": 10500.0,
+    "arrecadado": 23775.0,
+    "contratado": 19312.5,
+    "pago": 19112.5,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Perroni e Eng Adamario de Lana (PRD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Luiz Lemes",
+  "partido": "DC",
+  "idade": "59 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 59,
+   "patrimonio": 352800.0,
+   "redes": [
+    "https://www.facebook.com/luizantonio.lemesdeoliveira",
+    "https://www.instagram.com/luizantonio_lemes/#"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Instrutor André Maciel e Roberto Patzlaff e Aldeci Teixeira (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Valderi Garcia",
+  "partido": "PCO",
+  "idade": "52 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: trabalhador de construção civil"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador de construção civil",
+   "idade": 52,
+   "patrimonio": 176000.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luciano Lemes e Thiago Assad (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Roberto Oshiro",
+  "partido": "NOVO",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 48,
+   "patrimonio": 497691.02,
+   "redes": [
+    "https://www.facebook.com/robertooshiro",
+    "https://www.instagram.com/robertooshiro",
+    "https://www.linkedin.com/in/roberto-oshiro-716a1826",
+    "https://www.tiktok.com/@roberto.oshiro",
+    "https://x.com/robertooshiro",
+    "https://youtube.com/@robertooshirojr"
+   ],
+   "financas": {
+    "pessoasFisicas": 56000.0,
+    "proprios": 65000.0,
+    "coletivo": 1175.0,
+    "arrecadado": 122175.0,
+    "contratado": 165526.34,
+    "pago": 89026.34,
+    "limite": 3176572.53,
+    "doadoresPF": 19,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Augusto da Soldamaq e Italivio Neto (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "365",
+  "nome": "Daniel Junior",
+  "partido": "AGIR",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1hnrrbz8eq",
+    "https://www.instagram.com/daniel_junior_terenos2024"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Alessandro Garcia e Luciene Ramos da Silva (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Soraya",
+  "partido": "PSB",
+  "idade": "53 anos",
+  "coligacao": "Por Um Ms do Povo (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 53,
+   "patrimonio": 612959.24,
+   "redes": [
+    "https://www.facebook.com/senadorasoraya",
+    "https://www.facebook.com/sorayathronickesenadora",
+    "https://www.instagram.com/sorayathronicke",
+    "https://www.tiktok.com/@senadorasoraya",
+    "https://www.youtube.com/@senadora.soraya",
+    "https://x.com/senadorasoraya"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 65000.0,
+    "proprios": 22700.0,
+    "arrecadado": 587700.0,
+    "contratado": 752275.0,
+    "pago": 439275.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Bruno Migueis (PT) e Geana Mesquita (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Beto do Movimento",
+  "partido": "PSOL",
+  "idade": "46 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: agricultor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Agricultor",
+   "idade": 46,
+   "patrimonio": 945000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/jekrofermam"
+   ],
+   "financas": {
+    "fefc": 45000.0,
+    "arrecadado": 45000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Elizangela Tiago e Kátia Bastos (PSOL)",
+  "suplentesFonte": "tse"
+ }
+]

@@ -1,0 +1,616 @@
+[
+ {
+  "numero": "11",
+  "nome": "Celina Leão",
+  "partido": "PP",
+  "vice": "Gustavo Rocha (REPUBLICANOS)",
+  "idade": "49 anos",
+  "coligacao": "Propósito e Ação (Republicanos, MDB, Podemos, PL, DC, Mobiliza, Democrata, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 49,
+   "patrimonio": 440131.39,
+   "redes": [
+    "https://instagram.com/celinaleao",
+    "https://www.facebook.com/share/1ecn2twtqk",
+    "https://www.threads.com/@celinaleao",
+    "https://www.tiktok.com/@celinaleaodf",
+    "https://x.com/celinaleao",
+    "https://youtube.com/@tvcelinaleao"
+   ],
+   "financas": {
+    "fefc": 4900000.0,
+    "fundoPartidario": 2000000.0,
+    "partido": 200000.0,
+    "pessoasFisicas": 322000.0,
+    "arrecadado": 7422000.0,
+    "contratado": 3575801.79,
+    "pago": 814593.8,
+    "limite": 7115522.46,
+    "doadoresPF": 15,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Leandro Grass",
+  "partido": "PT",
+  "vice": "Dora Gomes (PV)",
+  "idade": "41 anos",
+  "coligacao": "Df do Povo (PDT, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino superior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 41,
+   "patrimonio": 285000.0,
+   "redes": [
+    "https://linktr.ee/leandro.grass",
+    "https://twitter.com/leandrograss",
+    "https://www.facebook.com/leandrograss",
+    "https://www.instagram.com/leandrograss",
+    "https://www.threads.com/@leandrograss",
+    "https://www.tiktok.com/@leandrograss"
+   ],
+   "financas": {
+    "fefc": 2134656.74,
+    "fundoPartidario": 113296.0,
+    "pessoasFisicas": 35300.13,
+    "coletivo": 49461.0,
+    "arrecadado": 2332713.87,
+    "contratado": 1513895.21,
+    "pago": 91735.44,
+    "limite": 7115522.46,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Professor Robson",
+  "partido": "PSTU",
+  "vice": "Guillen (PSTU)",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 56,
+   "patrimonio": 900000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.instagram.com/prof_robson_pstu"
+   ],
+   "financas": {
+    "fefc": 22202.0,
+    "arrecadado": 22202.0,
+    "contratado": 24700.0,
+    "pago": 22500.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "28",
+  "nome": "Rico Pinheiro",
+  "partido": "PRTB",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Economista",
+   "idade": 46,
+   "patrimonio": 4380000.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Expedito Mendonça",
+  "partido": "PCO",
+  "vice": "Valmir Barbosa (PCO)",
+  "idade": "65 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 65,
+   "patrimonio": 5000.0,
+   "redes": [
+    "https://www.facebook.com/expedito.mendonca",
+    "https://www.instagram.com/mexpedito"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "Kiko Caputo",
+  "partido": "NOVO",
+  "vice": "Delegado Rafael Sampaio (NOVO)",
+  "idade": "57 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 57,
+   "patrimonio": 47383036.13,
+   "redes": [
+    "https://br.linkedin.com/in/kikocaputo",
+    "https://www.facebook.com/share/1ca8ypmasz",
+    "https://www.facebook.com/share/1d6jy4qnvd",
+    "https://www.instagram.com/kiko_caputo",
+    "https://www.threads.com/@kiko_caputo",
+    "https://www.tiktok.com/@kiko_caputo"
+   ],
+   "financas": {
+    "pessoasFisicas": 815000.0,
+    "proprios": 705500.0,
+    "outrosCandidatos": 15000.0,
+    "arrecadado": 1535500.0,
+    "contratado": 1001717.87,
+    "pago": 464933.24,
+    "limite": 7115522.46,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "36",
+  "nome": "Elisson",
+  "partido": "AGIR",
+  "vice": "Subtenente Sergio Prado (AGIR)",
+  "idade": "39 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 39,
+   "patrimonio": 251374.0,
+   "redes": [
+    "https://www.instagram.com/souelisson36",
+    "https://www.linkedin.com/in/elissonferreira"
+   ],
+   "financas": {
+    "pessoasFisicas": 3500.0,
+    "proprios": 2000.0,
+    "arrecadado": 5500.0,
+    "contratado": 1068.99,
+    "pago": 69.99,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "40",
+  "nome": "Cappelli",
+  "partido": "PSB",
+  "vice": "Sofia Carvalho (PSB)",
+  "idade": "54 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 54,
+   "patrimonio": 1226908.08,
+   "redes": [
+    "https://linktr.ee/ricardocappelli",
+    "https://www.facebook.com/oricardocappelli",
+    "https://www.instagram.com/cappelli.ricardo",
+    "https://www.kwai.com/@cappelli.ricardo",
+    "https://www.threads.com/@cappelli.ricardo",
+    "https://www.tiktok.com/@cappelli.ricardo"
+   ],
+   "financas": {
+    "fefc": 440000.0,
+    "pessoasFisicas": 117199.98,
+    "outrosCandidatos": 92500.0,
+    "arrecadado": 649699.98,
+    "contratado": 1088158.5,
+    "pago": 414213.5,
+    "limite": 7115522.46,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Paula Belmonte",
+  "partido": "PSDB",
+  "vice": "Juiz Everardo Ribeiro (PSDB)",
+  "idade": "53 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 53,
+   "patrimonio": 10844220.79,
+   "redes": [
+    "https://linktr.ee/canalpaulabelmonte",
+    "https://linktr.ee/paulabelmonte",
+    "https://www.facebook.com/profile.php",
+    "https://www.tiktok.com/@paulabelmonteoficial",
+    "https://x.com/paulambelmonte",
+    "https://youtube.com/@paulabelmonteoficial"
+   ],
+   "financas": {
+    "fefc": 2180000.0,
+    "pessoasFisicas": 350000.0,
+    "proprios": 461000.0,
+    "arrecadado": 2991000.0,
+    "contratado": 2482705.79,
+    "pago": 1492790.73,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Arruda",
+  "partido": "PSD",
+  "vice": "Luiz Pitiman (PSD)",
+  "idade": "72 anos",
+  "coligacao": "Resgatar Brasília (PSD, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 72,
+   "patrimonio": 830170.98,
+   "redes": [
+    "https://www.facebook.com/arruda.df",
+    "https://www.instagram.com/arruda.df",
+    "https://www.kwai.com/@josearrudadf",
+    "https://www.threads.com/@arruda.df",
+    "https://www.tiktok.com/@arrudadf",
+    "https://www.youtube.com/@arrudadf"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 10000.0,
+    "proprios": 130000.0,
+    "outrosCandidatos": 175000.0,
+    "arrecadado": 3315000.0,
+    "contratado": 2326132.44,
+    "pago": 1483353.69,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Professora Samara Mineiro",
+  "partido": "UP",
+  "vice": "Thaís Oliveira (UP)",
+  "idade": "33 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 33,
+   "patrimonio": 69196.63,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/samaramineiro",
+    "https://www.instagram.com/unidadepopular.df"
+   ],
+   "financas": {
+    "fefc": 22680.0,
+    "coletivo": 3300.0,
+    "arrecadado": 25980.0,
+    "contratado": 1703.29,
+    "pago": 82.29,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

@@ -1,0 +1,445 @@
+[
+ {
+  "numero": "11",
+  "nome": "Eduardo Riedel",
+  "partido": "PP",
+  "vice": "Barbosinha (REPUBLICANOS)",
+  "idade": "57 anos",
+  "coligacao": "Fazendo O Futuro Acontecer (federação União e PP, PL, federação PSDB e Cidadania, Podemos, Avante, Republicanos, PSD, MDB)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 57,
+   "patrimonio": 16147849.34,
+   "concorreu2022": true,
+   "patrimonio2022": 20744288.42,
+   "redes": [
+    "https://www.facebook.com/eduardoriedeloficial",
+    "https://www.instagram.com/eduardoriedel",
+    "https://www.linkedin.com/in/eduardo-riedel-6a4b69309",
+    "https://www.tiktok.com/@eduardoriedeloficial",
+    "https://www.youtube.com/c/eduardoriedeloficial",
+    "https://x.com/eduardoriedel_"
+   ],
+   "financas": {
+    "fefc": 1870000.0,
+    "fundoPartidario": 22572.96,
+    "partido": 515000.0,
+    "pessoasFisicas": 744000.0,
+    "arrecadado": 3151572.96,
+    "contratado": 4850273.39,
+    "pago": 2165623.39,
+    "limite": 6226082.16,
+    "doadoresPF": 18,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "13",
+  "nome": "Fábio Trad",
+  "partido": "PT",
+  "vice": "Dona Gilda (PT)",
+  "idade": "57 anos",
+  "coligacao": "Por Um Ms do Povo (PDT, PSB, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 57,
+   "patrimonio": 3670880.45,
+   "concorreu2022": true,
+   "patrimonio2022": 2363367.45,
+   "redes": [
+    "https://www.facebook.com/fabiotrad",
+    "https://www.instagram.com/fabiotrad",
+    "https://www.threads.com/@fabiotrad",
+    "https://www.tiktok.com/@fabio.trad",
+    "https://x.com/f_trad"
+   ],
+   "financas": {
+    "fefc": 3735649.3,
+    "pessoasFisicas": 8100.0,
+    "proprios": 5000.0,
+    "arrecadado": 3748749.3,
+    "contratado": 3149014.34,
+    "pago": 1562524.67,
+    "limite": 6226082.16,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "25",
+  "nome": "Delcidio Amaral",
+  "partido": "PRD",
+  "vice": "Mariliana Santos (SOLIDARIEDADE)",
+  "idade": "71 anos",
+  "coligacao": "Federação PRD e Solidariedade",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 71,
+   "patrimonio": 1596431.07,
+   "redes": [
+    "https://www.facebook.com/delcidioamaral",
+    "https://www.facebook.com/delcidioms",
+    "https://www.facebook.com/people/delcidio¿amaral",
+    "https://www.facebook.com/people/delcidio¿amaral¿25",
+    "https://www.instagram.com/delcidioamaral25",
+    "https://www.instagram.com/delcidioms"
+   ],
+   "financas": {
+    "partido": 146260.0,
+    "pessoasFisicas": 10150.0,
+    "arrecadado": 156410.0,
+    "contratado": 171153.0,
+    "pago": 83653.0,
+    "limite": 6226082.16,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Economista Renato Gomes",
+  "partido": "DC",
+  "vice": "Thiago Martins (DC)",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: capitalista de ativos financeiros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Capitalista de ativos financeiros",
+   "idade": 40,
+   "patrimonio": 922938.36,
+   "redes": [
+    "https://www.facebook.com/share/19ijoamssn",
+    "https://www.instagram.com/economistarenato"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Daniel Lemes",
+  "partido": "PCO",
+  "vice": "Silvia Benites (PCO)",
+  "idade": "48 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 48,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/daniellemesvasques"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "João Henrique Catan",
+  "partido": "NOVO",
+  "vice": "Antônio João Jacinto (NOVO)",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 38,
+   "patrimonio": 588097.38,
+   "redes": [
+    "https://www.facebook.com/joaohenriquecatanoficial",
+    "https://www.instagram.com/joaohenriquecatan",
+    "https://www.tiktok.com/@joaohenriquecatan",
+    "https://x.com/henriquecatan",
+    "https://youtube.com/user/henriquecatan1988"
+   ],
+   "financas": {
+    "fefc": 18100.0,
+    "partido": 15000.0,
+    "pessoasFisicas": 55235.01,
+    "proprios": 47000.0,
+    "coletivo": 16088.0,
+    "arrecadado": 151423.01,
+    "contratado": 195146.49,
+    "pago": 64696.49,
+    "limite": 6226082.16,
+    "doadoresPF": 15,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "36",
+  "nome": "Jeferson Bezerra",
+  "partido": "AGIR",
+  "vice": "Valdenir Duarte (AGIR)",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/bezerrajefersonjose"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Lucien Rezende",
+  "partido": "PSOL",
+  "vice": "Prof. Enfermeira Kaelly (PSOL)",
+  "idade": "62 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Empresário",
+   "idade": 62,
+   "patrimonio": 500000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/lucienrezende.rezende"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

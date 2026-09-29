@@ -1,0 +1,224 @@
+[
+ {
+  "numero": "15",
+  "nome": "Renan Filho",
+  "partido": "MDB",
+  "vice": "Yale Barbosa (MDB)",
+  "idade": "46 anos",
+  "coligacao": "Pra Alagoas Fazer História de Novo (MDB, Podemos, Agir, PSB, PSD, Avante, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: economista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Economista",
+   "idade": 46,
+   "patrimonio": 1785449.87,
+   "redes": [
+    "https://www.facebook.com/filhorenan",
+    "https://www.instagram.com/renanfilho",
+    "https://www.tiktok.com/@sourenanfilho",
+    "https://www.youtube.com/renanfilho15",
+    "https://x.com/renanfilho_"
+   ],
+   "financas": {
+    "fefc": 6900000.0,
+    "pessoasFisicas": 34630.0,
+    "proprios": 117150.0,
+    "arrecadado": 7051780.0,
+    "contratado": 4823860.46,
+    "pago": 1361152.5,
+    "limite": 7115522.46,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Márcio Jambo",
+  "partido": "DEMOCRATA",
+  "vice": "Jaudinete Pontes (DEMOCRATA)",
+  "idade": "57 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: corretor de imóveis, seguros, títulos e valores"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Corretor de imóveis, seguros, títulos e valores",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Jhc",
+  "partido": "PSDB",
+  "vice": "Célia Rocha (PSDB)",
+  "idade": "39 anos",
+  "coligacao": "Alagoas Gigante (PDT, Podemos, PL, DC, Avante, federação PSDB e Cidadania, federação PRD e Solidariedade, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 39,
+   "patrimonio": 2244732.19,
+   "redes": [
+    "https://k.kwai.com/u/@pnkye950/ozhvsycw",
+    "https://linktr.ee/jhcdopovo45",
+    "https://www.facebook.com/jhc",
+    "https://www.instagram.com/jhcdopovo",
+    "https://www.tiktok.com/@tiojhc"
+   ],
+   "financas": {
+    "fefc": 1500000.0,
+    "fundoPartidario": 3000000.0,
+    "partido": 615000.0,
+    "pessoasFisicas": 214000.0,
+    "arrecadado": 5329000.0,
+    "contratado": 3282265.84,
+    "pago": 1593164.1,
+    "limite": 7115522.46,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Lenilda Luna",
+  "partido": "UP",
+  "vice": "Jardel Queiroz (UP)",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público federal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 60,
+   "patrimonio": 115000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 87620.0,
+   "redes": [
+    "https://www.instagram.com/lenildaluna",
+    "https://www.instagram.com/unidadepopularal"
+   ],
+   "financas": {
+    "fefc": 6710.0,
+    "partido": 3565.0,
+    "pessoasFisicas": 100.0,
+    "coletivo": 5605.0,
+    "arrecadado": 15980.0,
+    "contratado": 5705.0,
+    "pago": 5705.0,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

@@ -1,0 +1,7428 @@
+{
+ "fonte": {
+  "titulo": "TSE: dados abertos de candidaturas 2026",
+  "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+ },
+ "geracaoTSE": "29/09/2026",
+ "listaConferida": "29/09/2026",
+ "partidos": [
+  {
+   "numero": "10",
+   "sigla": "REPUBLICANOS",
+   "nome": "Republicanos",
+   "federacao": null
+  },
+  {
+   "numero": "11",
+   "sigla": "PP",
+   "nome": "Progressistas",
+   "federacao": "44-UNIÃO/11-PP"
+  },
+  {
+   "numero": "12",
+   "sigla": "PDT",
+   "nome": "Partido Democrático Trabalhista",
+   "federacao": null
+  },
+  {
+   "numero": "13",
+   "sigla": "PT",
+   "nome": "Partido dos Trabalhadores",
+   "federacao": "13-PT/65-PC do B/43-PV"
+  },
+  {
+   "numero": "14",
+   "sigla": "MISSÃO",
+   "nome": "Partido Missão",
+   "federacao": null
+  },
+  {
+   "numero": "15",
+   "sigla": "MDB",
+   "nome": "Movimento Democrático Brasileiro",
+   "federacao": null
+  },
+  {
+   "numero": "16",
+   "sigla": "PSTU",
+   "nome": "Partido Socialista  dos Trabalhadores Unificado",
+   "federacao": null
+  },
+  {
+   "numero": "18",
+   "sigla": "REDE",
+   "nome": "Rede Sustentabilidade",
+   "federacao": "50-PSOL/18-REDE"
+  },
+  {
+   "numero": "20",
+   "sigla": "PODE",
+   "nome": "Podemos",
+   "federacao": null
+  },
+  {
+   "numero": "22",
+   "sigla": "PL",
+   "nome": "Partido Liberal",
+   "federacao": null
+  },
+  {
+   "numero": "23",
+   "sigla": "CIDADANIA",
+   "nome": "Cidadania",
+   "federacao": "45-PSDB/23-CIDADANIA"
+  },
+  {
+   "numero": "25",
+   "sigla": "PRD",
+   "nome": "Partido Renovacao Democratica",
+   "federacao": "25-PRD/77-SOLIDARIEDADE"
+  },
+  {
+   "numero": "27",
+   "sigla": "DC",
+   "nome": "Democracia Cristã",
+   "federacao": null
+  },
+  {
+   "numero": "30",
+   "sigla": "NOVO",
+   "nome": "Partido Novo",
+   "federacao": null
+  },
+  {
+   "numero": "33",
+   "sigla": "MOBILIZA",
+   "nome": "Mobilização Nacional",
+   "federacao": null
+  },
+  {
+   "numero": "40",
+   "sigla": "PSB",
+   "nome": "Partido Socialista Brasileiro",
+   "federacao": null
+  },
+  {
+   "numero": "43",
+   "sigla": "PV",
+   "nome": "Partido Verde",
+   "federacao": "13-PT/65-PC do B/43-PV"
+  },
+  {
+   "numero": "44",
+   "sigla": "UNIÃO",
+   "nome": "União Brasil",
+   "federacao": "44-UNIÃO/11-PP"
+  },
+  {
+   "numero": "45",
+   "sigla": "PSDB",
+   "nome": "Partido da Social Democracia Brasileira",
+   "federacao": "45-PSDB/23-CIDADANIA"
+  },
+  {
+   "numero": "50",
+   "sigla": "PSOL",
+   "nome": "Partido Socialismo e Liberdade",
+   "federacao": "50-PSOL/18-REDE"
+  },
+  {
+   "numero": "55",
+   "sigla": "PSD",
+   "nome": "Partido Social Democrático",
+   "federacao": null
+  },
+  {
+   "numero": "65",
+   "sigla": "PCDOB",
+   "nome": "Partido Comunista do Brasil",
+   "federacao": "13-PT/65-PC do B/43-PV"
+  },
+  {
+   "numero": "70",
+   "sigla": "AVANTE",
+   "nome": "Avante",
+   "federacao": null
+  },
+  {
+   "numero": "77",
+   "sigla": "SOLIDARIEDADE",
+   "nome": "Solidariedade",
+   "federacao": "25-PRD/77-SOLIDARIEDADE"
+  },
+  {
+   "numero": "80",
+   "sigla": "UP",
+   "nome": "Unidade Popular",
+   "federacao": null
+  }
+ ],
+ "candidatos": [
+  {
+   "numero": "1616",
+   "nome": "Acácio Moreira",
+   "partido": "PSTU",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 63,
+   "patrimonio": 370000.0,
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2050",
+   "nome": "Adamor Bitencourt",
+   "partido": "PODE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 54,
+   "patrimonio": 22287415.97,
+   "redes": [
+    "https://www.facebook.com/share/19qpbwco4u",
+    "https://www.instagram.com/adamorbitencourt"
+   ],
+   "financas": {
+    "fefc": 495000.0,
+    "pessoasFisicas": 17800.0,
+    "arrecadado": 512800.0,
+    "contratado": 168090.49,
+    "pago": 109860.49,
+    "limite": 3176572.53,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1522",
+   "nome": "Adriana Almeida",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Odontólogo",
+   "idade": 40,
+   "patrimonio": 250000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/adrianaalmeidastm",
+    "https://www.instagram.com/adrianaalmeidastm",
+    "https://www.threads.com/@adrianaalmeidastm",
+    "https://www.tiktok.com/@adrianaalmeida.santarem"
+   ],
+   "financas": {
+    "fefc": 1750000.0,
+    "pessoasFisicas": 90000.0,
+    "arrecadado": 1840000.0,
+    "contratado": 868893.33,
+    "pago": 34635.31,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1500",
+   "nome": "Adriano Coelho",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 37,
+   "patrimonio": 71216159.16,
+   "concorreu2022": true,
+   "patrimonio2022": 7307631.16,
+   "redes": [
+    "https://www.facebook.com/adrianocoelho12000",
+    "https://www.instagram.com/deputadoadrianocoelho"
+   ],
+   "financas": {
+    "fefc": 1750000.0,
+    "pessoasFisicas": 208000.0,
+    "proprios": 210800.0,
+    "outrosCandidatos": 9250.0,
+    "arrecadado": 2178050.0,
+    "contratado": 246152.76,
+    "pago": 206152.76,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4410",
+   "nome": "Aerton Grande",
+   "partido": "UNIÃO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Vereador",
+   "idade": 47,
+   "patrimonio": 990000.0,
+   "redes": [
+    "https://www.facebook.com/aerton.lima.12",
+    "https://www.instagram.com/aertongrande"
+   ],
+   "financas": {
+    "fefc": 542066.71,
+    "pessoasFisicas": 300.0,
+    "arrecadado": 542366.71,
+    "contratado": 438059.93,
+    "pago": 408059.93,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4001",
+   "nome": "Agenor Santos",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 43,
+   "patrimonio": 600000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 443877.09,
+   "redes": [
+    "https://www.facebook.com/agenorsantospa",
+    "https://www.instagram.com/agenorsantospa",
+    "https://www.tiktok.com/@agenorsantospa",
+    "https://www.youtube.com/@agenorsantospa",
+    "https://x.com/agenorsantospa"
+   ],
+   "financas": {
+    "fefc": 240000.0,
+    "fundoPartidario": 7362.0,
+    "partido": 1711.54,
+    "outrosCandidatos": 6350.0,
+    "arrecadado": 255423.54,
+    "contratado": 110798.92,
+    "pago": 57798.92,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1201",
+   "nome": "Agnaldo e A Turma do Pampam",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Atleta profissional e técnico em desportos",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1e6zu8k6xp",
+    "https://www.instagram.com/agnaldoseuboneco"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 5200.0,
+    "arrecadado": 105200.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1321",
+   "nome": "Airton Faleiro",
+   "partido": "PT",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Deputado",
+   "idade": 67,
+   "patrimonio": 1090000.0,
+   "redes": [
+    "https://www.facebook.com/airtonfaleiropt",
+    "https://www.instagram.com/airtonfaleiropt",
+    "https://www.tiktok.com/@faleiroairton",
+    "https://www.youtube.com/@airtonfaleiropt",
+    "https://x.com/faleiroairton"
+   ],
+   "financas": {
+    "fefc": 1800000.0,
+    "fundoPartidario": 15500.0,
+    "pessoasFisicas": 124433.33,
+    "proprios": 10000.0,
+    "arrecadado": 1949933.33,
+    "contratado": 1134159.94,
+    "pago": 1053558.79,
+    "limite": 3176572.53,
+    "doadoresPF": 35,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7722",
+   "nome": "Alaor da Fiel",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/alaoracontece.omito",
+    "https://www.instagram.com/alaor_acontece"
+   ],
+   "financas": {
+    "fefc": 144940.0,
+    "arrecadado": 144940.0,
+    "contratado": 70000.0,
+    "pago": 70000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4044",
+   "nome": "Alemão da Cerâmica",
+   "partido": "PSB",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 45,
+   "patrimonio": 919276.26,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 200000.0,
+    "fundoPartidario": 2468.0,
+    "arrecadado": 202468.0,
+    "contratado": 340880.0,
+    "pago": 175000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1215",
+   "nome": "Alemão do Açougue",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Comerciante",
+   "idade": 63,
+   "patrimonio": 530000.0,
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 3200.0,
+    "proprios": 3400.0,
+    "arrecadado": 106600.0,
+    "contratado": 50014.1,
+    "pago": 40000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1388",
+   "nome": "Alessandra Munduruku",
+   "partido": "PT",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://k.kwai.com/u/@alessandrakora225/c4zeyiji",
+    "https://www.facebook.com/share/1bgu18qvlu",
+    "https://www.instagram.com/alessandra_korap",
+    "https://www.tiktok.com/@alessandra_munduruku",
+    "https://www.tiktok.com/@alessandramunduruku",
+    "https://x.com/alkorap1"
+   ],
+   "financas": {
+    "fefc": 1055500.0,
+    "pessoasFisicas": 42500.0,
+    "coletivo": 3525.0,
+    "arrecadado": 1101525.0,
+    "contratado": 501943.55,
+    "pago": 501943.55,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3022",
+   "nome": "Allen Pelo Pará",
+   "partido": "NOVO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Comunicólogo",
+   "idade": 24,
+   "patrimonio": 569000.0,
+   "redes": [
+    "https://www.instagram.com/allenpelopara"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "partido": 180000.0,
+    "coletivo": 1325.0,
+    "arrecadado": 381325.0,
+    "contratado": 213783.04,
+    "pago": 213783.04,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5533",
+   "nome": "Amarildo Paulino (levino)",
+   "partido": "PSD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Pecuarista",
+   "idade": 58,
+   "patrimonio": 8572368.79,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/amarildopaulinooficial",
+    "https://www.instagram.com/amarildopaulinooficial",
+    "https://www.tiktok.com/@amarildo_paulinooficial/video/7472743046501747974"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 13500.0,
+    "proprios": 5000.0,
+    "arrecadado": 518500.0,
+    "contratado": 128040.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4010",
+   "nome": "Andréia Siqueira",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 34,
+   "patrimonio": 13375680.0,
+   "concorreu2022": true,
+   "patrimonio2022": 12710000.0,
+   "financas": {
+    "fefc": 1000000.0,
+    "fundoPartidario": 13000.0,
+    "partido": 835688.5,
+    "pessoasFisicas": 56700.0,
+    "arrecadado": 1905388.5,
+    "contratado": 1115110.0,
+    "pago": 913950.0,
+    "limite": 3176572.53,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1224",
+   "nome": "Anny Lopes",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Cantor e compositor",
+   "idade": 34,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1ejpybdpm3",
+    "https://www.instagram.com/annylopescantora"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "partido": 3600.0,
+    "arrecadado": 53600.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1511",
+   "nome": "Antonio Doido",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 50,
+   "patrimonio": 2230000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 3125000.0,
+   "redes": [
+    "https://www.facebook.com/antoniodoido",
+    "https://www.instagram.com/antoniodoido",
+    "https://www.threads.com/@antoniodoido",
+    "https://www.tiktok.com/@antoniodoidooficial",
+    "https://x.com/antoniodoidoofc"
+   ],
+   "financas": {
+    "fefc": 2850000.0,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 2860000.0,
+    "contratado": 2488800.5,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3017",
+   "nome": "Aparecida Rego",
+   "partido": "NOVO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Marinheiro civil, canoeiro, embarcado e assemelhados",
+   "idade": 38,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 10000.0,
+    "pago": 10000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7012",
+   "nome": "Atainá",
+   "partido": "AVANTE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/ataina_santos"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2777",
+   "nome": "Bianny Sanches",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1324",
+   "nome": "Biga",
+   "partido": "PT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Vereador",
+   "idade": 37,
+   "patrimonio": 400866.52,
+   "redes": [
+    "https://www.facebook.com/share/17amzsvgqb",
+    "https://www.instagram.com/bigakalahari",
+    "https://www.tiktok.com/@bigakalahari"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "fundoPartidario": 15500.0,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 220500.0,
+    "contratado": 159911.39,
+    "pago": 113411.39,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2040",
+   "nome": "Bob Fllay",
+   "partido": "PODE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Deputado",
+   "idade": 41,
+   "patrimonio": 1590000.0,
+   "redes": [
+    "https://facebook.com/bob.fllayii",
+    "https://instagram.com/bobfllay",
+    "https://instagram.com/bobfllay_ogabineterosa",
+    "https://tiktok.com/@bobfllay_",
+    "https://youtube.com/@canalpavulagem4832"
+   ],
+   "financas": {
+    "fefc": 325000.0,
+    "proprios": 43000.0,
+    "arrecadado": 368000.0,
+    "contratado": 409628.96,
+    "pago": 344628.96,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5555",
+   "nome": "Braz",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 49,
+   "patrimonio": 5196392.96,
+   "concorreu2022": true,
+   "patrimonio2022": 1615500.0,
+   "redes": [
+    "https://www.facebook.com/ivanaldobraz1",
+    "https://www.instagram.com/ivanaldobraz",
+    "https://www.kwai.com/@tocombraz",
+    "https://www.tiktok.com/@tocombraz",
+    "https://www.youtube.com/@ivanaldobraz"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 223354.25,
+    "proprios": 25000.0,
+    "outrosCandidatos": 2651.6,
+    "arrecadado": 1251005.85,
+    "contratado": 762813.32,
+    "pago": 424103.32,
+    "limite": 3176572.53,
+    "doadoresPF": 27,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "8080",
+   "nome": "Bruna Freire",
+   "partido": "UP",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 25,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/brunafreireup"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4433",
+   "nome": "Bruna Nunes",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Membro das forças armadas",
+   "idade": 43,
+   "patrimonio": 980000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/14jmvb4nhxt",
+    "https://www.instagram.com/sgt.brunanunes",
+    "https://www.threads.com/@sgt.brunanunes",
+    "https://www.tiktok.com/@brunanunes403",
+    "https://www.youtube.com/@sargentobrunanunes"
+   ],
+   "financas": {
+    "fefc": 169395.85,
+    "pessoasFisicas": 14000.0,
+    "arrecadado": 183395.85,
+    "contratado": 110257.71,
+    "pago": 110257.71,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1008",
+   "nome": "Bruna de Lima",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 45,
+   "patrimonio": 3198548.01,
+   "redes": [
+    "https://www.facebook.com/share/1d9nzfw3rv",
+    "https://www.facebook.com/share/1edztxnk8m",
+    "https://www.facebook.com/share/1epb765fk7",
+    "https://www.instagram.com/brunadelimabdl",
+    "https://www.instagram.com/brunadelimabru"
+   ],
+   "financas": {
+    "fefc": 124000.0,
+    "fundoPartidario": 89100.0,
+    "outrosCandidatos": 50000.0,
+    "arrecadado": 263100.0,
+    "contratado": 203990.0,
+    "pago": 203990.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5055",
+   "nome": "Camila Pamplona",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 28,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/19csrxqzcb",
+    "https://www.facebook.com/share/1dfupofeu6",
+    "https://www.instagram.com/camila_pamplona",
+    "https://www.threads.com/@camila_pamplona",
+    "https://www.tiktok.com/@camilapamplona.psol",
+    "https://x.com/camila_pamp5055"
+   ],
+   "financas": {
+    "fefc": 141213.79,
+    "fundoPartidario": 10493.29,
+    "outrosCandidatos": 2500.0,
+    "arrecadado": 154207.08,
+    "contratado": 102106.66,
+    "pago": 77473.26,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4045",
+   "nome": "Carla Parente",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 44,
+   "patrimonio": 907070.79,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/carlaviseuofc"
+   ],
+   "financas": {
+    "fefc": 320000.0,
+    "fundoPartidario": 9264.0,
+    "pessoasFisicas": 3000.0,
+    "outrosCandidatos": 1890.0,
+    "arrecadado": 334154.0,
+    "contratado": 212310.5,
+    "pago": 52310.5,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4004",
+   "nome": "Carol Resque",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 32,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1jbmijyccz",
+    "https://www.instagram.com/carolresque",
+    "https://www.tiktok.com/@carolresque_"
+   ],
+   "financas": {
+    "fefc": 160000.0,
+    "fundoPartidario": 2468.0,
+    "pessoasFisicas": 16000.0,
+    "arrecadado": 178468.0,
+    "contratado": 74802.0,
+    "pago": 24802.0,
+    "limite": 3176572.53,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1100",
+   "nome": "Carol Silva",
+   "partido": "PP",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comerciante",
+   "idade": 25,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19all4bzdw",
+    "https://www.instagram.com/carolsi1va",
+    "https://www.tiktok.com/@carolsi1va"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "arrecadado": 1000000.0,
+    "contratado": 504700.0,
+    "pago": 504700.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1567",
+   "nome": "Cassio Andrade",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 45,
+   "patrimonio": 3267816.91,
+   "concorreu2022": true,
+   "patrimonio2022": 3393424.21,
+   "redes": [
+    "https://www.facebook.com/cassioandradeoficial",
+    "https://www.facebook.com/cassioandradeoficiall",
+    "https://www.instagram.com/cassioandradeoficial",
+    "https://www.threads.com/@cassioandradeoficial",
+    "https://www.threads.com/@hanaghassan",
+    "https://www.tiktok.com/@cassioandradepa"
+   ],
+   "financas": {
+    "fefc": 1750000.0,
+    "pessoasFisicas": 68484.0,
+    "arrecadado": 1818484.0,
+    "contratado": 66062.35,
+    "pago": 33094.35,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2077",
+   "nome": "Chapadinha",
+   "partido": "PODE",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Empresário",
+   "idade": 70,
+   "patrimonio": 9300235.01,
+   "redes": [
+    "https://facebook.com/share/1efm63mrtf",
+    "https://instagram.com/franciscochapadinha",
+    "https://instagram.com/timedochapa"
+   ],
+   "financas": {
+    "fefc": 520000.0,
+    "arrecadado": 520000.0,
+    "contratado": 280046.21,
+    "pago": 277046.21,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1369",
+   "nome": "Charles Alcantara",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 61,
+   "patrimonio": 428370.77,
+   "redes": [
+    "https://www.facebook.com/share/1bhhalp3ai",
+    "https://www.instagram.com/charlesalcantara.oficial",
+    "https://www.tiktok.com/@charlesalcantara.oficial"
+   ],
+   "financas": {
+    "fefc": 95500.0,
+    "pessoasFisicas": 17105.0,
+    "proprios": 1200.0,
+    "coletivo": 73913.33,
+    "arrecadado": 187718.33,
+    "contratado": 62223.04,
+    "pago": 57602.04,
+    "limite": 3176572.53,
+    "doadoresPF": 31,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7713",
+   "nome": "Chico da Pesca",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 64,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 89990.0,
+    "arrecadado": 89990.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2513",
+   "nome": "Cleber Damazany",
+   "partido": "PRD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 61,
+   "patrimonio": 10493000.0,
+   "redes": [
+    "https://www.instagram.com/reel/dbggbihwj5v"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2270",
+   "nome": "Cleonice da Iracema",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador rural",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/cleonicesilvaoliveiradepicarra"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "pessoasFisicas": 12000.0,
+    "arrecadado": 212000.0,
+    "contratado": 194990.0,
+    "pago": 149990.0,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2212",
+   "nome": "Cleuma Pantoja",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 44,
+   "patrimonio": 10000.0,
+   "redes": [
+    "https://www.facebook.com/cleuma.pantoja",
+    "https://www.instagram.com/cleuma_pantoja",
+    "https://www.tiktok.com/@cleuma.pantoja7"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 209620.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2323",
+   "nome": "Cláudia Benassuly",
+   "partido": "CIDADANIA",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 57,
+   "patrimonio": 1600000.0,
+   "redes": [
+    "https://www.instagram.com/claudiabenassuly",
+    "https://www.tiktok.com/@claudiabenassuly"
+   ],
+   "financas": {
+    "fefc": 40000.0,
+    "arrecadado": 40000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2700",
+   "nome": "Coronel Almeida Costa",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 70,
+   "patrimonio": 93650.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2799",
+   "nome": "Coronel Jonildo",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 50,
+   "patrimonio": 154553.7,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4488",
+   "nome": "Coronel Marco Antonio",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Militar reformado",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 30000.0,
+    "arrecadado": 30000.0,
+    "contratado": 30000.0,
+    "pago": 15000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4411",
+   "nome": "Coronel Teen",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Bombeiro militar",
+   "idade": 43,
+   "patrimonio": 1752051.4,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1xuuvozdzw",
+    "https://www.instagram.com/coronel_teen"
+   ],
+   "financas": {
+    "fefc": 67758.34,
+    "arrecadado": 67758.34,
+    "contratado": 29963.5,
+    "pago": 14310.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2288",
+   "nome": "Coronel Wellington",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 56,
+   "patrimonio": 76934.19,
+   "redes": [
+    "https://www.instagram.com/coronel_wellington",
+    "https://x.com/wmello69"
+   ],
+   "financas": {
+    "fundoPartidario": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 143555.0,
+    "pago": 126555.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3030",
+   "nome": "Darlan Sousa",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 60000.0,
+    "fundoPartidario": 20000.0,
+    "pessoasFisicas": 3500.0,
+    "arrecadado": 83500.0,
+    "contratado": 62002.0,
+    "pago": 62002.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2024",
+   "nome": "Debora Abelha",
+   "partido": "PODE",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Fotógrafo e assemelhados",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1d82epe3dy",
+    "https://www.instagram.com/debora.abelha.90"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 123735.16,
+    "pago": 82735.16,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3099",
+   "nome": "Dehan  Pacheco",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 32,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 40000.0,
+    "fundoPartidario": 10000.0,
+    "arrecadado": 50000.0,
+    "contratado": 35001.0,
+    "pago": 35001.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2720",
+   "nome": "Deivith Potente",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 42,
+   "patrimonio": 37953.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/deivithpotenteofc"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2026",
+   "nome": "Delegada Amanda Souza",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial civil",
+   "idade": 44,
+   "patrimonio": 110000.0,
+   "redes": [
+    "https://facebook.com/people/delegada-amanda-souza/61573755901048",
+    "https://instagram.com/amandasouzadelegada",
+    "https://tiktok.com/@amandasouzadelegada"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "pessoasFisicas": 5250.0,
+    "proprios": 5114.88,
+    "coletivo": 640.0,
+    "arrecadado": 511004.88,
+    "contratado": 198202.21,
+    "pago": 161102.21,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2200",
+   "nome": "Delegado Caveira",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial civil",
+   "idade": 47,
+   "patrimonio": 3732468.28,
+   "redes": [
+    "https://www.facebook.com/delegadocaveira10",
+    "https://www.instagram.com/delegadocaveira",
+    "https://www.tiktok.com/@delegadocaveira",
+    "https://www.youtube.com/@deputadodelegadocaveira",
+    "https://x.com/delegadocaveira"
+   ],
+   "financas": {
+    "fefc": 2300000.0,
+    "pessoasFisicas": 4000.0,
+    "arrecadado": 2304000.0,
+    "contratado": 922225.15,
+    "pago": 922225.15,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1022",
+   "nome": "Delegado Federal Eguchi",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 63,
+   "patrimonio": 1090000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 851555.22,
+   "redes": [
+    "https://www.facebook.com/eguchioficial",
+    "https://www.instagram.com/eguchioficial",
+    "https://www.threads.com/@eguchioficial",
+    "https://www.tiktok.com/@eguchioficial",
+    "https://www.youtube.com/@eguchioficial",
+    "https://x.com/delegadoeguchi"
+   ],
+   "financas": {
+    "fefc": 700000.0,
+    "fundoPartidario": 322200.0,
+    "arrecadado": 1022200.0,
+    "contratado": 749996.1,
+    "pago": 749996.1,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1230",
+   "nome": "Deosmar Neto",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1e3og3bwmh",
+    "https://www.instagram.com/deosmarneto"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "partido": 3200.0,
+    "arrecadado": 53200.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1313",
+   "nome": "Dilvanda Faro",
+   "partido": "PT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Deputado",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1flckpnu5c",
+    "https://www.instagram.com/deputadadilvandafaro",
+    "https://x.com/dilvandafaropt"
+   ],
+   "financas": {
+    "fefc": 2980500.0,
+    "arrecadado": 2980500.0,
+    "contratado": 1216291.5,
+    "pago": 987291.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2210",
+   "nome": "Dinho Pereira",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 39,
+   "patrimonio": 705626.57,
+   "redes": [
+    "https://www.facebook.com/dinhopereira01",
+    "https://www.instagram.com/dinhopereira01",
+    "https://www.tiktok.com/@dinhopereira_01"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "proprios": 1000.0,
+    "arrecadado": 201000.0,
+    "contratado": 134452.5,
+    "pago": 114452.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2524",
+   "nome": "Dj Agatha",
+   "partido": "PRD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 39,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 225250.0,
+    "arrecadado": 225250.0,
+    "contratado": 195003.0,
+    "pago": 170003.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1234",
+   "nome": "Dj Gordo do Crocodilo",
+   "partido": "PDT",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Outros",
+   "idade": 43,
+   "patrimonio": 13465.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/18z2nssaw5",
+    "https://www.instagram.com/djgordoareferencia"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 40000.0,
+    "pago": 40000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2244",
+   "nome": "Dr Marinho",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 42,
+   "patrimonio": 108000.0,
+   "redes": [
+    "https://www.facebook.com/people/tati-alves",
+    "https://www.instagram.com/drmarinhoadv",
+    "https://www.threads.com/@drmarinhoadv"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 48722.0,
+    "pago": 48722.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3012",
+   "nome": "Dr. Alailson",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3066",
+   "nome": "Dr. Carlos Belizario",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 56,
+   "patrimonio": 0.0,
+   "financas": {
+    "pessoasFisicas": 8668.0,
+    "arrecadado": 8668.0,
+    "contratado": 8666.5,
+    "pago": 8666.5,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2345",
+   "nome": "Dr. Daniel Estumano",
+   "partido": "CIDADANIA",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 37,
+   "patrimonio": 549000.0,
+   "redes": [
+    "https://www.facebook.com/share/14mpwwrgnya",
+    "https://www.instagram.com/dpestumano",
+    "https://www.linkedin.com/in/daniel-pantoja-estumano"
+   ],
+   "financas": {
+    "fefc": 20000.0,
+    "partido": 25000.0,
+    "arrecadado": 45000.0,
+    "contratado": 3000.5,
+    "pago": 3000.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2022",
+   "nome": "Dr. Diogo Franco",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 44,
+   "patrimonio": 1061324.75,
+   "redes": [
+    "https://instagram.com/dr.diogofranco",
+    "https://tiktok.com/@dr.diogofranco",
+    "https://www.facebook.com/people/dr-diogo-franco/61575333791580",
+    "https://x.com/drdiogofranco",
+    "https://youtube.com/@diogofrancooficial"
+   ],
+   "financas": {
+    "fefc": 520000.0,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 530000.0,
+    "contratado": 346660.1,
+    "pago": 346660.1,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2011",
+   "nome": "Dr. Felipe",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 41,
+   "patrimonio": 403878.74,
+   "redes": [
+    "https://instagram.com/doutorfelipeaugusto"
+   ],
+   "financas": {
+    "fefc": 470000.0,
+    "arrecadado": 470000.0,
+    "contratado": 196862.5,
+    "pago": 196862.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3020",
+   "nome": "Dr. Fernando",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 37,
+   "patrimonio": 1610000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/drfernando.advogado",
+    "https://www.threads.net/@drfernando.advogado",
+    "https://www.tiktok.com/@drfernando.advogado",
+    "https://youtube.com/@drfernando.advogado"
+   ],
+   "financas": {
+    "fefc": 20000.0,
+    "fundoPartidario": 10000.0,
+    "proprios": 500.0,
+    "coletivo": 1230.0,
+    "arrecadado": 31730.0,
+    "contratado": 21031.3,
+    "pago": 1031.3,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4080",
+   "nome": "Dr. Flavio Nobre",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 41,
+   "patrimonio": 4157714.98,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/vereadorflavionobre"
+   ],
+   "financas": {
+    "fefc": 160000.0,
+    "fundoPartidario": 7024.0,
+    "proprios": 7672.95,
+    "arrecadado": 174696.95,
+    "contratado": 160000.5,
+    "pago": 160000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5599",
+   "nome": "Dr. Helder",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 58,
+   "patrimonio": 187862.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1jwnjuyd2d",
+    "https://www.instagram.com/dr.helde_brito"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 9370.55,
+    "pago": 9370.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5567",
+   "nome": "Dr. Igor Parente",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 36,
+   "patrimonio": 7860113.21,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/igor.parente.7",
+    "https://www.instagram.com/dr.igorparente",
+    "https://www.tiktok.com/@dr.igorparente"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "arrecadado": 500000.0,
+    "contratado": 122200.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2717",
+   "nome": "Dr. Jose Roberto",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 56,
+   "patrimonio": 2279656.2,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/drjoseroberto27"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1122",
+   "nome": "Dr. Marcos Vinicius",
+   "partido": "PP",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 40,
+   "patrimonio": 2440264.39,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/dr.marcosviniciusof"
+   ],
+   "financas": {
+    "fefc": 600000.0,
+    "pessoasFisicas": 38000.0,
+    "proprios": 9750.0,
+    "arrecadado": 647750.0,
+    "contratado": 569200.91,
+    "pago": 22000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1023",
+   "nome": "Dr. Moises",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 50,
+   "patrimonio": 100000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/18r8d5kyp1",
+    "https://www.instagram.com/pastormoisesjorge"
+   ],
+   "financas": {
+    "fefc": 40000.0,
+    "pessoasFisicas": 3100.0,
+    "arrecadado": 43100.0,
+    "contratado": 39000.0,
+    "pago": 39000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7788",
+   "nome": "Dr. Osvaldo Figueiredo",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 46,
+   "patrimonio": 535000.0,
+   "redes": [
+    "https://www.facebook.com/share/1byqweffjk"
+   ],
+   "financas": {
+    "fefc": 163950.0,
+    "arrecadado": 163950.0,
+    "contratado": 138585.0,
+    "pago": 80585.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2767",
+   "nome": "Dr. Thais Carvalho",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Farmacêutico",
+   "idade": 49,
+   "patrimonio": 160000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/dra_thaistrepiche",
+    "https://www.instagram.com/thaistrepiche"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2714",
+   "nome": "Dr. Valgeane Moreno",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19biawqfn1",
+    "https://www.instagram.com/morenoadvocacia.valgeane",
+    "https://www.tiktok.com/@valgeane.moreno"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2340",
+   "nome": "Dr. Vera Cruz",
+   "partido": "CIDADANIA",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 77,
+   "patrimonio": 709436.88,
+   "redes": [
+    "https://www.facebook.com/share/1dskcubbpd",
+    "https://www.instagram.com/manoelveracruzsantos"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1033",
+   "nome": "Dra Gisele Mainard",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1f4vejzxke",
+    "https://www.facebook.com/share/1jfzwanlfw",
+    "https://www.instagram.com/adv.giselemainard",
+    "https://www.instagram.com/dragiselemainard"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "fundoPartidario": 68500.0,
+    "outrosCandidatos": 315.0,
+    "arrecadado": 368815.0,
+    "contratado": 301700.0,
+    "pago": 289700.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2020",
+   "nome": "Dra. Alessandra Haber",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 38,
+   "patrimonio": 2672920.18,
+   "redes": [
+    "https://www.facebook.com/draalessandrahaber",
+    "https://www.instagram.com/draalessandrahaber",
+    "https://www.tiktok.com/@draalessandrahaber",
+    "https://www.youtube.com/@draalessandrahaber3863",
+    "https://x.com/draalehaber"
+   ],
+   "financas": {
+    "fefc": 2300000.0,
+    "arrecadado": 2300000.0,
+    "contratado": 699219.87,
+    "pago": 503096.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5512",
+   "nome": "Dra. Anny Gabi",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Farmacêutico",
+   "idade": 40,
+   "patrimonio": 200000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/anny.pereiradeoliveira",
+    "https://www.instagram.com/annygabrielegabi",
+    "https://www.threads.com/@annygabrielegabi"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5500",
+   "nome": "Dra. Cynthia Charone",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 57,
+   "patrimonio": 16702124.01,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/cynthia.charone",
+    "https://www.instagram.com/cynthiacharone",
+    "https://www.tiktok.com/@cynthiacharone"
+   ],
+   "financas": {
+    "fefc": 800000.0,
+    "proprios": 240000.0,
+    "arrecadado": 1040000.0,
+    "contratado": 575930.1,
+    "pago": 384831.1,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4000",
+   "nome": "Dra. Heloísa",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 60,
+   "patrimonio": 2289130.45,
+   "concorreu2022": true,
+   "patrimonio2022": 746963.04,
+   "redes": [
+    "https://www.facebook.com/share/1fyn6rvbrp",
+    "https://www.instagram.com/draheloisaguimaraes_"
+   ],
+   "financas": {
+    "fefc": 320000.0,
+    "fundoPartidario": 7258.77,
+    "proprios": 20000.0,
+    "arrecadado": 347258.77,
+    "contratado": 241921.0,
+    "pago": 39440.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5544",
+   "nome": "Dra. Mylene Costa",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 61,
+   "patrimonio": 1259338.97,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/mylene.silveira.5",
+    "https://www.instagram.com/mylenecosta"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "partido": 20000.0,
+    "pessoasFisicas": 7599.01,
+    "proprios": 60000.0,
+    "arrecadado": 1087599.01,
+    "contratado": 1273083.63,
+    "pago": 179098.14,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1877",
+   "nome": "Dulce Favacho",
+   "partido": "REDE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 52,
+   "patrimonio": 80000.0,
+   "redes": [
+    "https://www.instagram.com/dulce_favacho"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1600",
+   "nome": "Eduardo Rodrigues",
+   "partido": "PSTU",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 37,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://pt-br.facebook.com/eduardorodriguesmsi",
+    "https://www.instagram.com/eduardorodrigues.luta",
+    "https://www.tiktok.com/@eduardorodrigues.luta"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4015",
+   "nome": "Elieth de Fátima",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 60,
+   "patrimonio": 1360193.08,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/eliethdefatimabraga",
+    "https://www.instagram.com/eliethdefatima",
+    "https://www.threads.com/@eliethedefati",
+    "https://www.tiktok.com/eliethdefatima",
+    "https://www.youtube.com/@eliethdefatima",
+    "https://x.com/eliethdefatima"
+   ],
+   "financas": {
+    "fefc": 325169.0,
+    "pessoasFisicas": 15100.0,
+    "arrecadado": 340269.0,
+    "contratado": 323027.7,
+    "pago": 300027.7,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1818",
+   "nome": "Emerson Silveira",
+   "partido": "REDE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 41,
+   "patrimonio": 203000.0,
+   "redes": [
+    "https://www.facebook.com/share/19twh8vvyw",
+    "https://www.facebook.com/share/1bfwocesqv",
+    "https://www.instagram.com/_emersonsilveira",
+    "https://www.instagram.com/estadodotapajos"
+   ],
+   "financas": {
+    "proprios": 500.0,
+    "coletivo": 970.0,
+    "arrecadado": 1470.0,
+    "contratado": 1233.27,
+    "pago": 1232.77,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5033",
+   "nome": "Enfermeira Nazaré",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Enfermeiro",
+   "idade": 65,
+   "patrimonio": 45000.0,
+   "redes": [
+    "https://k.kwai.com/u/@enfermeiranazare/kjrjcyuv",
+    "https://web.facebook.com/enfermeiranazare",
+    "https://www.instagram.com/enfermeiranazare",
+    "https://www.threads.com/@enfermeiranazare",
+    "https://www.youtube.com/@enfermeiranazarelima8950",
+    "https://x.com/enfermeiranaza"
+   ],
+   "financas": {
+    "fefc": 509725.0,
+    "fundoPartidario": 4000.0,
+    "pessoasFisicas": 18847.7,
+    "arrecadado": 532572.7,
+    "contratado": 357671.7,
+    "pago": 176971.7,
+    "limite": 3176572.53,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4477",
+   "nome": "Engenheiro Diogo",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 42,
+   "patrimonio": 5043311.47,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/engenheiro_diogo"
+   ],
+   "financas": {
+    "fefc": 677583.39,
+    "arrecadado": 677583.39,
+    "contratado": 240695.0,
+    "pago": 184554.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1510",
+   "nome": "Erika Sabino",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 40,
+   "patrimonio": 56612.28,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/p/erika-sabino-61580911022558",
+    "https://www.instagram.com/erikacastrosabino",
+    "https://www.kwai.com/@erikacastrosabino",
+    "https://www.tiktok.com/@erikacastrosabino"
+   ],
+   "financas": {
+    "fefc": 1750000.0,
+    "pessoasFisicas": 430001.0,
+    "arrecadado": 2180001.0,
+    "contratado": 1400550.7,
+    "pago": 1398050.7,
+    "limite": 3176572.53,
+    "doadoresPF": 22,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1314",
+   "nome": "Erika da Moradia",
+   "partido": "PT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 43,
+   "patrimonio": 70000.0,
+   "redes": [
+    "https://www.facebook.com/share/1j7actntuz",
+    "https://www.instagram.com/erikadamoradia",
+    "https://www.tiktok.com/@erikadamoradia"
+   ],
+   "financas": {
+    "fefc": 529293.1,
+    "arrecadado": 529293.1,
+    "contratado": 16600.5,
+    "pago": 16600.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1481",
+   "nome": "Ester Esmirna",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comerciante",
+   "idade": 25,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1524",
+   "nome": "Ester Siqueira",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 30,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/esstersiqueira",
+    "https://www.threads.com/@esstersiqueira",
+    "https://www.tiktok.com/@esstersiqueira"
+   ],
+   "financas": {
+    "fefc": 150000.0,
+    "arrecadado": 150000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1010",
+   "nome": "Evandro Garla",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 48,
+   "patrimonio": 1658.16,
+   "concorreu2022": false,
+   "redes": [
+    "https://web.facebook.com/evandrogarla10",
+    "https://www.facebook.com/share/1913k2uuwu",
+    "https://www.instagram.com/evandrogarla",
+    "https://www.threads.com/@evandrogarla",
+    "https://www.tiktok.com/@evandro.garla"
+   ],
+   "financas": {
+    "fefc": 810000.0,
+    "fundoPartidario": 329960.0,
+    "outrosCandidatos": 145.0,
+    "arrecadado": 1140105.0,
+    "contratado": 249054.66,
+    "pago": 249054.66,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3001",
+   "nome": "Fabiane Pinheiro",
+   "partido": "NOVO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/fabianepinheiro35"
+   ],
+   "financas": {
+    "fefc": 20000.0,
+    "arrecadado": 20000.0,
+    "contratado": 3000.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4077",
+   "nome": "Fabio Souza",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 56,
+   "patrimonio": 962097.03,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/fabiosouza",
+    "https://threads.com/@o-fabiosouza",
+    "https://tiktok.com/@o.fabiosouza"
+   ],
+   "financas": {
+    "fefc": 160000.0,
+    "partido": 9264.0,
+    "arrecadado": 169264.0,
+    "contratado": 189911.0,
+    "pago": 99911.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2233",
+   "nome": "Feliciano Neto",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador rural",
+   "idade": 30,
+   "patrimonio": 28880.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/felicianonetoinfo",
+    "https://www.instagram.com/felicianonetopara",
+    "https://www.kwai.com/@felicianoneto764",
+    "https://www.tiktok.com/@felicianonetopara",
+    "https://www.youtube.com/@felicianoneto9259"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "pessoasFisicas": 40800.0,
+    "arrecadado": 240800.0,
+    "contratado": 201272.5,
+    "pago": 171272.5,
+    "limite": 3176572.53,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2030",
+   "nome": "Fernanda Magalhães",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 33,
+   "patrimonio": 471194.75,
+   "redes": [
+    "https://instagram.com/magalhaes.fernanda_",
+    "https://k.kwai.com/u/@magalhaes.feh/asccd6gl",
+    "https://www.facebook.com/fernanda.rodriguesmagalhaes.5",
+    "https://www.instagram.com/magalhaes.fernanda_",
+    "https://www.tiktok.com/@magalhaes.feh",
+    "https://www.youtube.com/@magalhaesfeh"
+   ],
+   "financas": {
+    "fefc": 800000.0,
+    "proprios": 19200.0,
+    "arrecadado": 819200.0,
+    "contratado": 298602.96,
+    "pago": 165222.96,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1316",
+   "nome": "Fernando Santiago",
+   "partido": "PT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 60,
+   "patrimonio": 110000.0,
+   "redes": [
+    "https://www.facebook.com/fernando.santigo",
+    "https://www.instagram.com/fernando_santiago_13",
+    "https://www.tiktok.com/@fernandosantiago9584"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7070",
+   "nome": "Filho Nunes",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Agricultor",
+   "idade": 48,
+   "patrimonio": 153000.0,
+   "redes": [
+    "https://www.instagram.com/reel/daeukiie8nf"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4552",
+   "nome": "Flavia Costa",
+   "partido": "PSDB",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Dona de casa",
+   "idade": 27,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/flasilvacosta"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4050",
+   "nome": "Flávia Marçal",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 42,
+   "patrimonio": 847425.7,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 289264.0,
+    "pessoasFisicas": 3857.13,
+    "arrecadado": 293121.13,
+    "contratado": 285000.0,
+    "pago": 65000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2722",
+   "nome": "Flávio Veras",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 44,
+   "patrimonio": 155000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 263000.0,
+   "redes": [
+    "https://www.instagram.com/flavioverasv7"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1412",
+   "nome": "Gabi Lacerda",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 27,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/missaogabi",
+    "https://tiktok.com/@missaogabi"
+   ],
+   "financas": {
+    "fefc": 6988.78,
+    "coletivo": 1487.0,
+    "arrecadado": 8475.78,
+    "contratado": 4940.33,
+    "pago": 4940.33,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7020",
+   "nome": "Geógrafo Raiz",
+   "partido": "AVANTE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/heuderfofao"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3000",
+   "nome": "Giovanna Araújo",
+   "partido": "NOVO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 22,
+   "patrimonio": 0.0,
+   "financas": {
+    "pessoasFisicas": 3100.0,
+    "arrecadado": 3100.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4011",
+   "nome": "Gito",
+   "partido": "PSB",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 46,
+   "patrimonio": 33400.0,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 160000.0,
+    "arrecadado": 160000.0,
+    "contratado": 159923.0,
+    "pago": 63200.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3031",
+   "nome": "Guilherme Tibério",
+   "partido": "NOVO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Despachante",
+   "idade": 61,
+   "patrimonio": 0.0,
+   "financas": {
+    "fundoPartidario": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5592",
+   "nome": "Helton Lagoia",
+   "partido": "PSD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Técnico de enfermagem e assemelhados (exceto enfermeiro)",
+   "idade": 50,
+   "patrimonio": 225114.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/people/helton-lagoia/100093068959605",
+    "https://www.instagram.com/helton_lagoia_192",
+    "https://www.threads.com/@helton_lagoia_192"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 74600.0,
+    "pago": 74600.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4422",
+   "nome": "Henderson Pinto",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 50,
+   "patrimonio": 1222872.39,
+   "concorreu2022": true,
+   "patrimonio2022": 506105.34,
+   "redes": [
+    "https://www.facebook.com/share/18f1omqwne",
+    "https://www.facebook.com/share/1914xvtvaj",
+    "https://www.facebook.com/share/199ienpkse",
+    "https://www.facebook.com/share/1cbamermva",
+    "https://www.instagram.com/hendersonpintooficial",
+    "https://www.threads.com/@hendersonpintooficial"
+   ],
+   "financas": {
+    "fefc": 2899800.0,
+    "pessoasFisicas": 28050.0,
+    "proprios": 20000.0,
+    "arrecadado": 2947850.0,
+    "contratado": 1541053.34,
+    "pago": 789580.09,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "8000",
+   "nome": "Henrique Maciel",
+   "partido": "UP",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 29,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/henriquemacielup"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1444",
+   "nome": "Henrique Manoel",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Administrador",
+   "idade": 22,
+   "patrimonio": 91000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/hmanoelpa"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "arrecadado": 3674.78,
+    "contratado": 915.8,
+    "pago": 915.8,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4377",
+   "nome": "Ingrid Oliveira",
+   "partido": "PV",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Assistente social",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1aujgn9jsd",
+    "https://www.instagram.com/ingryd.oliveira1"
+   ],
+   "financas": {
+    "fefc": 15000.0,
+    "arrecadado": 15000.0,
+    "contratado": 8540.0,
+    "pago": 7100.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5550",
+   "nome": "Ingridy Tavares",
+   "partido": "PSD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 36,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/18kwaavzzt",
+    "https://www.instagram.com/ingridytavares.oficial",
+    "https://www.tiktok.com/@ingridytavares13"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "proprios": 1.5,
+    "arrecadado": 200001.5,
+    "contratado": 200000.0,
+    "pago": 200000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1213",
+   "nome": "Irmã Antônia",
+   "partido": "PDT",
+   "escolaridade": "Lê e escreve",
+   "ocupacao": "Agricultor",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19gry4mzwq",
+    "https://www.instagram.com/antoniamacedo.pdt"
+   ],
+   "financas": {
+    "fefc": 75000.0,
+    "arrecadado": 75000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7000",
+   "nome": "Isaias Fogaça",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 57,
+   "patrimonio": 47208850.0,
+   "redes": [
+    "https://www.instagram.com/isaiasfogassaoficial"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2500",
+   "nome": "Jack Cavaleiro",
+   "partido": "PRD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1fzpdqvmkg",
+    "https://www.instagram.com/jackcavaleiro",
+    "https://www.instagram.com/jackelinecavalleiro"
+   ],
+   "financas": {
+    "fefc": 168625.0,
+    "arrecadado": 168625.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1515",
+   "nome": "Jader Filho",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 50,
+   "patrimonio": 19501548.81,
+   "concorreu2022": false,
+   "redes": [
+    "https://web.facebook.com/jaderbfilho",
+    "https://www.instagram.com/jaderfilho",
+    "https://www.threads.com/@jaderfilho",
+    "https://www.tiktok.com/@jaderbfilho",
+    "https://x.com/jaderbfilho"
+   ],
+   "financas": {
+    "fefc": 2850000.0,
+    "pessoasFisicas": 200000.0,
+    "proprios": 10000.0,
+    "arrecadado": 3060000.0,
+    "contratado": 259064.86,
+    "pago": 175164.86,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1011",
+   "nome": "Jair Martins",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 51,
+   "patrimonio": 2211721.07,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19b68pbcqz",
+    "https://www.instagram.com/jairmartins.oficial",
+    "https://www.tiktok.com/@jair.martins.ofic",
+    "https://youtube.com/@jairmartins-d4d"
+   ],
+   "financas": {
+    "fefc": 400000.0,
+    "fundoPartidario": 265500.0,
+    "pessoasFisicas": 268802.0,
+    "proprios": 5000.0,
+    "arrecadado": 939302.0,
+    "contratado": 609001.93,
+    "pago": 193400.27,
+    "limite": 3176572.53,
+    "doadoresPF": 13,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2267",
+   "nome": "Jairo Santos",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Zootecnista",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1boxojdzwf",
+    "https://www.instagram.com/jairosantossoficial",
+    "https://www.tiktok.com/@userjairosantos"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7718",
+   "nome": "Jane Patricia Axé",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 54,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1hkwoqmfhf",
+    "https://www.instagram.com/chapacoletivadoaxe"
+   ],
+   "financas": {
+    "fefc": 144310.0,
+    "arrecadado": 144310.0,
+    "contratado": 13229.0,
+    "pago": 8228.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1221",
+   "nome": "Janira de Moraes",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Técnico de enfermagem e assemelhados (exceto enfermeiro)",
+   "idade": 56,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 40000.0,
+    "arrecadado": 40000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7033",
+   "nome": "Jardson da Construção",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 39,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/jardsondaconstrucao",
+    "https://tiktok.com/@jardson.da.construcao77",
+    "https://www.facebook.com/jardson.santos.520125/about"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2044",
+   "nome": "Jb Maninho",
+   "partido": "PODE",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Vereador",
+   "idade": 40,
+   "patrimonio": 350000.0,
+   "redes": [
+    "https://www.instagram.com/vereador_jbmn"
+   ],
+   "financas": {
+    "fefc": 210000.0,
+    "pessoasFisicas": 2640.0,
+    "proprios": 20609.82,
+    "arrecadado": 233249.82,
+    "contratado": 215425.82,
+    "pago": 215040.54,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2526",
+   "nome": "Jefferson Paranatinga",
+   "partido": "PRD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7080",
+   "nome": "Jessica Barra",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 35,
+   "patrimonio": 185000.0,
+   "redes": [
+    "https://www.facebook.com/share/1bmqlkp4vo",
+    "https://www.instagram.com/jessicabarra8"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2222",
+   "nome": "Joaquim Passarinho",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Arquiteto",
+   "idade": 64,
+   "patrimonio": 3122534.0,
+   "redes": [
+    "https://instagram.com/joaquim_passarinho",
+    "https://www.facebook.com/joaquimpassarinhooficial",
+    "https://www.tiktok.com/@joaquim_passarinho",
+    "https://x.com/depjpassarinho",
+    "https://youtube.com/@joaquimpassarinhopa"
+   ],
+   "financas": {
+    "pessoasFisicas": 391340.0,
+    "proprios": 303900.0,
+    "arrecadado": 695240.0,
+    "contratado": 759866.48,
+    "pago": 648376.48,
+    "limite": 3176572.53,
+    "doadoresPF": 20,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1414",
+   "nome": "John Robert",
+   "partido": "MISSÃO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Cozinheiro",
+   "idade": 23,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/johnrobertpa",
+    "https://tiktok.com/@johnrobertpara",
+    "https://x.com/johnrobertpa",
+    "https://youtube.com/@johnrobertpa"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "pessoasFisicas": 114.0,
+    "coletivo": 1401.0,
+    "arrecadado": 5189.78,
+    "contratado": 1506.71,
+    "pago": 1506.71,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1845",
+   "nome": "Jornalista Marcio Paz",
+   "partido": "REDE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 57,
+   "patrimonio": 57000.0,
+   "redes": [
+    "https://www.facebook.com/share/14guycfbbwq",
+    "https://www.facebook.com/share/1ecz9558zm",
+    "https://www.instagram.com/marciopazofc_",
+    "https://www.instagram.com/radiomanacial"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3055",
+   "nome": "João Coragem",
+   "partido": "NOVO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 61000.0,
+    "fundoPartidario": 60000.0,
+    "arrecadado": 121000.0,
+    "contratado": 102158.63,
+    "pago": 85941.59,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1400",
+   "nome": "Julia Dahas",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 23,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/julia.dahas"
+   ],
+   "financas": {
+    "fefc": 6988.78,
+    "arrecadado": 6988.78,
+    "contratado": 492.79,
+    "pago": 492.79,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5051",
+   "nome": "Julio de Bragança",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Fiscal",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/julio.cezar.925077",
+    "https://www.facebook.com/share/1dvbyph1e2",
+    "https://www.instagram.com/julioscaeza.procon"
+   ],
+   "financas": {
+    "fefc": 73000.0,
+    "arrecadado": 73000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2755",
+   "nome": "Juracy Brito",
+   "partido": "DC",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 65,
+   "patrimonio": 50000.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1177",
+   "nome": "Jéssica Porto",
+   "partido": "PP",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 31,
+   "patrimonio": 590000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/jessicaporto.pa"
+   ],
+   "financas": {
+    "fefc": 610000.0,
+    "arrecadado": 610000.0,
+    "contratado": 304122.0,
+    "pago": 300522.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5588",
+   "nome": "Júnior Ferrari",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 59,
+   "patrimonio": 3189139.12,
+   "concorreu2022": true,
+   "patrimonio2022": 2226845.8,
+   "redes": [
+    "https://www.facebook.com/share/1dc6anqdjz",
+    "https://www.instagram.com/juniorferrarideputado",
+    "https://www.kwai.com/@juniorferraridep",
+    "https://www.tiktok.com/@juniorferrarideputado",
+    "https://x.com/juniorferrari55"
+   ],
+   "financas": {
+    "fefc": 800000.0,
+    "partido": 20000.0,
+    "pessoasFisicas": 220112.5,
+    "proprios": 140000.0,
+    "arrecadado": 1180112.5,
+    "contratado": 534088.51,
+    "pago": 404447.32,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5000",
+   "nome": "Karime",
+   "partido": "PSOL",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 54,
+   "patrimonio": 36750.0,
+   "redes": [
+    "https://www.facebook.com/share/1f9nsk1swq",
+    "https://www.instagram.com/_karimeramirez01",
+    "https://www.tiktok.com/@karimeramirez969"
+   ],
+   "financas": {
+    "fefc": 76650.0,
+    "arrecadado": 76650.0,
+    "contratado": 45786.5,
+    "pago": 45786.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2220",
+   "nome": "Karina Explendor",
+   "partido": "PL",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Empresário",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/people/karynna-esplendor",
+    "https://www.instagram.com/karinaespledor",
+    "https://www.instagram.com/karinaesplendor_2220",
+    "https://www.tiktok.com/@karynna.esplendor"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 141442.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1815",
+   "nome": "Karolina Santos",
+   "partido": "REDE",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 29,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1112",
+   "nome": "Kelson Cortez",
+   "partido": "PP",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 38,
+   "patrimonio": 312706.67,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1d2xckqaqu",
+    "https://www.instagram.com/kelsoncortez"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "pessoasFisicas": 12.38,
+    "arrecadado": 300012.38,
+    "contratado": 280840.77,
+    "pago": 276107.77,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1512",
+   "nome": "Keniston Braga",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Contador",
+   "idade": 59,
+   "patrimonio": 1860000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 1908138.0,
+   "redes": [
+    "https://m.youtube.com/@kenistonoficial",
+    "https://www.facebook.com/kenistonoficial",
+    "https://www.instagram.com/kenistonoficial"
+   ],
+   "financas": {
+    "fefc": 2850000.0,
+    "pessoasFisicas": 264700.0,
+    "proprios": 50000.0,
+    "arrecadado": 3164700.0,
+    "contratado": 2077468.92,
+    "pago": 1612250.32,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3077",
+   "nome": "Ketlen Praxedes",
+   "partido": "NOVO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 25,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 20000.0,
+    "arrecadado": 20000.0,
+    "contratado": 1488.6,
+    "pago": 616.6,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2201",
+   "nome": "Kezia Novaes",
+   "partido": "PL",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Dona de casa",
+   "idade": 37,
+   "patrimonio": 89833.0,
+   "redes": [
+    "https://www.facebook.com/kezia.novaes",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/akezianovaes",
+    "https://www.tiktok.com/@kezia.novaes"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 203000.0,
+    "contratado": 155672.0,
+    "pago": 79422.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7744",
+   "nome": "Kim Kim Alagoano",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 141000.0,
+    "pessoasFisicas": 11480.0,
+    "arrecadado": 152480.0,
+    "contratado": 87500.0,
+    "pago": 63600.0,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1200",
+   "nome": "Kátia Palha Coletivo do Axé",
+   "partido": "PDT",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Agente administrativo",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 100000.0,
+   "redes": [
+    "https://www.facebook.com/share/1enntmjw78",
+    "https://www.instagram.com/katia_b2086"
+   ],
+   "financas": {
+    "fefc": 75000.0,
+    "partido": 3200.0,
+    "arrecadado": 78200.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4545",
+   "nome": "Laudenor",
+   "partido": "PSDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 69,
+   "patrimonio": 4278000.0,
+   "redes": [
+    "https://www.instagram.com/albaradolaudenor",
+    "https://www.instagram.com/laudenoralbarado"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5013",
+   "nome": "Leila Palheta",
+   "partido": "PSOL",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Outros",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/leilapalhetaoficial",
+    "https://www.instagram.com/leilapalhetaoficial",
+    "https://x.com/leila_0ficial"
+   ],
+   "financas": {
+    "fefc": 748699.11,
+    "fundoPartidario": 4411.79,
+    "arrecadado": 753110.9,
+    "contratado": 408974.8,
+    "pago": 264456.8,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4444",
+   "nome": "Lena Pinto",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 61,
+   "patrimonio": 658000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 658000.0,
+   "redes": [
+    "https://www.facebook.com/share/19ujsy9g4m",
+    "https://www.instagram.com/lenaribeiropinto",
+    "https://www.tiktok.com/@lena.pinto",
+    "https://youtube.com/@lenapinto5746"
+   ],
+   "financas": {
+    "fefc": 1897233.49,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 1907233.49,
+    "contratado": 1097349.43,
+    "pago": 794003.33,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3088",
+   "nome": "Leo da Agroleo",
+   "partido": "NOVO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Corretor de imóveis, seguros, títulos e valores",
+   "idade": 32,
+   "patrimonio": 0.0,
+   "financas": {
+    "proprios": 2700.0,
+    "arrecadado": 2700.0,
+    "contratado": 2630.0,
+    "pago": 2630.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7022",
+   "nome": "Lourinho",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 52,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/r/14nh8owdl3u",
+    "https://www.facebook.com/share/v/1gmt43z773",
+    "https://www.instagram.com/filhonunes_"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1111",
+   "nome": "Lu Ogawa",
+   "partido": "PP",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 45,
+   "patrimonio": 2151460.05,
+   "concorreu2022": true,
+   "patrimonio2022": 225000.0,
+   "redes": [
+    "https://www.facebook.com/luogawaoficial",
+    "https://www.instagram.com/luogawaoficial"
+   ],
+   "financas": {
+    "fefc": 2160000.0,
+    "pessoasFisicas": 31500.0,
+    "proprios": 25000.0,
+    "arrecadado": 2216500.0,
+    "contratado": 840171.06,
+    "pago": 22488.06,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2055",
+   "nome": "Luan Nunes",
+   "partido": "PODE",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 29,
+   "patrimonio": 33245.0,
+   "redes": [
+    "https://facebook.com/share/18zc4gggbm",
+    "https://instagram.com/luannunespa",
+    "https://tiktok.com/@luannunespa"
+   ],
+   "financas": {
+    "fefc": 210000.0,
+    "arrecadado": 210000.0,
+    "contratado": 92634.27,
+    "pago": 83884.27,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1303",
+   "nome": "Luanna Santos",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 27,
+   "patrimonio": 25143.63,
+   "redes": [
+    "https://www.facebook.com/share/1jtpprbmpq",
+    "https://www.instagram.com/luannasantos.13",
+    "https://www.threads.com/@luannasantos.13",
+    "https://www.tiktok.com/@luannasantos.13",
+    "https://x.com/luannasantos_13"
+   ],
+   "financas": {
+    "fefc": 529293.1,
+    "arrecadado": 529293.1,
+    "contratado": 290261.9,
+    "pago": 129495.9,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4418",
+   "nome": "Luiz Omar",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Marinheiro civil, canoeiro, embarcado e assemelhados",
+   "idade": 68,
+   "patrimonio": 11000000.0,
+   "redes": [
+    "https://www.instagram.com/luizomarpinheiro"
+   ],
+   "financas": {
+    "fefc": 67758.34,
+    "proprios": 23250.0,
+    "arrecadado": 91008.34,
+    "contratado": 62919.5,
+    "pago": 53517.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5566",
+   "nome": "Luiz Rebelo",
+   "partido": "PSD",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Empresário",
+   "idade": 67,
+   "patrimonio": 6947024.42,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/luizrebeloofc",
+    "https://www.facebook.com/share/1jxlcvcms2",
+    "https://www.instagram.com/luizfrebelo",
+    "https://www.instagram.com/luizrebeloofc",
+    "https://www.tiktok.com/@luizrebeloofc"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "pessoasFisicas": 35625.57,
+    "arrecadado": 1035625.57,
+    "contratado": 645648.76,
+    "pago": 23501.0,
+    "limite": 3176572.53,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4033",
+   "nome": "Lulu das Comunidades/Pablo",
+   "partido": "PSB",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Vereador",
+   "idade": 46,
+   "patrimonio": 680000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/lulupinheiro"
+   ],
+   "financas": {
+    "fefc": 320000.0,
+    "arrecadado": 320000.0,
+    "contratado": 376506.0,
+    "pago": 276500.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1015",
+   "nome": "Manoel Pioneiro",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 68,
+   "patrimonio": 10318991.53,
+   "concorreu2022": true,
+   "patrimonio2022": 9268713.8,
+   "redes": [
+    "https://www.facebook.com/people/manoel-pioneiro/61594299807948",
+    "https://www.facebook.com/people/pioneiro-manoelcarlosantunes/61594382724284",
+    "https://www.instagram.com/manoelpioneiro",
+    "https://www.threads.com/@manoelpioneiro"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "fundoPartidario": 15500.0,
+    "pessoasFisicas": 10000.0,
+    "outrosCandidatos": 14755.0,
+    "arrecadado": 340255.0,
+    "contratado": 108497.2,
+    "pago": 60997.2,
+    "limite": 3176572.53,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5089",
+   "nome": "Manu Leoa",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/manu.leoa_federal",
+    "https://www.tiktok.com/@manu.leoa.oficial"
+   ],
+   "financas": {
+    "fefc": 110250.0,
+    "fundoPartidario": 9000.0,
+    "arrecadado": 119250.0,
+    "contratado": 68416.5,
+    "pago": 63816.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7711",
+   "nome": "Marcelinho Jhonson",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 41,
+   "patrimonio": 462903.18,
+   "redes": [
+    "https://www.instagram.com/marcelinho_jhonson"
+   ],
+   "financas": {
+    "fefc": 505000.0,
+    "arrecadado": 505000.0,
+    "contratado": 135936.61,
+    "pago": 125108.61,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2010",
+   "nome": "Marcelo Pierre",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Psicólogo",
+   "idade": 53,
+   "patrimonio": 389000.0,
+   "redes": [
+    "https://facebook.com/marcelopierreoficial",
+    "https://instagram.com/marcelopierreoficial",
+    "https://threads.com/@marcelopierreoficial"
+   ],
+   "financas": {
+    "fefc": 150000.0,
+    "arrecadado": 150000.0,
+    "contratado": 70345.65,
+    "pago": 70345.65,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1455",
+   "nome": "Marcos Rocha",
+   "partido": "MISSÃO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agenciador de propaganda",
+   "idade": 37,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/marcosrochapbs"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "coletivo": 187.0,
+    "arrecadado": 3861.78,
+    "contratado": 3864.28,
+    "pago": 3864.28,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2727",
+   "nome": "Marcos Souza",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Locutor e comentarista de rádio e televisão e radialista",
+   "idade": 43,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/comendadormarcossouzaoficial"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7077",
+   "nome": "Marcus Júnior",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Outros",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2760",
+   "nome": "Maria do Carmo",
+   "partido": "DC",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Outros",
+   "idade": 66,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1219",
+   "nome": "Mariana Raiol",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agente administrativo",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19agnngssl",
+    "https://www.instagram.com/eumarianaraiol"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "arrecadado": 50000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "6525",
+   "nome": "Marii Freire",
+   "partido": "PCDOB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Escritor e crítico",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1d1tf3whow",
+    "https://www.instagram.com/marii.freire_oficial",
+    "https://www.tiktok.com/@marii_.freire"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "fundoPartidario": 6000.0,
+    "arrecadado": 56000.0,
+    "contratado": 15000.0,
+    "pago": 9000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2525",
+   "nome": "Marinês da Rádio",
+   "partido": "PRD",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Publicitário",
+   "idade": 39,
+   "patrimonio": 1985410.15,
+   "financas": {
+    "fefc": 168825.0,
+    "arrecadado": 168825.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1660",
+   "nome": "Mariza Santos",
+   "partido": "PSTU",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Assistente social",
+   "idade": 57,
+   "patrimonio": 83000.0,
+   "financas": {
+    "pessoasFisicas": 2790.0,
+    "arrecadado": 2790.0,
+    "contratado": 2401.5,
+    "pago": 2401.5,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2088",
+   "nome": "Marta Mardock",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Terapeuta",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/martamardockterapeutafamiliar",
+    "https://www.facebook.com/terapeutamartamardock"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 206000.0,
+    "contratado": 125667.29,
+    "pago": 47417.29,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1155",
+   "nome": "Marília Mello",
+   "partido": "PP",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 46,
+   "patrimonio": 600000.0,
+   "redes": [
+    "https://www.instagram.com/dramariliamello"
+   ],
+   "financas": {
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 60908.5,
+    "pago": 10000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7010",
+   "nome": "Matheus Abreu",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 30,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/matheus_abreuuu"
+   ],
+   "financas": {
+    "proprios": 990.74,
+    "arrecadado": 990.74,
+    "contratado": 2810.5,
+    "pago": 810.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7738",
+   "nome": "Mauro da Horta",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 38,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/maurodahortapa"
+   ],
+   "financas": {
+    "fefc": 129990.0,
+    "arrecadado": 129990.0,
+    "contratado": 51272.36,
+    "pago": 11072.36,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5515",
+   "nome": "Max Fera",
+   "partido": "PSD",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 39,
+   "patrimonio": 593590.75,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/oamigodagalera",
+    "https://www.instagram.com/maxferavereador",
+    "https://www.threads.com/@maxferavereador",
+    "https://www.tiktok.com/@maxferavereador22"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "arrecadado": 500000.0,
+    "contratado": 295858.6,
+    "pago": 242458.6,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2702",
+   "nome": "Max do Lanche",
+   "partido": "DC",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Outros",
+   "idade": 56,
+   "patrimonio": 48000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/edivaldo.max.2025",
+    "https://www.instagram.com/edivaldomax_"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1232",
+   "nome": "Mayra Marques",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 29,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1ad4jpppk2",
+    "https://www.instagram.com/mayrabmarques"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "arrecadado": 50000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1222",
+   "nome": "Miguelito",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 69,
+   "patrimonio": 50000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1dcmmjzn8l",
+    "https://www.instagram.com/miguelitomaraba"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "pessoasFisicas": 2500.0,
+    "arrecadado": 102500.0,
+    "contratado": 83332.96,
+    "pago": 56562.96,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3383",
+   "nome": "Milca",
+   "partido": "MOBILIZA",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Arquiteto",
+   "idade": 52,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/sirlene.milca"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1311",
+   "nome": "Miquinha",
+   "partido": "PT",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Agricultor",
+   "idade": 54,
+   "patrimonio": 1123000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.tiktok.com/@miquinhaoficial",
+    "https://www.youtube.com/@miquinhabarros"
+   ],
+   "financas": {
+    "fefc": 215500.0,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 220500.0,
+    "contratado": 100373.0,
+    "pago": 20952.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2788",
+   "nome": "Miranda Junior",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 53,
+   "patrimonio": 66500.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/mirandajradv"
+   ],
+   "financas": {
+    "fefc": 6610.99,
+    "arrecadado": 6610.99,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3044",
+   "nome": "Márcia Andrea",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Auxiliar de escritório e assemelhados",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 10000.0,
+    "pago": 10000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1055",
+   "nome": "Mãezinha",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 63,
+   "patrimonio": 207000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 40000.0,
+   "redes": [
+    "https://www.facebook.com/share/19cvtz6kbb",
+    "https://www.instagram.com/bsilvaericelia8",
+    "https://www.tiktok.com/@mezinha.bsilva"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "fundoPartidario": 11750.0,
+    "pessoasFisicas": 13.0,
+    "arrecadado": 111763.0,
+    "contratado": 99987.0,
+    "pago": 99974.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7015",
+   "nome": "Nadia Luz",
+   "partido": "AVANTE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Catador de recicláveis",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/nadiadaluz8"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1336",
+   "nome": "Naslla Tembra",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/nasllatembra13",
+    "https://www.instagram.com/nasllatembra13",
+    "https://www.threads.com/@nasllatembra13",
+    "https://www.tiktok.com/@nasllatembra13"
+   ],
+   "financas": {
+    "fefc": 86600.0,
+    "partido": 15500.0,
+    "arrecadado": 102100.0,
+    "contratado": 33850.0,
+    "pago": 33850.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1888",
+   "nome": "Nauro Chaves",
+   "partido": "REDE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 56,
+   "patrimonio": 150000.0,
+   "redes": [
+    "https://www.instagram.com/nauro_chaves",
+    "https://www.instagram.com/naurochaves.oficial"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2027",
+   "nome": "Neném da Danyslar",
+   "partido": "PODE",
+   "escolaridade": "Ensino fundamental completo",
+   "ocupacao": "Empresário",
+   "idade": 61,
+   "patrimonio": 8305484.22,
+   "redes": [
+    "https://www.facebook.com/nenemdadanyslar",
+    "https://www.instagram.com/nenemdadanyslar"
+   ],
+   "financas": {
+    "fefc": 210000.0,
+    "proprios": 36800.0,
+    "arrecadado": 246800.0,
+    "contratado": 179212.56,
+    "pago": 179112.56,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1017",
+   "nome": "Neta Ex-Assessora Gerson Peres",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 53,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/neta.souza.39",
+    "https://www.facebook.com/share/1rbiu7y7wu",
+    "https://www.instagram.com/neta1017_",
+    "https://www.instagram.com/netaasouza",
+    "https://www.tiktok.com/@neta.souza66",
+    "https://www.tiktok.com/@neta1017_"
+   ],
+   "financas": {
+    "fefc": 146000.0,
+    "fundoPartidario": 31800.0,
+    "outrosCandidatos": 3390.0,
+    "arrecadado": 181190.0,
+    "contratado": 119475.0,
+    "pago": 119475.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5070",
+   "nome": "Nicolas - Bancada Transformar",
+   "partido": "PSOL",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 23,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://facebook.com/profile.php",
+    "https://tiktok.com/@nicolasravi091",
+    "https://www.instagram.com/bancadatransformar",
+    "https://www.instagram.com/onicolasravi",
+    "https://www.tiktok.com/@bancada.transform",
+    "https://x.com/nicolasravipsol"
+   ],
+   "financas": {
+    "fefc": 110250.0,
+    "arrecadado": 110250.0,
+    "contratado": 62513.5,
+    "pago": 22713.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1432",
+   "nome": "Nilma Sanches",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/nilmasanchess",
+    "https://instagram.com/nilmasanches",
+    "https://kwai.com/@nilmasanches",
+    "https://threads.net/@nilmasanches",
+    "https://tiktok.com/@nilma.sanches1432",
+    "https://tiktok.com/@nilmasanches"
+   ],
+   "financas": {
+    "fefc": 6988.78,
+    "arrecadado": 6988.78,
+    "contratado": 5070.5,
+    "pago": 5070.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3008",
+   "nome": "Odilon Família",
+   "partido": "NOVO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 61,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2000",
+   "nome": "Olival Marques",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 44,
+   "patrimonio": 871794.5,
+   "redes": [
+    "https://facebook.com/olivalmarquesoficial",
+    "https://instagram.com/olivalmarques"
+   ],
+   "financas": {
+    "fefc": 2019056.94,
+    "arrecadado": 2019056.94,
+    "contratado": 997020.61,
+    "pago": 997020.61,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1025",
+   "nome": "Ozorio Juvenil",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 59,
+   "patrimonio": 2543100.13,
+   "concorreu2022": true,
+   "patrimonio2022": 1476684.0,
+   "redes": [
+    "https://www.facebook.com/share/18cyxdvcqy",
+    "https://www.facebook.com/share/1bgskgn2gd",
+    "https://www.instagram.com/ozorio_juvenil"
+   ],
+   "financas": {
+    "fundoPartidario": 12500.0,
+    "proprios": 10000.0,
+    "arrecadado": 22500.0,
+    "contratado": 5000.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2230",
+   "nome": "Pacheco",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 39,
+   "patrimonio": 60000.0,
+   "redes": [
+    "https://www.facebook.com/jimmysonpacheco1",
+    "https://www.instagram.com/pachecomaraba"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "pessoasFisicas": 7100.0,
+    "arrecadado": 207100.0,
+    "contratado": 6012.2,
+    "pago": 5424.2,
+    "limite": 3176572.53,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1030",
+   "nome": "Palmeira",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Produtor de espetáculos públicos",
+   "idade": 66,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4455",
+   "nome": "Pastor Claudio Mariano",
+   "partido": "UNIÃO",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Sacerdote ou membro de ordem ou seita religiosa",
+   "idade": 49,
+   "patrimonio": 100000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 270000.0,
+   "redes": [
+    "https://www.facebook.com/claudio.mariano.942016",
+    "https://www.instagram.com/prclaudiomarianopa"
+   ],
+   "financas": {
+    "fefc": 846979.24,
+    "arrecadado": 846979.24,
+    "contratado": 361889.4,
+    "pago": 230459.4,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2225",
+   "nome": "Pastor Elias Barros",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Sacerdote ou membro de ordem ou seita religiosa",
+   "idade": 58,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://l.facebook.com/flireisba",
+    "https://www.instagram.com/lireisba"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7778",
+   "nome": "Pastor Jackson Cavalcante",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Assistente social",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/jacksoncpazcavalcante",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/jacksoncpazcavalcante",
+    "https://www.instagram.com/pr.jacksoncavalcante"
+   ],
+   "financas": {
+    "fefc": 107670.0,
+    "arrecadado": 107670.0,
+    "contratado": 55100.0,
+    "pago": 55100.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2701",
+   "nome": "Pastora Manu",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Técnico de enfermagem e assemelhados (exceto enfermeiro)",
+   "idade": 38,
+   "patrimonio": 18000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/pra.emanuellecosta"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2277",
+   "nome": "Patricia Rodrigues",
+   "partido": "PL",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 33,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/prppaty"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1050",
+   "nome": "Patrick Tavares",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 42,
+   "patrimonio": 1307000.0,
+   "redes": [
+    "https://www.facebook.com/share/1sqw8p3yaw",
+    "https://www.instagram.com/hevertonpatricksampaio",
+    "https://www.tiktok.com/@patrick300tavares"
+   ],
+   "financas": {
+    "fefc": 32000.0,
+    "fundoPartidario": 42750.0,
+    "outrosCandidatos": 20000.0,
+    "arrecadado": 94750.0,
+    "contratado": 10001.0,
+    "pago": 10001.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2510",
+   "nome": "Paula Barreto",
+   "partido": "PRD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 42,
+   "patrimonio": 100000.0,
+   "redes": [
+    "https://www.instagram.com/tea_maes_atipicas_belem"
+   ],
+   "financas": {
+    "fefc": 562230.0,
+    "proprios": 110.0,
+    "arrecadado": 562340.0,
+    "contratado": 260340.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1556",
+   "nome": "Paulo Bengtson",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Veterinário",
+   "idade": 52,
+   "patrimonio": 1783860.76,
+   "concorreu2022": true,
+   "patrimonio2022": 841616.58,
+   "redes": [
+    "https://www.facebook.com/prpaulobengtson",
+    "https://www.instagram.com/paulobengtson",
+    "https://www.tiktok.com/@paulobengtson"
+   ],
+   "financas": {
+    "fefc": 1312500.0,
+    "pessoasFisicas": 22448.02,
+    "proprios": 2000.0,
+    "arrecadado": 1336948.02,
+    "contratado": 165359.13,
+    "pago": 105359.13,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4055",
+   "nome": "Paulo Cidadão",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 29,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.tiktok.com/paulocidadãoofc"
+   ],
+   "financas": {
+    "fefc": 164415.5,
+    "pessoasFisicas": 8500.0,
+    "outrosCandidatos": 1597.0,
+    "arrecadado": 174512.5,
+    "contratado": 162300.6,
+    "pago": 122164.1,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1310",
+   "nome": "Paulo Gaya",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 67,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/paulogaya.gaya",
+    "https://www.instagram.com/paulogaya_/p/dwgoinhjyro"
+   ],
+   "financas": {
+    "fefc": 215500.0,
+    "pessoasFisicas": 7000.0,
+    "arrecadado": 222500.0,
+    "contratado": 57451.5,
+    "pago": 33451.5,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5511",
+   "nome": "Paulo Pinho",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 54,
+   "patrimonio": 4301892.52,
+   "concorreu2022": true,
+   "patrimonio2022": 1065177.0,
+   "redes": [
+    "https://www.facebook.com/paulopinhoprofdr",
+    "https://www.instagram.com/paulomauriciopinho",
+    "https://www.youtube.com/@paulomauriciopinho"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "partido": 10000.0,
+    "coletivo": 9006.0,
+    "arrecadado": 219006.0,
+    "contratado": 71753.73,
+    "pago": 71753.73,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5510",
+   "nome": "Pedrinho Borges",
+   "partido": "PSD",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Vereador",
+   "idade": 28,
+   "patrimonio": 1217248.74,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/vereadorpedrinhoborges",
+    "https://www.instagram.com/vereadorpedrinhoborgespb"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "arrecadado": 500000.0,
+    "contratado": 500000.0,
+    "pago": 497700.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4423",
+   "nome": "Poliana Lima",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1br2ipmvwr",
+    "https://www.instagram.com/polianalimaoficiall",
+    "https://www.threads.com/@polianalimaoficiall"
+   ],
+   "financas": {
+    "fefc": 169395.85,
+    "outrosCandidatos": 2950.0,
+    "arrecadado": 172345.85,
+    "contratado": 63402.5,
+    "pago": 60902.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1277",
+   "nome": "Pr. Carlos Ramos",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Porteiro de edifício, ascensorista, garagista e zelador",
+   "idade": 54,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "financas": {
+    "fefc": 50000.0,
+    "partido": 2000.0,
+    "arrecadado": 52000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1555",
+   "nome": "Priante",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 62,
+   "patrimonio": 1622504.33,
+   "concorreu2022": true,
+   "patrimonio2022": 1220778.13,
+   "redes": [
+    "https://www.facebook.com/deputadopriante",
+    "https://www.instagram.com/prianteoficial",
+    "https://www.threads.com/@prianteoficial",
+    "https://www.tiktok.com/@prianteoficial",
+    "https://x.com/deputadopriante"
+   ],
+   "financas": {
+    "fefc": 2850000.0,
+    "proprios": 110000.0,
+    "arrecadado": 2960000.0,
+    "contratado": 1468433.1,
+    "pago": 1368433.1,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4099",
+   "nome": "Prof. Anderson Maia",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 47,
+   "patrimonio": 622000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/andersonmaiauepa",
+    "https://www.instagram.com/andersonmaiauepa"
+   ],
+   "financas": {
+    "fefc": 280000.0,
+    "arrecadado": 280000.0,
+    "contratado": 117909.19,
+    "pago": 65259.19,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5020",
+   "nome": "Prof. André Silva",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 47,
+   "patrimonio": 290000.0,
+   "redes": [
+    "https://tiktok.com/@andr.silva9610",
+    "https://www.facebook.com/share/1bx3b8eyvm",
+    "https://www.instagram.com/andre_silva_irituia",
+    "https://www.threads.com/@andre_silva_irituia"
+   ],
+   "financas": {
+    "fefc": 115500.0,
+    "arrecadado": 115500.0,
+    "contratado": 45515.0,
+    "pago": 39285.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5060",
+   "nome": "Prof. Dr. Portela",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 64,
+   "patrimonio": 2500301.69,
+   "redes": [
+    "https://www.facebook.com/portelaeveraldo",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/everaldom.portela",
+    "https://www.instagram.com/everaldoportelafederal",
+    "https://www.tiktok.com/@everaldo.oficial4"
+   ],
+   "financas": {
+    "fefc": 162075.0,
+    "arrecadado": 162075.0,
+    "contratado": 133338.22,
+    "pago": 51453.22,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4022",
+   "nome": "Prof. Thiago",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 40,
+   "patrimonio": 384052.49,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1jsydgxada",
+    "https://www.instagram.com/thiagomaciel59"
+   ],
+   "financas": {
+    "fefc": 320000.0,
+    "fundoPartidario": 4296.0,
+    "proprios": 4000.0,
+    "arrecadado": 328296.0,
+    "contratado": 191902.5,
+    "pago": 152402.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1330",
+   "nome": "Professor Alfredo Costa",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 60,
+   "patrimonio": 524050.5,
+   "redes": [
+    "https://www.facebook.com/alfredo.costa.94695",
+    "https://www.facebook.com/profalfredocostapt",
+    "https://www.instagram.com/profalfredocosta"
+   ],
+   "financas": {
+    "fefc": 800000.0,
+    "partido": 15500.0,
+    "proprios": 5000.0,
+    "arrecadado": 820500.0,
+    "contratado": 165139.3,
+    "pago": 162816.6,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4343",
+   "nome": "Professor Antonio Morais",
+   "partido": "PV",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://vm.tiktok.com/zs9huehybw",
+    "https://www.facebook.com/antoniocarlos.pereiramorais",
+    "https://www.instagram.com/am.antoniomorais"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 5760.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5010",
+   "nome": "Professor Clebe",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 48,
+   "patrimonio": 120000.0,
+   "financas": {
+    "fefc": 52500.0,
+    "arrecadado": 52500.0,
+    "contratado": 18967.5,
+    "pago": 18967.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4456",
+   "nome": "Professor Diego",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 28364.0,
+   "redes": [
+    "https://www.facebook.com/professordiegomaia",
+    "https://www.instagram.com/professordiegomaia"
+   ],
+   "financas": {
+    "fefc": 304912.52,
+    "pessoasFisicas": 38300.0,
+    "outrosCandidatos": 4515.0,
+    "arrecadado": 347727.52,
+    "contratado": 120730.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1212",
+   "nome": "Professor Maneschy",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 71,
+   "patrimonio": 1532433.81,
+   "concorreu2022": true,
+   "patrimonio2022": 1048716.2,
+   "redes": [
+    "https://www.facebook.com/share/18uu1vdaia",
+    "https://www.facebook.com/share/1akrxhvg9b",
+    "https://www.instagram.com/professormaneschyoficial"
+   ],
+   "financas": {
+    "fefc": 3000000.0,
+    "pessoasFisicas": 6400.0,
+    "proprios": 2000.0,
+    "arrecadado": 3008400.0,
+    "contratado": 1024375.0,
+    "pago": 533775.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1299",
+   "nome": "Professor Márcio Ponte",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 49,
+   "patrimonio": 496692.41,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1bimyjcmsg",
+    "https://www.instagram.com/marcioponte"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2775",
+   "nome": "Professor Silas",
+   "partido": "DC",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 77,
+   "patrimonio": 60193.12,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7067",
+   "nome": "Professor Xavier",
+   "partido": "AVANTE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 49,
+   "patrimonio": 540000.0,
+   "redes": [
+    "https://www.facebook.com/share/1ckppq7ztw",
+    "https://www.instagram.com/xavier.prof"
+   ],
+   "financas": {
+    "proprios": 450.5,
+    "arrecadado": 450.5,
+    "contratado": 450.5,
+    "pago": 450.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2744",
+   "nome": "Professora Jace Siqueira",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 41,
+   "patrimonio": 300000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/14nutx6zyxo",
+    "https://www.instagram.com/jacysiqueiraa_"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1300",
+   "nome": "Professora Jucá",
+   "partido": "PT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 62,
+   "patrimonio": 1500000.0,
+   "redes": [
+    "https://instagram.com/professorajuca13",
+    "https://www.facebook.com/profile.php"
+   ],
+   "financas": {
+    "fefc": 85500.0,
+    "outrosCandidatos": 1000.0,
+    "arrecadado": 86500.0,
+    "contratado": 54548.79,
+    "pago": 51148.79,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5577",
+   "nome": "Professora Rosana Bastos",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 51,
+   "patrimonio": 599997.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/rosa.bastos.714",
+    "https://www.instagram.com/eurosanabastos"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "arrecadado": 500000.0,
+    "contratado": 450326.93,
+    "pago": 447326.93,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1404",
+   "nome": "Rafael Oliveira",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Auxiliar de escritório e assemelhados",
+   "idade": 23,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/rafaeloliveira_pa",
+    "https://tiktok.com/@rafaoliveira_pa",
+    "https://x.com/rafoliver_pa"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "coletivo": 376.0,
+    "arrecadado": 4050.78,
+    "contratado": 239.52,
+    "pago": 239.52,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7700",
+   "nome": "Raimundo Belo",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Agricultor",
+   "idade": 59,
+   "patrimonio": 744.98,
+   "financas": {
+    "fefc": 1207940.0,
+    "arrecadado": 1207940.0,
+    "contratado": 615001.5,
+    "pago": 515001.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5522",
+   "nome": "Raimundo Santos",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 70,
+   "patrimonio": 1076116.13,
+   "concorreu2022": true,
+   "patrimonio2022": 3383757.9,
+   "redes": [
+    "https://www.facebook.com/share/18pticd4zx",
+    "https://www.facebook.com/share/1cbbm9csn9",
+    "https://www.instagram.com/depraimundosantos",
+    "https://www.threads.com/@depraimundosantos",
+    "https://www.tiktok.com/@dep.raimundosantos",
+    "https://www.youtube.com/@depraimundosantos"
+   ],
+   "financas": {
+    "fefc": 1500000.0,
+    "pessoasFisicas": 55017.63,
+    "proprios": 177000.0,
+    "arrecadado": 1732017.63,
+    "contratado": 1203039.44,
+    "pago": 1067998.44,
+    "limite": 3176572.53,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1210",
+   "nome": "Ramom Marques",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Agricultor",
+   "idade": 39,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/18ufre6jmh",
+    "https://www.instagram.com/ramommarques87"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 3200.0,
+    "arrecadado": 103200.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3003",
+   "nome": "Regina Silva",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "financas": {
+    "fundoPartidario": 30000.0,
+    "arrecadado": 30000.0,
+    "contratado": 20001.0,
+    "pago": 20001.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5016",
+   "nome": "Renato Saraiva",
+   "partido": "PSOL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Produtor de espetáculos públicos",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/renatoalmeidasaraiva.saraiva",
+    "https://www.instagram.com/renatoalmeidasaraiva.saraiva"
+   ],
+   "financas": {
+    "fefc": 55125.0,
+    "arrecadado": 55125.0,
+    "contratado": 27212.0,
+    "pago": 17612.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1577",
+   "nome": "Renilce Nicodemos",
+   "partido": "MDB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 49,
+   "patrimonio": 6020218.14,
+   "concorreu2022": true,
+   "patrimonio2022": 1745304.23,
+   "redes": [
+    "https://music.youtube.com/playlist",
+    "https://www.facebook.com/renilcenicodemos",
+    "https://www.facebook.com/share/1c8ixfwza2",
+    "https://www.instagram.com/renilcenicodemoss",
+    "https://www.threads.com/@renilcenicodemoss",
+    "https://www.tiktok.com/@renilcenicodemoss"
+   ],
+   "financas": {
+    "fefc": 2250000.0,
+    "partido": 1899.22,
+    "pessoasFisicas": 20000.0,
+    "proprios": 15000.0,
+    "arrecadado": 2286899.22,
+    "contratado": 1219458.0,
+    "pago": 766648.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7776",
+   "nome": "Ricardo Alencar",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 50,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2769",
+   "nome": "Ricardo Oliveira",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Administrador",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1012",
+   "nome": "Rita Pinho",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Contador",
+   "idade": 53,
+   "patrimonio": 246000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1f4stdakaz",
+    "https://www.instagram.com/ritabarrospinho"
+   ],
+   "financas": {
+    "fefc": 147000.0,
+    "fundoPartidario": 140000.0,
+    "arrecadado": 287000.0,
+    "contratado": 128740.5,
+    "pago": 69640.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5556",
+   "nome": "Roberta Batista",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 38,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/17nmrzbghg",
+    "https://www.instagram.com/robertabatistafederal"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 35000.0,
+    "pago": 30000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1411",
+   "nome": "Robson Cacau",
+   "partido": "MISSÃO",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Administrador",
+   "idade": 23,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/robson_cacau",
+    "https://tiktok.com/@robsoncacau_",
+    "https://x.com/robson_cacau",
+    "https://youtube.com/@robson_cacau"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "coletivo": 1678.0,
+    "arrecadado": 5352.78,
+    "contratado": 4687.08,
+    "pago": 4687.08,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3040",
+   "nome": "Rodrigo Messias",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial civil",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1csqrecocw",
+    "https://www.instagram.com/rodrigomessiasoficial",
+    "https://www.tiktok.com/@rodrigomessiasoficial",
+    "https://youtube.com/@rodrigomessiasoficial"
+   ],
+   "financas": {
+    "fefc": 10000.0,
+    "arrecadado": 10000.0,
+    "contratado": 9026.78,
+    "pago": 8789.63,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "6565",
+   "nome": "Rodrigo Moraes",
+   "partido": "PCDOB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 45,
+   "patrimonio": 1248472.35,
+   "redes": [
+    "https://www.facebook.com/share/1d1wenukeq",
+    "https://www.instagram.com/rodrigo_moraes65",
+    "https://www.tiktok.com/@tiktokrodrigomoraes",
+    "https://x.com/rodrigomoraes65"
+   ],
+   "financas": {
+    "fefc": 350000.0,
+    "fundoPartidario": 9000.0,
+    "outrosCandidatos": 9100.0,
+    "arrecadado": 368100.0,
+    "contratado": 199688.8,
+    "pago": 73838.8,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1077",
+   "nome": "Rodrigo Santarém",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Corretor de imóveis, seguros, títulos e valores",
+   "idade": 34,
+   "patrimonio": 36074.37,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/193zxfgrey",
+    "https://www.instagram.com/rodrigosantarem_",
+    "https://www.threads.com/@rodrigosantarem_",
+    "https://x.com/rodrigostm10"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2255",
+   "nome": "Rogerio Barra",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 42,
+   "patrimonio": 2086363.2,
+   "redes": [
+    "https://k.kwai.com/u/@rogeriobarrapa/vui2cqzn",
+    "https://www.facebook.com/rogeriobarrapa",
+    "https://www.instagram.com/rogeriobarrapa",
+    "https://www.kwai.com/@rogeriobarrapa",
+    "https://www.linkedin.com/in/rogeriobarrapa",
+    "https://www.threads.com/@rogeriobarrapa"
+   ],
+   "financas": {
+    "fefc": 2300000.0,
+    "proprios": 18500.0,
+    "arrecadado": 2318500.0,
+    "contratado": 413802.24,
+    "pago": 252832.7,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2008",
+   "nome": "Rogério Lustosão",
+   "partido": "PODE",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Empresário",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://facebook.com/share/19knfsejyt",
+    "https://instagram.com/rogeriolustosateixeira",
+    "https://tiktok.com/@rogerio.lustosa077"
+   ],
+   "financas": {
+    "fefc": 150000.0,
+    "pessoasFisicas": 2000.0,
+    "arrecadado": 152000.0,
+    "contratado": 27451.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1244",
+   "nome": "Roniel Carvalho",
+   "partido": "PDT",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Outros",
+   "idade": 38,
+   "patrimonio": 950000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1bzvj5k8hv",
+    "https://www.instagram.com/ronielcarvalho.oficial"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "arrecadado": 100000.0,
+    "contratado": 101568.16,
+    "pago": 94068.16,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1001",
+   "nome": "Rosival Possidônio",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Pedagogo",
+   "idade": 67,
+   "patrimonio": 453540.33,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/10rosivalpossidonio"
+   ],
+   "financas": {
+    "fefc": 580000.0,
+    "fundoPartidario": 318450.0,
+    "arrecadado": 898450.0,
+    "contratado": 519700.0,
+    "pago": 519700.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3333",
+   "nome": "Ruan Sales",
+   "partido": "MOBILIZA",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 33,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/ruansalespa"
+   ],
+   "financas": {
+    "outrosCandidatos": 104.28,
+    "arrecadado": 104.28,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4445",
+   "nome": "Sgt Rafaela",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 41,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/___rafabrigida"
+   ],
+   "financas": {
+    "fefc": 101637.51,
+    "arrecadado": 101637.51,
+    "contratado": 80566.97,
+    "pago": 73066.97,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2202",
+   "nome": "Simone Kahwage",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 49,
+   "patrimonio": 176440.0,
+   "redes": [
+    "https://www.facebook.com/simonekahwagee",
+    "https://www.instagram.com/simonekahwage"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 97607.02,
+    "pago": 97607.02,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2299",
+   "nome": "Stephanie Sant",
+   "partido": "PL",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Assistente social",
+   "idade": 34,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/stephaniesant"
+   ],
+   "financas": {
+    "fefc": 200000.0,
+    "arrecadado": 200000.0,
+    "contratado": 116265.8,
+    "pago": 95836.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7755",
+   "nome": "Suely",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Sociólogo",
+   "idade": 48,
+   "patrimonio": 165000.0,
+   "financas": {
+    "fefc": 305750.0,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 310750.0,
+    "contratado": 79224.1,
+    "pago": 50374.1,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2322",
+   "nome": "Tamar Monteiro",
+   "partido": "CIDADANIA",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 62,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/19hpgbphgu",
+    "https://www.instagram.com/tamarmonteiro"
+   ],
+   "financas": {
+    "fefc": 40000.0,
+    "arrecadado": 40000.0,
+    "contratado": 35708.5,
+    "pago": 35708.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1000",
+   "nome": "Tatagiba",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 60,
+   "patrimonio": 2210000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1bxgkkqjnk",
+    "https://www.instagram.com/joaotatagiba"
+   ],
+   "financas": {
+    "fefc": 250000.0,
+    "fundoPartidario": 50500.0,
+    "pessoasFisicas": 13500.0,
+    "proprios": 48000.0,
+    "arrecadado": 362000.0,
+    "contratado": 195325.32,
+    "pago": 63767.82,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2211",
+   "nome": "Tati Lima",
+   "partido": "PL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 47,
+   "patrimonio": 1161200.0,
+   "redes": [
+    "https://www.facebook.com/people/tati-alves",
+    "https://www.instagram.com/tatilimaadv",
+    "https://www.threads.com/@tatilimaadv",
+    "https://www.tiktok.com/@tatilimaadv"
+   ],
+   "financas": {
+    "fefc": 300000.0,
+    "pessoasFisicas": 103000.0,
+    "proprios": 500.0,
+    "arrecadado": 403500.0,
+    "contratado": 279620.0,
+    "pago": 279620.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2021",
+   "nome": "Thays Sintra",
+   "partido": "PODE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 33,
+   "patrimonio": 205530.85,
+   "redes": [
+    "https://k.kwai.com/u/@thayssintra/zxdqfzc6",
+    "https://www.facebook.com/share/19ny2nnn7k",
+    "https://www.instagram.com/arraiadasintra",
+    "https://www.instagram.com/sintra.daily",
+    "https://www.tiktok.com/@thayssintra",
+    "https://youtube.com/@thayssintra7625"
+   ],
+   "financas": {
+    "fefc": 500000.0,
+    "proprios": 3000.0,
+    "arrecadado": 503000.0,
+    "contratado": 463038.58,
+    "pago": 405158.58,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1477",
+   "nome": "Thiago Rodrigues",
+   "partido": "MISSÃO",
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Músico",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://instagram.com/thiagorodrigues_pa",
+    "https://tiktok.com/@thiagorodrigues_pa",
+    "https://x.com/thiagorodripa",
+    "https://youtube.com/@thiagorodriguespa"
+   ],
+   "financas": {
+    "fefc": 3674.78,
+    "coletivo": 664.0,
+    "arrecadado": 4338.78,
+    "contratado": 2970.13,
+    "pago": 2970.13,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2028",
+   "nome": "Tingo Soares",
+   "partido": "PODE",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 38,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1974cecsyn",
+    "https://www.instagram.com/tingosoares"
+   ],
+   "financas": {
+    "fefc": 210000.0,
+    "arrecadado": 210000.0,
+    "contratado": 150013.0,
+    "pago": 149013.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5594",
+   "nome": "Tião Miranda",
+   "partido": "PSD",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 69,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/tiaomirandaoficial",
+    "https://www.instagram.com/oficialtiaomiranda",
+    "https://www.threads.com/@oficialtiaomiranda"
+   ],
+   "financas": {
+    "pessoasFisicas": 800.0,
+    "proprios": 1000.0,
+    "arrecadado": 1800.0,
+    "contratado": 1000.0,
+    "pago": 1000.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "2710",
+   "nome": "Trindade Araujo",
+   "partido": "DC",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Catador de recicláveis",
+   "idade": 55,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/trindade_catadora"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4020",
+   "nome": "Ubirajara Sompre",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 45,
+   "patrimonio": 2751008.16,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/ubirajarasompre",
+    "https://www.instagram.com/ubirajarasompre"
+   ],
+   "financas": {
+    "fefc": 160000.0,
+    "partido": 9264.0,
+    "pessoasFisicas": 21000.0,
+    "proprios": 37490.0,
+    "arrecadado": 227754.0,
+    "contratado": 150187.5,
+    "pago": 111440.0,
+    "limite": 3176572.53,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4040",
+   "nome": "Ursula Vidal",
+   "partido": "PSB",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 54,
+   "patrimonio": 238931.79,
+   "concorreu2022": true,
+   "patrimonio2022": 174545.98,
+   "redes": [
+    "https://facebook.com/ursulavidalpa",
+    "https://instagram.com/ursulavidalpa",
+    "https://threads.com/@ursulavidalpa",
+    "https://tiktok.com/@ursulavidalpa",
+    "https://x.com/ursulavidalpa"
+   ],
+   "financas": {
+    "fefc": 320000.0,
+    "pessoasFisicas": 5600.0,
+    "arrecadado": 325600.0,
+    "contratado": 257525.58,
+    "pago": 177879.4,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1088",
+   "nome": "Valéria Prado",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 30,
+   "patrimonio": 26140.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://br.linkedin.com/in/valéria-prado-a9225a153",
+    "https://www.instagram.com/valeriapradoo"
+   ],
+   "financas": {
+    "fefc": 146000.0,
+    "fundoPartidario": 41900.0,
+    "outrosCandidatos": 3252.5,
+    "arrecadado": 191152.5,
+    "contratado": 91855.5,
+    "pago": 91455.5,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1016",
+   "nome": "Vanda Bezerra",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 46,
+   "patrimonio": 325000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1d5m3vufld",
+    "https://www.instagram.com/vandabezerraoficial",
+    "https://www.tiktok.com/@vandabezerra202"
+   ],
+   "financas": {
+    "fefc": 147000.0,
+    "fundoPartidario": 160750.0,
+    "pessoasFisicas": 11500.0,
+    "arrecadado": 319250.0,
+    "contratado": 189511.8,
+    "pago": 141948.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "3010",
+   "nome": "Vavá Martins",
+   "partido": "NOVO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 44,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4400",
+   "nome": "Veloso",
+   "partido": "UNIÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 59,
+   "patrimonio": 235000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 353000.0,
+   "redes": [
+    "https://www.facebook.com/manoelclaudio.furtadoveloso"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1422",
+   "nome": "Vitoria Oliveira",
+   "partido": "MISSÃO",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agente administrativo",
+   "idade": 24,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1233",
+   "nome": "Vitoriano Bill",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 41,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 147000.0,
+   "redes": [
+    "https://www.facebook.com/share/1smosv7qwi",
+    "https://www.instagram.com/vitorianobill"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 4400.0,
+    "proprios": 1000.0,
+    "arrecadado": 105400.0,
+    "contratado": 41000.0,
+    "pago": 1000.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "5050",
+   "nome": "Vivi Reis",
+   "partido": "PSOL",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 35,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://pt-br.facebook.com/vivireispsol",
+    "https://www.instagram.com/vivireispsol",
+    "https://www.threads.com/@vivireispsol",
+    "https://www.tiktok.com/@vivireispsol"
+   ],
+   "financas": {
+    "fefc": 1443500.0,
+    "arrecadado": 1443500.0,
+    "contratado": 783490.3,
+    "pago": 369451.3,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7777",
+   "nome": "Viviane Pinheiro",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 48,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 284500.0,
+    "arrecadado": 284500.0,
+    "contratado": 110259.0,
+    "pago": 81587.93,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7707",
+   "nome": "Wanja Lobato",
+   "partido": "SOLIDARIEDADE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 59,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1jmahawjbe"
+   ],
+   "financas": {
+    "fefc": 292500.0,
+    "arrecadado": 292500.0,
+    "contratado": 112300.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "7075",
+   "nome": "Willi Carvalho",
+   "partido": "AVANTE",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 24,
+   "patrimonio": 25000.0,
+   "redes": [
+    "https://www.instagram.com/willihcarvalho"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1020",
+   "nome": "Wr do Tapajós",
+   "partido": "REPUBLICANOS",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Vendedor de comércio varejista e atacadista",
+   "idade": 47,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19lii53hms",
+    "https://www.instagram.com/wrdotapajos",
+    "https://www.tiktok.com/@wr10.marques"
+   ],
+   "financas": {
+    "fefc": 700000.0,
+    "fundoPartidario": 316700.0,
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 1022700.0,
+    "contratado": 729683.13,
+    "pago": 699985.41,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1288",
+   "nome": "Ximbinha",
+   "partido": "PDT",
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Músico",
+   "idade": 52,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1bjk6bwjgo",
+    "https://www.instagram.com/ximbinhaebanda"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1331",
+   "nome": "Yuri Faro",
+   "partido": "PT",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Outros",
+   "idade": 25,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1g6cwicvrd",
+    "https://www.instagram.com/yurifaropt"
+   ],
+   "financas": {
+    "fefc": 815500.0,
+    "arrecadado": 815500.0,
+    "contratado": 549222.58,
+    "pago": 429222.58,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "4032",
+   "nome": "Zé Miguel",
+   "partido": "PSB",
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Diretor de empresas",
+   "idade": 57,
+   "patrimonio": 875257.0,
+   "concorreu2022": true,
+   "patrimonio2022": 200000.0,
+   "redes": [
+    "https://www.facebook.com/zemigueldarocha",
+    "https://www.tiktok.com/z.miguel.rocha"
+   ],
+   "financas": {
+    "fefc": 240000.0,
+    "arrecadado": 240000.0,
+    "contratado": 180600.0,
+    "pago": 151600.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
+   "numero": "1211",
+   "nome": "Évany Silva",
+   "partido": "PDT",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Trabalhador rural",
+   "idade": 31,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1bwnzq9kpr",
+    "https://www.instagram.com/evanysilva.12"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "partido": 3200.0,
+    "arrecadado": 103200.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ ]
+}

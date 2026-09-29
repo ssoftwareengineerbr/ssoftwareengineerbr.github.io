@@ -1,0 +1,1295 @@
+[
+ {
+  "numero": "111",
+  "nome": "Marcelo Aro",
+  "partido": "PP",
+  "idade": "39 anos",
+  "coligacao": "Federação União e PP",
+  "resumoTrajetoria": [
+   "Secretário estadual de Governo (2025–2026) e da Casa Civil (2023–2025)",
+   "Deputado federal (2015–2023)",
+   "Ex-vereador de Belo Horizonte"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissão declarada: jornalista",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Belo Horizonte",
+     "inicio": 2013,
+     "fim": 2015,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por MG",
+     "inicio": 2015,
+     "fim": 2023,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário estadual da Casa Civil e depois de Governo",
+     "ano": "2023–2026",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 39,
+   "patrimonio": 9568127.83,
+   "redes": [
+    "https://www.facebook.com/marceloaro",
+    "https://www.instagram.com/marceloaro",
+    "https://www.threads.com/@marceloaro",
+    "https://www.tiktok.com/@soumarceloaro",
+    "https://www.youtube.com/@marcelo_aro",
+    "https://x.com/marceloaro"
+   ],
+   "financas": {
+    "fefc": 4100000.0,
+    "proprios": 45000.0,
+    "arrecadado": 4145000.0,
+    "contratado": 2029158.34,
+    "pago": 545255.39,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Professora Marli e Tileléo (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "123",
+  "nome": "Marcelo Heringer",
+  "partido": "PDT",
+  "idade": "60 anos",
+  "coligacao": "Cuidar de Minas (PDT, federação PSDB e Cidadania)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Giovane Lelis e Professor Daniel Gomes e Bruna D Ângela e Robson Dutra (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "131",
+  "nome": "Marília Campos",
+  "partido": "PT",
+  "idade": "65 anos",
+  "coligacao": "Pra Minas Gerais Voltar A Sonhar (PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Prefeita de Contagem por quatro mandatos (desde 2021 no atual)",
+   "Ex-vereadora e ex-deputada estadual",
+   "Psicóloga; presidiu o Sindicato dos Bancários de BH"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Psicologia",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 1,
+     "ano": "—",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada estadual em MG",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 1,
+     "ano": "—",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeita de Contagem",
+     "inicio": 2005,
+     "fim": null,
+     "mandatos": 4,
+     "ano": "4 mandatos",
+     "detalhe": "Quatro períodos à frente da prefeitura; no cargo desde 2021.",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "executivo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4",
+     "rotulo": "Mandatos como prefeita de Contagem",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 65,
+   "patrimonio": 1802316.7,
+   "redes": [
+    "https://www.facebook.com/mariliacampos.mg",
+    "https://www.instagram.com/mariliacampos.mg",
+    "https://www.linkedin.com/in/marília-campos-5346bb55",
+    "https://www.threads.com/@mariliacampos.mg",
+    "https://www.tiktok.com/@mariliacampos.mg",
+    "https://x.com/mariliacamposmg"
+   ],
+   "financas": {
+    "fefc": 5336641.86,
+    "pessoasFisicas": 386200.0,
+    "outrosCandidatos": 3983.0,
+    "arrecadado": 5726824.86,
+    "contratado": 4821212.29,
+    "pago": 3909308.06,
+    "limite": 5336641.85,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luciana Costa e Laércio Cintra (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "150",
+  "nome": "Manoel Carvalho",
+  "partido": "MDB",
+  "idade": "49 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Vice-prefeito de Muriaé desde 2025",
+   "Vereador de Muriaé (2013–2020)",
+   "Zootecnista e produtor rural"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: mestrado em Zootecnia (UFRRJ)",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Muriaé",
+     "inicio": 2013,
+     "fim": 2020,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário municipal de Agricultura de Muriaé",
+     "ano": "2017–2020"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Muriaé",
+     "inicio": 2025,
+     "fim": null,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Zootecnista",
+   "idade": 49,
+   "patrimonio": 3874932.59,
+   "redes": [
+    "https://www.facebook.com/manoelcarvalhomuriae",
+    "https://www.instagram.com/manoelcarvalhofilho",
+    "https://www.tiktok.com/@manoelcarvalho8634",
+    "https://www.youtube.com/@manoelteodoropereiradecarv3706"
+   ],
+   "financas": {
+    "fefc": 64687.5,
+    "fundoPartidario": 20000.0,
+    "proprios": 13000.0,
+    "arrecadado": 97687.5,
+    "contratado": 86164.65,
+    "pago": 57114.65,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Kelvin Faria e Ivanise (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "155",
+  "nome": "Arcanjo Pimenta",
+  "partido": "MDB",
+  "idade": "61 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Empresário e advogado",
+   "Candidato a deputado federal em 2022: 942 votos"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a deputado federal: 942 votos",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Industrial",
+   "idade": 61,
+   "patrimonio": 3143614.87,
+   "redes": [
+    "https://www.facebook.com/arcanjocarlospimenta",
+    "https://www.instagram.com/arcanjopimenta"
+   ],
+   "financas": {
+    "fefc": 1084750.0,
+    "outrosCandidatos": 20000.0,
+    "arrecadado": 1104750.0,
+    "contratado": 558154.12,
+    "pago": 484654.12,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Placidino Stábile e Nena Marchese (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "160",
+  "nome": "Jordano Metalúrgico",
+  "partido": "PSTU",
+  "idade": "47 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: trabalhador metalúrgico e siderúrgico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador metalúrgico e siderúrgico",
+   "idade": 47,
+   "patrimonio": 128000.0,
+   "financas": {
+    "fefc": 27002.0,
+    "arrecadado": 27002.0,
+    "contratado": 18403.0,
+    "pago": 11403.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Oraldo Paiva e José João (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Victória Mello Vic",
+  "partido": "PSTU",
+  "idade": "70 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 70,
+   "patrimonio": 495357.62,
+   "financas": {
+    "fefc": 27002.0,
+    "arrecadado": 27002.0,
+    "contratado": 14326.0,
+    "pago": 7108.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Andrea Carla e Israel Pinheiro (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Domingos Sávio",
+  "partido": "PL",
+  "idade": "69 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2011",
+   "Ex-prefeito e ex-vereador de Divinópolis",
+   "Médico-veterinário e produtor rural"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Medicina Veterinária",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Divinópolis",
+     "inicio": 1993,
+     "fim": 1996,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Divinópolis",
+     "inicio": 1997,
+     "fim": 2000,
+     "mandatos": 1,
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em MG",
+     "inicio": 2003,
+     "fim": 2011,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por MG",
+     "inicio": 2011,
+     "fim": null,
+     "mandatos": 4,
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "8",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Veterinário",
+   "idade": 69,
+   "patrimonio": 2403414.92,
+   "redes": [
+    "https://facebook.com/domingossaviomg",
+    "https://instagram.com/domingossaviomg",
+    "https://twitter.com/domingossaviomg"
+   ],
+   "financas": {
+    "fefc": 5000000.0,
+    "partido": 400000.0,
+    "proprios": 40466.88,
+    "arrecadado": 5440466.88,
+    "contratado": 3368682.9,
+    "pago": 1872669.49,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Braulio Braz e Pablo Gontijo (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Juíz Ramon Moreira",
+  "partido": "DC",
+  "idade": "65 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Juiz aposentado e advogado",
+   "Sem mandato eletivo anterior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissões declaradas: advogado e juiz aposentado",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Juiz em comarcas mineiras por mais de quatro décadas",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Magistrado",
+   "idade": 65,
+   "patrimonio": 15545700.88,
+   "financas": {
+    "proprios": 260000.0,
+    "arrecadado": 260000.0,
+    "contratado": 204000.0,
+    "pago": 196500.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Rita de Cássia Alves Rezende D e Noel Gonçalves de Oliveira (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Tião Pessoa",
+  "partido": "PCO",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: administrador"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Administrador",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/sebastiao.pessoa50"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dalila de Almeida e Fernando Lirio (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Marco Antônio Superman",
+  "partido": "NOVO",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Advogado e professor, doutor em Direito Constitucional",
+   "Sem mandato eletivo anterior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: doutorado em Direito Constitucional",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Integrou o programa Pânico, da Jovem Pan, onde passou a usar o apelido Superman",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 38,
+   "patrimonio": 660000.0,
+   "redes": [
+    "https://tiktok.com/realmarcoantoniocosta",
+    "https://www.instagram.com/marco.antonio.costa",
+    "https://www.instagram.com/realmacosta",
+    "https://www.youtube.com/@marco.antoniocosta",
+    "https://x.com/realmacosta"
+   ],
+   "financas": {
+    "fefc": 30000.0,
+    "partido": 55000.0,
+    "pessoasFisicas": 110986.0,
+    "coletivo": 5132.0,
+    "arrecadado": 201118.0,
+    "contratado": 373725.44,
+    "pago": 172522.94,
+    "limite": 5336641.85,
+    "doadoresPF": 21,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Diego Moreira e Bruno Lopes (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "456",
+  "nome": "Aécio Neves",
+  "partido": "PSDB",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2019; presidente nacional do PSDB",
+   "Governador de Minas (2003–2010) e senador (2011–2019)",
+   "Candidato a presidente em 2014"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Superior completo: Economia (PUC Minas)",
+   "escolaridadeFonte": {
+    "titulo": "CNN Brasil: quem é Aécio Neves",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-aecio-neves-candidato-ao-senado-por-minas-gerais/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por MG",
+     "inicio": 1987,
+     "fim": 2002,
+     "mandatos": 4,
+     "detalhe": "Deputado constituinte eleito em 1986; presidiu a Câmara de 2001 a 2002.",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de MG",
+     "inicio": 2003,
+     "fim": 2010,
+     "mandatos": 2,
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por MG",
+     "inicio": 2011,
+     "fim": 2019,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a presidente: derrotado no 2º turno",
+     "ano": "2014"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por MG",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2018 e 2022. Entrou na disputa ao Senado em 28 de agosto.",
+     "fonte": {
+      "titulo": "CNN Brasil: quem é Aécio Neves",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-aecio-neves-candidato-ao-senado-por-minas-gerais/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "9",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "R$ 20,97 mi",
+     "rotulo": "Dos R$ 22,5 mi declarados são bens herdados",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   {
+    "titulo": "CNN Brasil: quem é Aécio Neves",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-aecio-neves-candidato-ao-senado-por-minas-gerais/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 66,
+   "patrimonio": 22548039.13,
+   "redes": [
+    "https://linktr.ee/estoucomaeciosenador456",
+    "https://www.facebook.com/share/1d454kjsg8",
+    "https://www.instagram.com/aecionevesoficial",
+    "https://www.kwai.com/@aecionevesoficial",
+    "https://www.threads.com/@aecionevesoficial",
+    "https://www.tiktok.com/@aecionevesoficial"
+   ],
+   "financas": {
+    "fefc": 3150000.0,
+    "pessoasFisicas": 583125.0,
+    "arrecadado": 3733125.0,
+    "contratado": 490740.0,
+    "pago": 190000.0,
+    "limite": 5336641.85,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Gustavo Galassi (PSDB) e Marcelo Heringer (PDT)"
+ },
+ {
+  "numero": "500",
+  "nome": "Áurea Carolina",
+  "partido": "PSOL",
+  "idade": "42 anos",
+  "coligacao": "Pra Minas Gerais Voltar A Sonhar (PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ex-deputada federal (2019–2023)",
+   "Ex-vereadora de Belo Horizonte",
+   "Cientista política e educadora"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissões declaradas: cientista política e educadora",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora de Belo Horizonte",
+     "inicio": 2017,
+     "fim": 2018,
+     "mandatos": 1,
+     "detalhe": "Eleita em 2016 com 17.420 votos.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada federal por MG",
+     "inicio": 2019,
+     "fim": 2023,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Cientista político",
+   "idade": 42,
+   "patrimonio": 282262.35,
+   "redes": [
+    "https://br.linkedin.com/in/aureacarolinax",
+    "https://www.facebook.com/aureacarolina",
+    "https://www.instagram.com/aureacarolina",
+    "https://www.threads.com/@aureacarolina",
+    "https://www.tiktok.com/@aureacarolina11",
+    "https://www.youtube.com/@%c3%81ureacarolina-u4u"
+   ],
+   "financas": {
+    "fefc": 2296983.18,
+    "pessoasFisicas": 234500.0,
+    "outrosCandidatos": 3983.0,
+    "coletivo": 25088.43,
+    "arrecadado": 2560554.61,
+    "contratado": 2210723.3,
+    "pago": 2032563.3,
+    "limite": 5336641.85,
+    "doadoresPF": 9,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Raquell Guimarães (REDE) e Felipe Fonseca (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Carlos Viana",
+  "partido": "PSD",
+  "idade": "63 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Senador desde 2019; tenta a reeleição",
+   "Jornalista e professor"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Pós-graduação: especialização em Estratégia de Marketing (UFMG)",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Jornalista em TV, rádio, jornais e revistas; professor universitário",
+     "ano": "—"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por MG",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Deixou o Podemos e entrou no PSD em 2026.",
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 63,
+   "patrimonio": 13643608.0,
+   "redes": [
+    "https://www.facebook.com/carlosviana/#https://www.facebook.com/carlosviana",
+    "https://www.instagram.com/carlosviana",
+    "https://x.com/carlosviana"
+   ],
+   "financas": {
+    "fefc": 2000000.0,
+    "partido": 125000.0,
+    "pessoasFisicas": 670200.0,
+    "proprios": 100000.0,
+    "arrecadado": 2895200.0,
+    "contratado": 4054698.52,
+    "pago": 2491782.33,
+    "limite": 5336641.85,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Misael Varella e Ilce Rocha (PSD)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "700",
+  "nome": "Carlin Moura",
+  "partido": "AVANTE",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ex-prefeito de Contagem (2013–2016)",
+   "Ex-deputado estadual e vereador de Contagem",
+   "Advogado e jornalista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissões declaradas: advogado e jornalista",
+   "escolaridadeFonte": {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Vice-presidente da UNE",
+     "ano": "1991–1993"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Contagem",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 1,
+     "ano": "—",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em MG",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 1,
+     "ano": "—",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Contagem",
+     "inicio": 2013,
+     "fim": 2016,
+     "mandatos": 1,
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Contagem",
+     "inicio": 2021,
+     "fim": 2024,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+      "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Diário do Comércio: perfis dos candidatos ao Senado por MG (com dados da Agência Senado)",
+    "url": "https://diariodocomercio.com.br/politica/candidatos-senador-minas-gerais-2026/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 58,
+   "patrimonio": 50000.0,
+   "redes": [
+    "https://www.facebook.com/eucarlinmoura",
+    "https://www.instagram.com/eucarlinmoura"
+   ],
+   "financas": {
+    "fefc": 11802.32,
+    "fundoPartidario": 17989.35,
+    "arrecadado": 29791.67,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Edilson Nascimento e Tião Nara (AVANTE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Fidélis Alcântara",
+  "partido": "UP",
+  "idade": "52 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: estudante, bolsista, estagiário e assemelhados"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "idade": 52,
+   "patrimonio": 102129.76,
+   "redes": [
+    "https://www.instagram.com/fidelis.alcantara.up"
+   ],
+   "financas": {
+    "fefc": 2000.0,
+    "pessoasFisicas": 2430.0,
+    "arrecadado": 4430.0,
+    "contratado": 0.78,
+    "pago": 0.78,
+    "limite": 5336641.85,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Karen Graciella e Elson Violante (UP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "808",
+  "nome": "Ana Luiza do MLB",
+  "partido": "UP",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: auxiliar de laboratório"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Auxiliar de laboratório",
+   "idade": 42,
+   "patrimonio": 2000.0,
+   "redes": [
+    "https://www.instagram.com/ana_da_mgs"
+   ],
+   "financas": {
+    "fefc": 2000.0,
+    "arrecadado": 2000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Sandro Alberto e Christino Almeida (UP)",
+  "suplentesFonte": "tse"
+ }
+]

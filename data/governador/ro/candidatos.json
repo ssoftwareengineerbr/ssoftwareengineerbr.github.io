@@ -1,0 +1,351 @@
+[
+ {
+  "numero": "13",
+  "nome": "Expedito Netto",
+  "partido": "PT",
+  "vice": "Dr, Luiz Teodoro (PSOL)",
+  "idade": "37 anos",
+  "coligacao": "Fé Rondônia (federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 37,
+   "patrimonio": 351226.0,
+   "concorreu2022": true,
+   "patrimonio2022": 53802.61,
+   "redes": [
+    "https://www.facebook.com/share/1dkwrh8aq8",
+    "https://www.instagram.com/expeditonetto",
+    "https://www.tiktok.com/@expedito.netto",
+    "https://www.tiktok.com/@expeditonetto1",
+    "https://x.com/netto_expedito",
+    "https://youtube.com/@deputadoexpeditonetto5067"
+   ],
+   "financas": {
+    "fefc": 1939824.65,
+    "arrecadado": 1939824.65,
+    "contratado": 1413056.75,
+    "pago": 671355.75,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Pedro Abib",
+  "partido": "MDB",
+  "vice": "Mauro Pereira (MDB)",
+  "idade": "35 anos",
+  "coligacao": "Experencia Fe e Autoridade Rondonia Forte de Verdade (PDT, MDB)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 35,
+   "patrimonio": 2936485.0,
+   "redes": [
+    "https://k.kwai.com/u/@pedroabib/aqicevbp",
+    "https://www.facebook.com/pedroabibro",
+    "https://www.instagram.com/pedro.abib",
+    "https://www.tiktok.com/@pedroabib_",
+    "https://www.youtube.com/@pedroabibro",
+    "https://x.com/pedroabib15"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "fundoPartidario": 47500.0,
+    "pessoasFisicas": 34522.0,
+    "proprios": 7000.0,
+    "arrecadado": 1089022.0,
+    "contratado": 1003028.47,
+    "pago": 984907.47,
+    "limite": 6226082.16,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Marcos Rogério",
+  "partido": "PL",
+  "vice": "Delegado Camargo (PODE)",
+  "idade": "48 anos",
+  "coligacao": "Juntos Por Rondonia (Podemos, PL, DC, Novo, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 48,
+   "patrimonio": 2376169.92,
+   "concorreu2022": true,
+   "patrimonio2022": 2327000.0,
+   "redes": [
+    "https://k.kwai.com/u/@senadormarcosrogerio",
+    "https://www.facebook.com/marcosrogeriooficial",
+    "https://www.instagram.com/marcosrogeriooficial",
+    "https://www.threads.com/@marcosrogeriooficial",
+    "https://www.tiktok.com/@senadormarcosrogerio",
+    "https://x.com/marcosrogerio"
+   ],
+   "financas": {
+    "fefc": 3726000.0,
+    "pessoasFisicas": 56000.0,
+    "proprios": 20000.0,
+    "arrecadado": 3802000.0,
+    "contratado": 4062246.08,
+    "pago": 464383.11,
+    "limite": 6226082.16,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "40",
+  "nome": "Samuel Costa",
+  "partido": "PSB",
+  "vice": "Sargento Machado (PSB)",
+  "idade": "36 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 36,
+   "patrimonio": 3631297.68,
+   "redes": [
+    "https://www.facebook.com/share/1fgywajt31",
+    "https://www.instagram.com/samuelcostapvh",
+    "https://www.threads.net/@samuelcostagov40",
+    "https://www.tiktok.com/@samuelcostapvh"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "44",
+  "nome": "Hildon Chaves",
+  "partido": "UNIÃO",
+  "vice": "Cirone Deiró (UNIÃO)",
+  "idade": "58 anos",
+  "coligacao": "Rondonia Com A Força do Trabalho e da União (Republicanos, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 58,
+   "patrimonio": 30330625.02,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/drhildon",
+    "https://www.instagram.com/hildonchaves_",
+    "https://www.tiktok.com/@hildonchaves_",
+    "https://x.com/chaves_hildon",
+    "https://youtube.com/@hildonchavess"
+   ],
+   "financas": {
+    "fefc": 4000000.0,
+    "pessoasFisicas": 10000.0,
+    "proprios": 85000.0,
+    "arrecadado": 4095000.0,
+    "contratado": 3559537.89,
+    "pago": 2559482.88,
+    "limite": 6226082.16,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Adailton Furia",
+  "partido": "PSD",
+  "vice": "Everton Leoni (PSD)",
+  "idade": "40 anos",
+  "coligacao": "Gente Que Gosta de Gente (PSD, Avante, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 40,
+   "patrimonio": 1665086.74,
+   "concorreu2022": false,
+   "redes": [
+    "https://m.facebook.com/adailtonfuriaprefeito",
+    "https://www.instagram.com/adailtonfuria",
+    "https://www.tiktok.com/@adailton.furia",
+    "https://www.youtube.com/@adailtonfuria55"
+   ],
+   "financas": {
+    "fefc": 5000000.0,
+    "pessoasFisicas": 125700.0,
+    "proprios": 12000.0,
+    "arrecadado": 5137700.0,
+    "contratado": 3694561.81,
+    "pago": 2639906.78,
+    "limite": 6226082.16,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

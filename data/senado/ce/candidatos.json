@@ -1,0 +1,463 @@
+[
+ {
+  "numero": "162",
+  "nome": "Reginaldo",
+  "partido": "PSTU",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 53,
+   "patrimonio": 212000.0,
+   "redes": [
+    "https://vm.tiktok.com/zsvu7ctse",
+    "https://www.threads.com/share/bavd5mbn5k"
+   ],
+   "financas": {
+    "fefc": 15702.0,
+    "arrecadado": 15702.0,
+    "contratado": 5500.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Prof. Félix e Magela (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "180",
+  "nome": "Luizianne",
+  "partido": "REDE",
+  "idade": "57 anos",
+  "coligacao": "Ceará Forte, do Lado Certo (PDT, Podemos, PSB, PSD, federação PT, PCdoB e PV, federação PSOL e Rede, federação PRD e Solidariedade, Republicanos, MDB, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 57,
+   "patrimonio": 333284.84,
+   "concorreu2022": true,
+   "patrimonio2022": 238365.51,
+   "redes": [
+    "https://linktr.ee/luiziannelins",
+    "https://www.facebook.com/luiziannelinsce",
+    "https://www.instagram.com/luiziannefortaleza",
+    "https://www.instagram.com/luiziannelinsce",
+    "https://www.threads.com/@luiziannelinsce",
+    "https://www.tiktok.com/@luiziannelinsce"
+   ],
+   "financas": {
+    "fefc": 2200000.0,
+    "pessoasFisicas": 122500.0,
+    "arrecadado": 2322500.0,
+    "contratado": 2278955.45,
+    "pago": 927504.5,
+    "limite": 4447201.54,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Chagas Vieira (PDT) e Rodrigo Oliveira (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Alcides Fernandes",
+  "partido": "PL",
+  "idade": "59 anos",
+  "coligacao": "Unir Para Mudar (PL, DC, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 59,
+   "patrimonio": 648334.44,
+   "concorreu2022": true,
+   "patrimonio2022": 881000.0,
+   "redes": [
+    "https://k.kwai.com/u/@alcidesfernandes222/zpz58chn",
+    "https://www.facebook.com/share/1h82bre8tx",
+    "https://www.instagram.com/alcidesfernandes",
+    "https://www.tiktok.com/@alcidesfernandesbr",
+    "https://x.com/alcidesfernm"
+   ],
+   "financas": {
+    "fefc": 4440000.0,
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 4446000.0,
+    "contratado": 3676957.5,
+    "pago": 1962823.5,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "João Barroso e Denísio Pinheiro (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Lino Alves",
+  "partido": "PCO",
+  "idade": "70 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: engenheiro"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 70,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/lino.alves.de.almeida",
+    "https://www.instagram.com/linoalves4",
+    "https://x.com/linoaa"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tiago Ferreira e Estevam (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Guilherme Theophilo",
+  "partido": "NOVO",
+  "idade": "71 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: militar reformado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Militar reformado",
+   "idade": 71,
+   "patrimonio": 6160000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/generaltheophilo"
+   ],
+   "financas": {
+    "fundoPartidario": 50241.5,
+    "arrecadado": 50241.5,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dra. Verônica Amaral e Capelli (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Cid Gomes",
+  "partido": "PSB",
+  "idade": "63 anos",
+  "coligacao": "Ceará Forte, do Lado Certo (PDT, Podemos, PSB, PSD, federação PT, PCdoB e PV, federação PSOL e Rede, federação PRD e Solidariedade, Republicanos, MDB, Mobiliza)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 63,
+   "patrimonio": 1595202.78,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/senadorcidgomes",
+    "https://www.instagram.com/senadorcidgomes",
+    "https://www.threads.com/@senadorcidgomes",
+    "https://www.tiktok.com/@cidgomes400",
+    "https://www.youtube.com/channel/uclw52hwlyanmutiwfgjvsza",
+    "https://x.com/senadorcidgomes"
+   ],
+   "financas": {
+    "fefc": 1135525.21,
+    "pessoasFisicas": 2263000.0,
+    "proprios": 200000.0,
+    "coletivo": 69429.67,
+    "arrecadado": 3667954.88,
+    "contratado": 1474919.78,
+    "pago": 133942.95,
+    "limite": 4447201.54,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Junior Mano e Julio Ventura (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "445",
+  "nome": "Capitão Wagner",
+  "partido": "UNIÃO",
+  "idade": "47 anos",
+  "coligacao": "Unir Para Mudar (PL, DC, Avante, federação PSDB e Cidadania, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: policial militar"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 47,
+   "patrimonio": 2390938.36,
+   "concorreu2022": true,
+   "patrimonio2022": 1057122.45,
+   "redes": [
+    "https://k.kwai.com/u/@capitaowagnersousa/c3qdxabk",
+    "https://www.facebook.com/capitaowagnersousa",
+    "https://www.instagram.com/capitaowagnersousa",
+    "https://www.instagram.com/capitaowagnersousareserva",
+    "https://www.tiktok.com/@capitaowagnersousa",
+    "https://youtube.com/@capitaowagnersousa"
+   ],
+   "financas": {
+    "fefc": 3700000.0,
+    "pessoasFisicas": 27420.0,
+    "proprios": 130000.0,
+    "arrecadado": 3857420.0,
+    "contratado": 3140792.61,
+    "pago": 1959485.61,
+    "limite": 4447201.54,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Prisco Bezerra (UNIÃO) e Lucio Gomes (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Catarina Matos",
+  "partido": "UP",
+  "idade": "38 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 38,
+   "patrimonio": 10435.33,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/catarina.almeidamatos",
+    "https://www.instagram.com/catarinamatosup",
+    "https://www.instagram.com/unidadepopularce"
+   ],
+   "financas": {
+    "fefc": 8580.0,
+    "pessoasFisicas": 3495.5,
+    "arrecadado": 12075.5,
+    "contratado": 8129.11,
+    "pago": 4129.09,
+    "limite": 4447201.54,
+    "doadoresPF": 33,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Emanuel Menezes e Carlos Feitosa (UP)",
+  "suplentesFonte": "tse"
+ }
+]

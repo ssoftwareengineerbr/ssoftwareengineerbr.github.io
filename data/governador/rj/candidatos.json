@@ -1,0 +1,509 @@
+[
+ {
+  "numero": "10",
+  "nome": "Garotinho",
+  "partido": "REPUBLICANOS",
+  "vice": "Major Elaine (DEMOCRATA)",
+  "idade": "66 anos",
+  "coligacao": "Coragem Para Mudar (Republicanos, Democrata)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 66,
+   "patrimonio": 167585.05,
+   "redes": [
+    "https://www.facebook.com/garotinho1960",
+    "https://www.facebook.com/oficialgarotinho",
+    "https://www.kwai.com/@garotinho_oficial",
+    "https://www.tiktok.com/@oficialgarotinho",
+    "https://www.youtube.com/@blogdogarotinho",
+    "https://x.com/blogdogarotinho"
+   ],
+   "financas": {
+    "fefc": 1100685.58,
+    "pessoasFisicas": 15184.1,
+    "outrosCandidatos": 32894.5,
+    "arrecadado": 1148764.18,
+    "contratado": 433001.5,
+    "pago": 363001.5,
+    "limite": 17788806.16,
+    "doadoresPF": 11,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "14",
+  "nome": "Coronel Busnello",
+  "partido": "MISSÃO",
+  "vice": "Rafa Luz (MISSÃO)",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: policial militar"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 56,
+   "patrimonio": 950000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 1502095.73,
+   "redes": [
+    "https://facebook.com/199hvq3bfr",
+    "https://instagram.com/coronelbusnello",
+    "https://kwai.com/@coronelbusnell",
+    "https://tiktok.com/@coronel.busnello",
+    "https://x.com/coronelbusnello",
+    "https://youtube.com/@coronelbusnello"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "proprios": 30000.0,
+    "arrecadado": 130000.0,
+    "contratado": 77520.22,
+    "pago": 77520.22,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Cyro Garcia",
+  "partido": "PSTU",
+  "vice": "Perciliana (PSTU)",
+  "idade": "71 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 71,
+   "patrimonio": 385400.0,
+   "concorreu2022": true,
+   "patrimonio2022": 164760.0,
+   "financas": {
+    "fefc": 145002.5,
+    "pessoasFisicas": 1000.0,
+    "arrecadado": 146002.5,
+    "contratado": 147557.0,
+    "pago": 75457.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Douglas Ruas",
+  "partido": "PL",
+  "vice": "Fernanda Louback (PL)",
+  "idade": "37 anos",
+  "coligacao": "Rio Real (PL, Mobiliza, Agir, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 37,
+   "patrimonio": 1467687.88,
+   "concorreu2022": true,
+   "patrimonio2022": 1266447.9,
+   "redes": [
+    "https://www.facebook.com/douglasruasrj",
+    "https://www.instagram.com/douglasruasrj",
+    "https://www.tiktok.com/@douglasruasrj",
+    "https://www.youtube.com/@douglasruasrj",
+    "https://x.com/douglasruas_rj"
+   ],
+   "financas": {
+    "fefc": 17788000.0,
+    "proprios": 50000.0,
+    "outrosCandidatos": 500000.0,
+    "arrecadado": 18338000.0,
+    "contratado": 12417923.82,
+    "pago": 8396974.82,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Luan Monteiro",
+  "partido": "PCO",
+  "vice": "Caetano Albuquerque (PCO)",
+  "idade": "30 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: estudante, bolsista, estagiário e assemelhados"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Comerciante",
+   "idade": 30,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/lmonteiro.29",
+    "https://x.com/lmonteiro29"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 17788806.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "30",
+  "nome": "André Marinho",
+  "partido": "NOVO",
+  "vice": "Tenete Coronel Erigreyce (NOVO)",
+  "idade": "32 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 32,
+   "patrimonio": 407503.55,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/andremarinho01",
+    "https://www.instagram.com/abmarinho",
+    "https://www.kwai.com/@andremarinho2026",
+    "https://www.youtube.com/@andremarinholive"
+   ],
+   "financas": {
+    "fefc": 70000.0,
+    "pessoasFisicas": 375000.0,
+    "arrecadado": 445000.0,
+    "contratado": 383572.15,
+    "pago": 133633.15,
+    "limite": 17788806.16,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "William Siri",
+  "partido": "PSOL",
+  "vice": "Juliana Carvalho (PSOL)",
+  "idade": "34 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: vereador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 34,
+   "patrimonio": 120000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 130000.0,
+   "redes": [
+    "https://www.facebook.com/williamsirirj",
+    "https://www.instagram.com/williamsirirj",
+    "https://www.tiktok.com/@williamsirirj",
+    "https://x.com/williamsirirj"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "fundoPartidario": 27169.19,
+    "pessoasFisicas": 46420.0,
+    "outrosCandidatos": 4000.0,
+    "arrecadado": 1077589.19,
+    "contratado": 707720.76,
+    "pago": 450060.76,
+    "limite": 17788806.16,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Eduardo Paes",
+  "partido": "PSD",
+  "vice": "Jane Reis (MDB)",
+  "idade": "56 anos",
+  "coligacao": "Juntos Para Mudar Coragem Para Reconstruir (PDT, MDB, DC, PSB, PSD, federação PSDB e Cidadania, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 56,
+   "patrimonio": 189210.63,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/eduardopaesrj",
+    "https://www.instagram.com/eduardopaes",
+    "https://www.tiktok.com/@eduardopaes",
+    "https://x.com/eduardopaes"
+   ],
+   "financas": {
+    "fefc": 16655000.0,
+    "partido": 339270.21,
+    "pessoasFisicas": 610000.0,
+    "arrecadado": 17604270.21,
+    "contratado": 9338301.28,
+    "pago": 8350792.55,
+    "limite": 17788806.16,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Juliete",
+  "partido": "UP",
+  "vice": "Bia Martins (UP)",
+  "idade": "36 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 36,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/julietepantojaup"
+   ],
+   "financas": {
+    "pessoasFisicas": 1000.0,
+    "coletivo": 6545.19,
+    "arrecadado": 7545.19,
+    "contratado": 1938.33,
+    "pago": 1938.33,
+    "limite": 17788806.16,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

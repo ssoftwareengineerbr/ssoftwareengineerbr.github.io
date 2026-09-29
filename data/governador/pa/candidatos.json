@@ -1,0 +1,324 @@
+[
+ {
+  "numero": "15",
+  "nome": "Hana Ghassan",
+  "partido": "MDB",
+  "vice": "Dirceu Ten Caten (PT)",
+  "idade": "58 anos",
+  "coligacao": "O Pará Tá Junto (Republicanos, MDB, PSB, PSD, Avante, federação PSDB e Cidadania, federação PT, PCdoB e PV, federação União e PP)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 58,
+   "patrimonio": 1670461.0,
+   "redes": [
+    "https://www.facebook.com/hanaghassanpa",
+    "https://www.instagram.com/hanaghassan",
+    "https://www.kwai.com/@hanaghassantuma",
+    "https://www.threads.com/@hanaghassan",
+    "https://www.tiktok.com/@hanaghassan",
+    "https://www.youtube.com/@hanaghassan"
+   ],
+   "financas": {
+    "fefc": 8000000.0,
+    "fundoPartidario": 100000.0,
+    "pessoasFisicas": 10000.0,
+    "outrosCandidatos": 17141.97,
+    "arrecadado": 8127141.97,
+    "contratado": 2950281.27,
+    "pago": 965014.6,
+    "limite": 11562724.0,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Well Macedo",
+  "partido": "PSTU",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comunicólogo",
+   "idade": 46,
+   "patrimonio": 0.0,
+   "financas": {
+    "fefc": 34462.0,
+    "arrecadado": 34462.0,
+    "contratado": 10000.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "20",
+  "nome": "Dr. Daniel",
+  "partido": "PODE",
+  "vice": "Ellayne D Almeida (PL)",
+  "idade": "40 anos",
+  "coligacao": "O Pará É do Povo! (Podemos, PL, DC, Novo, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 40,
+   "patrimonio": 4753760.8,
+   "redes": [
+    "https://www.facebook.com/doutordanielsantos",
+    "https://www.instagram.com/doutordanielsantos",
+    "https://www.kwai.com/@doutordanielsantos",
+    "https://www.threads.com/@doutordanielsantos",
+    "https://www.tiktok.com/@doutordanielsantos",
+    "https://www.youtube.com/@drdanielsantos"
+   ],
+   "financas": {
+    "fefc": 2800000.0,
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 2806000.0,
+    "contratado": 2979476.93,
+    "pago": 2427620.03,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "35",
+  "nome": "Ruth Reis",
+  "partido": "DEMOCRATA",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 58,
+   "patrimonio": 1324017.48,
+   "redes": [
+    "https://www.facebook.com/share/1zwg3odkrg",
+    "https://www.instagram.com/ruthreiscontadora"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Araceli",
+  "partido": "PSOL",
+  "vice": "Fatima Santana (PSOL)",
+  "idade": "68 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 68,
+   "patrimonio": 534231.19,
+   "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@aracelilemos/acy1wckj",
+    "https://www.facebook.com/share/1etduhjc58",
+    "https://www.instagram.com/aracelilemos",
+    "https://www.threads.com/@aracelilemos",
+    "https://www.tiktok.com/@aracelilemoss",
+    "https://x.com/aracelilemos"
+   ],
+   "financas": {
+    "fefc": 1000000.0,
+    "fundoPartidario": 382244.27,
+    "arrecadado": 1382244.27,
+    "contratado": 494979.04,
+    "pago": 347735.32,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Gal Leite",
+  "partido": "UP",
+  "vice": "Karen Suellen (UP)",
+  "idade": "62 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 62,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/gualdinaleite"
+   ],
+   "financas": {
+    "coletivo": 6196.0,
+    "arrecadado": 6196.0,
+    "contratado": 141.43,
+    "pago": 141.43,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

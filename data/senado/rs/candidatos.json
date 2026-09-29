@@ -1,0 +1,1161 @@
+[
+ {
+  "numero": "131",
+  "nome": "Pimenta",
+  "partido": "PT",
+  "idade": "61 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Com o Povo",
+  "patrimonio": {
+   "valor": "R$ 1,87 milhão",
+   "nota": null
+  },
+  "suplentes": "Vieira da Cunha (PDT) e Tamyres Filgueira (PT)",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2003",
+   "Ministro-chefe da Secretaria de Comunicação Social (2023–2025)",
+   "Foi vereador e vice-prefeito de Santa Maria"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: jornalista",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Santa Maria",
+     "inicio": 1989,
+     "fim": 1997,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 1999,
+     "fim": 2000,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Santa Maria",
+     "inicio": 2001,
+     "fim": 2003,
+     "mandatos": 1
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal pelo RS",
+     "inicio": 2003,
+     "fim": null,
+     "mandatos": 6,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro-chefe da Secretaria de Comunicação Social da Presidência",
+     "ano": "2023–2025",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "6",
+     "rotulo": "Mandatos de deputado federal",
+     "procedencia": "of"
+    },
+    {
+     "valor": "10",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 61,
+   "patrimonio": 1871110.97,
+   "concorreu2022": true,
+   "patrimonio2022": 192839.0,
+   "redes": [
+    "https://bsky.app/profile/paulopimenta.net",
+    "https://www.facebook.com/pimenta13br",
+    "https://www.facebook.com/pimenta13br01",
+    "https://www.instagram.com/pimenta13br",
+    "https://www.kwai.com/@pimenta13br",
+    "https://www.threads.com/@pimenta13br"
+   ],
+   "financas": {
+    "fefc": 2423600.77,
+    "pessoasFisicas": 216170.0,
+    "proprios": 50000.0,
+    "arrecadado": 2689770.77,
+    "contratado": 2998398.58,
+    "pago": 1173572.26,
+    "limite": 4447201.54,
+    "doadoresPF": 35,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "151",
+  "nome": "Rigotto",
+  "partido": "MDB",
+  "idade": "77 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Nosso Rio Grande Não Para",
+  "patrimonio": {
+   "valor": "R$ 4,84 milhões",
+   "nota": null
+  },
+  "suplentes": "Cairoli e Antonio Hohlfeldt (MDB)",
+  "resumoTrajetoria": [
+   "Governador do Rio Grande do Sul (2003–2007)",
+   "Deputado federal (1991–2003) e estadual (1983–1991)",
+   "Vereador de Caxias do Sul (1977–1981)"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: dentista, advogado e empresário",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Caxias do Sul",
+     "inicio": 1977,
+     "fim": 1981,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 1983,
+     "fim": 1991,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal pelo RS",
+     "inicio": 1991,
+     "fim": 2003,
+     "mandatos": 3,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador do RS",
+     "inicio": 2003,
+     "fim": 2007,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "executivo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "7",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    },
+    {
+     "valor": "2003–2007",
+     "rotulo": "Governador do Rio Grande do Sul",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 77,
+   "patrimonio": 4840775.85,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/germano.rigotto",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/germanorigotto",
+    "https://www.instagram.com/germanorigottooficial",
+    "https://x.com/rigotto"
+   ],
+   "financas": {
+    "fefc": 3500000.0,
+    "partido": 100000.0,
+    "pessoasFisicas": 273000.0,
+    "arrecadado": 3873000.0,
+    "contratado": 837500.98,
+    "pago": 837500.98,
+    "limite": 4447201.54,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "160",
+  "nome": "Daniela Mulheres Socialistas",
+  "partido": "PSTU",
+  "idade": "49 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "Nenhum bem declarado",
+   "nota": null
+  },
+  "suplentes": "Aitana e Marcela Azevedo (PSTU)",
+  "resumoTrajetoria": [
+   "Advogada",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: advogada",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Advogada, natural de Porto Alegre",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 49,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/danielamaidana.adv",
+    "https://www.facebook.com/profile.php",
+    "https://www.facebook.com/pstu.gravatai",
+    "https://www.facebook.com/pstuportoalegre",
+    "https://www.facebook.com/psturs",
+    "https://www.instagram.com/aitanagodoy16"
+   ],
+   "financas": {
+    "fefc": 22502.0,
+    "arrecadado": 22502.0,
+    "contratado": 18950.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "161",
+  "nome": "Regis Ethur",
+  "partido": "PSTU",
+  "idade": "60 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "R$ 306,6 mil",
+   "nota": null
+  },
+  "suplentes": "Denior Machado e Adelar Cansi (PSTU)",
+  "resumoTrajetoria": [
+   "Professor",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: professor",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professor",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 60,
+   "patrimonio": 306626.7,
+   "redes": [
+    "https://www.facebook.com/pstu.gravatai",
+    "https://www.facebook.com/pstuportoalegre",
+    "https://www.facebook.com/psturs",
+    "https://www.facebook.com/regisbatistaethur",
+    "https://www.instagram.com/portopstu",
+    "https://www.instagram.com/pstu_litoralnortegaucho"
+   ],
+   "financas": {
+    "fefc": 22502.0,
+    "pessoasFisicas": 50.0,
+    "arrecadado": 22552.0,
+    "contratado": 17000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "222",
+  "nome": "Sanderson",
+  "partido": "PL",
+  "idade": "56 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "O Rio Grande Pode Mais",
+  "patrimonio": {
+   "valor": "R$ 145 mil",
+   "nota": null
+  },
+  "suplentes": "Ireneu Orth (PP) e Ernâni Mello (PL)",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2019",
+   "Policial federal"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: policial federal (cargo que exige curso superior)",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Policial federal",
+     "ano": "—"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal pelo RS",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 2,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "2",
+     "rotulo": "Mandatos de deputado federal",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 56,
+   "patrimonio": 145000.0,
+   "redes": [
+    "https://www.facebook.com/deputadosanderson",
+    "https://www.instagram.com/sandersonrs",
+    "https://www.tiktok.com/@sanderson.rs",
+    "https://www.youtube.com/@deputadosanderson",
+    "https://x.com/depsanderson"
+   ],
+   "financas": {
+    "fefc": 4400000.0,
+    "pessoasFisicas": 257897.0,
+    "arrecadado": 4657897.0,
+    "contratado": 3908732.05,
+    "pago": 3256449.76,
+    "limite": 4447201.54,
+    "doadoresPF": 13,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "234",
+  "nome": "Renato Jaguarão",
+  "partido": "Cidadania",
+  "idade": "57 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Federação PSDB/Cidadania",
+  "patrimonio": {
+   "valor": "Nenhum bem declarado",
+   "nota": null
+  },
+  "suplentes": "Paulo Coitinho e Cleiton Niesciur (Cidadania)",
+  "resumoTrajetoria": [
+   "Músico e servidor público",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: músico e servidor público",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Músico e servidor público, natural de Jaguarão",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Administrador",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/renatojaguarao",
+    "https://www.facebook.com/share/1d6cvyz3cm",
+    "https://www.instagram.com/renatojaguarao",
+    "https://www.tiktok.com/@renato_jaguarao",
+    "https://youtube.com/@"
+   ],
+   "financas": {
+    "fefc": 100000.0,
+    "pessoasFisicas": 2000.0,
+    "arrecadado": 102000.0,
+    "contratado": 2000.0,
+    "pago": 2000.0,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "290",
+  "nome": "Ric Jones",
+  "partido": "PCO",
+  "idade": "66 anos",
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "R$ 651,6 mil",
+   "nota": null
+  },
+  "suplentes": "Domingos Alessandretti e Abrão Rafael Spritzer (PCO)",
+  "resumoTrajetoria": [
+   "Médico",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: médico",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Médico",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 66,
+   "patrimonio": 651621.71,
+   "redes": [
+    "https://www.facebook.com/ricardo.jones.5203577",
+    "https://www.instagram.com/ricardojones000"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "300",
+  "nome": "Marcel Van Hattem",
+  "partido": "Novo",
+  "idade": "40 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "O Rio Grande Pode Mais",
+  "patrimonio": {
+   "valor": "R$ 1,32 milhão",
+   "nota": null
+  },
+  "suplentes": "Sérgio Turra (PP) e Ricardo Jobim (Novo)",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2019",
+   "Deputado estadual (2015–2018)",
+   "Vereador de Dois Irmãos (2005–2009)"
+  ],
+  "historico": {
+   "escolaridade": "Pós-graduação: Relações Internacionais (UFRGS) e mestrado em Ciência Política (Universidade de Leiden)",
+   "escolaridadeFonte": {
+    "titulo": "Site do candidato: biografia de Marcel van Hattem",
+    "url": "https://marcelvanhattem.com.br/press-kit"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Dois Irmãos",
+     "inicio": 2005,
+     "fim": 2009,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 2015,
+     "fim": 2018,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal pelo RS",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 2,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Cientista político",
+   "idade": 40,
+   "patrimonio": 1319313.0,
+   "redes": [
+    "https://instagram.com/marcelvanhattem",
+    "https://www.facebook.com/marcelvh",
+    "https://www.kwai.com/@marcelvanhattem",
+    "https://www.linkedin.com/marcelvanhattem",
+    "https://www.threads.com/@marcelvanhattem",
+    "https://www.tiktok.com/@marcelvanhattembr"
+   ],
+   "financas": {
+    "partido": 1173294.46,
+    "pessoasFisicas": 2158035.71,
+    "proprios": 5000.0,
+    "coletivo": 1044739.18,
+    "arrecadado": 4381069.35,
+    "contratado": 2603554.96,
+    "pago": 1674952.3,
+    "limite": 4447201.54,
+    "doadoresPF": 243,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "455",
+  "nome": "Milton Cardoso",
+  "partido": "PSDB",
+  "idade": "69 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Federação PSDB/Cidadania",
+  "patrimonio": {
+   "valor": "R$ 36,2 mil",
+   "nota": null
+  },
+  "suplentes": "João Martins e Dulce Maria (PSDB)",
+  "resumoTrajetoria": [
+   "Jornalista",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: jornalista",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Jornalista, natural de São Leopoldo",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 69,
+   "patrimonio": 36200.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/miltoncardososenadorcoragem",
+    "https://www.instagram.com/miltoncardososenadorcoragem",
+    "https://www.tiktok.com/@miltoncardoso455"
+   ],
+   "financas": {
+    "pessoasFisicas": 1750.0,
+    "proprios": 13164.09,
+    "arrecadado": 14914.09,
+    "contratado": 27909.3,
+    "pago": 4067.3,
+    "limite": 4447201.54,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "500",
+  "nome": "Manuela D'Ávila",
+  "partido": "PSOL",
+  "idade": "45 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Com o Povo",
+  "patrimonio": {
+   "valor": "R$ 1,38 milhão",
+   "nota": null
+  },
+  "suplentes": "Henrique Fontana e Lucas Caregnato (PT)",
+  "resumoTrajetoria": [
+   "Ex-deputada federal (2007–2015) e estadual (2015–2019)",
+   "Vereadora de Porto Alegre (2005–2007)",
+   "Jornalista e escritora"
+  ],
+  "historico": {
+   "escolaridade": "Pós-graduação: Jornalismo (PUCRS) e mestrado em Políticas Públicas; doutoranda na UFRGS",
+   "escolaridadeFonte": {
+    "titulo": "Fundação Heinrich Böll: perfil de Manuela D'Ávila",
+    "url": "https://www.boell.de/de/node/73101"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora de Porto Alegre",
+     "inicio": 2005,
+     "fim": 2007,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada federal pelo RS",
+     "inicio": 2007,
+     "fim": 2015,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada estadual no RS",
+     "inicio": 2015,
+     "fim": 2019,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a vice-presidente na chapa de Fernando Haddad, derrotada no 2º turno",
+     "ano": "2018"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a prefeita de Porto Alegre, derrotada no 2º turno",
+     "ano": "2020"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "4",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 45,
+   "patrimonio": 1376384.43,
+   "concorreu2022": false,
+   "redes": [
+    "https://bsky.app/profile/manudavila.bsky.social",
+    "https://www.facebook.com/manueladavila",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/manueladavila",
+    "https://www.instagram.com/manunosenado",
+    "https://www.linkedin.com/in/manuela-d%c3%a1vila"
+   ],
+   "financas": {
+    "fefc": 4152640.0,
+    "pessoasFisicas": 345980.16,
+    "coletivo": 18325.0,
+    "arrecadado": 4516945.16,
+    "contratado": 2502781.79,
+    "pago": 1574384.95,
+    "limite": 4447201.54,
+    "doadoresPF": 11,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "555",
+  "nome": "Frederico Antunes",
+  "partido": "PSD",
+  "idade": "57 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Nosso Rio Grande Não Para",
+  "patrimonio": {
+   "valor": "R$ 1,77 milhão",
+   "nota": null
+  },
+  "suplentes": "Paula Ioris e Anna Beatriz (PSD)",
+  "resumoTrajetoria": [
+   "Deputado estadual desde 1999",
+   "Presidiu a Assembleia Legislativa",
+   "Foi secretário estadual de Logística e Transportes"
+  ],
+  "historico": {
+   "escolaridade": "Superior completo: Engenharia Agronômica",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 1999,
+     "fim": null,
+     "mandatos": 7,
+     "detalhe": "Mandatos seguidos desde 1999. Presidiu a Assembleia Legislativa.",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário estadual de Logística e Transportes",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "7",
+     "rotulo": "Mandatos seguidos de deputado estadual",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Engenheiro",
+   "idade": 57,
+   "patrimonio": 1772870.67,
+   "concorreu2022": true,
+   "patrimonio2022": 539252.09,
+   "redes": [
+    "https://www.facebook.com/deputadofredericoantunes",
+    "https://www.instagram.com/depfredericoantunes",
+    "https://www.threads.com/@depfredericoantunes",
+    "https://www.tiktok.com/@fredericoantunes555",
+    "https://www.youtube.com/@fredericoantunes-w6c",
+    "https://x.com/fredantunes_rs"
+   ],
+   "financas": {
+    "fefc": 2500000.0,
+    "fundoPartidario": 76959.6,
+    "partido": 77371.98,
+    "pessoasFisicas": 276740.02,
+    "outrosCandidatos": 11200.0,
+    "arrecadado": 2942271.6,
+    "contratado": 1872990.2,
+    "pago": 1200995.14,
+    "limite": 4447201.54,
+    "doadoresPF": 31,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "800",
+  "nome": "Luciano do MLB",
+  "partido": "UP",
+  "idade": "46 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "R$ 3,3 mil",
+   "nota": null
+  },
+  "suplentes": "Enio Alves e Nanda do JAV (UP)",
+  "resumoTrajetoria": [
+   "Auxiliar de escritório",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: auxiliar de escritório",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Auxiliar de escritório e militante do MLB",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Auxiliar de escritório e assemelhados",
+   "idade": 46,
+   "patrimonio": 3300.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/lucianodomlb.up"
+   ],
+   "financas": {
+    "fefc": 1057.77,
+    "outrosCandidatos": 5062.5,
+    "arrecadado": 6120.27,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "808",
+  "nome": "Tania Peres",
+  "partido": "UP",
+  "idade": "61 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": {
+   "valor": "R$ 129,9 mil",
+   "nota": null
+  },
+  "suplentes": "Claudiane Lopes e Débora Bernardes (UP)",
+  "resumoTrajetoria": [
+   "Técnica de laboratório",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissão declarada: técnica de laboratório",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Técnica de laboratório, natural do Rio de Janeiro",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 61,
+   "patrimonio": 129917.48,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/taninha_peres"
+   ],
+   "financas": {
+    "fefc": 3158.27,
+    "outrosCandidatos": 3450.0,
+    "arrecadado": 6608.27,
+    "contratado": 3225.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

@@ -1,0 +1,439 @@
+{
+  "disponiveis": {
+    "AC": {
+      "nome": "Acre",
+      "preposicao": "do Acre",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa do Acre (Aleac)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "AL": {
+      "nome": "Alagoas",
+      "preposicao": "de Alagoas",
+      "deputadosFederais": 9,
+      "deputadosEstaduais": 27,
+      "assembleia": "Assembleia Legislativa de Alagoas (ALE-AL)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "AP": {
+      "nome": "Amapá",
+      "preposicao": "do Amapá",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa do Amapá (Alap)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "AM": {
+      "nome": "Amazonas",
+      "preposicao": "do Amazonas",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa do Amazonas (Aleam)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "BA": {
+      "nome": "Bahia",
+      "preposicao": "da Bahia",
+      "deputadosFederais": 39,
+      "deputadosEstaduais": 63,
+      "assembleia": "Assembleia Legislativa da Bahia (Alba)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "CE": {
+      "nome": "Ceará",
+      "preposicao": "do Ceará",
+      "deputadosFederais": 22,
+      "deputadosEstaduais": 46,
+      "assembleia": "Assembleia Legislativa do Ceará (Alece)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "DF": {
+      "nome": "Distrito Federal",
+      "preposicao": "do Distrito Federal",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Câmara Legislativa do Distrito Federal (CLDF)",
+      "estadual": {
+        "cargo": "Deputado distrital",
+        "curto": "Dep. distrital"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "ES": {
+      "nome": "Espírito Santo",
+      "preposicao": "do Espírito Santo",
+      "deputadosFederais": 10,
+      "deputadosEstaduais": 30,
+      "assembleia": "Assembleia Legislativa do Espírito Santo (Ales)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "GO": {
+      "nome": "Goiás",
+      "preposicao": "de Goiás",
+      "deputadosFederais": 17,
+      "deputadosEstaduais": 41,
+      "assembleia": "Assembleia Legislativa de Goiás (Alego)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "MA": {
+      "nome": "Maranhão",
+      "preposicao": "do Maranhão",
+      "deputadosFederais": 18,
+      "deputadosEstaduais": 42,
+      "assembleia": "Assembleia Legislativa do Maranhão (Alema)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "MT": {
+      "nome": "Mato Grosso",
+      "preposicao": "de Mato Grosso",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa de Mato Grosso (ALMT)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "MS": {
+      "nome": "Mato Grosso do Sul",
+      "preposicao": "de Mato Grosso do Sul",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa de Mato Grosso do Sul (ALEMS)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "preposicao": "de Minas Gerais",
+      "deputadosFederais": 53,
+      "deputadosEstaduais": 77,
+      "assembleia": "Assembleia Legislativa de Minas Gerais (ALMG)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "PR": {
+      "nome": "Paraná",
+      "preposicao": "do Paraná",
+      "deputadosFederais": 30,
+      "deputadosEstaduais": 54,
+      "assembleia": "Assembleia Legislativa do Paraná (Alep)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "PB": {
+      "nome": "Paraíba",
+      "preposicao": "da Paraíba",
+      "deputadosFederais": 12,
+      "deputadosEstaduais": 36,
+      "assembleia": "Assembleia Legislativa da Paraíba (ALPB)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "PA": {
+      "nome": "Pará",
+      "preposicao": "do Pará",
+      "deputadosFederais": 17,
+      "deputadosEstaduais": 41,
+      "assembleia": "Assembleia Legislativa do Pará (Alepa)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "PE": {
+      "nome": "Pernambuco",
+      "preposicao": "de Pernambuco",
+      "deputadosFederais": 25,
+      "deputadosEstaduais": 49,
+      "assembleia": "Assembleia Legislativa de Pernambuco (Alepe)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "PI": {
+      "nome": "Piauí",
+      "preposicao": "do Piauí",
+      "deputadosFederais": 10,
+      "deputadosEstaduais": 30,
+      "assembleia": "Assembleia Legislativa do Piauí (Alepi)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "RN": {
+      "nome": "Rio Grande do Norte",
+      "preposicao": "do Rio Grande do Norte",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa do Rio Grande do Norte (ALRN)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "RS": {
+      "nome": "Rio Grande do Sul",
+      "preposicao": "do Rio Grande do Sul",
+      "deputadosFederais": 31,
+      "deputadosEstaduais": 55,
+      "assembleia": "Assembleia Legislativa do Rio Grande do Sul (ALRS)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "preposicao": "do Rio de Janeiro",
+      "deputadosFederais": 46,
+      "deputadosEstaduais": 70,
+      "assembleia": "Assembleia Legislativa do Rio de Janeiro (Alerj)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "RO": {
+      "nome": "Rondônia",
+      "preposicao": "de Rondônia",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa de Rondônia (ALE-RO)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "RR": {
+      "nome": "Roraima",
+      "preposicao": "de Roraima",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa de Roraima (ALE-RR)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "SC": {
+      "nome": "Santa Catarina",
+      "preposicao": "de Santa Catarina",
+      "deputadosFederais": 16,
+      "deputadosEstaduais": 40,
+      "assembleia": "Assembleia Legislativa de Santa Catarina (Alesc)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "SE": {
+      "nome": "Sergipe",
+      "preposicao": "de Sergipe",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa de Sergipe (Alese)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "preposicao": "de São Paulo",
+      "deputadosFederais": 70,
+      "deputadosEstaduais": 94,
+      "assembleia": "Assembleia Legislativa de São Paulo (Alesp)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "TO": {
+      "nome": "Tocantins",
+      "preposicao": "do Tocantins",
+      "deputadosFederais": 8,
+      "deputadosEstaduais": 24,
+      "assembleia": "Assembleia Legislativa do Tocantins (Aleto)",
+      "estadual": {
+        "cargo": "Deputado estadual",
+        "curto": "Dep. estadual"
+      },
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    }
+  },
+  "todos": [
+    {
+      "sigla": "AC",
+      "nome": "Acre"
+    },
+    {
+      "sigla": "AL",
+      "nome": "Alagoas"
+    },
+    {
+      "sigla": "AP",
+      "nome": "Amapá"
+    },
+    {
+      "sigla": "AM",
+      "nome": "Amazonas"
+    },
+    {
+      "sigla": "BA",
+      "nome": "Bahia"
+    },
+    {
+      "sigla": "CE",
+      "nome": "Ceará"
+    },
+    {
+      "sigla": "DF",
+      "nome": "Distrito Federal"
+    },
+    {
+      "sigla": "ES",
+      "nome": "Espírito Santo"
+    },
+    {
+      "sigla": "GO",
+      "nome": "Goiás"
+    },
+    {
+      "sigla": "MA",
+      "nome": "Maranhão"
+    },
+    {
+      "sigla": "MT",
+      "nome": "Mato Grosso"
+    },
+    {
+      "sigla": "MS",
+      "nome": "Mato Grosso do Sul"
+    },
+    {
+      "sigla": "MG",
+      "nome": "Minas Gerais"
+    },
+    {
+      "sigla": "PR",
+      "nome": "Paraná"
+    },
+    {
+      "sigla": "PB",
+      "nome": "Paraíba"
+    },
+    {
+      "sigla": "PA",
+      "nome": "Pará"
+    },
+    {
+      "sigla": "PE",
+      "nome": "Pernambuco"
+    },
+    {
+      "sigla": "PI",
+      "nome": "Piauí"
+    },
+    {
+      "sigla": "RN",
+      "nome": "Rio Grande do Norte"
+    },
+    {
+      "sigla": "RS",
+      "nome": "Rio Grande do Sul"
+    },
+    {
+      "sigla": "RJ",
+      "nome": "Rio de Janeiro"
+    },
+    {
+      "sigla": "RO",
+      "nome": "Rondônia"
+    },
+    {
+      "sigla": "RR",
+      "nome": "Roraima"
+    },
+    {
+      "sigla": "SC",
+      "nome": "Santa Catarina"
+    },
+    {
+      "sigla": "SE",
+      "nome": "Sergipe"
+    },
+    {
+      "sigla": "SP",
+      "nome": "São Paulo"
+    },
+    {
+      "sigla": "TO",
+      "nome": "Tocantins"
+    }
+  ],
+  "fonteVagas": "TSE: consulta_vagas_2026"
+}

@@ -1,0 +1,547 @@
+[
+ {
+  "numero": "100",
+  "nome": "Angelo Coronel",
+  "partido": "REPUBLICANOS",
+  "idade": "68 anos",
+  "coligacao": "Unidos Para Mudar A Bahia (Republicanos, Podemos, PL, federação PSDB e Cidadania, federação União e PP, federação PRD e Solidariedade, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 68,
+   "patrimonio": 5323335.8,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1evtgotkhx",
+    "https://www.instagram.com/angelo.coronel",
+    "https://www.threads.com/@angelo.coronel",
+    "https://www.tiktok.com/@angelo.coronel",
+    "https://x.com/angelocoronel_"
+   ],
+   "financas": {
+    "fefc": 3600000.0,
+    "proprios": 100000.0,
+    "arrecadado": 3700000.0,
+    "contratado": 1100000.4,
+    "pago": 1100000.4,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcelo Guimarães Filho (PODE) e Edylene Ferreira (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "130",
+  "nome": "Jaques Wagner",
+  "partido": "PT",
+  "idade": "75 anos",
+  "coligacao": "Mais Bahia Mais Brasil (PDT, MDB, PSB, PSD, Avante, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Senador",
+   "idade": 75,
+   "patrimonio": 24522355.65,
+   "concorreu2022": false,
+   "financas": {
+    "fefc": 2668320.93,
+    "fundoPartidario": 50000.0,
+    "partido": 300000.0,
+    "pessoasFisicas": 300000.0,
+    "proprios": 533000.0,
+    "arrecadado": 3851320.93,
+    "contratado": 3902386.64,
+    "pago": 1417830.5,
+    "limite": 5336641.85,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Edvaldo Brito (PSD) e Aladilce (PCDOB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "133",
+  "nome": "Rui Costa",
+  "partido": "PT",
+  "idade": "63 anos",
+  "coligacao": "Mais Bahia Mais Brasil (PDT, MDB, PSB, PSD, Avante, federação PT, PCdoB e PV)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: economista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Economista",
+   "idade": 63,
+   "patrimonio": 1264911.31,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.threads.com/@ruicostaoficial"
+   ],
+   "financas": {
+    "fefc": 3068320.93,
+    "fundoPartidario": 50000.0,
+    "pessoasFisicas": 625200.0,
+    "arrecadado": 3743520.93,
+    "contratado": 3203900.0,
+    "pago": 1237822.0,
+    "limite": 5336641.85,
+    "doadoresPF": 6,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Ronaldo Carletto (AVANTE) e Jailma (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "180",
+  "nome": "Marcelo Carvalho",
+  "partido": "REDE",
+  "idade": "45 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 45,
+   "patrimonio": 540000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/latino.americano.942",
+    "https://www.instagram.com/marcelocarvalhoba",
+    "https://www.instagram.com/ronaldomansur.psol"
+   ],
+   "financas": {
+    "fefc": 96629.99,
+    "arrecadado": 96629.99,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Zem Costa e Cris Marques (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "João Roma",
+  "partido": "PL",
+  "idade": "53 anos",
+  "coligacao": "Unidos Para Mudar A Bahia (Republicanos, Podemos, PL, federação PSDB e Cidadania, federação União e PP, federação PRD e Solidariedade, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: produtor agropecuário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 53,
+   "patrimonio": 17016110.38,
+   "concorreu2022": true,
+   "patrimonio2022": 5561182.61,
+   "redes": [
+    "https://linktr.ee/joaoromaneto",
+    "https://www.facebook.com/joaoromaneto",
+    "https://www.instagram.com/joaoromaneto",
+    "https://www.kwai.com/@joaoromanetooficial",
+    "https://www.linkedin.com/in/joaoromaneto",
+    "https://www.threads.com/@joaoromaneto"
+   ],
+   "financas": {
+    "fefc": 4900000.0,
+    "fundoPartidario": 200000.0,
+    "arrecadado": 5100000.0,
+    "contratado": 4842635.7,
+    "pago": 2859005.7,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Suzana Ramos e Rodrigo Hagge (PSDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Marcelo Santtana",
+  "partido": "DC",
+  "idade": "68 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 68,
+   "patrimonio": 1337000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 930000.0,
+   "financas": {
+    "proprios": 6500.0,
+    "arrecadado": 6500.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Cinde Fatima e Mauro Leme e Lazaro Leite (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Marcelo Millet",
+  "partido": "PCO",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: motorista particular"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Motorista particular",
+   "idade": 40,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Robson José Leal Lyra e Silvano de Souza e Maria do Carmo (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "333",
+  "nome": "Carlos Sodré",
+  "partido": "MOBILIZA",
+  "idade": "80 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 80,
+   "patrimonio": 561000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/carlossodre.ba",
+    "https://www.instagram.com/carlossodre.ba"
+   ],
+   "financas": {
+    "fefc": 50000.0,
+    "pessoasFisicas": 2500.0,
+    "arrecadado": 52500.0,
+    "contratado": 638.99,
+    "pago": 638.99,
+    "limite": 5336641.85,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcos Espinheira e Lilian Cardoso (MOBILIZA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Professora Delliana",
+  "partido": "PSOL",
+  "idade": "43 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 43,
+   "patrimonio": 7821.28,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/professoradelliana",
+    "https://www.instagram.com/ronaldomansur.psol"
+   ],
+   "financas": {
+    "fefc": 120000.0,
+    "arrecadado": 120000.0,
+    "contratado": 100692.0,
+    "pago": 100692.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Prof. Nilo Rosa e Jeovane Marúsia (PSOL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Gregorio Gould",
+  "partido": "UP",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 40,
+   "patrimonio": 994576.1,
+   "redes": [
+    "https://www.instagram.com/gregoriomgould"
+   ],
+   "financas": {
+    "fefc": 4000.0,
+    "arrecadado": 4000.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 5336641.85,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Eliene Almeida Silva e Arlania Gonçalves (UP)",
+  "suplentesFonte": "tse"
+ }
+]

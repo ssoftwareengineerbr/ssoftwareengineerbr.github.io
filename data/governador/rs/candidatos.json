@@ -1,0 +1,888 @@
+[
+ {
+  "numero": "12",
+  "nome": "Juliana Brizola",
+  "partido": "PDT",
+  "vice": "Edegar Pretto (PT)",
+  "idade": "50 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Com o Povo (PDT, PT, PCdoB, PV, PSOL, Rede, PSB, Avante)",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Deputada estadual por três mandatos (2011–2023)",
+   "Vereadora de Porto Alegre e secretária municipal da Juventude",
+   "Neta de Leonel Brizola; primeira candidatura ao governo"
+  ],
+  "propostas": {
+   "seguranca": [
+    "Inteligência policial contra o crime organizado, com programas preventivos nas periferias.",
+    "Criar o sistema RS Mulher Segura contra a violência de gênero."
+   ],
+   "saude": [
+    "Aplicar integralmente os 12% da receita no SUS.",
+    "Forças-tarefa para zerar as filas de cirurgias eletivas e exames."
+   ],
+   "educacao": [
+    "Escolas de tempo integral inspiradas nos CIEPs, implantadas de forma gradual.",
+    "Cumprir o piso do magistério e fortalecer a Uergs e os institutos técnicos estaduais."
+   ],
+   "gestao": [
+    "Manter Banrisul, Badesul e BRDE sob controle público, sem novas privatizações.",
+    "Crédito orientado CrediGaúcho para microempresas e autônomos; articular o perdão da dívida com a União."
+   ],
+   "infra": [
+    "Sistema de alerta precoce nas bacias críticas e Defesa Civil com meteorologistas, geólogos e engenheiros.",
+    "Apoiar os 497 municípios nos planos de contingência e evacuação."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Direito",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Secretária municipal da Juventude de Porto Alegre",
+     "ano": "—",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora de Porto Alegre",
+     "inicio": 2009,
+     "fim": 2011,
+     "mandatos": 1,
+     "detalhe": "Eleita em 2008; deixou a Câmara ao ser eleita para a Assembleia.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada estadual no RS",
+     "inicio": 2011,
+     "fim": 2023,
+     "mandatos": 3,
+     "detalhe": "Três mandatos consecutivos.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a vice-prefeita de Porto Alegre na chapa de Sebastião Melo: derrotada no 2º turno",
+     "ano": "2016"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a prefeita de Porto Alegre, não eleita",
+     "ano": "2020",
+     "fonte": {
+      "titulo": "Wikipédia: eleição de 2026 no Rio Grande do Sul",
+      "url": "https://en.wikipedia.org/wiki/2026_Rio_Grande_do_Sul_general_election"
+     }
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a prefeita de Porto Alegre: 3º lugar, com 19,7% dos votos válidos",
+     "ano": "2024",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "3",
+     "rotulo": "Mandatos de deputada estadual",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "19,7%",
+     "rotulo": "Votos válidos para prefeita de Porto Alegre em 2024",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "abc+: análise dos planos de Zucco, Brizola, Souza e Maranata",
+    "url": "https://www.abcmais.com/politica/confira-as-propostas-de-zucco-juliana-brizola-gabriel-souza-e-maranata-para-o-rs/"
+   },
+   {
+    "titulo": "Exame: propostas climáticas dos candidatos ao governo do RS",
+    "url": "https://exame.com/brasil/rs-volta-a-ficar-sob-alerta-climatico-veja-as-propostas-de-zucco-brizola-e-souza/"
+   },
+   {
+    "titulo": "Plano de governo registrado no TSE, de Juliana Brizola",
+    "url": "https://midia.gruposinos.com.br/_midias/pdf/2026/09/14/planodegovernobrizolapretto-22892936.pdf"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 51,
+   "patrimonio": 376137.78,
+   "redes": [
+    "https://k.kwai.com/u/@julianabrizola12/2rcyeqbge",
+    "https://www.facebook.com/brizolajuliana12",
+    "https://www.instagram.com/juliana.brizola",
+    "https://www.threads.com/@juliana.brizola",
+    "https://www.tiktok.com/@julianabrizolaoficial",
+    "https://www.youtube.com/@julianabrizola12"
+   ],
+   "financas": {
+    "fefc": 11500000.0,
+    "pessoasFisicas": 12400.0,
+    "arrecadado": 11512400.0,
+    "contratado": 5383183.67,
+    "pago": 4855441.69,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "15",
+  "nome": "Gabriel Souza",
+  "partido": "MDB",
+  "vice": "Ernani Polo (PSD)",
+  "idade": "42 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Nosso Rio Grande Não Para (MDB, PSD, Agir, PRD/Solidariedade)",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Vice-governador do Rio Grande do Sul desde 2023",
+   "Deputado estadual por dois mandatos; presidiu a Assembleia",
+   "Candidato do grupo de Eduardo Leite"
+  ],
+  "propostas": {
+   "seguranca": [
+    "Manter o modelo RS Seguro, integrando polícias e tecnologia.",
+    "Combate a crimes rurais e ao feminicídio."
+   ],
+   "saude": [
+    "Descentralizar o atendimento especializado pelo programa SUS Gaúcho/Assistir.",
+    "Programas Saúde 60+ para idosos e TEAcolhe para pessoas com autismo."
+   ],
+   "educacao": [
+    "Programa Profissão na Mão: R$ 600 milhões por ano para 80 mil vagas de ensino técnico até 2030.",
+    "Ampliar o tempo integral no ensino médio e o Alfabetiza Tchê."
+   ],
+   "gestao": [
+    "Aderir ao Propag para renegociar a dívida com a União.",
+    "Manter a alíquota modal de ICMS em 17% e ampliar o Devolve ICMS e o IPVA Verde."
+   ],
+   "infra": [
+    "Regulamentar o Plano de Ação Climática e modernizar os alertas da Defesa Civil.",
+    "Obras contra eventos extremos com fundo específico (FIRECE), irrigação e logística multimodal."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Pós-graduação: Medicina Veterinária (Ulbra), mestrado em Direito Empresarial e especialização em Gestão Pública",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário de Planejamento de Tramandaí",
+     "ano": "2013",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 2015,
+     "fim": 2022,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2014 e 2018. Presidiu a Assembleia e foi líder do governo Sartori.",
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-governador do RS",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito na chapa de Eduardo Leite em 2022. Teve papel de destaque na execução do Plano Rio Grande após as enchentes de 2024.",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     },
+     "lacuna": "executivo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "2",
+     "rotulo": "Mandatos de deputado estadual",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "Desde 2023",
+     "rotulo": "Vice-governador na gestão Leite",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "abc+: análise dos planos de Zucco, Brizola, Souza e Maranata",
+    "url": "https://www.abcmais.com/politica/confira-as-propostas-de-zucco-juliana-brizola-gabriel-souza-e-maranata-para-o-rs/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Plano de governo registrado no TSE, de Gabriel Souza",
+    "url": "https://midia.gruposinos.com.br/_midias/pdf/2026/09/14/plano_de_governo_gabriel_e_ernani-22892935.pdf"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Veterinário",
+   "idade": 42,
+   "patrimonio": 935461.08,
+   "concorreu2022": true,
+   "patrimonio2022": 749131.88,
+   "redes": [
+    "https://br.linkedin.com/in/gabrielsouza15",
+    "https://www.facebook.com/gsouzars",
+    "https://www.instagram.com/gabrielsemfreio",
+    "https://www.instagram.com/gabrielsouzars",
+    "https://www.kwai.com/@gabrielsouzars",
+    "https://www.threads.com/@gabrielsouzars"
+   ],
+   "financas": {
+    "fefc": 6300000.0,
+    "fundoPartidario": 50000.0,
+    "partido": 1046350.0,
+    "pessoasFisicas": 265000.0,
+    "arrecadado": 7661350.0,
+    "contratado": 5737997.79,
+    "pago": 3563197.28,
+    "limite": 11562724.0,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "16",
+  "nome": "Rejane de Oliveira",
+  "partido": "PSTU",
+  "vice": "Adão Lima (PSTU)",
+  "idade": "65 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Professora aposentada da rede estadual; presidiu o Cpers-Sindicato por duas gestões",
+   "Candidata a governadora em 2022: 6.252 votos"
+  ],
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot.",
+  "propostas": {
+   "educacao": [
+    "Contra a militarização das escolas e as parcerias público-privadas na educação."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (professora aposentada)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professora da rede estadual; dirigiu o Sinpro-RS e presidiu o Cpers-Sindicato por duas gestões",
+     "ano": "—",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Integra a direção da CSP-Conlutas; saiu do PT antes de ingressar no PSTU",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a governadora: 6.252 votos",
+     "ano": "2022"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 65,
+   "patrimonio": 498000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 520000.0,
+   "redes": [
+    "https://www.facebook.com/pstu.gravatai",
+    "https://www.facebook.com/pstuportoalegre",
+    "https://www.facebook.com/psturs",
+    "https://www.facebook.com/rejaneoliveira.mls",
+    "https://www.facebook.com/rejanepstu",
+    "https://www.instagram.com/portopstu"
+   ],
+   "financas": {
+    "fefc": 56002.5,
+    "pessoasFisicas": 1900.0,
+    "arrecadado": 57902.5,
+    "contratado": 42553.0,
+    "pago": 9553.0,
+    "limite": 11562724.0,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Zucco",
+  "partido": "PL",
+  "vice": "Silvana Covatti (PP)",
+  "idade": "52 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "O Rio Grande Pode Mais (PL, PP, União, Republicanos, Novo, Podemos, DC, Democrata)",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Deputado federal desde 2023; foi o mais votado do RS",
+   "Tenente-coronel da reserva do Exército",
+   "Primeira disputa por cargo executivo"
+  ],
+  "propostas": {
+   "seguranca": [
+    "Tolerância zero ao crime organizado, com asfixia financeira das facções e bloqueio de comunicação nos presídios.",
+    "Apoio policial imediato às ordens de reintegração de posse no campo."
+   ],
+   "saude": [
+    "Apoiar consórcios intermunicipais e rever critérios do programa Assistir a favor de hospitais do interior.",
+    "Modernizar a gestão do IPE Saúde."
+   ],
+   "educacao": [
+    "Alfabetização e fluência leitora até o fim do 2º ano.",
+    "Ampliar as escolas cívico-militares e os Colégios Tiradentes da Brigada Militar."
+   ],
+   "gestao": [
+    "Compromisso de não aumentar impostos nem criar taxas.",
+    "Cortar secretarias e cargos comissionados; priorizar PPPs e concessões."
+   ],
+   "infra": [
+    "Programa Irriga+RS e seguro rural estadual complementar ao federal.",
+    "Articular em Brasília a criação do Fundo Constitucional do Sul."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Academia Militar das Agulhas Negras (Aman)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "27 anos no Exército; tenente-coronel da reserva, com passagens pela Secretaria Nacional de Segurança Pública e pelo GSI",
+     "ano": "—",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual no RS",
+     "inicio": 2019,
+     "fim": 2023,
+     "mandatos": 1,
+     "metricas": [
+      {
+       "indicador": "Votos em 2018",
+       "valor": "166.747, o mais votado para a Assembleia",
+       "fonte": {
+        "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+        "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+       },
+       "procedencia": "of"
+      }
+     ],
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal pelo RS",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Presidiu a CPI do MST e assumiu funções de liderança na oposição ao governo Lula. Eleito pelo Republicanos, migrou para o PL.",
+     "metricas": [
+      {
+       "indicador": "Votos em 2022",
+       "valor": "259.023, o mais votado do RS para a Câmara",
+       "fonte": {
+        "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+        "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+       },
+       "procedencia": "of"
+      }
+     ],
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "259 mil",
+     "rotulo": "Votos em 2022, o mais votado do RS",
+     "procedencia": "of"
+    },
+    {
+     "valor": "27 anos",
+     "rotulo": "De carreira militar",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "abc+: análise dos planos de Zucco, Brizola, Souza e Maranata",
+    "url": "https://www.abcmais.com/politica/confira-as-propostas-de-zucco-juliana-brizola-gabriel-souza-e-maranata-para-o-rs/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Plano de governo registrado no TSE, de Zucco",
+    "url": "https://midia.gruposinos.com.br/_midias/pdf/2026/09/14/pje_03__plano_de_governo_zucco-22892929.pdf"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 52,
+   "patrimonio": 709304.0,
+   "redes": [
+    "https://www.facebook.com/zuccopelors",
+    "https://www.instagram.com/zucco",
+    "https://www.tiktok.com/@zuccors",
+    "https://www.youtube.com/@zuccors",
+    "https://x.com/zuccors"
+   ],
+   "financas": {
+    "fefc": 9000000.0,
+    "pessoasFisicas": 2570005.0,
+    "arrecadado": 11570005.0,
+    "contratado": 9303244.94,
+    "pago": 7824033.26,
+    "limite": 11562724.0,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "29",
+  "nome": "Cesar Pontes",
+  "partido": "PCO",
+  "vice": "Tiago Nilo (PCO)",
+  "idade": "69 anos",
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Professor de História aposentado",
+   "Candidato a prefeito de Porto Alegre em 2024: 204 votos"
+  ],
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot.",
+  "propostas": {
+   "educacao": [
+    "Estatizar o ensino privado e acabar com o vestibular.",
+    "Piso nacional de R$ 8,5 mil e jornada máxima de 30 horas para professores."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo (professor de História)",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professor de História aposentado",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de Porto Alegre: 204 votos",
+     "ano": "2024",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 69,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/cesar.augusto.pontes.ferreira",
+    "https://www.instagram.com/cesaraugustopontesferreira"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Marcelo Maranata",
+  "partido": "PSDB",
+  "vice": "Claudio Diaz (PSDB)",
+  "idade": "50 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Federação PSDB/Cidadania",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Prefeito de Guaíba (2021–2026); renunciou para concorrer",
+   "Vice-prefeito de Guaíba eleito em 2008",
+   "Empresário e advogado"
+  ],
+  "propostas": {
+   "seguranca": [
+    "Força estadual de inteligência cibernética.",
+    "Ações centralizadas contra o feminicídio e a violência doméstica."
+   ],
+   "saude": [
+    "Regionalizar o atendimento em 7 polos estaduais para acabar com viagens longas para exames."
+   ],
+   "educacao": [
+    "Meta de alfabetizar 90% das crianças até o 2º ano.",
+    "Criar 2 mil Escolas de Empreendedores e o programa Férias na Escola."
+   ],
+   "gestao": [
+    "Metas quantitativas com monitoramento público trimestral por uma Unidade Central de Entrega.",
+    "Secretaria de Transparência e licenciamento ambiental por faixas de risco."
+   ],
+   "infra": [
+    "Proteção contra enchentes na Região Metropolitana como prioridade número um, com uma Autoridade Técnica de Resiliência.",
+    "Secretaria Especial de Desenvolvimento da Zona Sul."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Direito",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Empresário",
+     "ano": "—"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Guaíba",
+     "inicio": 2009,
+     "fim": 2012,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2008 pelo PDT."
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a prefeito de Guaíba, não eleito",
+     "ano": "2012 e 2016"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Guaíba",
+     "inicio": 2021,
+     "fim": 2026,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2020 por pouco mais de 200 votos e reeleito em 2024. Renunciou em 2026 para concorrer ao governo.",
+     "metricas": [
+      {
+       "indicador": "Votação na reeleição de 2024",
+       "valor": "cerca de 78% dos votos",
+       "fonte": {
+        "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+        "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+       },
+       "procedencia": "imp"
+      }
+     ],
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Deixa o PDT e entra no PSDB",
+     "ano": "2025"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "~78%",
+     "rotulo": "Votos na reeleição em Guaíba, 2024",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "3",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "abc+: análise dos planos de Zucco, Brizola, Souza e Maranata",
+    "url": "https://www.abcmais.com/politica/confira-as-propostas-de-zucco-juliana-brizola-gabriel-souza-e-maranata-para-o-rs/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Plano de governo registrado no TSE, de Marcelo Maranata",
+    "url": "https://midia.gruposinos.com.br/_midias/pdf/2026/09/14/plano_de_governo_psdb_cidadania-22892928.pdf"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 50,
+   "patrimonio": 249805.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/marcelomaranatars",
+    "https://www.instagram.com/marcelomaranata",
+    "https://www.kwai.com/@marcelomaranata",
+    "https://www.tiktok.com/@marcelo.maranata",
+    "https://www.youtube.com/@marcelo.maranata"
+   ],
+   "financas": {
+    "fefc": 2170000.0,
+    "pessoasFisicas": 42000.0,
+    "arrecadado": 2212000.0,
+    "contratado": 2369467.0,
+    "pago": 973353.5,
+    "limite": 11562724.0,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "80",
+  "nome": "Priscila Voigt",
+  "partido": "UP",
+  "vice": "Naf Nascimento (UP)",
+  "idade": "35 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem coligação",
+  "patrimonio": null,
+  "resumoTrajetoria": [
+   "Nutricionista e presidente da UP no Rio Grande do Sul",
+   "Primeira candidatura ao governo"
+  ],
+  "notaPlano": "Resumo por tema ainda incompleto neste snapshot.",
+  "propostas": {
+   "educacao": [
+    "Contra a militarização das escolas e as parcerias público-privadas na educação."
+   ]
+  },
+  "historico": {
+   "escolaridade": "Superior completo: Nutrição",
+   "escolaridadeFonte": {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Militante do MLB e de mobilizações por moradia em Porto Alegre, como a Ocupação Lanceiros Negros",
+     "ano": "—",
+     "fonte": {
+      "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+      "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Presidente da UP no RS e integrante da direção nacional",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "InfoMoney: biografias dos candidatos a governador do RS",
+    "url": "https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"
+   },
+   {
+    "titulo": "Brasil em Folhas: planos de educação dos candidatos ao governo do RS",
+    "url": "https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador no RS",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Nutricionista e assemelhados",
+   "idade": 35,
+   "patrimonio": 1000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 160000.0,
+   "redes": [
+    "https://www.instagram.com/priscilavoigtup"
+   ],
+   "financas": {
+    "fefc": 57821.15,
+    "coletivo": 11038.0,
+    "arrecadado": 68859.15,
+    "contratado": 67707.21,
+    "pago": 41107.21,
+    "limite": 11562724.0,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

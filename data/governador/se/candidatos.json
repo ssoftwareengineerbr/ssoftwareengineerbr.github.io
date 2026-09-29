@@ -1,0 +1,329 @@
+[
+ {
+  "numero": "10",
+  "nome": "Valmir de Francisquinho",
+  "partido": "REPUBLICANOS",
+  "vice": "Priscila Felizola (REPUBLICANOS)",
+  "idade": "57 anos",
+  "coligacao": "Muda Sergipe Com A Força do Povo (Republicanos, Avante)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Deferido, com recurso pendente (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 57,
+   "patrimonio": 258000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 260000.0,
+   "redes": [
+    "https://www.facebook.com/valmirdesergipe",
+    "https://www.instagram.com/valmirdesergipe",
+    "https://www.tiktok.com/@valmirdesergipe",
+    "https://x.com/valmirdesergipe",
+    "https://youtube.com/@valmirdesergipe"
+   ],
+   "financas": {
+    "fefc": 2342000.0,
+    "fundoPartidario": 2540000.0,
+    "outrosCandidatos": 22274.6,
+    "arrecadado": 4904274.6,
+    "contratado": 5831375.27,
+    "pago": 2537364.27,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Deferido, com recurso pendente",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "22",
+  "nome": "Ricardo Marques",
+  "partido": "PL",
+  "vice": "Pastora Salete (PL)",
+  "idade": "57 anos",
+  "coligacao": "Fé e Coragem Pra Mudar. (Podemos, PL, Novo)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: jornalista e redator"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Jornalista e redator",
+   "idade": 57,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/ricardomarques.rederm",
+    "https://www.instagram.com/ricardomarques_rm",
+    "https://x.com/ricmarques_rm"
+   ],
+   "financas": {
+    "fundoPartidario": 300000.0,
+    "pessoasFisicas": 11548.0,
+    "arrecadado": 311548.0,
+    "contratado": 312693.0,
+    "pago": 300000.0,
+    "limite": 6226082.16,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "27",
+  "nome": "Taty Cristina de Jesus",
+  "partido": "DC",
+  "vice": "Simeão Barbosa (DC)",
+  "idade": "44 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: empresário"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 44,
+   "patrimonio": 108000.0,
+   "redes": [
+    "https://vt.tiktok.com/zs4qa4scw",
+    "https://www.instagram.com/tatycristina.se",
+    "https://www.youtube.com/live/uqbjuzbui0i"
+   ],
+   "financas": {
+    "pessoasFisicas": 2526.0,
+    "arrecadado": 2526.0,
+    "contratado": 9326.0,
+    "pago": 0.0,
+    "limite": 6226082.16,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "45",
+  "nome": "Emanuel Cacho",
+  "partido": "PSDB",
+  "vice": "Suely Barreto (CIDADANIA)",
+  "idade": "66 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 66,
+   "patrimonio": 600000.0,
+   "redes": [
+    "https://www.facebook.com/emanuel.cacho.1",
+    "https://www.instagram.com/emanuelcacho",
+    "https://x.com/emanuelcacho"
+   ],
+   "financas": {
+    "fefc": 165000.0,
+    "arrecadado": 165000.0,
+    "contratado": 145000.0,
+    "pago": 41000.0,
+    "limite": 6226082.16,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "50",
+  "nome": "Dr. Helton",
+  "partido": "PSOL",
+  "vice": "Izaltina Quilombola (PSOL)",
+  "idade": "50 anos",
+  "coligacao": "Federação PSOL e Rede",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 50,
+   "patrimonio": 47000.0,
+   "redes": [
+    "https://www.instagram.com/dr.heltonmonteiro"
+   ],
+   "financas": {
+    "fefc": 94000.0,
+    "pessoasFisicas": 1800.0,
+    "arrecadado": 95800.0,
+    "contratado": 55583.5,
+    "pago": 33273.5,
+    "limite": 6226082.16,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  }
+ },
+ {
+  "numero": "55",
+  "nome": "Fábio",
+  "partido": "PSD",
+  "vice": "Jeferson Andrade (PSD)",
+  "idade": "49 anos",
+  "coligacao": "Sergipe Cresce Com Você (PSB, PSD, federação União e PP, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: governador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Governador",
+   "idade": 49,
+   "patrimonio": 1698945.66,
+   "concorreu2022": true,
+   "patrimonio2022": 1248575.87,
+   "financas": {
+    "fefc": 6000000.0,
+    "pessoasFisicas": 498000.0,
+    "outrosCandidatos": 106676.88,
+    "arrecadado": 6604676.88,
+    "contratado": 6537696.59,
+    "pago": 804527.37,
+    "limite": 6226082.16,
+    "doadoresPF": 13,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  }
+ }
+]

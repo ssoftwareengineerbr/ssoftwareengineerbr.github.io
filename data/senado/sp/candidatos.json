@@ -1,0 +1,1126 @@
+[
+ {
+  "numero": "111",
+  "nome": "Guilherme Derrite",
+  "partido": "PP",
+  "idade": "41 anos",
+  "coligacao": "Coragem Para Seguir Avançando (federação União e PP, Republicanos, PL, MDB, Democrata, PSD, federação PRD e Solidariedade, Avante)",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2019",
+   "Secretário estadual de Segurança Pública (2023–2025)",
+   "Capitão da Polícia Militar (2003–2018)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Policial militar; chegou a capitão",
+     "ano": "2003–2018"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por SP",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 2,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário de Segurança Pública de SP no governo Tarcísio",
+     "ano": "2023–2025",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     },
+     "detalhe": "No período, os homicídios caíram e as mortes causadas por policiais subiram (ver dados na trajetória de Tarcísio, governador 10)."
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "2023–2025",
+     "rotulo": "Secretário de Segurança Pública de SP",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   {
+    "titulo": "Folhapress (via Jornal de Brasília): homicídios caem e letalidade policial sobe em SP em 2025",
+    "url": "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 41,
+   "patrimonio": 2021196.05,
+   "concorreu2022": true,
+   "patrimonio2022": 812788.26,
+   "redes": [
+    "https://www.facebook.com/guilhermederrite",
+    "https://www.instagram.com/guilhermederrite",
+    "https://www.tiktok.com/tag/derrite",
+    "https://x.com/derritesp"
+   ],
+   "financas": {
+    "fefc": 2350000.0,
+    "fundoPartidario": 3500000.0,
+    "pessoasFisicas": 1845140.01,
+    "arrecadado": 7695140.01,
+    "contratado": 5327389.02,
+    "pago": 5305430.12,
+    "limite": 7115522.46,
+    "doadoresPF": 59,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Vicente Santini (REPUBLICANOS) e Julio Serson (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "144",
+  "nome": "Guto Schiavetto",
+  "partido": "MISSÃO",
+  "idade": "Sem dado",
+  "resumoTrajetoria": [
+   "Candidatura registrada depois de 17/08"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Comerciante",
+   "idade": 44,
+   "patrimonio": 116500.0,
+   "redes": [
+    "https://www.instagram.com/gutoschiavetto"
+   ],
+   "financas": {
+    "fefc": 25000.0,
+    "proprios": 2200.0,
+    "coletivo": 959.0,
+    "arrecadado": 28159.0,
+    "contratado": 10637.35,
+    "pago": 10637.35,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Medon e Medon e Fabio Rodrigues e Fabio Rodrigues (MISSÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "160",
+  "nome": "Weller Gonçalves",
+  "partido": "PSTU",
+  "idade": "40 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: trabalhador metalúrgico e siderúrgico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Trabalhador metalúrgico e siderúrgico",
+   "idade": 40,
+   "patrimonio": 19000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/wellermetalurgico",
+    "https://www.instagram.com/weller_goncalves",
+    "https://www.threads.com/@weller_goncalves",
+    "https://www.tiktok.com/@wellergoncalves",
+    "https://x.com/wellersind",
+    "https://youtube.com/@canaldoweller"
+   ],
+   "financas": {
+    "fefc": 70000.0,
+    "pessoasFisicas": 44400.0,
+    "proprios": 3000.0,
+    "arrecadado": 117400.0,
+    "contratado": 50016.1,
+    "pago": 29016.1,
+    "limite": 7115522.46,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Maria Guilherme e Bruno Teixeira (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Dra Eliana Ferreira",
+  "partido": "PSTU",
+  "idade": "58 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: advogado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 58,
+   "patrimonio": 1902839.07,
+   "concorreu2022": true,
+   "patrimonio2022": 1441712.36,
+   "redes": [
+    "https://www.facebook.com/dra.eliana.pstu",
+    "https://www.instagram.com/dra.elianaferreira.pstu"
+   ],
+   "financas": {
+    "fefc": 87647.5,
+    "outrosCandidatos": 21365.0,
+    "arrecadado": 109012.5,
+    "contratado": 88470.97,
+    "pago": 24425.97,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Claudio Donizete e Veruska Tenório (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "180",
+  "nome": "Marina Silva",
+  "partido": "REDE",
+  "idade": "68 anos",
+  "coligacao": "Desperta São Paulo (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ministra do Meio Ambiente (2003–2008 e 2023–2026)",
+   "Senadora pelo Acre (1995–2011)",
+   "Deputada federal desde 2023"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissões declaradas: historiadora e professora",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora de Rio Branco (AC)",
+     "inicio": 1989,
+     "fim": 1991,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada estadual no Acre",
+     "inicio": 1991,
+     "fim": 1995,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senadora pelo Acre",
+     "inicio": 1995,
+     "fim": 2011,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministra do Meio Ambiente",
+     "ano": "2003–2008"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a presidente, não eleita",
+     "ano": "2010, 2014 e 2018"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada federal por SP",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministra do Meio Ambiente",
+     "ano": "2023–2026",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "16 anos",
+     "rotulo": "Como senadora pelo Acre",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 68,
+   "patrimonio": 274503.85,
+   "redes": [
+    "https://www.facebook.com/marinasilva.oficial",
+    "https://www.instagram.com/marinasilvaoficial",
+    "https://www.kwai.com/@marinasilva_",
+    "https://www.threads.com/@marinasilvaoficial",
+    "https://www.tiktok.com/@_marina.silva",
+    "https://www.youtube.com/@msilvaonline"
+   ],
+   "financas": {
+    "fefc": 2100000.0,
+    "pessoasFisicas": 877342.55,
+    "proprios": 50000.0,
+    "outrosCandidatos": 107750.0,
+    "coletivo": 173995.0,
+    "arrecadado": 3309087.55,
+    "contratado": 1486745.1,
+    "pago": 1106601.37,
+    "limite": 7115522.46,
+    "doadoresPF": 60,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Djalma Nery (PSOL) e Antonio Neto (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "200",
+  "nome": "Geraldo Rufino",
+  "partido": "PODE",
+  "idade": "67 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Empresário",
+   "Sem mandato eletivo anterior"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Empresário",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     }
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 67,
+   "patrimonio": 5645157.05,
+   "redes": [
+    "https://br.linkedin.com/in/geraldorufino",
+    "https://www.facebook.com/geraldorufinooficial",
+    "https://www.instagram.com/geraldoarufino",
+    "https://www.tiktok.com/@geraldoarufino",
+    "https://www.youtube.com/@geraldorufino"
+   ],
+   "financas": {
+    "fefc": 6000000.0,
+    "fundoPartidario": 470000.0,
+    "pessoasFisicas": 75333.34,
+    "naoIdentificada": 226.0,
+    "arrecadado": 6545559.34,
+    "contratado": 1591388.04,
+    "pago": 826674.34,
+    "limite": 7115522.46,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luciana Felix e Ana Estima e Jason Albuquerque (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "211",
+  "nome": "Petter Maahs",
+  "partido": "PCB",
+  "idade": "51 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público municipal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
+   "idade": 51,
+   "patrimonio": 117533.7,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/petter.maahs"
+   ],
+   "financas": {
+    "pessoasFisicas": 835.0,
+    "coletivo": 1568.0,
+    "arrecadado": 2403.0,
+    "contratado": 5031.7,
+    "pago": 1031.7,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Olga Soares e Vinicius Jardim (PCB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "André do Prado",
+  "partido": "PL",
+  "idade": "57 anos",
+  "coligacao": "Coragem Para Seguir Avançando (federação União e PP, Republicanos, PL, MDB, Democrata, PSD, federação PRD e Solidariedade, Avante)",
+  "resumoTrajetoria": [
+   "Presidente da Assembleia Legislativa de SP desde 2023",
+   "Deputado estadual desde 2011",
+   "Ex-prefeito e ex-vereador de Guararema"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissão declarada: analista de sistemas",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Guararema",
+     "inicio": 1993,
+     "fim": 2000,
+     "mandatos": 2,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Guararema",
+     "inicio": 2001,
+     "fim": 2004,
+     "mandatos": 1
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Guararema",
+     "inicio": 2005,
+     "fim": 2008,
+     "mandatos": 1,
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em SP",
+     "inicio": 2011,
+     "fim": null,
+     "mandatos": 4,
+     "detalhe": "Preside a Alesp desde 2023.",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "8",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 57,
+   "patrimonio": 692610.86,
+   "concorreu2022": true,
+   "patrimonio2022": 381820.82,
+   "redes": [
+    "https://k.kwai.com/u/@andredopradosp/cqmylvgu",
+    "https://www.facebook.com/dep.andredoprado",
+    "https://www.instagram.com/andredopradosp",
+    "https://www.tiktok.com/@andredoprado_",
+    "https://www.tiktok.com/@andredopradosp",
+    "https://x.com/_andredoprado"
+   ],
+   "financas": {
+    "fefc": 6000000.0,
+    "fundoPartidario": 950000.0,
+    "pessoasFisicas": 47000.0,
+    "proprios": 50000.0,
+    "arrecadado": 7047000.0,
+    "contratado": 4523736.5,
+    "pago": 3041396.5,
+    "limite": 7115522.46,
+    "doadoresPF": 15,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Fernando Godoy e Rute Costa (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "232",
+  "nome": "Soninha Francine",
+  "partido": "CIDADANIA",
+  "idade": "59 anos",
+  "coligacao": "Federação PSDB e Cidadania",
+  "resumoTrajetoria": [
+   "Vereadora de São Paulo (2005–2008 e 2017–2020)",
+   "Secretária municipal de Direitos Humanos (2022–2025)",
+   "Jornalista"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissão declarada: jornalista",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereadora de São Paulo",
+     "inicio": 2005,
+     "fim": 2020,
+     "mandatos": 2,
+     "detalhe": "Mandatos de 2005 a 2008 e de 2017 a 2020.",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretária municipal de Assistência Social",
+     "ano": "2017"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Secretária municipal de Direitos Humanos",
+     "ano": "2022–2025"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Publicitário",
+   "idade": 59,
+   "patrimonio": 420186.95,
+   "redes": [
+    "https://www.facebook.com/soninhafrancine",
+    "https://www.instagram.com/soninhafrancine_oficial",
+    "https://x.com/soninhafrancine"
+   ],
+   "financas": {
+    "fefc": 4710189.13,
+    "partido": 34877.05,
+    "pessoasFisicas": 1002.32,
+    "arrecadado": 4746068.5,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Dr. Fabio Lopes e Shell Gomes (CIDADANIA)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Ednelson Cesaretti",
+  "partido": "PCO",
+  "idade": "56 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino médio"
+  ],
+  "situacao": {
+   "tipo": "ver",
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 56,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ver",
+    "texto": "Indeferido, com recurso (sub judice)",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Carlos Augusto e André Amado (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "300",
+  "nome": "Salles",
+  "partido": "NOVO",
+  "idade": "51 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Deputado federal desde 2023",
+   "Ministro do Meio Ambiente (2019–2021)",
+   "Secretário estadual do Meio Ambiente de SP (2016–2017)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissão declarada: advogado",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Secretário estadual do Meio Ambiente de SP",
+     "ano": "2016–2017"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministro do Meio Ambiente do governo Bolsonaro",
+     "ano": "2019–2021"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por SP",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 51,
+   "patrimonio": 9050000.0,
+   "concorreu2022": true,
+   "patrimonio2022": 3970000.0,
+   "redes": [
+    "https://www.facebook.com/@ricardosallesmma",
+    "https://www.instagram.com/ricardosallesmma",
+    "https://www.tiktok.com/@ricardo.sallesmma",
+    "https://www.twitter.com/@rsallesmma",
+    "https://www.youtube.com/@conservatalk"
+   ],
+   "financas": {
+    "fefc": 850000.0,
+    "fundoPartidario": 2296000.0,
+    "partido": 470000.0,
+    "pessoasFisicas": 972500.0,
+    "arrecadado": 4588500.0,
+    "contratado": 2989726.77,
+    "pago": 2640776.77,
+    "limite": 7115522.46,
+    "doadoresPF": 21,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Frederico D Avila e Alcantara Machado e Ferreira (NOVO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "360",
+  "nome": "William Teixeira",
+  "partido": "AGIR",
+  "idade": "41 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: relações-públicas"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Relações-públicas",
+   "idade": 41,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Toninho Serapião Tubarão e José Vaz (AGIR)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "400",
+  "nome": "Simone Tebet",
+  "partido": "PSB",
+  "idade": "56 anos",
+  "coligacao": "Desperta São Paulo (PDT, PSB, federação PT, PCdoB e PV, federação PSOL e Rede)",
+  "resumoTrajetoria": [
+   "Ministra do Planejamento (2023–2026)",
+   "Senadora por Mato Grosso do Sul (2015–2023)",
+   "Ex-prefeita de Três Lagoas (MS) e ex-vice-governadora de MS"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Profissão declarada: advogada",
+   "escolaridadeFonte": {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada estadual em MS",
+     "inicio": 2003,
+     "fim": 2004,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeita de Três Lagoas (MS)",
+     "inicio": 2005,
+     "fim": 2010,
+     "mandatos": 2,
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-governadora de MS",
+     "inicio": 2011,
+     "fim": 2015,
+     "mandatos": 1
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senadora por MS",
+     "inicio": 2015,
+     "fim": 2023,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidata a presidente, não eleita",
+     "ano": "2022"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Ministra do Planejamento",
+     "ano": "2023–2026",
+     "fonte": {
+      "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+      "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+     }
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "5",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "of"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "Agência Senado: candidatos 2026 em São Paulo (cargos, bens e suplentes)",
+    "url": "https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo"
+   }
+  ],
+  "curadoria": true,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 56,
+   "patrimonio": 14293526.96,
+   "redes": [
+    "https://linktr.ee/simonetebet",
+    "https://www.facebook.com/simonetebet",
+    "https://www.instagram.com/simonetebet",
+    "https://www.kwai.com/@simonetebet",
+    "https://www.threads.com/@simonetebet",
+    "https://www.tiktok.com/@simonetebet.400"
+   ],
+   "financas": {
+    "fefc": 6500000.0,
+    "pessoasFisicas": 283000.0,
+    "outrosCandidatos": 100000.0,
+    "arrecadado": 6883000.0,
+    "contratado": 6039109.95,
+    "pago": 5970434.45,
+    "limite": 7115522.46,
+    "doadoresPF": 4,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Laio Morais (PT) e Marcelo Barbieri (PDT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Marcio Alves",
+  "partido": "UP",
+  "idade": "42 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: eletricista e assemelhados"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Eletricista e assemelhados",
+   "idade": 42,
+   "patrimonio": 0.0,
+   "financas": {
+    "pessoasFisicas": 9600.0,
+    "outrosCandidatos": 8744.18,
+    "arrecadado": 18344.18,
+    "contratado": 8000.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Manoel Pereira e Allana Mattos (UP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "808",
+  "nome": "Maíra de Souza",
+  "partido": "UP",
+  "idade": "46 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: professor de ensino fundamental"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 46,
+   "patrimonio": 210000.0,
+   "financas": {
+    "pessoasFisicas": 9600.0,
+    "outrosCandidatos": 10178.56,
+    "arrecadado": 19778.56,
+    "contratado": 8000.0,
+    "pago": 0.0,
+    "limite": 7115522.46,
+    "doadoresPF": 12,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Renato Melo e Penha Daolio (UP)",
+  "suplentesFonte": "tse"
+ }
+]

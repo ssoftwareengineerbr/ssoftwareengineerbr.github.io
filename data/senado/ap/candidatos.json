@@ -1,0 +1,517 @@
+[
+ {
+  "numero": "130",
+  "nome": "Randolfe",
+  "partido": "PT",
+  "idade": "53 anos",
+  "coligacao": "Juntos Por Todo O Amapá (Republicanos, PDT, Agir, federação União e PP, federação PSDB e Cidadania, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Senador",
+   "idade": 53,
+   "patrimonio": 1083914.94,
+   "redes": [
+    "https://www.facebook.com/randolferodrigues",
+    "https://www.instagram.com/randolferodrigues",
+    "https://www.tiktok.com/@randolfe.rodrigues",
+    "https://x.com/randolfeap"
+   ],
+   "financas": {
+    "fefc": 1788286.27,
+    "pessoasFisicas": 22694.0,
+    "proprios": 5502.83,
+    "coletivo": 30284.24,
+    "arrecadado": 1846767.34,
+    "contratado": 1094757.08,
+    "pago": 1047257.08,
+    "limite": 3176572.53,
+    "doadoresPF": 14,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Gabriel Andrade (PDT) e Jessyca Mais Saude (REPUBLICANOS)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "151",
+  "nome": "Acácio Favacho",
+  "partido": "MDB",
+  "idade": "43 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 43,
+   "patrimonio": 500000.0,
+   "redes": [
+    "https://www.facebook.com/share/1drwarwbpk",
+    "https://www.instagram.com/acacio.senador",
+    "https://www.instagram.com/acaciofavacho",
+    "https://www.instagram.com/cortesacacio",
+    "https://www.tiktok.com/@acaciofavacho",
+    "https://youtube.com/@acaciofavacho5604"
+   ],
+   "financas": {
+    "fefc": 2230000.0,
+    "pessoasFisicas": 5000.0,
+    "proprios": 300000.0,
+    "outrosCandidatos": 10858.33,
+    "arrecadado": 2545858.33,
+    "contratado": 1644515.43,
+    "pago": 1553015.43,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Elisangela Timbiras e Abdias (MDB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "200",
+  "nome": "Rayssa Furlan",
+  "partido": "PODE",
+  "idade": "39 anos",
+  "coligacao": "Trabalhar Para Transformar O Amapá (Podemos, PL, Novo, PSD)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: médico"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
+   "idade": 39,
+   "patrimonio": 1374700.0,
+   "concorreu2022": true,
+   "patrimonio2022": 1396733.39,
+   "redes": [
+    "https://www.facebook.com/share/17k6vmuyws",
+    "https://www.facebook.com/share/1bqth8wv3x",
+    "https://www.instagram.com/drarayssafurlan",
+    "https://www.instagram.com/rayssacfurlan",
+    "https://www.threads.com/@rayssacfurlan",
+    "https://www.tiktok.com/@rayssa.furlan"
+   ],
+   "financas": {
+    "fefc": 2670000.0,
+    "pessoasFisicas": 20500.0,
+    "proprios": 25000.0,
+    "outrosCandidatos": 16666.66,
+    "arrecadado": 2732166.66,
+    "contratado": 1692593.87,
+    "pago": 812450.0,
+    "limite": 3176572.53,
+    "doadoresPF": 2,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Neto Furlan e Marlucia Sullyvan (PODE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "272",
+  "nome": "Professor Uzian Pinto",
+  "partido": "DC",
+  "idade": "45 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: fiscal"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Fiscal",
+   "idade": 45,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/14nskvinsu8",
+    "https://www.instagram.com/uzianpinto",
+    "https://www.tiktok.com/@uzianpinto"
+   ],
+   "financas": {
+    "pessoasFisicas": 500.0,
+    "proprios": 2700.0,
+    "arrecadado": 3200.0,
+    "contratado": 3198.49,
+    "pago": 3198.49,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Hélio Flávio e Gilberto Pena (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "277",
+  "nome": "Juíza Jô",
+  "partido": "DC",
+  "idade": "53 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: servidor público civil aposentado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 53,
+   "patrimonio": 480000.0,
+   "redes": [
+    "https://www.facebook.com/dra.joamapa",
+    "https://www.instagram.com/dra.joamapa"
+   ],
+   "financas": {
+    "fefc": 15000.0,
+    "pessoasFisicas": 9903.0,
+    "proprios": 25210.0,
+    "arrecadado": 50113.0,
+    "contratado": 15731.54,
+    "pago": 15731.54,
+    "limite": 3176572.53,
+    "doadoresPF": 7,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Tobias e Vilmar (DC)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Helio Silva",
+  "partido": "PCO",
+  "idade": "60 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: aposentado (exceto servidor público)"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 3176572.53,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Iris Silva e Jaziel Souza (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "401",
+  "nome": "Capi",
+  "partido": "PSB",
+  "idade": "79 anos",
+  "coligacao": "Sem coligação",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: outros"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 79,
+   "patrimonio": 186404.66,
+   "redes": [
+    "https://www.facebook.com/capi401senador",
+    "https://www.instagram.com/capi401senador",
+    "https://www.tiktok.com/@joo.capiberibe"
+   ],
+   "financas": {
+    "pessoasFisicas": 13600.0,
+    "proprios": 300.0,
+    "arrecadado": 13900.0,
+    "contratado": 6579.13,
+    "pago": 6579.13,
+    "limite": 3176572.53,
+    "doadoresPF": 21,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jose Ramalho e Prof Halda (PSB)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "444",
+  "nome": "Alliny Serrão",
+  "partido": "UNIÃO",
+  "idade": "41 anos",
+  "coligacao": "Juntos Por Todo O Amapá (Republicanos, PDT, Agir, federação União e PP, federação PSDB e Cidadania, federação PT, PCdoB e PV, federação PRD e Solidariedade)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: deputado"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 41,
+   "patrimonio": 500000.0,
+   "redes": [
+    "https://k.kwai.com/u@allinyserrao255/e50cdnbi",
+    "https://www.facebook.com/allinyserraoap",
+    "https://www.instagram.com/allinyserrao",
+    "https://www.threads.com/@allinyserrao",
+    "https://www.tiktok.com/@allinyserraoo",
+    "https://x.com/allinyserrao"
+   ],
+   "financas": {
+    "fefc": 2632572.13,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 2642572.13,
+    "contratado": 1830333.08,
+    "pago": 404016.1,
+    "limite": 3176572.53,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jaime Nunes (AGIR) e Pastor Miguel (UNIÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "555",
+  "nome": "Lucas Barreto",
+  "partido": "PSD",
+  "idade": "61 anos",
+  "coligacao": "Trabalhar Para Transformar O Amapá (Podemos, PL, Novo, PSD)",
+  "resumoTrajetoria": [
+   "Ocupação declarada ao TSE: senador"
+  ],
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "patrimonio": null,
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "TSE: dados abertos de candidaturas 2026",
+    "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
+   }
+  ],
+  "curadoria": false,
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Senador",
+   "idade": 61,
+   "patrimonio": 0.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/lucasbarretosenador",
+    "https://www.instagram.com/lucasbarreto_ap"
+   ],
+   "financas": {
+    "fefc": 2000000.0,
+    "pessoasFisicas": 8000.0,
+    "outrosCandidatos": 11111.1,
+    "arrecadado": 2019111.1,
+    "contratado": 1886918.27,
+    "pago": 1738538.27,
+    "limite": 3176572.53,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Paulo Albuquerque e Diogo Grunho (PSD)",
+  "suplentesFonte": "tse"
+ }
+]

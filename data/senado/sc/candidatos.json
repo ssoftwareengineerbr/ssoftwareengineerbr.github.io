@@ -1,0 +1,1260 @@
+[
+ {
+  "numero": "111",
+  "nome": "Esperidião Amin",
+  "partido": "PP",
+  "idade": "78 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Santa Catarina Acima de Tudo",
+  "patrimonio": {
+   "valor": "R$ 2,54 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Senador desde 2019; tenta a reeleição (já havia sido senador de 1991 a 1998)",
+   "Governador de SC por dois mandatos e prefeito de Florianópolis por dois períodos",
+   "Ex-deputado federal"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: administrador, advogado e professor",
+   "escolaridadeFonte": {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Nomeado prefeito de Florianópolis pelo governo militar",
+     "ano": "1975",
+     "fonte": {
+      "titulo": "Diário de Pernambuco: trajetória de Esperidião Amin",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2025/12/11702564-quem-e-esperidiao-amin-relator-do-pl-da-dosimetria-na-ccj-do-senado.html"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de Santa Catarina",
+     "inicio": 1983,
+     "fim": 1987,
+     "mandatos": 1,
+     "detalhe": "Eleito em 1982, na primeira eleição direta para governador desde os anos 1960.",
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Florianópolis",
+     "inicio": 1989,
+     "fim": 1990,
+     "mandatos": 1,
+     "detalhe": "Eleito em 1988.",
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por Santa Catarina",
+     "inicio": 1991,
+     "fim": 1998,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Governador de Santa Catarina",
+     "inicio": 1999,
+     "fim": 2002,
+     "mandatos": 1,
+     "detalhe": "Eleito em 1998.",
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Santa Catarina",
+     "inicio": null,
+     "fim": null,
+     "mandatos": 3,
+     "ano": "—",
+     "detalhe": "Três mandatos ao longo da carreira.",
+     "fonte": {
+      "titulo": "Diário de Pernambuco: trajetória de Esperidião Amin",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2025/12/11702564-quem-e-esperidiao-amin-relator-do-pl-da-dosimetria-na-ccj-do-senado.html"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Senador por Santa Catarina",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 1,
+     "detalhe": "Eleito em 2018. Em 2025 foi relator do PL da Dosimetria na CCJ do Senado.",
+     "fonte": {
+      "titulo": "Diário de Pernambuco: trajetória de Esperidião Amin",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2025/12/11702564-quem-e-esperidiao-amin-relator-do-pl-da-dosimetria-na-ccj-do-senado.html"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: 5º lugar",
+     "ano": "2022"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "8",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "2",
+     "rotulo": "Vezes eleito governador de SC",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 78,
+   "patrimonio": 2542801.0,
+   "redes": [
+    "https://www.facebook.com/esperidiao.amin.1",
+    "https://www.facebook.com/esperidiaoamin",
+    "https://www.instagram.com/esperidiaoamin",
+    "https://www.threads.com/@esperidiaoamin",
+    "https://x.com/esperidiaoamin_"
+   ],
+   "financas": {
+    "fefc": 2713701.06,
+    "fundoPartidario": 300000.0,
+    "partido": 300000.0,
+    "pessoasFisicas": 191016.66,
+    "arrecadado": 3504717.72,
+    "contratado": 2193721.55,
+    "pago": 1172897.92,
+    "limite": 4447201.54,
+    "doadoresPF": 8,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Volnei Weber (MDB) e Eni Voltolini (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "133",
+  "nome": "Décio Lima",
+  "partido": "PT",
+  "idade": "65 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Coragem para Mudar",
+  "patrimonio": {
+   "valor": "R$ 3,17 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Deputado federal de 2007 a 2019",
+   "Prefeito de Blumenau de 1997 a 2004 e vereador de 1993 a 1996",
+   "Candidato a governador em 2022, chegou ao 2º turno"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: advogado e professor",
+   "escolaridadeFonte": {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Blumenau",
+     "inicio": 1993,
+     "fim": 1996,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Blumenau",
+     "inicio": 1997,
+     "fim": 2004,
+     "mandatos": 2,
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado federal por Santa Catarina",
+     "inicio": 2007,
+     "fim": 2019,
+     "mandatos": 3,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: não chegou ao 2º turno",
+     "ano": "2018"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador: 29,3% no 2º turno, derrotado por Jorginho Mello",
+     "ano": "2022",
+     "fonte": {
+      "titulo": "TRE-SC: resultado do 2º turno de 2022",
+      "url": "https://www.tre-sc.jus.br/comunicacao/noticias/2022/Outubro/eleicao-em-sc-jorginho-mello-e-eleito-com-70-69-dos-votos-no-segundo-turno"
+     }
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Assume a presidência do Sebrae Nacional",
+     "ano": "2023"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "6",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "8 anos",
+     "rotulo": "Como prefeito de Blumenau",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Advogado",
+   "idade": 66,
+   "patrimonio": 3173518.18,
+   "concorreu2022": true,
+   "patrimonio2022": 1490980.55,
+   "redes": [
+    "https://www.facebook.com/deciolimaoficial",
+    "https://www.instagram.com/deciolima",
+    "https://www.threads.com/@deciolima",
+    "https://www.tiktok.com/@decionotiktok",
+    "https://x.com/deciolimasc"
+   ],
+   "financas": {
+    "fefc": 2223600.77,
+    "pessoasFisicas": 45000.0,
+    "arrecadado": 2268600.77,
+    "contratado": 1751801.98,
+    "pago": 1577963.98,
+    "limite": 4447201.54,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Elaine Berger (PDT) e Fernanda Klitzke (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "144",
+  "nome": "Túlio de Amorim Pfuetzenreiter",
+  "partido": "Missão",
+  "idade": "38 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "R$ 967,2 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Empresário de Blumenau",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (empresário)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Empresário em Blumenau",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Primeira eleição que disputa, pelo Missão",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Empresário",
+   "idade": 38,
+   "patrimonio": 967200.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/tulioteconta",
+    "https://www.instagram.com/tuliopfu",
+    "https://www.tiktok.com/@tulioteconta",
+    "https://www.youtube.com/@tulioteconta",
+    "https://x.com/tulioteconta"
+   ],
+   "financas": {
+    "fefc": 75000.0,
+    "pessoasFisicas": 1000.0,
+    "coletivo": 500.0,
+    "arrecadado": 76500.0,
+    "contratado": 64023.0,
+    "pago": 64023.0,
+    "limite": 4447201.54,
+    "doadoresPF": 1,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Comandante Edupercio Pratts e Diego Vieira (MISSÃO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "155",
+  "nome": "Lunelli",
+  "partido": "MDB",
+  "idade": "63 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Santa Catarina Acima de Tudo",
+  "patrimonio": {
+   "valor": "R$ 613,2 milhões",
+   "nota": "De longe o maior patrimônio declarado na disputa ao Senado em SC."
+  },
+  "resumoTrajetoria": [
+   "Deputado estadual desde 2023",
+   "Prefeito de Jaraguá do Sul (2016–2022)",
+   "Empresário"
+  ],
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (empresário)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Empresário do Vale do Itapocu",
+     "ano": "—"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Prefeito de Jaraguá do Sul",
+     "inicio": 2017,
+     "fim": 2022,
+     "mandatos": 2,
+     "detalhe": "Eleito em 2016 e reeleito em 2020.",
+     "fonte": {
+      "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+      "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+     },
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em Santa Catarina",
+     "inicio": 2023,
+     "fim": null,
+     "mandatos": 1,
+     "fonte": {
+      "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+      "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+     },
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "R$ 613 mi",
+     "rotulo": "Maior patrimônio declarado na disputa",
+     "procedencia": "of"
+    },
+    {
+     "valor": "3",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 63,
+   "patrimonio": 613221297.87,
+   "redes": [
+    "https://www.facebook.com/antidioalunelli",
+    "https://www.instagram.com/antidiolunelli",
+    "https://www.youtube.com/@antidiolunelli9620",
+    "https://x.com/antidio_lunelli"
+   ],
+   "financas": {
+    "fefc": 2800000.0,
+    "pessoasFisicas": 75500.0,
+    "proprios": 250000.0,
+    "arrecadado": 3125500.0,
+    "contratado": 1813733.51,
+    "pago": 526866.5,
+    "limite": 4447201.54,
+    "doadoresPF": 5,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Clenilton (UNIÃO) e Genesio Spillere (PP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "160",
+  "nome": "Joaninha de Oliveira",
+  "partido": "PSTU",
+  "idade": "67 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "R$ 200 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Professora aposentada",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (professora aposentada)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professora aposentada, natural de São Joaquim",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 68,
+   "patrimonio": 200000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/oliveirajoaninhade"
+   ],
+   "financas": {
+    "fefc": 12702.0,
+    "arrecadado": 12702.0,
+    "contratado": 6000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jocemir e Adriana (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "161",
+  "nome": "Marcos Dorval",
+  "partido": "PSTU",
+  "idade": "52 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "R$ 998,4 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Servidor público e técnico em refrigeração",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Técnico em refrigeração",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Servidor público e técnico em refrigeração",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público federal",
+   "idade": 52,
+   "patrimonio": 998386.28,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/dorvalpstu"
+   ],
+   "financas": {
+    "fefc": 12702.0,
+    "proprios": 150.0,
+    "arrecadado": 12852.0,
+    "contratado": 10700.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Marcos Becker e Wagner Betto (PSTU)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "221",
+  "nome": "Carol De Toni",
+  "partido": "PL",
+  "idade": "40 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Fé no Trabalho e Pé na Tábua",
+  "patrimonio": {
+   "valor": "R$ 1,41 milhão",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Deputada federal desde 2019, reeleita em 2022",
+   "Advogada, natural de Chapecó"
+  ],
+  "historico": {
+   "escolaridade": "Superior completo: Direito (Unochapecó), com mestrado em Direito Público",
+   "escolaridadeFonte": {
+    "titulo": "Poder360: perfil de Carol De Toni",
+    "url": "https://www.poder360.com.br/congresso/saiba-quem-e-caroline-de-toni-nova-presidente-da-ccj-da-camara/"
+   },
+   "eventos": [
+    {
+     "tipo": "formacao",
+     "titulo": "Graduação em Direito (Unochapecó) e mestrado em Direito Público",
+     "ano": "—",
+     "fonte": {
+      "titulo": "Poder360: perfil de Carol De Toni",
+      "url": "https://www.poder360.com.br/congresso/saiba-quem-e-caroline-de-toni-nova-presidente-da-ccj-da-camara/"
+     }
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputada federal por Santa Catarina",
+     "inicio": 2019,
+     "fim": null,
+     "mandatos": 2,
+     "detalhe": "Eleita em 2018 e reeleita em 2022. Presidiu a Comissão de Constituição e Justiça em 2024 e foi líder da minoria em 2025.",
+     "fonte": {
+      "titulo": "Revista Oeste: líder da minoria em 2025",
+      "url": "https://revistaoeste.com/no-ponto/carol-de-toni-e-a-nova-lider-da-minoria-na-camara/"
+     },
+     "metricas": [
+      {
+       "indicador": "Votos em 2018",
+       "valor": "109.363, maior votação feminina de SC",
+       "fonte": {
+        "titulo": "Poder360: perfil de Carol De Toni",
+        "url": "https://www.poder360.com.br/congresso/saiba-quem-e-caroline-de-toni-nova-presidente-da-ccj-da-camara/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Votos em 2022",
+       "valor": "227.632, a mais votada de SC",
+       "fonte": {
+        "titulo": "Poder360: perfil de Carol De Toni",
+        "url": "https://www.poder360.com.br/congresso/saiba-quem-e-caroline-de-toni-nova-presidente-da-ccj-da-camara/"
+       },
+       "procedencia": "of"
+      },
+      {
+       "indicador": "Alinhamento com o governo",
+       "valor": "votou com a orientação do governo em 28% das votações (fev/2023 a mar/2024); média da Câmara: 80%",
+       "fonte": {
+        "titulo": "Congresso em Foco: Radar do Congresso",
+        "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/caroline-de-toni-nova-presidente-da-ccj-e-a-deputada-que-mais-vota-contra-o-governo/"
+       },
+       "procedencia": "imp"
+      }
+     ],
+     "lacuna": "legislativo"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "227 mil",
+     "rotulo": "Votos em 2022, a mais votada de SC",
+     "procedencia": "of"
+    },
+    {
+     "valor": "28%",
+     "rotulo": "Votos alinhados ao governo, 2023–2024",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Deputado",
+   "idade": 40,
+   "patrimonio": 1412309.5,
+   "concorreu2022": true,
+   "patrimonio2022": 651781.51,
+   "redes": [
+    "https://www.facebook.com/carolinerdetoni",
+    "https://www.instagram.com/carolinedetoni",
+    "https://www.tiktok.com/@caroldetonisc",
+    "https://x.com/caroldetoni"
+   ],
+   "financas": {
+    "fefc": 4300000.0,
+    "pessoasFisicas": 421000.0,
+    "arrecadado": 4721000.0,
+    "contratado": 3358542.97,
+    "pago": 3341792.97,
+    "limite": 4447201.54,
+    "doadoresPF": 3,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Geraldo Wetzel Neto (NOVO) e Andrey Tomazi (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "222",
+  "nome": "Carlos Bolsonaro",
+  "partido": "PL",
+  "idade": "43 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Fé no Trabalho e Pé na Tábua",
+  "patrimonio": {
+   "valor": "R$ 2,78 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Vereador do Rio de Janeiro por sete mandatos (2001–2025)",
+   "Transferiu o domicílio eleitoral para Santa Catarina em 2025"
+  ],
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador do Rio de Janeiro",
+     "inicio": 2001,
+     "fim": 2025,
+     "mandatos": 7,
+     "detalhe": "Eleito pela primeira vez em 2000, aos 17 anos.",
+     "fonte": {
+      "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+      "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+     },
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "carreira",
+     "titulo": "Transfere o domicílio eleitoral para São José (SC)",
+     "ano": "2025"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "7",
+     "rotulo": "Mandatos de vereador no Rio",
+     "procedencia": "imp"
+    },
+    {
+     "valor": "24 anos",
+     "rotulo": "Na Câmara Municipal do Rio",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 43,
+   "patrimonio": 2784065.08,
+   "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/cbolsonaro",
+    "https://instagram.com/carlosbolsonaro",
+    "https://kwai.com/@carlosbolsonaro",
+    "https://linkedin.com/in/carlos-bolsonaro-92533b231",
+    "https://threads.net/@carlosbolsonaro",
+    "https://tiktok.com/@carlosnbolsonaro"
+   ],
+   "financas": {
+    "fefc": 4300000.0,
+    "arrecadado": 4300000.0,
+    "contratado": 2950211.88,
+    "pago": 2628445.3,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Rafael Caleffi e Balduino Rodrigues (PL)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "250",
+  "nome": "Jeferson Rocha",
+  "partido": "Federação PRD/Solidariedade",
+  "idade": "44 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Federação Renovação Solidária",
+  "patrimonio": {
+   "valor": "R$ 14,04 milhões",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Advogado, natural de Lages",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Superior completo: Direito (advogado)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Advogado em Lages",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Produtor agropecuário",
+   "idade": 44,
+   "patrimonio": 14043458.47,
+   "redes": [
+    "https://www.instagram.com/jefersonrocha.agro"
+   ],
+   "financas": {
+    "proprios": 15000.0,
+    "arrecadado": 15000.0,
+    "contratado": 9295.17,
+    "pago": 9295.17,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Camila Zimmer e Jeann Lisboa (SOLIDARIEDADE)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "290",
+  "nome": "Carol",
+  "partido": "PCO",
+  "idade": "39 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "R$ 45 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Caroline Sant'Anna, professora de Blumenau",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Sem dado neste snapshot (professora)",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professora em Blumenau",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Professor de ensino fundamental",
+   "idade": 39,
+   "patrimonio": 45000.0,
+   "redes": [
+    "https://www.facebook.com/caroline.santanna.96",
+    "https://www.instagram.com/caroline.santanna.96"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Domingos e Gilberto Silveira (PCO)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "500",
+  "nome": "Afrânio Boppré",
+  "partido": "PSOL",
+  "idade": "65 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Coragem para Mudar",
+  "patrimonio": {
+   "valor": "R$ 1,52 milhão",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Vereador de Florianópolis desde 2013 (quarto mandato)",
+   "Deputado estadual de 2003 a 2007",
+   "Vice-prefeito de Florianópolis de 1993 a 1996",
+   "Candidato a governador em 2022"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: economista e professor",
+   "escolaridadeFonte": {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   "eventos": [
+    {
+     "tipo": "mandato",
+     "titulo": "Vice-prefeito de Florianópolis",
+     "inicio": 1993,
+     "fim": 1996,
+     "mandatos": 1,
+     "detalhe": "Também foi secretário municipal de Finanças.",
+     "lacuna": "executivo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Deputado estadual em Santa Catarina",
+     "inicio": 2003,
+     "fim": 2007,
+     "mandatos": 1,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "mandato",
+     "titulo": "Vereador de Florianópolis",
+     "inicio": 2013,
+     "fim": null,
+     "mandatos": 4,
+     "lacuna": "legislativo"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Candidato a governador, não eleito",
+     "ano": "2022"
+    }
+   ],
+   "destaques": [
+    {
+     "valor": "6",
+     "rotulo": "Mandatos eletivos exercidos",
+     "procedencia": "imp"
+    }
+   ]
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Vereador",
+   "idade": 65,
+   "patrimonio": 1516039.0,
+   "concorreu2022": true,
+   "patrimonio2022": 1318098.67,
+   "redes": [
+    "https://instagram.com/afranioboppre50",
+    "https://tiktok.com/afranioboppre50",
+    "https://x.com/afranioboppre50"
+   ],
+   "financas": {
+    "fefc": 392176.0,
+    "pessoasFisicas": 7851.0,
+    "proprios": 1000.0,
+    "outrosCandidatos": 17701.76,
+    "arrecadado": 418728.76,
+    "contratado": 167748.8,
+    "pago": 167748.8,
+    "limite": 4447201.54,
+    "doadoresPF": 81,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Luci Choinacki e Cida da Silva (PT)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "800",
+  "nome": "Ana Lucia da Silveira Machado",
+  "partido": "UP",
+  "idade": "71 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "R$ 344 mil",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Professora e pedagoga",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: professora e pedagoga",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Professora e pedagoga, natural de Quaraí (RS)",
+     "ano": "—"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino médio",
+   "idade": 71,
+   "patrimonio": 344000.0,
+   "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/analucia.up",
+    "https://www.instagram.com/unidadepopularsc"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 1000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Jaqueline Almeida Camargo e Jorge Luiz Adão (UP)",
+  "suplentesFonte": "tse"
+ },
+ {
+  "numero": "808",
+  "nome": "Marlene Soccas",
+  "partido": "UP",
+  "idade": "91 anos",
+  "situacao": {
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 29/09/2026)"
+  },
+  "coligacao": "Sem dado",
+  "patrimonio": {
+   "valor": "Nenhum bem declarado",
+   "nota": null
+  },
+  "resumoTrajetoria": [
+   "Dentista e historiadora, natural de Laguna",
+   "Sem mandato eletivo anterior"
+  ],
+  "historico": {
+   "escolaridade": "Profissões declaradas: dentista e historiadora",
+   "escolaridadeFonte": null,
+   "eventos": [
+    {
+     "tipo": "carreira",
+     "titulo": "Dentista e historiadora, natural de Laguna",
+     "ano": "—"
+    },
+    {
+     "tipo": "eleicao",
+     "titulo": "Aos 91 anos, a candidata mais velha ao Senado em SC",
+     "ano": "2026"
+    }
+   ],
+   "destaques": []
+  },
+  "fontes": [
+   {
+    "titulo": "SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC",
+    "url": "https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"
+   },
+   {
+    "titulo": "Agência Senado: candidatos 2026 em Santa Catarina",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"
+   },
+   {
+    "titulo": "Hora Brasil: números de governador e senador em SC",
+    "url": "https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"
+   }
+  ],
+  "tse": {
+   "escolaridade": "Superior completo",
+   "ocupacao": "Odontólogo",
+   "idade": 92,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/marlenesoccas.up",
+    "https://www.instagram.com/unidadepopularsc"
+   ],
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 1000.0,
+    "pago": 0.0,
+    "limite": 4447201.54,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  "suplentes": "Adriana Rio e Professor Jacson (UP)",
+  "suplentesFonte": "tse"
+ }
+]
